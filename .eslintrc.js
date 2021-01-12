@@ -4,7 +4,8 @@ module.exports = {
         node: true,
     },
     extends: [
-        'airbnb-base',
+        'eslint:recommended',
+        'plugin:@typescript-eslint/recommended',
         'plugin:promise/recommended',
         'plugin:unicorn/recommended',
         'plugin:array-func/all',
@@ -34,7 +35,7 @@ module.exports = {
             files: ['**/*.test.js'],
         },
     ],
-    parser: 'babel-eslint',
+    parser: '@typescript-eslint/parser',
     parserOptions: {
         ecmaVersion: 2020,
         sourceType: 'module',
@@ -48,7 +49,9 @@ module.exports = {
         'node',
         'eslint-comments',
         'jest',
+        '@typescript-eslint'
     ],
+    root: true,
     rules: {
         'no-param-reassign': ['error', { props: false }],
         'prefer-destructuring': 0,
@@ -64,8 +67,9 @@ module.exports = {
                 ignoreMethods: ['find'],
             },
         ],
-        'import/no-unresolved': ['error', { ignore: ['@env'] }],
         'node/no-missing-import': 'off',
         'node/no-unpublished-import': 'off',
+        'unicorn/no-null': 'off',
+        "@typescript-eslint/no-explicit-any": "warn"
     },
 };

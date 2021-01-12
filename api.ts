@@ -12,6 +12,7 @@ import toString from 'lodash/toString';
 import uniqBy from 'lodash/uniqBy';
 import { stringify } from "query-string";
 import logger from "./logger";
+import Album from './types/Album';
 
 
 dotEnvExtended.load();
@@ -25,16 +26,73 @@ const MAX_CACHE_AGE_IN_DAYS = 7;
 
 const MAX_RETRIES = 5;
 
-async function sleep(ms) {
+type LastfmApiMethod = 'album.getInfo' | 'album.getTopTags' | 'artist.getTopAlbums' | 'tag.getTopArtists'
+
+interface Parameters {
+    album?: string;
+    artist?: string;
+    method: LastfmApiMethod;
+    page?: number;
+    tag?: string;
+}
+interface Response {
+    error: number
+}
+// eslint-disable-next-line @typescript-eslint/no-empty-interface
+interface Track { }
+interface AlbumInfo {
+    artist: string;
+    listeners: string;
+    name: string;
+    playcount: string;
+    tracks: Track[]
+}
+interface AlbumGetInfoResponse extends Response {
+    album?: AlbumInfo
+}
+interface Tag {
+    count: number;
+    name: string;
+}
+
+interface AlbumGetTopTagsResponse extends Response {
+    toptags?: {
+        tag: Tag[]
+    }
+}
+
+
+
+interface ArtistGetTopAlbumsResponse extends Response {
+    topalbums?: {
+        album: Album[]
+    }
+}
+
+interface Artist {
+    name: string;
+}
+
+interface TagGetTopArtistsResponse extends Response {
+    topartists?: {
+        artist: Artist[]
+    }
+}
+
+type CachedValue<T> = T & {
+    createdAt: string;
+}
+
+async function sleep(ms: number): Promise<void> {
     return new Promise(resolve => {
         setTimeout(resolve, ms);
     })
 }
-async function get(parameters, cachePath, retry = 0) {
+async function get<T>(parameters: Parameters, cachePath: string, retry = 0): Promise<T> {
     const cacheFilePath = `${path.join('.', 'cache', cachePath)}.json`;
     logger.debug(cacheFilePath)
     try {
-        const cachedData = await readJson(cacheFilePath);
+        const cachedData: CachedValue<T> = await readJson(cacheFilePath);
         if (!cachedData.createdAt || differenceInDays(parseISO(cachedData.createdAt), new Date()) > MAX_CACHE_AGE_IN_DAYS) {
             throw new Error("Cache expires")
         }
@@ -56,20 +114,20 @@ async function get(parameters, cachePath, retry = 0) {
             return get(parameters, cachePath, retry + 1)
         }
         outputJson(cacheFilePath, { ...response.data, createdAt: new Date() }, { spaces: 2 });
-        return response.data;
+        return response.data as T;
     }
 }
 
 
 export const album = {
-    async getInfo(albumName, artistName) {
+    async getInfo(albumName: string, artistName: string): Promise<AlbumInfo | undefined> {
         if (!albumName) {
             throw new Error("no album name provided to album.getInfo")
         }
         if (!artistName) {
             throw new Error("no artist name provided to album.getInfo")
         }
-        const data = await get({
+        const data = await get<AlbumGetInfoResponse>({
             album: albumName,
             artist: artistName,
             method: 'album.getInfo',
@@ -77,56 +135,57 @@ export const album = {
             path.join('album.getInfo', filenamify(artistName), filenamify(albumName)))
         return data?.album;
     },
-    async getTopTags(albumName, artistName) {
+    async getTopTags(albumName: string, artistName: string): Promise<Tag[]> {
         if (!albumName) {
             throw new Error("no album name provided to album.getTopTags")
         }
         if (!artistName) {
             throw new Error("no artist name provided to album.getTopTags")
         }
-        const data = await get({
+        const data = await get<AlbumGetTopTagsResponse>({
             album: albumName,
             artist: artistName,
             method: 'album.getTopTags',
         },
             path.join('album.getTopTags', filenamify(artistName), filenamify(albumName)))
-        return data?.toptags?.tag;
+        return data?.toptags.tag;
     }
 }
 
 export const artist = {
-    async getTopAlbums(artistName) {
+    async getTopAlbums(artistName: string): Promise<Album[]> {
         if (!artistName) {
             throw new Error("no artist name provided to artist.getTopAlbums")
         }
-        const data = await get({
+        const data = await get<ArtistGetTopAlbumsResponse>({
             artist: artistName,
             method: 'artist.getTopAlbums',
         },
             path.join('artist.getTopAlbums', filenamify(artistName)))
-        return data.topalbums.album;
+        return data?.topalbums.album;
     }
 }
 
 export const tag = {
-    async getTopArtists(tagName) {
+    async getTopArtists(tagName: string): Promise<Artist[]> {
         if (!tagName) {
             throw new Error("no tag name provided to tag.getTopArtists")
         }
         let currentPage = 1;
         let topArtists = [];
         while (currentPage <= 200) {
-            const data = await get({
+            // eslint-disable-next-line no-await-in-loop
+            const data = await get<TagGetTopArtistsResponse>({
                 method: 'tag.getTopArtists',
                 page: currentPage,
                 tag: tagName
             },
                 path.join('tag.getTopArtists', filenamify(tagName), toString(currentPage)))
-            if (isEmpty(data.topartists.artist)) {
+            if (isEmpty(data?.topartists.artist)) {
                 break
             }
             topArtists = [...topArtists, ...data.topartists.artist];
-            if (toNumber(data.topartists['@attr'].page) >= toNumber(data.topartists['@attr'].totalPages)) {
+            if (toNumber(data?.topartists['@attr'].page) >= toNumber(data?.topartists['@attr'].totalPages)) {
                 break
             }
             currentPage += 1;

@@ -1,4 +1,3 @@
-
 import find from 'lodash/find';
 import flatten from 'lodash/flatten';
 import forEach from 'lodash/forEach';
@@ -8,27 +7,31 @@ import size from 'lodash/size';
 import sortBy from 'lodash/sortBy';
 import take from 'lodash/take';
 import toLower from 'lodash/toLower';
+import toNumber from 'lodash/toNumber';
 import { album, artist, tag } from './api';
 import logger from './logger';
+import Album from './types/Album';
 
-async function sequentialAsyncMap(collection, f) {
+async function sequentialAsyncMap<T1, T2>(collection: T1[], f: (item: T1) => Promise<T2>) {
     return reduce(collection, async (accumulator, item) =>
-        [...await accumulator, await f(item)], Promise.resolve([]));
+        [...await accumulator, await f(item)], Promise.resolve([] as T2[]));
 }
 
-async function getAlbumWeight(albumName, artistName) {
+async function getAlbumWeight(albumName: string, artistName: string): Promise<number> {
     const albumInfo = await album.getInfo(albumName, artistName);
     if (!albumInfo) {
         return 0;
     }
-    const numberOfTracks = size(albumInfo.tracks.track)
+    const numberOfTracks = size(albumInfo.tracks)
     if (!numberOfTracks) {
         return 0;
     }
-    return -albumInfo.playcount / albumInfo.listeners * albumInfo.playcount / numberOfTracks
+    const listeners = toNumber(albumInfo.listeners);
+    const playcount = toNumber(albumInfo.playcount);
+    return -playcount / listeners * playcount / numberOfTracks
 }
 
-async function getAlbumTagCount(albumName, artistName, tagName) {
+async function getAlbumTagCount(albumName: string, artistName: string, tagName: string): Promise<number> {
     const albumTags = await album.getTopTags(albumName, artistName);
     const tagObject = find(albumTags, tagItem => toLower(tagItem.name) === toLower(tagName));
     if (!tagObject) {
@@ -37,7 +40,11 @@ async function getAlbumTagCount(albumName, artistName, tagName) {
     return tagObject.count
 }
 
-async function main() {
+type Weighted<T> = T & {
+    weight: number
+}
+
+async function main(): Promise<void> {
     const tagName = 'black metal';
     const artists = await tag.getTopArtists(tagName);
     const allAlbums = sortBy(reject(flatten(await sequentialAsyncMap(artists, async artistItem => {
@@ -48,7 +55,7 @@ async function main() {
             return {
                 ...albumItem,
                 weight
-            }
+            } as Weighted<Album>
         })
 
     })), ['weight', 0]), ['weight']);
