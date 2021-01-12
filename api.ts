@@ -17,7 +17,11 @@ import Album from './types/Album';
 
 dotEnvExtended.load();
 const { LASTFM_API_KEY } = process.env;
-const DEFAULT_PARAMS = {
+interface DefaultParameters {
+    api_key: string;
+    format?: 'json' | 'xml'
+}
+const DEFAULT_PARAMS: DefaultParameters = {
     api_key: LASTFM_API_KEY,
     format: 'json'
 }
@@ -35,8 +39,10 @@ interface Parameters {
     page?: number;
     tag?: string;
 }
+
 interface Response {
-    error: number
+    error?: number;
+    message?: string;
 }
 // eslint-disable-next-line @typescript-eslint/no-empty-interface
 interface Track { }
@@ -75,6 +81,10 @@ interface Artist {
 
 interface TagGetTopArtistsResponse extends Response {
     topartists?: {
+        "@attr": {
+            page: string;
+            totalPages: string;
+        };
         artist: Artist[]
     }
 }
@@ -88,7 +98,7 @@ async function sleep(ms: number): Promise<void> {
         setTimeout(resolve, ms);
     })
 }
-async function get<T>(parameters: Parameters, cachePath: string, retry = 0): Promise<T> {
+async function get<T extends Response>(parameters: Parameters, cachePath: string, retry = 0): Promise<T> {
     const cacheFilePath = `${path.join('.', 'cache', cachePath)}.json`;
     logger.debug(cacheFilePath)
     try {
@@ -101,9 +111,9 @@ async function get<T>(parameters: Parameters, cachePath: string, retry = 0): Pro
         logger.error(error);
         const url = `https://ws.audioscrobbler.com/2.0/?${stringify({ ...DEFAULT_PARAMS, ...parameters })}`;
         logger.debug(url);
-        const response = await axios.get(url);
+        const response = await axios.get<T>(url);
         if (response.data.error || isEmpty(response.data)) {
-            if (response.data.error === 6) {
+            if (response.data?.error === 6) {
                 return null;
             }
             if (retry >= MAX_RETRIES) {
@@ -111,7 +121,7 @@ async function get<T>(parameters: Parameters, cachePath: string, retry = 0): Pro
             }
             logger.warn(`retry #${retry + 1}`)
             await sleep((2 ** retry) * 1000)
-            return get(parameters, cachePath, retry + 1)
+            return get<T>(parameters, cachePath, retry + 1)
         }
         outputJson(cacheFilePath, { ...response.data, createdAt: new Date() }, { spaces: 2 });
         return response.data as T;
@@ -172,7 +182,7 @@ export const tag = {
             throw new Error("no tag name provided to tag.getTopArtists")
         }
         let currentPage = 1;
-        let topArtists = [];
+        let topArtists = [] as Artist[];
         while (currentPage <= 200) {
             // eslint-disable-next-line no-await-in-loop
             const data = await get<TagGetTopArtistsResponse>({
