@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Snart...",
+    "artist": "Woods of Infinity",
+    "mbid": "2df53f79-f3ce-4d20-b1a0-4c9d521b71f1",
+    "url": "https://www.last.fm/music/Woods+of+Infinity/Snart...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/760b69a39bc44541ae13fe422e08f9be.png",
+        "size": ""
+      }
+    ],
+    "listeners": "83",
+    "playcount": "893",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mot Usquebaugh",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Mot+Usquebaugh",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Here Comes That Lonely Night",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Here+Comes+That+Lonely+Night",
+          "duration": "293",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "18 Sep 2012, 14:30",
+      "summary": "1. Mot Usqubaugh 05:26 \n2. Here Comes That Lonely Night 04:53 <a href=\"http://www.last.fm/music/Woods+of+Infinity/Snart...\">Read more on Last.fm</a>.",
+      "content": "1. Mot Usqubaugh 05:26 \n2. Here Comes That Lonely Night 04:53 <a href=\"http://www.last.fm/music/Woods+of+Infinity/Snart...\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:11:37.961Z"
+}

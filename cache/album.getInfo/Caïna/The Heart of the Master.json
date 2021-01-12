@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "The Heart of the Master",
+    "artist": "Caïna",
+    "mbid": "757fb402-89e1-42f6-b207-33577f0b8380",
+    "url": "https://www.last.fm/music/Ca%C3%AFna/The+Heart+of+the+Master",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0d4b74a36c24d3fb9a791e1a6509214.png",
+        "size": ""
+      }
+    ],
+    "listeners": "162",
+    "playcount": "385",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unfashioned Realms",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Unfashioned+Realms",
+          "duration": "837",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:21:19.829Z"
+}

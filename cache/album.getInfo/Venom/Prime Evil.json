@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Prime Evil",
+    "artist": "Venom",
+    "mbid": "5395a183-0ee3-4d45-8ce5-22c6f859c10e",
+    "url": "https://www.last.fm/music/Venom/Prime+Evil",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44784097386b462ec69b9f113b42573c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44784097386b462ec69b9f113b42573c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44784097386b462ec69b9f113b42573c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44784097386b462ec69b9f113b42573c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44784097386b462ec69b9f113b42573c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44784097386b462ec69b9f113b42573c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15576",
+    "playcount": "173880",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prime Evil",
+          "url": "https://www.last.fm/music/Venom/_/Prime+Evil",
+          "duration": "281",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Parasite",
+          "url": "https://www.last.fm/music/Venom/_/Parasite",
+          "duration": "189",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Blackened Are The Priests",
+          "url": "https://www.last.fm/music/Venom/_/Blackened+Are+The+Priests",
+          "duration": "259",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Carnivorous",
+          "url": "https://www.last.fm/music/Venom/_/Carnivorous",
+          "duration": "131",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Skeletal Dance",
+          "url": "https://www.last.fm/music/Venom/_/Skeletal+Dance",
+          "duration": "189",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Megalomania",
+          "url": "https://www.last.fm/music/Venom/_/Megalomania",
+          "duration": "325",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Insane",
+          "url": "https://www.last.fm/music/Venom/_/Insane",
+          "duration": "177",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Harder Than Ever",
+          "url": "https://www.last.fm/music/Venom/_/Harder+Than+Ever",
+          "duration": "185",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Into The Fire",
+          "url": "https://www.last.fm/music/Venom/_/Into+The+Fire",
+          "duration": "202",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Skool Daze",
+          "url": "https://www.last.fm/music/Venom/_/Skool+Daze",
+          "duration": "262",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Live Like An Angel, Die Like A Devil",
+          "url": "https://www.last.fm/music/Venom/_/Live+Like+An+Angel,+Die+Like+A+Devil",
+          "duration": "234",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "NWOBHM",
+          "url": "https://www.last.fm/tag/NWOBHM"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 May 2018, 14:16",
+      "summary": "Prime Evil is the sixth studio album by heavy metal band Venom. It was released in 1989, and the first in a series of three albums with former Atomkraft bassist and vocalist Tony Dolan, replacing Conrad \"Cronos\" Lant, as a band member and composer. <a href=\"http://www.last.fm/music/Venom/Prime+Evil\">Read more on Last.fm</a>.",
+      "content": "Prime Evil is the sixth studio album by heavy metal band Venom. It was released in 1989, and the first in a series of three albums with former Atomkraft bassist and vocalist Tony Dolan, replacing Conrad \"Cronos\" Lant, as a band member and composer. <a href=\"http://www.last.fm/music/Venom/Prime+Evil\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:58:54.615Z"
+}

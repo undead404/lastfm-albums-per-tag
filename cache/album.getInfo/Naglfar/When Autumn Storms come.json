@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "When Autumn Storms come",
+    "artist": "Naglfar",
+    "mbid": "667fc25a-244b-4a2a-bf35-00172d002246",
+    "url": "https://www.last.fm/music/Naglfar/When+Autumn+Storms+come",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f35fe8db2631b665edf1f68ddded05d8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "87",
+    "playcount": "577",
+    "tracks": {
+      "track": [
+        {
+          "name": "When Autumn Storms Come",
+          "url": "https://www.last.fm/music/Naglfar/_/When+Autumn+Storms+Come",
+          "duration": "272",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "The Brimstone Gate",
+          "url": "https://www.last.fm/music/Naglfar/_/The+Brimstone+Gate",
+          "duration": "318",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:19:51.376Z"
+}

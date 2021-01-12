@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Mors Secunda",
+    "artist": "Terra",
+    "url": "https://www.last.fm/music/Terra/Mors+Secunda",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7d0584e9dd4ada39b18a2cb902a7d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "248",
+    "playcount": "886",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apotheosis",
+          "url": "https://www.last.fm/music/Terra/_/Apotheosis",
+          "duration": "1181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Terra",
+            "mbid": "c52e44ca-71b8-4095-9d6e-503b550f74f3",
+            "url": "https://www.last.fm/music/Terra"
+          }
+        },
+        {
+          "name": "Nadir",
+          "url": "https://www.last.fm/music/Terra/_/Nadir",
+          "duration": "1228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Terra",
+            "mbid": "c52e44ca-71b8-4095-9d6e-503b550f74f3",
+            "url": "https://www.last.fm/music/Terra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:15:14.132Z"
+}

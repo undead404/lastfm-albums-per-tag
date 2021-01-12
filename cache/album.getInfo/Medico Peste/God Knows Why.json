@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "God Knows Why",
+    "artist": "Medico Peste",
+    "url": "https://www.last.fm/music/Medico+Peste/God+Knows+Why",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89db4de4ccc9f33e85309655d7a47bf5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2908",
+    "playcount": "16961",
+    "tracks": {
+      "track": [
+        {
+          "name": "God Knows Why",
+          "url": "https://www.last.fm/music/Medico+Peste/_/God+Knows+Why",
+          "duration": "504",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Medico Peste",
+            "mbid": "08ce398b-f73f-42d7-ae96-2050d34cc869",
+            "url": "https://www.last.fm/music/Medico+Peste"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:05:44.903Z"
+}

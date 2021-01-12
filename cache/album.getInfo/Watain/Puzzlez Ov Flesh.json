@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Puzzlez Ov Flesh",
+    "artist": "Watain",
+    "mbid": "c7617b97-93c2-461b-9353-ee97a919d116",
+    "url": "https://www.last.fm/music/Watain/Puzzlez+Ov+Flesh",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e94318ca9c54295be23fa440e59b53a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "959",
+    "playcount": "5597",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Salvation",
+          "url": "https://www.last.fm/music/Watain/_/Black+Salvation",
+          "duration": "405",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Puzzlez Ov Flesh",
+          "url": "https://www.last.fm/music/Watain/_/Puzzlez+Ov+Flesh",
+          "duration": "339",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:03:24.294Z"
+}

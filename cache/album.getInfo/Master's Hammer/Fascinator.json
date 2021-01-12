@@ -1,0 +1,286 @@
+{
+  "album": {
+    "name": "Fascinator",
+    "artist": "Master's Hammer",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Fascinator",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8aca44f9de4439caa59ebf92d6f0ada.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1779",
+    "playcount": "41142",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fascinator",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Fascinator",
+          "duration": "217",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Psychoparasit",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Psychoparasit",
+          "duration": "259",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Ve věži ticha",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Ve+v%C4%9B%C5%BEi+ticha",
+          "duration": "254",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Linkola",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Linkola",
+          "duration": "264",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Satanská nekrofilní porna",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Satansk%C3%A1+nekrofiln%C3%AD+porna",
+          "duration": "258",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Estetika ďábla",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Estetika+%C4%8F%C3%A1bla",
+          "duration": "239",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Krokodil",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Krokodil",
+          "duration": "227",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Astrální dvojníci",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Astr%C3%A1ln%C3%AD+dvojn%C3%ADci",
+          "duration": "244",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Kletba",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kletba",
+          "duration": "206",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Odliv mozků",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Odliv+mozk%C5%AF",
+          "duration": "156",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Espíritus Creativos",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Esp%C3%ADritus+Creativos",
+          "duration": "213",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Exhumace",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Exhumace",
+          "duration": "224",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Lost in Fjords",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Lost+in+Fjords",
+          "duration": "243",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "best of 2018",
+          "url": "https://www.last.fm/tag/best+of+2018"
+        },
+        {
+          "name": "coolest album art",
+          "url": "https://www.last.fm/tag/coolest+album+art"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Nov 2020, 10:46",
+      "summary": "Recorded at the Hell-sound and Jihosound Studios in South Bohemia and Prague in 2017. <a href=\"http://www.last.fm/music/Master%27s+Hammer/Fascinator\">Read more on Last.fm</a>.",
+      "content": "Recorded at the Hell-sound and Jihosound Studios in South Bohemia and Prague in 2017. <a href=\"http://www.last.fm/music/Master%27s+Hammer/Fascinator\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:23:38.375Z"
+}

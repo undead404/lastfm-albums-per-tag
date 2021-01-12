@@ -1,0 +1,244 @@
+{
+  "album": {
+    "name": "Mi Estrella",
+    "artist": "Abigail",
+    "mbid": "45315065-0ea0-49a7-a478-8bf61d1a56f0",
+    "url": "https://www.last.fm/music/Abigail/Mi+Estrella",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/093401a955a1fea3ba16ff31d4c664e3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "408",
+    "playcount": "2156",
+    "tracks": {
+      "track": [
+        {
+          "name": "Desde El Acantilado",
+          "url": "https://www.last.fm/music/Abigail/_/Desde+El+Acantilado",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Di Que Sí",
+          "url": "https://www.last.fm/music/Abigail/_/Di+Que+S%C3%AD",
+          "duration": "194",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Mi Vida Es Mía",
+          "url": "https://www.last.fm/music/Abigail/_/Mi+Vida+Es+M%C3%ADa",
+          "duration": "182",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Tiembla Mi Piel",
+          "url": "https://www.last.fm/music/Abigail/_/Tiembla+Mi+Piel",
+          "duration": "215",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Hasta Que Apagues Tu Sed",
+          "url": "https://www.last.fm/music/Abigail/_/Hasta+Que+Apagues+Tu+Sed",
+          "duration": "246",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Locura",
+          "url": "https://www.last.fm/music/Abigail/_/Locura",
+          "duration": "196",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Un Beso En El Aire",
+          "url": "https://www.last.fm/music/Abigail/_/Un+Beso+En+El+Aire",
+          "duration": "197",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Hablo De Ti",
+          "url": "https://www.last.fm/music/Abigail/_/Hablo+De+Ti",
+          "duration": "209",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Amor De Locos",
+          "url": "https://www.last.fm/music/Abigail/_/Amor+De+Locos",
+          "duration": "238",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Para Sentirme Amada",
+          "url": "https://www.last.fm/music/Abigail/_/Para+Sentirme+Amada",
+          "duration": "266",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Di Que Sí - Versión Salsa",
+          "url": "https://www.last.fm/music/Abigail/_/Di+Que+S%C3%AD+-+Versi%C3%B3n+Salsa",
+          "duration": "194",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "Espanol",
+          "url": "https://www.last.fm/tag/Espanol"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:05:52.882Z"
+}

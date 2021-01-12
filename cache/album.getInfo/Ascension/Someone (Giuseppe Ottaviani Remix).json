@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Someone (Giuseppe Ottaviani Remix)",
+    "artist": "Ascension",
+    "url": "https://www.last.fm/music/Ascension/Someone+(Giuseppe+Ottaviani+Remix)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1046",
+    "playcount": "4003",
+    "tracks": {
+      "track": [
+        {
+          "name": "Someone (Giuseppe Ottaviani Remix)",
+          "url": "https://www.last.fm/music/Ascension/_/Someone+(Giuseppe+Ottaviani+Remix)",
+          "duration": "224",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:23.447Z"
+}

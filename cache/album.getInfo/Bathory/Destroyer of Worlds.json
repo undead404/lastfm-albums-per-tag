@@ -1,0 +1,291 @@
+{
+  "album": {
+    "name": "Destroyer of Worlds",
+    "artist": "Bathory",
+    "mbid": "d86f25ed-06ce-367a-b3e1-ad505fa148cb",
+    "url": "https://www.last.fm/music/Bathory/Destroyer+of+Worlds",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e2f3388246be039f79079008bdef495.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e2f3388246be039f79079008bdef495.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e2f3388246be039f79079008bdef495.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2f3388246be039f79079008bdef495.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2f3388246be039f79079008bdef495.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2f3388246be039f79079008bdef495.png",
+        "size": ""
+      }
+    ],
+    "listeners": "31081",
+    "playcount": "838552",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lake of Fire",
+          "url": "https://www.last.fm/music/Bathory/_/Lake+of+Fire",
+          "duration": "343",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Destroyer of Worlds",
+          "url": "https://www.last.fm/music/Bathory/_/Destroyer+of+Worlds",
+          "duration": "291",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Ode",
+          "url": "https://www.last.fm/music/Bathory/_/Ode",
+          "duration": "387",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Pestilence",
+          "url": "https://www.last.fm/music/Bathory/_/Pestilence",
+          "duration": "235",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Bleeding",
+          "url": "https://www.last.fm/music/Bathory/_/Bleeding",
+          "duration": "410",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "109",
+          "url": "https://www.last.fm/music/Bathory/_/109",
+          "duration": "216",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Death From Above",
+          "url": "https://www.last.fm/music/Bathory/_/Death+From+Above",
+          "duration": "275",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Kill Kill Kill",
+          "url": "https://www.last.fm/music/Bathory/_/Kill+Kill+Kill",
+          "duration": "170",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Liberty & Justice",
+          "url": "https://www.last.fm/music/Bathory/_/Liberty+&+Justice",
+          "duration": "232",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Krom",
+          "url": "https://www.last.fm/music/Bathory/_/Krom",
+          "duration": "189",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Sudden Death",
+          "url": "https://www.last.fm/music/Bathory/_/Sudden+Death",
+          "duration": "199",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "White Bones",
+          "url": "https://www.last.fm/music/Bathory/_/White+Bones",
+          "duration": "515",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Day of Wrath",
+          "url": "https://www.last.fm/music/Bathory/_/Day+of+Wrath",
+          "duration": "491",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "thrash",
+          "url": "https://www.last.fm/tag/thrash"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Apr 2009, 23:30",
+      "summary": "Destroyer of Worlds is the tenth full-length album release by Bathory. It takes its name from a famous quote by J. Robert Oppenheimer about the atomic bomb, \"I am become death, destroyer of worlds\", which was itself mistakenly quoted from a verse in the Bhagavad Gita. Stylistically, Destroyer of Worlds is a cross between the Viking metal of Bathory's 1988-1991 period and the retro-thrash metal of Requiem and Octagon, as can be heard in Bleeding, 109, Death from Above, Liberty & Justice, and Kill Kill Kill. <a href=\"http://www.last.fm/music/Bathory/Destroyer+of+Worlds\">Read more on Last.fm</a>.",
+      "content": "Destroyer of Worlds is the tenth full-length album release by Bathory. It takes its name from a famous quote by J. Robert Oppenheimer about the atomic bomb, \"I am become death, destroyer of worlds\", which was itself mistakenly quoted from a verse in the Bhagavad Gita. Stylistically, Destroyer of Worlds is a cross between the Viking metal of Bathory's 1988-1991 period and the retro-thrash metal of Requiem and Octagon, as can be heard in Bleeding, 109, Death from Above, Liberty & Justice, and Kill Kill Kill. The title song, Destroyer of Worlds, borrows heavily from themes by Gustav Holst's Mars, The Bringer of War, in his The Planets suite. <a href=\"http://www.last.fm/music/Bathory/Destroyer+of+Worlds\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:51:02.933Z"
+}

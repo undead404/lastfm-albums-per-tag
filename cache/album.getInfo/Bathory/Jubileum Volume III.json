@@ -1,0 +1,319 @@
+{
+  "album": {
+    "name": "Jubileum Volume III",
+    "artist": "Bathory",
+    "url": "https://www.last.fm/music/Bathory/Jubileum+Volume+III",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6253448be4bd1a809c41f78cf072e170.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6253448be4bd1a809c41f78cf072e170.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6253448be4bd1a809c41f78cf072e170.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6253448be4bd1a809c41f78cf072e170.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6253448be4bd1a809c41f78cf072e170.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6253448be4bd1a809c41f78cf072e170.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2419",
+    "playcount": "45878",
+    "tracks": {
+      "track": [
+        {
+          "name": "33 Something",
+          "url": "https://www.last.fm/music/Bathory/_/33+Something",
+          "duration": "196",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Satan My Master",
+          "url": "https://www.last.fm/music/Bathory/_/Satan+My+Master",
+          "duration": "126",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Lake",
+          "url": "https://www.last.fm/music/Bathory/_/The+Lake",
+          "duration": "402",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Crosstitution",
+          "url": "https://www.last.fm/music/Bathory/_/Crosstitution",
+          "duration": "196",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "In Nomine Satanas",
+          "url": "https://www.last.fm/music/Bathory/_/In+Nomine+Satanas",
+          "duration": "384",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Immaculate Pinetreeroad #930",
+          "url": "https://www.last.fm/music/Bathory/_/Immaculate+Pinetreeroad+%23930",
+          "duration": "166",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "War Machine",
+          "url": "https://www.last.fm/music/Bathory/_/War+Machine",
+          "duration": "198",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Stallion",
+          "url": "https://www.last.fm/music/Bathory/_/The+Stallion",
+          "duration": "313",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Resolution Greed",
+          "url": "https://www.last.fm/music/Bathory/_/Resolution+Greed",
+          "duration": "253",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Witchcraft",
+          "url": "https://www.last.fm/music/Bathory/_/Witchcraft",
+          "duration": "169",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Valhalla Backing Vocals Multitrack Sample",
+          "url": "https://www.last.fm/music/Bathory/_/Valhalla+Backing+Vocals+Multitrack+Sample",
+          "duration": "98",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Sociopath",
+          "url": "https://www.last.fm/music/Bathory/_/Sociopath",
+          "duration": "190",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Pax Vobiscum",
+          "url": "https://www.last.fm/music/Bathory/_/Pax+Vobiscum",
+          "duration": "252",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Genocide",
+          "url": "https://www.last.fm/music/Bathory/_/Genocide",
+          "duration": "274",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Gods of Thunder of Wind and of Rain",
+          "url": "https://www.last.fm/music/Bathory/_/Gods+of+Thunder+of+Wind+and+of+Rain",
+          "duration": "342",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "so zorry",
+          "url": "https://www.last.fm/tag/so+zorry"
+        },
+        {
+          "name": "agitada",
+          "url": "https://www.last.fm/tag/agitada"
+        },
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        },
+        {
+          "name": "cronowish power",
+          "url": "https://www.last.fm/tag/cronowish+power"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:51:13.124Z"
+}

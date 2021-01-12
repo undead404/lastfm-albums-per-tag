@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Svig",
+    "artist": "Angantyr",
+    "mbid": "8d9e1527-6f00-428e-b87d-677b6314ac0b",
+    "url": "https://www.last.fm/music/Angantyr/Svig",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9866d5955e44ce099366c0d38a5afdc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2096",
+    "playcount": "39621",
+    "tracks": {
+      "track": [
+        {
+          "name": "En Fjendes Død",
+          "url": "https://www.last.fm/music/Angantyr/_/En+Fjendes+D%C3%B8d",
+          "duration": "477",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Raukes Ran",
+          "url": "https://www.last.fm/music/Angantyr/_/Raukes+Ran",
+          "duration": "562",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Skyggespil",
+          "url": "https://www.last.fm/music/Angantyr/_/Skyggespil",
+          "duration": "456",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Svig",
+          "url": "https://www.last.fm/music/Angantyr/_/Svig",
+          "duration": "549",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Ni Lange Nætter",
+          "url": "https://www.last.fm/music/Angantyr/_/Ni+Lange+N%C3%A6tter",
+          "duration": "255",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Arngrims Armod",
+          "url": "https://www.last.fm/music/Angantyr/_/Arngrims+Armod",
+          "duration": "599",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:30:23.374Z"
+}

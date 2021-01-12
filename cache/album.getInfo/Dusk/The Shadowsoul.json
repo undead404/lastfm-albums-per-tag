@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "The Shadowsoul",
+    "artist": "Dusk",
+    "mbid": "d760ac6e-de86-44e9-913b-92d93042d8c2",
+    "url": "https://www.last.fm/music/Dusk/The+Shadowsoul",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3fa203a36b86d305c9a65bfe399b3af.png",
+        "size": ""
+      }
+    ],
+    "listeners": "303",
+    "playcount": "3193",
+    "tracks": {
+      "track": [
+        {
+          "name": "Innerself",
+          "url": "https://www.last.fm/music/Dusk/_/Innerself",
+          "duration": "110",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "Dusk",
+          "url": "https://www.last.fm/music/Dusk/_/Dusk",
+          "duration": "688",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "The Secret",
+          "url": "https://www.last.fm/music/Dusk/_/The+Secret",
+          "duration": "604",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "diewish",
+          "url": "https://www.last.fm/music/Dusk/_/diewish",
+          "duration": "680",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "eternal pain",
+          "url": "https://www.last.fm/music/Dusk/_/eternal+pain",
+          "duration": "574",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "Vow",
+          "url": "https://www.last.fm/music/Dusk/_/Vow",
+          "duration": "670",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:57:41.499Z"
+}

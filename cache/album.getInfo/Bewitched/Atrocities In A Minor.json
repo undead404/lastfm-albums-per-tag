@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Atrocities In A Minor",
+    "artist": "Bewitched",
+    "mbid": "b1663735-5cb0-4eef-b748-ab7257b9891b",
+    "url": "https://www.last.fm/music/Bewitched/Atrocities+In+A+Minor",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3d273fb4c5640988d14fa3390ddff84.png",
+        "size": ""
+      }
+    ],
+    "listeners": "223",
+    "playcount": "3023",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Devil's Children",
+          "url": "https://www.last.fm/music/Bewitched/_/The+Devil%27s+Children",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Holy Whore",
+          "url": "https://www.last.fm/music/Bewitched/_/Holy+Whore",
+          "duration": "186",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Cremation of The Cross",
+          "url": "https://www.last.fm/music/Bewitched/_/Cremation+of+The+Cross",
+          "duration": "180",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Rise Of The Antichrist (live)",
+          "url": "https://www.last.fm/music/Bewitched/_/Rise+Of+The+Antichrist+(live)",
+          "duration": "221",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Blade of the ripper (live)",
+          "url": "https://www.last.fm/music/Bewitched/_/Blade+of+the+ripper+(live)",
+          "duration": "205",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Born of Flames (live)",
+          "url": "https://www.last.fm/music/Bewitched/_/Born+of+Flames+(live)",
+          "duration": "200",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:48.795Z"
+}

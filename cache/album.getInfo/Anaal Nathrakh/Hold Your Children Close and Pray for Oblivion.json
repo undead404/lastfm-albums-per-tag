@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Hold Your Children Close and Pray for Oblivion",
+    "artist": "Anaal Nathrakh",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/Hold+Your+Children+Close+and+Pray+for+Oblivion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bff8297b07178fa472f46c58e9144a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3820",
+    "playcount": "12920",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hold Your Children Close and Pray for Oblivion",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Hold+Your+Children+Close+and+Pray+for+Oblivion",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:55:32.335Z"
+}

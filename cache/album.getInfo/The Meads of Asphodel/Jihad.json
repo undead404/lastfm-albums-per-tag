@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Jihad",
+    "artist": "The Meads of Asphodel",
+    "mbid": "95c90950-d50b-4995-9529-8c16d1537f98",
+    "url": "https://www.last.fm/music/The+Meads+of+Asphodel/Jihad",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9cfacd740fb43a7b421759f2957f58c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "856",
+    "playcount": "14214",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Intro",
+          "duration": "123",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Jihad / The Grisly Din of Killing Steel",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Jihad+%2F+The+Grisly+Din+of+Killing+Steel",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Paradise",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Paradise",
+          "duration": "253",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Another God In Another Place",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Another+God+In+Another+Place",
+          "duration": "260",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Tanks In The Holy Land.",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Tanks+In+The+Holy+Land.",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:54:33.331Z"
+}

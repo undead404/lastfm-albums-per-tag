@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "The Exhibitions",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/The+Exhibitions",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/912861e21029471ea58c9f182be39f01.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/912861e21029471ea58c9f182be39f01.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/912861e21029471ea58c9f182be39f01.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/912861e21029471ea58c9f182be39f01.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/912861e21029471ea58c9f182be39f01.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/912861e21029471ea58c9f182be39f01.png",
+        "size": ""
+      }
+    ],
+    "listeners": "734",
+    "playcount": "5509",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bleakstar",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Bleakstar",
+          "duration": "328",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Exhibitions in the grey zone",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Exhibitions+in+the+grey+zone",
+          "duration": "397",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Under A Funeral Moon",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Under+A+Funeral+Moon",
+          "duration": "311",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:32.824Z"
+}

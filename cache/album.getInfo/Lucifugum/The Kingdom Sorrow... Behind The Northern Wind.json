@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "The Kingdom Sorrow... Behind The Northern Wind",
+    "artist": "Lucifugum",
+    "url": "https://www.last.fm/music/Lucifugum/The+Kingdom+Sorrow...+Behind+The+Northern+Wind",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c637f290467e4015a307ed396ac089d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c637f290467e4015a307ed396ac089d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c637f290467e4015a307ed396ac089d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c637f290467e4015a307ed396ac089d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c637f290467e4015a307ed396ac089d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c637f290467e4015a307ed396ac089d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "125",
+    "playcount": "526",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ancient His Majesty...",
+          "url": "https://www.last.fm/music/Lucifugum/_/Ancient+His+Majesty...",
+          "duration": "345",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lucifugum",
+            "mbid": "5f8f0c4d-6e0c-455b-99ce-82eb4a2f99b8",
+            "url": "https://www.last.fm/music/Lucifugum"
+          }
+        },
+        {
+          "name": "...Behind the Northern Wind",
+          "url": "https://www.last.fm/music/Lucifugum/_/...Behind+the+Northern+Wind",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lucifugum",
+            "mbid": "5f8f0c4d-6e0c-455b-99ce-82eb4a2f99b8",
+            "url": "https://www.last.fm/music/Lucifugum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:38:13.098Z"
+}

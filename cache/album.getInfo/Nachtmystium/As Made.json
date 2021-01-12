@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "As Made",
+    "artist": "Nachtmystium",
+    "mbid": "d6874788-72be-4094-9e0d-1e1333bba246",
+    "url": "https://www.last.fm/music/Nachtmystium/As+Made",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/90e7086596df455ca1d435415d177967.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/90e7086596df455ca1d435415d177967.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/90e7086596df455ca1d435415d177967.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90e7086596df455ca1d435415d177967.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90e7086596df455ca1d435415d177967.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90e7086596df455ca1d435415d177967.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1087",
+    "playcount": "4968",
+    "tracks": {
+      "track": [
+        {
+          "name": "As Made",
+          "url": "https://www.last.fm/music/Nachtmystium/_/As+Made",
+          "duration": "195",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "The Eternal",
+          "url": "https://www.last.fm/music/Nachtmystium/_/The+Eternal",
+          "duration": "380",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:22:24.649Z"
+}

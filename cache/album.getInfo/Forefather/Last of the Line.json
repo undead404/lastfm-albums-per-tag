@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Last of the Line",
+    "artist": "Forefather",
+    "mbid": "31a7eb0a-51fd-4f89-a4a6-9e9d5c9cd30a",
+    "url": "https://www.last.fm/music/Forefather/Last+of+the+Line",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea43ae33e75148d0a2e418fca3c35c19.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4267",
+    "playcount": "114687",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cometh the King",
+          "url": "https://www.last.fm/music/Forefather/_/Cometh+the+King",
+          "duration": "54",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Last of the Line",
+          "url": "https://www.last.fm/music/Forefather/_/Last+of+the+Line",
+          "duration": "284",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Chorus of Steel",
+          "url": "https://www.last.fm/music/Forefather/_/Chorus+of+Steel",
+          "duration": "282",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "By thy Deeds",
+          "url": "https://www.last.fm/music/Forefather/_/By+thy+Deeds",
+          "duration": "291",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Up High",
+          "url": "https://www.last.fm/music/Forefather/_/Up+High",
+          "duration": "309",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Wolves of Prayer",
+          "url": "https://www.last.fm/music/Forefather/_/Wolves+of+Prayer",
+          "duration": "298",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Wyrda Gesceaft",
+          "url": "https://www.last.fm/music/Forefather/_/Wyrda+Gesceaft",
+          "duration": "186",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Doomsday Dawns",
+          "url": "https://www.last.fm/music/Forefather/_/Doomsday+Dawns",
+          "duration": "402",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Shadows of the Dead",
+          "url": "https://www.last.fm/music/Forefather/_/Shadows+of+the+Dead",
+          "duration": "325",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Spears of Faith",
+          "url": "https://www.last.fm/music/Forefather/_/Spears+of+Faith",
+          "duration": "294",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "The Downfallen",
+          "url": "https://www.last.fm/music/Forefather/_/The+Downfallen",
+          "duration": "353",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        },
+        {
+          "name": "Into the Rising Sun",
+          "url": "https://www.last.fm/music/Forefather/_/Into+the+Rising+Sun",
+          "duration": "231",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forefather",
+            "mbid": "cb1f212a-a876-4e66-8e5d-7345f7262eac",
+            "url": "https://www.last.fm/music/Forefather"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:03:58.891Z"
+}

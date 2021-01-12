@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "El Rey del Mambo",
+    "artist": "Forest",
+    "url": "https://www.last.fm/music/Forest/El+Rey+del+Mambo",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "38",
+    "playcount": "145",
+    "tracks": {
+      "track": [
+        {
+          "name": "De Pana",
+          "url": "https://www.last.fm/music/Forest/_/De+Pana",
+          "duration": "181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Mala",
+          "url": "https://www.last.fm/music/Forest/_/Mala",
+          "duration": "220",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Hazme el Amor",
+          "url": "https://www.last.fm/music/Forest/_/Hazme+el+Amor",
+          "duration": "227",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "No Me Busques",
+          "url": "https://www.last.fm/music/Forest/_/No+Me+Busques",
+          "duration": "203",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Juro",
+          "url": "https://www.last.fm/music/Forest/_/Juro",
+          "duration": "256",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "El Camino",
+          "url": "https://www.last.fm/music/Forest/_/El+Camino",
+          "duration": "213",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "No Te Enamores de Mi",
+          "url": "https://www.last.fm/music/Forest/_/No+Te+Enamores+de+Mi",
+          "duration": "164",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Que No Se Entere la Gente",
+          "url": "https://www.last.fm/music/Forest/_/Que+No+Se+Entere+la+Gente",
+          "duration": "208",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:33:39.016Z"
+}

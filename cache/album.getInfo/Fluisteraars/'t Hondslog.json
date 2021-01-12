@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "'t Hondslog",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/%27t+Hondslog",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c795e9b005c9497ac98ad2007721944f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c795e9b005c9497ac98ad2007721944f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c795e9b005c9497ac98ad2007721944f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c795e9b005c9497ac98ad2007721944f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c795e9b005c9497ac98ad2007721944f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c795e9b005c9497ac98ad2007721944f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "82",
+    "playcount": "1282",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kult K Bennekom",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Kult+K+Bennekom",
+          "duration": "410",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Wortels Van Angst",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Wortels+Van+Angst",
+          "duration": "495",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Teraardebestelling van de wereld",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Teraardebestelling+van+de+wereld",
+          "duration": "408",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Snuivende Gier",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Snuivende+Gier",
+          "duration": "297",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:19.481Z"
+}

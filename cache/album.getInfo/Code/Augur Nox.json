@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Augur Nox",
+    "artist": "Code",
+    "mbid": "10c229fc-121f-4f61-8440-79111f02fe5f",
+    "url": "https://www.last.fm/music/Code/Augur+Nox",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c48532ee956a3f1d4dc33f7bac436b35.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2546",
+    "playcount": "80787",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Rumination",
+          "url": "https://www.last.fm/music/Code/_/Black+Rumination",
+          "duration": "301",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Becoming Host",
+          "url": "https://www.last.fm/music/Code/_/Becoming+Host",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Ecdysis",
+          "url": "https://www.last.fm/music/Code/_/Ecdysis",
+          "duration": "291",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Glimlight Tourist",
+          "url": "https://www.last.fm/music/Code/_/Glimlight+Tourist",
+          "duration": "305",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Dx. (interlude)",
+          "url": "https://www.last.fm/music/Code/_/Dx.+(interlude)",
+          "duration": "86",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Garden Chancery",
+          "url": "https://www.last.fm/music/Code/_/Garden+Chancery",
+          "duration": "221",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "The Lazarus Cord",
+          "url": "https://www.last.fm/music/Code/_/The+Lazarus+Cord",
+          "duration": "366",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "The Shrike Screw",
+          "url": "https://www.last.fm/music/Code/_/The+Shrike+Screw",
+          "duration": "249",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Rx. (interlude)",
+          "url": "https://www.last.fm/music/Code/_/Rx.+(interlude)",
+          "duration": "121",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Trace of God",
+          "url": "https://www.last.fm/music/Code/_/Trace+of+God",
+          "duration": "229",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Harmonies in Cloud",
+          "url": "https://www.last.fm/music/Code/_/Harmonies+in+Cloud",
+          "duration": "382",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "White Tryptych",
+          "url": "https://www.last.fm/music/Code/_/White+Tryptych",
+          "duration": "440",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:43:23.831Z"
+}

@@ -1,0 +1,193 @@
+{
+  "album": {
+    "name": "Solitude",
+    "artist": "Striborg",
+    "mbid": "eb33e022-817b-4737-ac9f-d5d9d05d2b9e",
+    "url": "https://www.last.fm/music/Striborg/Solitude",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b36bb3fc7a224a839013b0b302361cb4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1082",
+    "playcount": "13865",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ektoplasmic Dreams",
+          "url": "https://www.last.fm/music/Striborg/_/Ektoplasmic+Dreams",
+          "duration": "295",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Solitude",
+          "url": "https://www.last.fm/music/Striborg/_/Solitude",
+          "duration": "900",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Pernicious Paths of Perception",
+          "url": "https://www.last.fm/music/Striborg/_/Pernicious+Paths+of+Perception",
+          "duration": "563",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Untouched Land",
+          "url": "https://www.last.fm/music/Striborg/_/The+Untouched+Land",
+          "duration": "370",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Doppelganger",
+          "url": "https://www.last.fm/music/Striborg/_/Doppelganger",
+          "duration": "274",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Failure of Human Nature",
+          "url": "https://www.last.fm/music/Striborg/_/The+Failure+of+Human+Nature",
+          "duration": "961",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Grandeur of Melancholy",
+          "url": "https://www.last.fm/music/Striborg/_/The+Grandeur+of+Melancholy",
+          "duration": "423",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Homosapiens Devoid",
+          "url": "https://www.last.fm/music/Striborg/_/Homosapiens+Devoid",
+          "duration": "492",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:43:28.288Z"
+}

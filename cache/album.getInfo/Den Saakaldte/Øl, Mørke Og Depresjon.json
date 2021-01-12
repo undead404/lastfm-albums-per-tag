@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Øl, Mørke Og Depresjon",
+    "artist": "Den Saakaldte",
+    "mbid": "ccbe9bf2-0084-40fe-b786-acc63d94c956",
+    "url": "https://www.last.fm/music/Den+Saakaldte/%C3%98l,+M%C3%B8rke+Og+Depresjon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/561995f5428f4b70b78cb92946078c8c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/561995f5428f4b70b78cb92946078c8c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/561995f5428f4b70b78cb92946078c8c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/561995f5428f4b70b78cb92946078c8c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/561995f5428f4b70b78cb92946078c8c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/561995f5428f4b70b78cb92946078c8c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3019",
+    "playcount": "54328",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gjenspeilingen av knuste minner",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/Gjenspeilingen+av+knuste+minner",
+          "duration": "244",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        },
+        {
+          "name": "Drikke ens skål",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/Drikke+ens+sk%C3%A5l",
+          "duration": "465",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        },
+        {
+          "name": "Vandringen",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/Vandringen",
+          "duration": "489",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        },
+        {
+          "name": "Øde",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/%C3%98de",
+          "duration": "211",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        },
+        {
+          "name": "Jag Ar den Fallna",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/Jag+Ar+den+Fallna",
+          "duration": "673",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        },
+        {
+          "name": "Den sorgløse latterens sang",
+          "url": "https://www.last.fm/music/Den+Saakaldte/_/Den+sorgl%C3%B8se+latterens+sang",
+          "duration": "49",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Den Saakaldte",
+            "mbid": "504b4583-fe56-4d22-82f5-baef7dd50523",
+            "url": "https://www.last.fm/music/Den+Saakaldte"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:47:44.137Z"
+}

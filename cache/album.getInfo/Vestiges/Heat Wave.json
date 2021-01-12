@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Heat Wave",
+    "artist": "Vestiges",
+    "url": "https://www.last.fm/music/Vestiges/Heat+Wave",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6197274cb5b0e700b5f0717776e3a471.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13",
+    "playcount": "22",
+    "tracks": {
+      "track": [
+        {
+          "name": "Paradise (Original Mix)",
+          "url": "https://www.last.fm/music/Vestiges/_/Paradise+(Original+Mix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        },
+        {
+          "name": "I Need You (Original Mix)",
+          "url": "https://www.last.fm/music/Vestiges/_/I+Need+You+(Original+Mix)",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        },
+        {
+          "name": "Designer Drinks (Original Mix)",
+          "url": "https://www.last.fm/music/Vestiges/_/Designer+Drinks+(Original+Mix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        },
+        {
+          "name": "Night Owl - Original Mix",
+          "url": "https://www.last.fm/music/Vestiges/_/Night+Owl+-+Original+Mix",
+          "duration": "253",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        },
+        {
+          "name": "Tan Lines - Original Mix",
+          "url": "https://www.last.fm/music/Vestiges/_/Tan+Lines+-+Original+Mix",
+          "duration": "218",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        },
+        {
+          "name": "The Island - Original Mix",
+          "url": "https://www.last.fm/music/Vestiges/_/The+Island+-+Original+Mix",
+          "duration": "207",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vestiges",
+            "mbid": "8994bdc5-5eb7-45e7-a448-ba297370e411",
+            "url": "https://www.last.fm/music/Vestiges"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:03:57.731Z"
+}

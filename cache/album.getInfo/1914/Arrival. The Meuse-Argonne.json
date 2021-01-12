@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Arrival. The Meuse-Argonne",
+    "artist": "1914",
+    "url": "https://www.last.fm/music/1914/Arrival.+The+Meuse-Argonne",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0c8551d1bf5f847d582d126cf169f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "487",
+    "playcount": "1105",
+    "tracks": {
+      "track": [
+        {
+          "name": "Arrival. The Meuse-Argonne",
+          "url": "https://www.last.fm/music/1914/_/Arrival.+The+Meuse-Argonne",
+          "duration": "380",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:28.082Z"
+}

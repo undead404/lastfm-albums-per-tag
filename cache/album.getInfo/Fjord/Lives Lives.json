@@ -1,0 +1,230 @@
+{
+  "album": {
+    "name": "Lives Lives",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Lives+Lives",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd75b9d69a1f6226493983328157a474.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd75b9d69a1f6226493983328157a474.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd75b9d69a1f6226493983328157a474.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd75b9d69a1f6226493983328157a474.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd75b9d69a1f6226493983328157a474.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd75b9d69a1f6226493983328157a474.png",
+        "size": ""
+      }
+    ],
+    "listeners": "576",
+    "playcount": "6827",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ascending White Mountain",
+          "url": "https://www.last.fm/music/Fjord/_/Ascending+White+Mountain",
+          "duration": "175",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Ferocious Were The Ghost Wolves",
+          "url": "https://www.last.fm/music/Fjord/_/Ferocious+Were+The+Ghost+Wolves",
+          "duration": "208",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Yesteryear",
+          "url": "https://www.last.fm/music/Fjord/_/Yesteryear",
+          "duration": "160",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Conundrum City",
+          "url": "https://www.last.fm/music/Fjord/_/Conundrum+City",
+          "duration": "168",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "The Vulgar",
+          "url": "https://www.last.fm/music/Fjord/_/The+Vulgar",
+          "duration": "157",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Dining With Rats",
+          "url": "https://www.last.fm/music/Fjord/_/Dining+With+Rats",
+          "duration": "321",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Feeler",
+          "url": "https://www.last.fm/music/Fjord/_/Feeler",
+          "duration": "99",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "A) Shape",
+          "url": "https://www.last.fm/music/Fjord/_/A)+Shape",
+          "duration": "137",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "B) Shifter",
+          "url": "https://www.last.fm/music/Fjord/_/B)+Shifter",
+          "duration": "226",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Travail",
+          "url": "https://www.last.fm/music/Fjord/_/Travail",
+          "duration": "305",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Only Time Can Tell",
+          "url": "https://www.last.fm/music/Fjord/_/Only+Time+Can+Tell",
+          "duration": "186",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:46.003Z"
+}

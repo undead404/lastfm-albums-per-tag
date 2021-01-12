@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "The Knives Beneath",
+    "artist": "Circle of Ouroborus",
+    "mbid": "ade54e01-4d0c-4d8b-8ae6-e7302263d01b",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/The+Knives+Beneath",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4174f00f0116454984815b8c1370ba3c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4174f00f0116454984815b8c1370ba3c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4174f00f0116454984815b8c1370ba3c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4174f00f0116454984815b8c1370ba3c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4174f00f0116454984815b8c1370ba3c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4174f00f0116454984815b8c1370ba3c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "263",
+    "playcount": "1372",
+    "tracks": {
+      "track": [
+        {
+          "name": "Twisting the Knife of Truth",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Twisting+the+Knife+of+Truth",
+          "duration": "300",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "The Days Beneath",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/The+Days+Beneath",
+          "duration": "339",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "true face of evil",
+          "url": "https://www.last.fm/tag/true+face+of+evil"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:55:17.433Z"
+}

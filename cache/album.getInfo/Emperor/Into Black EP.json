@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Into Black EP",
+    "artist": "Emperor",
+    "url": "https://www.last.fm/music/Emperor/Into+Black+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66ad5e3ba7c7e274eb6da57080d3dfab.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2577",
+    "playcount": "15854",
+    "tracks": {
+      "track": [
+        {
+          "name": "Into Black",
+          "url": "https://www.last.fm/music/Emperor/_/Into+Black",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Passed Up",
+          "url": "https://www.last.fm/music/Emperor/_/Passed+Up",
+          "duration": "322",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "SMPL",
+          "url": "https://www.last.fm/music/Emperor/_/SMPL",
+          "duration": "340",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Mind Games",
+          "url": "https://www.last.fm/music/Emperor/_/Mind+Games",
+          "duration": "360",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Tandem",
+          "url": "https://www.last.fm/music/Emperor/_/Tandem",
+          "duration": "290",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:58:35.705Z"
+}

@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "RB Tries Again",
+    "artist": "Raspberry Bulbs",
+    "url": "https://www.last.fm/music/Raspberry+Bulbs/RB+Tries+Again",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/66afcdd8bd3742d1aea1a7ef11630aaf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "307",
+    "playcount": "4940",
+    "tracks": {
+      "track": [
+        {
+          "name": "Beggar",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Beggar",
+          "duration": "185",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Outside In",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Outside+In",
+          "duration": "156",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Life on the Level",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Life+on+the+Level",
+          "duration": "116",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "All Over Again",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/All+Over+Again",
+          "duration": "117",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Tissue in the Bloodstream",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Tissue+in+the+Bloodstream",
+          "duration": "96",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "The Center of the Earth",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/The+Center+of+the+Earth",
+          "duration": "177",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:31:38.538Z"
+}

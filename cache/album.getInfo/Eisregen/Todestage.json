@@ -1,0 +1,273 @@
+{
+  "album": {
+    "name": "Todestage",
+    "artist": "Eisregen",
+    "mbid": "4cea18df-aec6-4280-8a23-ffc210860680",
+    "url": "https://www.last.fm/music/Eisregen/Todestage",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae2abb62e92940ab8531aa99bb60c734.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1843",
+    "playcount": "53568",
+    "tracks": {
+      "track": [
+        {
+          "name": "Waldgott",
+          "url": "https://www.last.fm/music/Eisregen/_/Waldgott",
+          "duration": "393",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Todestag",
+          "url": "https://www.last.fm/music/Eisregen/_/Todestag",
+          "duration": "220",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "DSDSL",
+          "url": "https://www.last.fm/music/Eisregen/_/DSDSL",
+          "duration": "276",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Höllenfahrt",
+          "url": "https://www.last.fm/music/Eisregen/_/H%C3%B6llenfahrt",
+          "duration": "244",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Lang Lebe Die Nadel",
+          "url": "https://www.last.fm/music/Eisregen/_/Lang+Lebe+Die+Nadel",
+          "duration": "326",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Familienbande",
+          "url": "https://www.last.fm/music/Eisregen/_/Familienbande",
+          "duration": "215",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Oh wie sie schrie",
+          "url": "https://www.last.fm/music/Eisregen/_/Oh+wie+sie+schrie",
+          "duration": "252",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Mitternacht",
+          "url": "https://www.last.fm/music/Eisregen/_/Mitternacht",
+          "duration": "273",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Oststern",
+          "url": "https://www.last.fm/music/Eisregen/_/Oststern",
+          "duration": "268",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Tot-Untot",
+          "url": "https://www.last.fm/music/Eisregen/_/Tot-Untot",
+          "duration": "241",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Seele mein",
+          "url": "https://www.last.fm/music/Eisregen/_/Seele+mein",
+          "duration": "326",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Eisenherz",
+          "url": "https://www.last.fm/music/Eisregen/_/Eisenherz",
+          "duration": "271",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:27.860Z"
+}

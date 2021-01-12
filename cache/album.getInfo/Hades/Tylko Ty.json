@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Tylko Ty",
+    "artist": "Hades",
+    "url": "https://www.last.fm/music/Hades/Tylko+Ty",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4053791bc38cf62d5eed261bd47fabc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "549",
+    "playcount": "4771",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tylko Ty",
+          "url": "https://www.last.fm/music/Hades/_/Tylko+Ty",
+          "duration": "218",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:54:34.364Z"
+}

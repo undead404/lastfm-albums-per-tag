@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Live Onslaught",
+    "artist": "Nachtmystium",
+    "mbid": "253f1aa9-9c0a-45b0-9c6d-738f99841d8b",
+    "url": "https://www.last.fm/music/Nachtmystium/Live+Onslaught",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2f8ec088f3a4fa18dfd02231e084d10.png",
+        "size": ""
+      }
+    ],
+    "listeners": "349",
+    "playcount": "2233",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Intro",
+          "duration": "93",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Infernal Fury",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Infernal+Fury",
+          "duration": "274",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Under the Horns of Darkness",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Under+the+Horns+of+Darkness",
+          "duration": "329",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "May Darkness Consume the Earth",
+          "url": "https://www.last.fm/music/Nachtmystium/_/May+Darkness+Consume+the+Earth",
+          "duration": "241",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Black Metal Ist Krieg",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Black+Metal+Ist+Krieg",
+          "duration": "304",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:22:30.849Z"
+}

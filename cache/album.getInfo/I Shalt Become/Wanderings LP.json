@@ -1,0 +1,303 @@
+{
+  "album": {
+    "name": "Wanderings",
+    "artist": "I Shalt Become",
+    "mbid": "da82d909-87f8-498e-a19d-715ec3942506",
+    "url": "https://www.last.fm/music/I+Shalt+Become/Wanderings",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1e596ce89db44b78cf5ba936defb3f6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17231",
+    "playcount": "222085",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Intro",
+          "duration": "150",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Fragments",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Fragments",
+          "duration": "256",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Funeral Rain",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Funeral+Rain",
+          "duration": "191",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Winter Lights",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Winter+Lights",
+          "duration": "400",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Paintings In A Gallery",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Paintings+In+A+Gallery",
+          "duration": "168",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Labyrinthine",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Labyrinthine",
+          "duration": "177",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Thorns",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Thorns",
+          "duration": "175",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Insects",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Insects",
+          "duration": "246",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Her Demons",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Her+Demons",
+          "duration": "271",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "A Once Great Man",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/A+Once+Great+Man",
+          "duration": "191",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Outro",
+          "duration": "313",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "En Ring Til Aa Herske (Burzum Cover)",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/En+Ring+Til+Aa+Herske+(Burzum+Cover)",
+          "duration": "417",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Heavens Drop With Human Gore (Judas Iscariot Cover)",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Heavens+Drop+With+Human+Gore+(Judas+Iscariot+Cover)",
+          "duration": "608",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "I Filled With Woes The Passing Wind (Judas Iscariot Cover)",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/I+Filled+With+Woes+The+Passing+Wind+(Judas+Iscariot+Cover)",
+          "duration": "362",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "DSBM",
+          "url": "https://www.last.fm/tag/DSBM"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:15:40.980Z"
+}

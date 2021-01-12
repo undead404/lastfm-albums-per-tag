@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Skuggevandrar - Single",
+    "artist": "Cor Scorpii",
+    "url": "https://www.last.fm/music/Cor+Scorpii/Skuggevandrar+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea226f7df35a9804a8909e25bef6dd17.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9",
+    "playcount": "10",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skuggevandrar",
+          "url": "https://www.last.fm/music/Cor+Scorpii/_/Skuggevandrar",
+          "duration": "427",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cor Scorpii",
+            "mbid": "ba88e229-51b5-4311-b4b7-f143f82a405b",
+            "url": "https://www.last.fm/music/Cor+Scorpii"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:27:51.753Z"
+}

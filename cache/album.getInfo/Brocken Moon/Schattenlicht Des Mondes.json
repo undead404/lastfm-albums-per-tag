@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Schattenlicht Des Mondes",
+    "artist": "Brocken Moon",
+    "mbid": "33f2c6e9-70f6-451c-8127-0965dec7e76e",
+    "url": "https://www.last.fm/music/Brocken+Moon/Schattenlicht+Des+Mondes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/448aae2333904699aa2301438a96f22b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/448aae2333904699aa2301438a96f22b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/448aae2333904699aa2301438a96f22b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/448aae2333904699aa2301438a96f22b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/448aae2333904699aa2301438a96f22b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/448aae2333904699aa2301438a96f22b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "160",
+    "playcount": "492",
+    "tracks": {
+      "track": [
+        {
+          "name": "Schattenlicht Des Mondes",
+          "url": "https://www.last.fm/music/Brocken+Moon/_/Schattenlicht+Des+Mondes",
+          "duration": "1327",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Brocken Moon",
+            "mbid": "ebd990ed-63c9-4988-be4d-b16ff1a6dd81",
+            "url": "https://www.last.fm/music/Brocken+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:07:41.524Z"
+}

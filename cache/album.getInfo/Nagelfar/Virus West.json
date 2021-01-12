@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Virus West",
+    "artist": "Nagelfar",
+    "mbid": "2a9b3f9d-220e-3ab6-8a10-fc8cfe4ed6a5",
+    "url": "https://www.last.fm/music/Nagelfar/Virus+West",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/900a2327568743498432c4e8c587bb0c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/900a2327568743498432c4e8c587bb0c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/900a2327568743498432c4e8c587bb0c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/900a2327568743498432c4e8c587bb0c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/900a2327568743498432c4e8c587bb0c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/900a2327568743498432c4e8c587bb0c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12123",
+    "playcount": "197100",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hellebarn",
+          "url": "https://www.last.fm/music/Nagelfar/_/Hellebarn",
+          "duration": "623",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Sturm der Katharsis",
+          "url": "https://www.last.fm/music/Nagelfar/_/Sturm+der+Katharsis",
+          "duration": "523",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Hetzjagd in Palästina",
+          "url": "https://www.last.fm/music/Nagelfar/_/Hetzjagd+in+Pal%C3%A4stina",
+          "duration": "713",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Westwall",
+          "url": "https://www.last.fm/music/Nagelfar/_/Westwall",
+          "duration": "117",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Fäden des Schicksals",
+          "url": "https://www.last.fm/music/Nagelfar/_/F%C3%A4den+des+Schicksals",
+          "duration": "418",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Protokoll Einer Folter",
+          "url": "https://www.last.fm/music/Nagelfar/_/Protokoll+Einer+Folter",
+          "duration": "628",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Meuterei",
+          "url": "https://www.last.fm/music/Nagelfar/_/Meuterei",
+          "duration": "698",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "best of 2001",
+          "url": "https://www.last.fm/tag/best+of+2001"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:06:15.011Z"
+}

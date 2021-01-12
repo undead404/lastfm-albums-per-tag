@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Einblick in den Qualenfall",
+    "artist": "Verdunkeln",
+    "mbid": "a6ba733d-2a75-4c3a-ab60-c4aef7fea578",
+    "url": "https://www.last.fm/music/Verdunkeln/Einblick+in+den+Qualenfall",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79244deed57f4fdd9de7f768f9530728.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79244deed57f4fdd9de7f768f9530728.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79244deed57f4fdd9de7f768f9530728.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79244deed57f4fdd9de7f768f9530728.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79244deed57f4fdd9de7f768f9530728.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79244deed57f4fdd9de7f768f9530728.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10025",
+    "playcount": "195870",
+    "tracks": {
+      "track": [
+        {
+          "name": "In die Irre",
+          "url": "https://www.last.fm/music/Verdunkeln/_/In+die+Irre",
+          "duration": "480",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        },
+        {
+          "name": "Im Zwiespalt",
+          "url": "https://www.last.fm/music/Verdunkeln/_/Im+Zwiespalt",
+          "duration": "943",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        },
+        {
+          "name": "Der Quell",
+          "url": "https://www.last.fm/music/Verdunkeln/_/Der+Quell",
+          "duration": "431",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        },
+        {
+          "name": "Die Saat der Klinge",
+          "url": "https://www.last.fm/music/Verdunkeln/_/Die+Saat+der+Klinge",
+          "duration": "534",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        },
+        {
+          "name": "Der Herrscher",
+          "url": "https://www.last.fm/music/Verdunkeln/_/Der+Herrscher",
+          "duration": "1025",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        },
+        {
+          "name": "Auf freiem Felde",
+          "url": "https://www.last.fm/music/Verdunkeln/_/Auf+freiem+Felde",
+          "duration": "363",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Verdunkeln",
+            "mbid": "8cc38a45-c5c8-4cec-80d3-2065143a0b05",
+            "url": "https://www.last.fm/music/Verdunkeln"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:29:25.358Z"
+}

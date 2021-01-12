@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "Arise, My Lord",
+    "artist": "Judas Iscariot",
+    "mbid": "e53e1ca7-3fe0-4a0c-a485-3576ca12ff38",
+    "url": "https://www.last.fm/music/Judas+Iscariot/Arise,+My+Lord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/006777dd84194311b4e4a5f4c987019b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/006777dd84194311b4e4a5f4c987019b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/006777dd84194311b4e4a5f4c987019b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/006777dd84194311b4e4a5f4c987019b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/006777dd84194311b4e4a5f4c987019b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/006777dd84194311b4e4a5f4c987019b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "611",
+    "playcount": "3031",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Wind Stands Silent",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/The+Wind+Stands+Silent",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "The Black Clouds Roll Under the Parapet of the Sky",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/The+Black+Clouds+Roll+Under+the+Parapet+of+the+Sky",
+          "duration": "372",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:46:27.682Z"
+}

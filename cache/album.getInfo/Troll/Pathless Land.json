@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Pathless Land",
+    "artist": "Troll",
+    "url": "https://www.last.fm/music/Troll/Pathless+Land",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5a2587643fa27d1787433b9fe793597b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5a2587643fa27d1787433b9fe793597b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5a2587643fa27d1787433b9fe793597b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2587643fa27d1787433b9fe793597b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2587643fa27d1787433b9fe793597b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2587643fa27d1787433b9fe793597b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "538",
+    "playcount": "1347",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mexicana",
+          "url": "https://www.last.fm/music/Troll/_/Mexicana",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Western",
+          "url": "https://www.last.fm/music/Troll/_/Western",
+          "duration": "241",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "I Walk On Water",
+          "url": "https://www.last.fm/music/Troll/_/I+Walk+On+Water",
+          "duration": "147",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Li'l Lisa Slurry",
+          "url": "https://www.last.fm/music/Troll/_/Li%27l+Lisa+Slurry",
+          "duration": "346",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Tex Bossa Redux (Aero-Mic'd remix)",
+          "url": "https://www.last.fm/music/Troll/_/Tex+Bossa+Redux+(Aero-Mic%27d+remix)",
+          "duration": "193",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:13:41.454Z"
+}

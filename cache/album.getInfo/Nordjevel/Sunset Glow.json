@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Sunset Glow",
+    "artist": "Nordjevel",
+    "url": "https://www.last.fm/music/Nordjevel/Sunset+Glow",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9d55482af4bd309dce86e0a3ac1001.png",
+        "size": ""
+      }
+    ],
+    "listeners": "883",
+    "playcount": "2241",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sunset Glow",
+          "url": "https://www.last.fm/music/Nordjevel/_/Sunset+Glow",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:48:12.973Z"
+}

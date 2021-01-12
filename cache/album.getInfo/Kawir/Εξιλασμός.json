@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "Εξιλασμός",
+    "artist": "Kawir",
+    "url": "https://www.last.fm/music/Kawir/%CE%95%CE%BE%CE%B9%CE%BB%CE%B1%CF%83%CE%BC%CF%8C%CF%82",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6f349e26d51d8a7fc3ceea713698eff.png",
+        "size": ""
+      }
+    ],
+    "listeners": "272",
+    "playcount": "4341",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lykaon",
+          "url": "https://www.last.fm/music/Kawir/_/Lykaon",
+          "duration": "373",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Oedipus",
+          "url": "https://www.last.fm/music/Kawir/_/Oedipus",
+          "duration": "404",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Tantalus",
+          "url": "https://www.last.fm/music/Kawir/_/Tantalus",
+          "duration": "400",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Thyestia Deipna",
+          "url": "https://www.last.fm/music/Kawir/_/Thyestia+Deipna",
+          "duration": "363",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Agamemnon",
+          "url": "https://www.last.fm/music/Kawir/_/Agamemnon",
+          "duration": "465",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Orestes",
+          "url": "https://www.last.fm/music/Kawir/_/Orestes",
+          "duration": "459",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "greek mythology",
+          "url": "https://www.last.fm/tag/greek+mythology"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        },
+        {
+          "name": "Hellenic Black Metal",
+          "url": "https://www.last.fm/tag/Hellenic+Black+Metal"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:27:54.474Z"
+}

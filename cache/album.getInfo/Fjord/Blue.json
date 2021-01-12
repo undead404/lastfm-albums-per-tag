@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Blue",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Blue",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d0a24a0f7d541a3c11269635bdbadba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15222",
+    "playcount": "42945",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blue",
+          "url": "https://www.last.fm/music/Fjord/_/Blue",
+          "duration": "199",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:35.277Z"
+}

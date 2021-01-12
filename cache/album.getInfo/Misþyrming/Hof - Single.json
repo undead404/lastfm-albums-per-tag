@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Hof - Single",
+    "artist": "Misþyrming",
+    "url": "https://www.last.fm/music/Mis%C3%BEyrming/Hof+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a58542ab7fc16ad365e902fe6ed0316.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15",
+    "playcount": "43",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hof",
+          "url": "https://www.last.fm/music/Mis%C3%BEyrming/_/Hof",
+          "duration": "443",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Misþyrming",
+            "url": "https://www.last.fm/music/Mis%C3%BEyrming"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:56:28.867Z"
+}

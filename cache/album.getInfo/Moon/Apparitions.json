@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Apparitions",
+    "artist": "Moon",
+    "url": "https://www.last.fm/music/Moon/Apparitions",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c12eddbd8324213a01358773725c50c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c12eddbd8324213a01358773725c50c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c12eddbd8324213a01358773725c50c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c12eddbd8324213a01358773725c50c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c12eddbd8324213a01358773725c50c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c12eddbd8324213a01358773725c50c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "667",
+    "playcount": "8195",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apparition I",
+          "url": "https://www.last.fm/music/Moon/_/Apparition+I",
+          "duration": "412",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "Apparition II",
+          "url": "https://www.last.fm/music/Moon/_/Apparition+II",
+          "duration": "402",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "Apparition III",
+          "url": "https://www.last.fm/music/Moon/_/Apparition+III",
+          "duration": "720",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:32.859Z"
+}

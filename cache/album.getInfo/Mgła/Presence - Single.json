@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Presence - Single",
+    "artist": "Mgła",
+    "url": "https://www.last.fm/music/Mg%C5%82a/Presence+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "65",
+    "playcount": "378",
+    "tracks": {
+      "track": [
+        {
+          "name": "Presence I",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+I",
+          "duration": "479",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Presence II",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+II",
+          "duration": "473",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Presence III",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+III",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:05:33.843Z"
+}

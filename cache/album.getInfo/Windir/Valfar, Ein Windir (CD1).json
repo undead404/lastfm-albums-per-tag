@@ -1,0 +1,456 @@
+{
+  "album": {
+    "name": "Valfar, Ein Windir",
+    "artist": "Windir",
+    "mbid": "23b41920-7678-47a6-9125-62f62c1a144a",
+    "url": "https://www.last.fm/music/Windir/Valfar,+Ein+Windir",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebe66092e1de49fba4e3720544b8a7b5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "18785",
+    "playcount": "419780",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stri (Intro)",
+          "url": "https://www.last.fm/music/Windir/_/Stri+(Intro)",
+          "duration": "84",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Stridsmann",
+          "url": "https://www.last.fm/music/Windir/_/Stridsmann",
+          "duration": "354",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Dans på Stemmehaugen",
+          "url": "https://www.last.fm/music/Windir/_/Dans+p%C3%A5+Stemmehaugen",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "The Profound Power",
+          "url": "https://www.last.fm/music/Windir/_/The+Profound+Power",
+          "duration": "297",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Dauden",
+          "url": "https://www.last.fm/music/Windir/_/Dauden",
+          "duration": "312",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Ending",
+          "url": "https://www.last.fm/music/Windir/_/Ending",
+          "duration": "177",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Mørkets fyrste",
+          "url": "https://www.last.fm/music/Windir/_/M%C3%B8rkets+fyrste",
+          "duration": "253",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Destroy",
+          "url": "https://www.last.fm/music/Windir/_/Destroy",
+          "duration": "296",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Likbør",
+          "url": "https://www.last.fm/music/Windir/_/Likb%C3%B8r",
+          "duration": "326",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Svartasmeden og lundamyrstrollet (live)",
+          "url": "https://www.last.fm/music/Windir/_/Svartasmeden+og+lundamyrstrollet+(live)",
+          "duration": "553",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Blodssvik (live)",
+          "url": "https://www.last.fm/music/Windir/_/Blodssvik+(live)",
+          "duration": "464",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Soge II: Framkomsten",
+          "url": "https://www.last.fm/music/Windir/_/Soge+II:+Framkomsten",
+          "duration": "93",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Krigaren Si Gravferd",
+          "url": "https://www.last.fm/music/Windir/_/Krigaren+Si+Gravferd",
+          "duration": "384",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sognariket Sine Krigarar",
+          "url": "https://www.last.fm/music/Windir/_/Sognariket+Sine+Krigarar",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Byrjing",
+          "url": "https://www.last.fm/music/Windir/_/Byrjing",
+          "duration": "198",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Arntor, ein Windir",
+          "url": "https://www.last.fm/music/Windir/_/Arntor,+ein+Windir",
+          "duration": "417",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Saknet",
+          "url": "https://www.last.fm/music/Windir/_/Saknet",
+          "duration": "604",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "1184",
+          "url": "https://www.last.fm/music/Windir/_/1184",
+          "duration": "328",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Journey to the End",
+          "url": "https://www.last.fm/music/Windir/_/Journey+to+the+End",
+          "duration": "574",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Martyrium",
+          "url": "https://www.last.fm/music/Windir/_/Martyrium",
+          "duration": "300",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Fagning",
+          "url": "https://www.last.fm/music/Windir/_/Fagning",
+          "duration": "511",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "On the Mountain of Goats",
+          "url": "https://www.last.fm/music/Windir/_/On+the+Mountain+of+Goats",
+          "duration": "324",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sóknardalr",
+          "url": "https://www.last.fm/music/Windir/_/S%C3%B3knardalr",
+          "duration": "342",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "In memory of Valfar",
+          "url": "https://www.last.fm/tag/In+memory+of+Valfar"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:07.718Z"
+}

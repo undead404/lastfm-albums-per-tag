@@ -1,0 +1,222 @@
+{
+  "album": {
+    "name": "Celestial",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/Celestial",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67567b12363bf3717bff227438ba7cb5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67567b12363bf3717bff227438ba7cb5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67567b12363bf3717bff227438ba7cb5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67567b12363bf3717bff227438ba7cb5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67567b12363bf3717bff227438ba7cb5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67567b12363bf3717bff227438ba7cb5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "431",
+    "playcount": "2996",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cave Beneath The Dying City",
+          "url": "https://www.last.fm/music/Ancst/_/Cave+Beneath+The+Dying+City",
+          "duration": "404",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Exosphere",
+          "url": "https://www.last.fm/music/Ancst/_/Exosphere",
+          "duration": "299",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Waning Moons",
+          "url": "https://www.last.fm/music/Ancst/_/Waning+Moons",
+          "duration": "330",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "clandestine path",
+          "url": "https://www.last.fm/music/Ancst/_/clandestine+path",
+          "duration": "418",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "megapolis",
+          "url": "https://www.last.fm/music/Ancst/_/megapolis",
+          "duration": "309",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "irradiated grove",
+          "url": "https://www.last.fm/music/Ancst/_/irradiated+grove",
+          "duration": "185",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "prism cell",
+          "url": "https://www.last.fm/music/Ancst/_/prism+cell",
+          "duration": "365",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "crystal clouds",
+          "url": "https://www.last.fm/music/Ancst/_/crystal+clouds",
+          "duration": "245",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "dawnland",
+          "url": "https://www.last.fm/music/Ancst/_/dawnland",
+          "duration": "804",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "endless marsh",
+          "url": "https://www.last.fm/music/Ancst/_/endless+marsh",
+          "duration": "298",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:58:57.301Z"
+}

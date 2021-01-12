@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Avenger",
+    "artist": "Aska",
+    "mbid": "e88cab40-34e7-4ffd-9338-75fce4a74ca2",
+    "url": "https://www.last.fm/music/Aska/Avenger",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aad13395eb89408789eeb60a8f894cb0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "443",
+    "playcount": "8535",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crown of Thorns",
+          "url": "https://www.last.fm/music/Aska/_/Crown+of+Thorns",
+          "duration": "322",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Leather",
+          "url": "https://www.last.fm/music/Aska/_/Leather",
+          "duration": "318",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Escape Victorious",
+          "url": "https://www.last.fm/music/Aska/_/Escape+Victorious",
+          "duration": "302",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Angels of War",
+          "url": "https://www.last.fm/music/Aska/_/Angels+of+War",
+          "duration": "261",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Prelude to Darkness",
+          "url": "https://www.last.fm/music/Aska/_/Prelude+to+Darkness",
+          "duration": "103",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Eternal Night",
+          "url": "https://www.last.fm/music/Aska/_/Eternal+Night",
+          "duration": "234",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Imperial Rome",
+          "url": "https://www.last.fm/music/Aska/_/Imperial+Rome",
+          "duration": "366",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Against the Gods",
+          "url": "https://www.last.fm/music/Aska/_/Against+the+Gods",
+          "duration": "426",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Lethal Injection",
+          "url": "https://www.last.fm/music/Aska/_/Lethal+Injection",
+          "duration": "213",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Valkyries",
+          "url": "https://www.last.fm/music/Aska/_/Valkyries",
+          "duration": "296",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Warrior's Return",
+          "url": "https://www.last.fm/music/Aska/_/Warrior%27s+Return",
+          "duration": "176",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "US Power Metal",
+          "url": "https://www.last.fm/tag/US+Power+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:48:34.317Z"
+}

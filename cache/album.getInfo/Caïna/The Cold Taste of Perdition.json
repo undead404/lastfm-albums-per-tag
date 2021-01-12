@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "The Cold Taste of Perdition",
+    "artist": "Caïna",
+    "mbid": "6d97c4d0-7d68-49de-9cce-83bccaba4e30",
+    "url": "https://www.last.fm/music/Ca%C3%AFna/The+Cold+Taste+of+Perdition",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/993bb7f6a1b144ddbfa1285fdd1fb42b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "55",
+    "playcount": "498",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Dawn Room",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/The+Dawn+Room",
+          "duration": "139",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "The Validity Of Hate Within An Emotional Vacuum",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/The+Validity+Of+Hate+Within+An+Emotional+Vacuum",
+          "duration": "282",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Gong, Parchment, Altar, Bell",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Gong,+Parchment,+Altar,+Bell",
+          "duration": "386",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "\"and if i sing, you are my voice\"",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/%22and+if+i+sing,+you+are+my+voice%22",
+          "duration": "118",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Ammon",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Ammon",
+          "duration": "430",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:21:34.130Z"
+}

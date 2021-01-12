@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "The River",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/The+River",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b82bdc1639a844c0a696fe935237577e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b82bdc1639a844c0a696fe935237577e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b82bdc1639a844c0a696fe935237577e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82bdc1639a844c0a696fe935237577e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82bdc1639a844c0a696fe935237577e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82bdc1639a844c0a696fe935237577e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1916",
+    "playcount": "17757",
+    "tracks": {
+      "track": [
+        {
+          "name": "Alas and Did My Saviour Bleed?",
+          "url": "https://www.last.fm/music/Wayfarer/_/Alas+and+Did+My+Saviour+Bleed%3F",
+          "duration": "281",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "How Long (Love Constraining to Obedience)",
+          "url": "https://www.last.fm/music/Wayfarer/_/How+Long+(Love+Constraining+to+Obedience)",
+          "duration": "250",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Shall We Gather at the River?",
+          "url": "https://www.last.fm/music/Wayfarer/_/Shall+We+Gather+at+the+River%3F",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Jesus, Savior, Pilot Me",
+          "url": "https://www.last.fm/music/Wayfarer/_/Jesus,+Savior,+Pilot+Me",
+          "duration": "150",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "What Wondrous Love is This?",
+          "url": "https://www.last.fm/music/Wayfarer/_/What+Wondrous+Love+is+This%3F",
+          "duration": "297",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "When I Approach My God (Bonus Track)",
+          "url": "https://www.last.fm/music/Wayfarer/_/When+I+Approach+My+God+(Bonus+Track)",
+          "duration": "171",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:51:43.079Z"
+}

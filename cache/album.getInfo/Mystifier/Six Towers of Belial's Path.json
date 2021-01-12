@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Six Towers of Belial's Path",
+    "artist": "Mystifier",
+    "url": "https://www.last.fm/music/Mystifier/Six+Towers+of+Belial%27s+Path",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "354",
+    "playcount": "565",
+    "tracks": {
+      "track": [
+        {
+          "name": "Six Towers Of Belial's Path",
+          "url": "https://www.last.fm/music/Mystifier/_/Six+Towers+Of+Belial%27s+Path",
+          "duration": "254",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystifier",
+            "mbid": "8dd7079e-7eac-40e4-a2e9-327c167f021d",
+            "url": "https://www.last.fm/music/Mystifier"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:24:34.510Z"
+}

@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Terror Abraxas",
+    "artist": "Deströyer 666",
+    "mbid": "6e7496e8-5a8e-4bba-8227-ab9a396c966e",
+    "url": "https://www.last.fm/music/Destr%C3%B6yer+666/Terror+Abraxas",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1453e3af711cca518f5517a91f6b856.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1453e3af711cca518f5517a91f6b856.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1453e3af711cca518f5517a91f6b856.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1453e3af711cca518f5517a91f6b856.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1453e3af711cca518f5517a91f6b856.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1453e3af711cca518f5517a91f6b856.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4456",
+    "playcount": "85302",
+    "tracks": {
+      "track": [
+        {
+          "name": "A Breed Apart",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/A+Breed+Apart",
+          "duration": "206",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Those Who Dare Beyond",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Those+Who+Dare+Beyond",
+          "duration": "188",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Trialed By Fire",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Trialed+By+Fire",
+          "duration": "430",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Terror",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Terror",
+          "duration": "247",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Prometheus",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Prometheus",
+          "duration": "249",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "2000s",
+          "url": "https://www.last.fm/tag/2000s"
+        },
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:46.114Z"
+}

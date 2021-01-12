@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Der Weg einer Freiheit",
+    "artist": "Der Weg einer Freiheit",
+    "mbid": "b2fb8e24-2e3c-430e-951a-85dd6a3623a9",
+    "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/Der+Weg+einer+Freiheit",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/641b4a4a38b53621225b364f849e97fa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/641b4a4a38b53621225b364f849e97fa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/641b4a4a38b53621225b364f849e97fa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/641b4a4a38b53621225b364f849e97fa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/641b4a4a38b53621225b364f849e97fa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/641b4a4a38b53621225b364f849e97fa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9063",
+    "playcount": "273984",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ewigkeit",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Ewigkeit",
+          "duration": "428",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Spätsommer",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Sp%C3%A4tsommer",
+          "duration": "176",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Frei",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Frei",
+          "duration": "360",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Aurora",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Aurora",
+          "duration": "292",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Zum Abschied",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Zum+Abschied",
+          "duration": "297",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Welk",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Welk",
+          "duration": "434",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Neubeginn",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Neubeginn",
+          "duration": "608",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Ruhe (Bonustrack)",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Ruhe+(Bonustrack)",
+          "duration": "334",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "owned",
+          "url": "https://www.last.fm/tag/owned"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:59:06.760Z"
+}

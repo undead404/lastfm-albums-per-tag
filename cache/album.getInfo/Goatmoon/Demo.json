@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Goatmoon",
+    "url": "https://www.last.fm/music/Goatmoon/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a1785b14470b01aca30dd44700a736c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a1785b14470b01aca30dd44700a736c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a1785b14470b01aca30dd44700a736c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a1785b14470b01aca30dd44700a736c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a1785b14470b01aca30dd44700a736c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a1785b14470b01aca30dd44700a736c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "825",
+    "playcount": "16971",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:00:05.829Z"
+}

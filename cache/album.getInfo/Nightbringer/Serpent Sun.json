@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Serpent Sun",
+    "artist": "Nightbringer",
+    "url": "https://www.last.fm/music/Nightbringer/Serpent+Sun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/711a6c316c0739e909f6f9a3e234ee42.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4071",
+    "playcount": "9921",
+    "tracks": {
+      "track": [
+        {
+          "name": "Serpent Sun",
+          "url": "https://www.last.fm/music/Nightbringer/_/Serpent+Sun",
+          "duration": "375",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:35:46.969Z"
+}

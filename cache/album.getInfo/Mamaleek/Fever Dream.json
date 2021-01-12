@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Fever Dream",
+    "artist": "Mamaleek",
+    "mbid": "f6279488-5d87-4f5c-ab73-1a9e09d768bb",
+    "url": "https://www.last.fm/music/Mamaleek/Fever+Dream",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/82380d7df1df75a9c83d42da792a7de9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1481",
+    "playcount": "30219",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Can't Stay Behind",
+          "url": "https://www.last.fm/music/Mamaleek/_/I+Can%27t+Stay+Behind",
+          "duration": "247",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Go Into The Wilderness",
+          "url": "https://www.last.fm/music/Mamaleek/_/Go+Into+The+Wilderness",
+          "duration": "294",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Poor Rosy",
+          "url": "https://www.last.fm/music/Mamaleek/_/Poor+Rosy",
+          "duration": "234",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "No More Rain Fall For Wet You",
+          "url": "https://www.last.fm/music/Mamaleek/_/No+More+Rain+Fall+For+Wet+You",
+          "duration": "218",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Anthropology",
+          "url": "https://www.last.fm/music/Mamaleek/_/Anthropology",
+          "duration": "151",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Stars Begin To Fall",
+          "url": "https://www.last.fm/music/Mamaleek/_/Stars+Begin+To+Fall",
+          "duration": "330",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Winter Has A Grave, And I'm In It",
+          "url": "https://www.last.fm/music/Mamaleek/_/Winter+Has+A+Grave,+And+I%27m+In+It",
+          "duration": "201",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Every Hour In The Day",
+          "url": "https://www.last.fm/music/Mamaleek/_/Every+Hour+In+The+Day",
+          "duration": "126",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "I Saw The Beam In My Sister's Eye",
+          "url": "https://www.last.fm/music/Mamaleek/_/I+Saw+The+Beam+In+My+Sister%27s+Eye",
+          "duration": "374",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Lay This Body Down",
+          "url": "https://www.last.fm/music/Mamaleek/_/Lay+This+Body+Down",
+          "duration": "280",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:42:55.463Z"
+}

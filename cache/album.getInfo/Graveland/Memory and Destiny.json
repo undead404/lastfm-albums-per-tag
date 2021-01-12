@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "Memory and Destiny",
+    "artist": "Graveland",
+    "mbid": "357bf1c7-a9dc-42c2-ba9e-6d1a6b9d1764",
+    "url": "https://www.last.fm/music/Graveland/Memory+and+Destiny",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34444a7b76e44c289257d8d5f7e8b923.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3955",
+    "playcount": "53523",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fate of Warrior",
+          "url": "https://www.last.fm/music/Graveland/_/Fate+of+Warrior",
+          "duration": "542",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Jewel of Atlanteans",
+          "url": "https://www.last.fm/music/Graveland/_/Jewel+of+Atlanteans",
+          "duration": "585",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Memory and Destiny",
+          "url": "https://www.last.fm/music/Graveland/_/Memory+and+Destiny",
+          "duration": "587",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Legion of Giants",
+          "url": "https://www.last.fm/music/Graveland/_/Legion+of+Giants",
+          "duration": "578",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Runes of Rise",
+          "url": "https://www.last.fm/music/Graveland/_/Runes+of+Rise",
+          "duration": "571",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "2002",
+          "url": "https://www.last.fm/tag/2002"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:05.003Z"
+}

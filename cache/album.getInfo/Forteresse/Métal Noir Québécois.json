@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Métal Noir Québécois",
+    "artist": "Forteresse",
+    "mbid": "3795e372-5f28-440c-bb59-5fe5afa200fa",
+    "url": "https://www.last.fm/music/Forteresse/M%C3%A9tal+Noir+Qu%C3%A9b%C3%A9cois",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72d6d3008497659172608ff4ed179328.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72d6d3008497659172608ff4ed179328.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72d6d3008497659172608ff4ed179328.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72d6d3008497659172608ff4ed179328.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72d6d3008497659172608ff4ed179328.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72d6d3008497659172608ff4ed179328.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4726",
+    "playcount": "109435",
+    "tracks": {
+      "track": [
+        {
+          "name": "La Moisson De La Liberté",
+          "url": "https://www.last.fm/music/Forteresse/_/La+Moisson+De+La+Libert%C3%A9",
+          "duration": "508",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "Une Nuit Pour La Patrie",
+          "url": "https://www.last.fm/music/Forteresse/_/Une+Nuit+Pour+La+Patrie",
+          "duration": "628",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "La Flamme Et Le Lys",
+          "url": "https://www.last.fm/music/Forteresse/_/La+Flamme+Et+Le+Lys",
+          "duration": "461",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "De Sang Et De Volonté",
+          "url": "https://www.last.fm/music/Forteresse/_/De+Sang+Et+De+Volont%C3%A9",
+          "duration": "436",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "Métal Noir Québécois",
+          "url": "https://www.last.fm/music/Forteresse/_/M%C3%A9tal+Noir+Qu%C3%A9b%C3%A9cois",
+          "duration": "524",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "Honneur Et Tradition",
+          "url": "https://www.last.fm/music/Forteresse/_/Honneur+Et+Tradition",
+          "duration": "462",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "french lyrics",
+          "url": "https://www.last.fm/tag/french+lyrics"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:54:01.640Z"
+}

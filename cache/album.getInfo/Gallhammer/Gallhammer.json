@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Gallhammer",
+    "artist": "Gallhammer",
+    "mbid": "e67d82ca-1293-4cf5-971a-41937ced906b",
+    "url": "https://www.last.fm/music/Gallhammer/Gallhammer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4cae927febb4dbabae83f6a6d0b1385.png",
+        "size": ""
+      }
+    ],
+    "listeners": "211",
+    "playcount": "2707",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Selfish Selfless",
+          "url": "https://www.last.fm/music/Gallhammer/_/Selfish+Selfless",
+          "duration": "78",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Beyond The Hatred",
+          "url": "https://www.last.fm/music/Gallhammer/_/Beyond+The+Hatred",
+          "duration": "175",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Friction",
+          "url": "https://www.last.fm/music/Gallhammer/_/Friction",
+          "duration": "236",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Suppression",
+          "url": "https://www.last.fm/music/Gallhammer/_/Suppression",
+          "duration": "126",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Color of Coma (Live)",
+          "url": "https://www.last.fm/music/Gallhammer/_/Color+of+Coma+(Live)",
+          "duration": "267",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:01.266Z"
+}

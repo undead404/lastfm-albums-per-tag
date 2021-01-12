@@ -1,0 +1,160 @@
+{
+  "album": {
+    "name": "Jord",
+    "artist": "Panphage",
+    "url": "https://www.last.fm/music/Panphage/Jord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5941ad48f5efeddce7a13e18d3724040.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2888",
+    "playcount": "42322",
+    "tracks": {
+      "track": [
+        {
+          "name": "Odalmarkerna",
+          "url": "https://www.last.fm/music/Panphage/_/Odalmarkerna",
+          "duration": "371",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Måtte dessa bygder brinna",
+          "url": "https://www.last.fm/music/Panphage/_/M%C3%A5tte+dessa+bygder+brinna",
+          "duration": "374",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Ygg (En visa om julen)",
+          "url": "https://www.last.fm/music/Panphage/_/Ygg+(En+visa+om+julen)",
+          "duration": "332",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Skadinawjo",
+          "url": "https://www.last.fm/music/Panphage/_/Skadinawjo",
+          "duration": "332",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Den tyste åsen",
+          "url": "https://www.last.fm/music/Panphage/_/Den+tyste+%C3%A5sen",
+          "duration": "366",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Som man sår får man skörda",
+          "url": "https://www.last.fm/music/Panphage/_/Som+man+s%C3%A5r+f%C3%A5r+man+sk%C3%B6rda",
+          "duration": "376",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Osådda skall åkrarna växa (Outro)",
+          "url": "https://www.last.fm/music/Panphage/_/Os%C3%A5dda+skall+%C3%A5krarna+v%C3%A4xa+(Outro)",
+          "duration": "238",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:06:18.389Z"
+}

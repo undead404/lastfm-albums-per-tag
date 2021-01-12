@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Attergangar",
+    "artist": "Cor Scorpii",
+    "mbid": "a4f53186-b75d-4918-8111-0e0a41c35c76",
+    "url": "https://www.last.fm/music/Cor+Scorpii/Attergangar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2075e3741e9482e9b5bf0441048e3e7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10462",
+    "playcount": "85716",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fall Of Man",
+          "url": "https://www.last.fm/music/Cor+Scorpii/_/Fall+Of+Man",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cor Scorpii",
+            "mbid": "ba88e229-51b5-4311-b4b7-f143f82a405b",
+            "url": "https://www.last.fm/music/Cor+Scorpii"
+          }
+        },
+        {
+          "name": "Transcendental Journey",
+          "url": "https://www.last.fm/music/Cor+Scorpii/_/Transcendental+Journey",
+          "duration": "331",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cor Scorpii",
+            "mbid": "ba88e229-51b5-4311-b4b7-f143f82a405b",
+            "url": "https://www.last.fm/music/Cor+Scorpii"
+          }
+        },
+        {
+          "name": "Attergangar",
+          "url": "https://www.last.fm/music/Cor+Scorpii/_/Attergangar",
+          "duration": "389",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cor Scorpii",
+            "mbid": "ba88e229-51b5-4311-b4b7-f143f82a405b",
+            "url": "https://www.last.fm/music/Cor+Scorpii"
+          }
+        },
+        {
+          "name": "Når Enden Er God",
+          "url": "https://www.last.fm/music/Cor+Scorpii/_/N%C3%A5r+Enden+Er+God",
+          "duration": "336",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cor Scorpii",
+            "mbid": "ba88e229-51b5-4311-b4b7-f143f82a405b",
+            "url": "https://www.last.fm/music/Cor+Scorpii"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:27:36.369Z"
+}

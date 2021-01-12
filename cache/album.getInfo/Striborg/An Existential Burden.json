@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "An Existential Burden",
+    "artist": "Striborg",
+    "url": "https://www.last.fm/music/Striborg/An+Existential+Burden",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cccddaa687176c9cc7490a72b89294c5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "200",
+    "playcount": "1181",
+    "tracks": {
+      "track": [
+        {
+          "name": "As Life Fades Away (Album Version)",
+          "url": "https://www.last.fm/music/Striborg/_/As+Life+Fades+Away+(Album+Version)",
+          "duration": "512",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Empty Sorrow",
+          "url": "https://www.last.fm/music/Striborg/_/Empty+Sorrow",
+          "duration": "598",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "In the Darkest Recesses of Your Mind",
+          "url": "https://www.last.fm/music/Striborg/_/In+the+Darkest+Recesses+of+Your+Mind",
+          "duration": "327",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Burden of Existence",
+          "url": "https://www.last.fm/music/Striborg/_/The+Burden+of+Existence",
+          "duration": "511",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Seratonin Depletion",
+          "url": "https://www.last.fm/music/Striborg/_/Seratonin+Depletion",
+          "duration": "436",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:43:38.730Z"
+}

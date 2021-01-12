@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Eons Aura",
+    "artist": "Nightfall",
+    "mbid": "c18ae210-fbd8-4c50-99f7-2c25a4304cc3",
+    "url": "https://www.last.fm/music/Nightfall/Eons+Aura",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e54d5596aeb15d5757de265b588ca606.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e54d5596aeb15d5757de265b588ca606.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e54d5596aeb15d5757de265b588ca606.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e54d5596aeb15d5757de265b588ca606.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e54d5596aeb15d5757de265b588ca606.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e54d5596aeb15d5757de265b588ca606.png",
+        "size": ""
+      }
+    ],
+    "listeners": "421",
+    "playcount": "3766",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eroding",
+          "url": "https://www.last.fm/music/Nightfall/_/Eroding",
+          "duration": "310",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Ardour Was I",
+          "url": "https://www.last.fm/music/Nightfall/_/Ardour+Was+I",
+          "duration": "330",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Until The Day God Helps Us All",
+          "url": "https://www.last.fm/music/Nightfall/_/Until+The+Day+God+Helps+Us+All",
+          "duration": "274",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Thor",
+          "url": "https://www.last.fm/music/Nightfall/_/Thor",
+          "duration": "273",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:06.769Z"
+}

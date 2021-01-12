@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Der Wolkenwanderer",
+    "artist": "Bilskirnir",
+    "mbid": "8647f00d-66c0-4ee9-aa81-eae2644aece9",
+    "url": "https://www.last.fm/music/Bilskirnir/Der+Wolkenwanderer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a690c91cb874e538e8d53442bbc00c7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "472",
+    "playcount": "4444",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wotan Redivivus",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Wotan+Redivivus",
+          "duration": "335",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Der Wolkenwanderer",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Der+Wolkenwanderer",
+          "duration": "111",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Mourning Soul",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Mourning+Soul",
+          "duration": "128",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:19:07.146Z"
+}

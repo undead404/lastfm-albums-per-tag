@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Djevelmakt",
+    "artist": "Kampfar",
+    "mbid": "17f7c83a-0dac-46cc-98f3-c72d45f05c39",
+    "url": "https://www.last.fm/music/Kampfar/Djevelmakt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b468080c55b641cac1ebbc0a8d68e8a6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13328",
+    "playcount": "207985",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mylder",
+          "url": "https://www.last.fm/music/Kampfar/_/Mylder",
+          "duration": "397",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Kujon",
+          "url": "https://www.last.fm/music/Kampfar/_/Kujon",
+          "duration": "430",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Blod, Eder og Galle",
+          "url": "https://www.last.fm/music/Kampfar/_/Blod,+Eder+og+Galle",
+          "duration": "384",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Swarm Norvegicus",
+          "url": "https://www.last.fm/music/Kampfar/_/Swarm+Norvegicus",
+          "duration": "336",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Fortapelse",
+          "url": "https://www.last.fm/music/Kampfar/_/Fortapelse",
+          "duration": "280",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "De Dødes Fane",
+          "url": "https://www.last.fm/music/Kampfar/_/De+D%C3%B8des+Fane",
+          "duration": "358",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Svarte Sjelers Salme",
+          "url": "https://www.last.fm/music/Kampfar/_/Svarte+Sjelers+Salme",
+          "duration": "217",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Our Hounds, Our Legion",
+          "url": "https://www.last.fm/music/Kampfar/_/Our+Hounds,+Our+Legion",
+          "duration": "459",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:31:29.822Z"
+}

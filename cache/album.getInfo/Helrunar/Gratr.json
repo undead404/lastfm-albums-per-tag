@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "Grátr",
+    "artist": "Helrunar",
+    "mbid": "b67c0a58-db7f-4111-8df6-e79b19ac1552",
+    "url": "https://www.last.fm/music/Helrunar/Gr%C3%A1tr",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/913aec6357f944b79605d7451cd5d0e7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4062",
+    "playcount": "126507",
+    "tracks": {
+      "track": [
+        {
+          "name": "Der Fährtensucher",
+          "url": "https://www.last.fm/music/Helrunar/_/Der+F%C3%A4hrtensucher",
+          "duration": "106",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Raune Mit Der Tiefe",
+          "url": "https://www.last.fm/music/Helrunar/_/Raune+Mit+Der+Tiefe",
+          "duration": "324",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Ich bin die Leere",
+          "url": "https://www.last.fm/music/Helrunar/_/Ich+bin+die+Leere",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Seelenwinter",
+          "url": "https://www.last.fm/music/Helrunar/_/Seelenwinter",
+          "duration": "356",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Grátr",
+          "url": "https://www.last.fm/music/Helrunar/_/Gr%C3%A1tr",
+          "duration": "414",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Mørket Under Verden",
+          "url": "https://www.last.fm/music/Helrunar/_/M%C3%B8rket+Under+Verden",
+          "duration": "267",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Hornung",
+          "url": "https://www.last.fm/music/Helrunar/_/Hornung",
+          "duration": "124",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Das Heilige Feuer",
+          "url": "https://www.last.fm/music/Helrunar/_/Das+Heilige+Feuer",
+          "duration": "391",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Kvasir's Blut",
+          "url": "https://www.last.fm/music/Helrunar/_/Kvasir%27s+Blut",
+          "duration": "191",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2003",
+          "url": "https://www.last.fm/tag/best+of+2003"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:41.535Z"
+}

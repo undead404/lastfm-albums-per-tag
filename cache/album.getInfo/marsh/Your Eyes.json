@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Your Eyes",
+    "artist": "marsh",
+    "url": "https://www.last.fm/music/marsh/Your+Eyes",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "109",
+    "playcount": "398",
+    "tracks": {
+      "track": [
+        {
+          "name": "Your Eyes",
+          "url": "https://www.last.fm/music/marsh/_/Your+Eyes",
+          "duration": "401",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Your Eyes - Marsh 'Acid' Remix",
+          "url": "https://www.last.fm/music/marsh/_/Your+Eyes+-+Marsh+%27Acid%27+Remix",
+          "duration": "490",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:46:43.538Z"
+}

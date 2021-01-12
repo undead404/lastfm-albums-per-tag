@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "A Ceremony at the Edge of a Burning Page...",
+    "artist": "Bishop Of Hexen",
+    "url": "https://www.last.fm/music/Bishop+Of+Hexen/A+Ceremony+at+the+Edge+of+a+Burning+Page...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/914149a64dfc9ec40b9e4c60cc8410a3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9",
+    "playcount": "127",
+    "tracks": {
+      "track": [
+        {
+          "name": "A Witch King Reborn",
+          "url": "https://www.last.fm/music/Bishop+Of+Hexen/_/A+Witch+King+Reborn",
+          "duration": "410",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bishop Of Hexen",
+            "mbid": "3d795e98-670d-47c5-b904-153a9ae5c298",
+            "url": "https://www.last.fm/music/Bishop+Of+Hexen"
+          }
+        },
+        {
+          "name": "All Sins Lead To Glory",
+          "url": "https://www.last.fm/music/Bishop+Of+Hexen/_/All+Sins+Lead+To+Glory",
+          "duration": "494",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bishop Of Hexen",
+            "mbid": "3d795e98-670d-47c5-b904-153a9ae5c298",
+            "url": "https://www.last.fm/music/Bishop+Of+Hexen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:30:39.212Z"
+}

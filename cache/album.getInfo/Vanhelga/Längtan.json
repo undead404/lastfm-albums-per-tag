@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Längtan",
+    "artist": "Vanhelga",
+    "mbid": "3228bad8-103e-465e-9893-7b65fc0e2d76",
+    "url": "https://www.last.fm/music/Vanhelga/L%C3%A4ngtan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e5ece4e87c442720dbcba761d55c4bf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2610",
+    "playcount": "65189",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svartsint ömhet",
+          "url": "https://www.last.fm/music/Vanhelga/_/Svartsint+%C3%B6mhet",
+          "duration": "385",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Där Evigheten Inväntar Mig",
+          "url": "https://www.last.fm/music/Vanhelga/_/D%C3%A4r+Evigheten+Inv%C3%A4ntar+Mig",
+          "duration": "297",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Evig Forandring",
+          "url": "https://www.last.fm/music/Vanhelga/_/Evig+Forandring",
+          "duration": "328",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Med Mina Andetag",
+          "url": "https://www.last.fm/music/Vanhelga/_/Med+Mina+Andetag",
+          "duration": "254",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Joyless",
+          "url": "https://www.last.fm/music/Vanhelga/_/Joyless",
+          "duration": "205",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Låt snön falla",
+          "url": "https://www.last.fm/music/Vanhelga/_/L%C3%A5t+sn%C3%B6n+falla",
+          "duration": "268",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Kärleksförklaring",
+          "url": "https://www.last.fm/music/Vanhelga/_/K%C3%A4rleksf%C3%B6rklaring",
+          "duration": "314",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Vansinnesvardag",
+          "url": "https://www.last.fm/music/Vanhelga/_/Vansinnesvardag",
+          "duration": "506",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Narkotisk Uppgivenhet",
+          "url": "https://www.last.fm/music/Vanhelga/_/Narkotisk+Uppgivenhet",
+          "duration": "328",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Eternal Night",
+          "url": "https://www.last.fm/music/Vanhelga/_/Eternal+Night",
+          "duration": "287",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Forbarma",
+          "url": "https://www.last.fm/music/Vanhelga/_/Forbarma",
+          "duration": "220",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Exploderande Kanslostorm",
+          "url": "https://www.last.fm/music/Vanhelga/_/Exploderande+Kanslostorm",
+          "duration": "576",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "innovative",
+          "url": "https://www.last.fm/tag/innovative"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:51:05.232Z"
+}

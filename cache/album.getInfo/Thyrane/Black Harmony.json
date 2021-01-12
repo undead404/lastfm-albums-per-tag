@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Black Harmony",
+    "artist": "Thyrane",
+    "mbid": "110ba21f-058a-319e-b9b2-86b9764cafd3",
+    "url": "https://www.last.fm/music/Thyrane/Black+Harmony",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/beb7bce255b3eb6a7c4e9b872af58174.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2665",
+    "playcount": "16999",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Harmony",
+          "url": "https://www.last.fm/music/Thyrane/_/Black+Harmony",
+          "duration": "474",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Sacrifires",
+          "url": "https://www.last.fm/music/Thyrane/_/Sacrifires",
+          "duration": "493",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Enthroned by Antichrist",
+          "url": "https://www.last.fm/music/Thyrane/_/Enthroned+by+Antichrist",
+          "duration": "668",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Satanic Ages Overture",
+          "url": "https://www.last.fm/music/Thyrane/_/Satanic+Ages+Overture",
+          "duration": "473",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "finnish",
+          "url": "https://www.last.fm/tag/finnish"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "best of 1997",
+          "url": "https://www.last.fm/tag/best+of+1997"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:40:07.764Z"
+}

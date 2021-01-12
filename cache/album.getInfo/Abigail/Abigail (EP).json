@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Abigail (EP)",
+    "artist": "Abigail",
+    "url": "https://www.last.fm/music/Abigail/Abigail+(EP)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be3dc20355eb43beaf703a7e8707c61d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "312",
+    "playcount": "486",
+    "tracks": {
+      "track": [
+        {
+          "name": "Strong",
+          "url": "https://www.last.fm/music/Abigail/_/Strong",
+          "duration": "233",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "How Could You",
+          "url": "https://www.last.fm/music/Abigail/_/How+Could+You",
+          "duration": "246",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Purest Addiction",
+          "url": "https://www.last.fm/music/Abigail/_/Purest+Addiction",
+          "duration": "242",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Floor",
+          "url": "https://www.last.fm/music/Abigail/_/Floor",
+          "duration": "187",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Never Let It End",
+          "url": "https://www.last.fm/music/Abigail/_/Never+Let+It+End",
+          "duration": "247",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:05:55.693Z"
+}

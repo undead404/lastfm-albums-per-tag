@@ -1,0 +1,192 @@
+{
+  "album": {
+    "name": "Weltenasche",
+    "artist": "Karg",
+    "url": "https://www.last.fm/music/Karg/Weltenasche",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fc1b4a6d7cb5b27dd3050fe42f44dae.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3603",
+    "playcount": "44373",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crevasse",
+          "url": "https://www.last.fm/music/Karg/_/Crevasse",
+          "duration": "647",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Alles wird in Flammen stehen",
+          "url": "https://www.last.fm/music/Karg/_/Alles+wird+in+Flammen+stehen",
+          "duration": "581",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Le Couloir des Ombres",
+          "url": "https://www.last.fm/music/Karg/_/Le+Couloir+des+Ombres",
+          "duration": "675",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Tor zu tausend Wüsten",
+          "url": "https://www.last.fm/music/Karg/_/Tor+zu+tausend+W%C3%BCsten",
+          "duration": "430",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Spuren im Schnee",
+          "url": "https://www.last.fm/music/Karg/_/Spuren+im+Schnee",
+          "duration": "320",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Solange das Herz schlägt...",
+          "url": "https://www.last.fm/music/Karg/_/Solange+das+Herz+schl%C3%A4gt...",
+          "duration": "423",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "...und blicke doch mit Wut zurück",
+          "url": "https://www.last.fm/music/Karg/_/...und+blicke+doch+mit+Wut+zur%C3%BCck",
+          "duration": "643",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "(MMXVI/Weltenasche)",
+          "url": "https://www.last.fm/music/Karg/_/(MMXVI%2FWeltenasche)",
+          "duration": "583",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Post-Black Metal",
+          "url": "https://www.last.fm/tag/Post-Black+Metal"
+        },
+        {
+          "name": "Post Black",
+          "url": "https://www.last.fm/tag/Post+Black"
+        },
+        {
+          "name": "depressive black",
+          "url": "https://www.last.fm/tag/depressive+black"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:21:30.546Z"
+}

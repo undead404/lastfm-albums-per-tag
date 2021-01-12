@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Invoking the Unclean",
+    "artist": "Cradle of Filth",
+    "mbid": "d3af7d3c-9811-4f48-9595-094a50dc37bb",
+    "url": "https://www.last.fm/music/Cradle+of+Filth/Invoking+the+Unclean",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a04c1e94a62d447497c1dd925a2f6997.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4451",
+    "playcount": "33378",
+    "tracks": {
+      "track": [
+        {
+          "name": "Loathsome Fucking Christ",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Loathsome+Fucking+Christ",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Darkly Erotic",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Darkly+Erotic",
+          "duration": "341",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Chewing Your Guts",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Chewing+Your+Guts",
+          "duration": "166",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Circle of Perversion",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Circle+of+Perversion",
+          "duration": "357",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Dead Orchestra (Outro)",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Dead+Orchestra+(Outro)",
+          "duration": "102",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Brutal Death Metal",
+          "url": "https://www.last.fm/tag/Brutal+Death+Metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:49:09.957Z"
+}

@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Am Pranger...",
+    "artist": "Graupel",
+    "mbid": "9ed40fad-6c69-37f5-8429-40dbec7f7d4a",
+    "url": "https://www.last.fm/music/Graupel/Am+Pranger...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2dc2e368a8442aaa121eedfb0505e4d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2670",
+    "playcount": "23148",
+    "tracks": {
+      "track": [
+        {
+          "name": "Daemonicum",
+          "url": "https://www.last.fm/music/Graupel/_/Daemonicum",
+          "duration": "268",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Das blutende Mal",
+          "url": "https://www.last.fm/music/Graupel/_/Das+blutende+Mal",
+          "duration": "341",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Schwarze Feder",
+          "url": "https://www.last.fm/music/Graupel/_/Schwarze+Feder",
+          "duration": "385",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Herkünfte Schatten",
+          "url": "https://www.last.fm/music/Graupel/_/Herk%C3%BCnfte+Schatten",
+          "duration": "395",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Kalte Fessel",
+          "url": "https://www.last.fm/music/Graupel/_/Kalte+Fessel",
+          "duration": "529",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Ekel",
+          "url": "https://www.last.fm/music/Graupel/_/Ekel",
+          "duration": "341",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Entgeistert",
+          "url": "https://www.last.fm/music/Graupel/_/Entgeistert",
+          "duration": "426",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:19.159Z"
+}

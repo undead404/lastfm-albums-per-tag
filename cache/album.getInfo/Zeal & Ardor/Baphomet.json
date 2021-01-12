@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Baphomet",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/Baphomet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c47c2f1ac24542de9cf6d391101f718.png",
+        "size": ""
+      }
+    ],
+    "listeners": "57",
+    "playcount": "189",
+    "tracks": {
+      "track": [
+        {
+          "name": "Baphomet",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/Baphomet",
+          "duration": "194",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:33.428Z"
+}

@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Mirium Occultum",
+    "artist": "Dødsengel",
+    "mbid": "e47325ed-a59a-45ec-9cac-a32c32e7b262",
+    "url": "https://www.last.fm/music/D%C3%B8dsengel/Mirium+Occultum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/618581729d3c4a5491ce1e93536d126d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/618581729d3c4a5491ce1e93536d126d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/618581729d3c4a5491ce1e93536d126d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/618581729d3c4a5491ce1e93536d126d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/618581729d3c4a5491ce1e93536d126d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/618581729d3c4a5491ce1e93536d126d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5956",
+    "playcount": "72736",
+    "tracks": {
+      "track": [
+        {
+          "name": "Azonei Wyrdwalker",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Azonei+Wyrdwalker",
+          "duration": "478",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Evocation of Amezarak",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Evocation+of+Amezarak",
+          "duration": "1178",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Alor Mal Ki",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Alor+Mal+Ki",
+          "duration": "529",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "A Word to Conquer the Aeon",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/A+Word+to+Conquer+the+Aeon",
+          "duration": "490",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Lucifer Ascendant",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Lucifer+Ascendant",
+          "duration": "628",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        },
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:09:51.316Z"
+}

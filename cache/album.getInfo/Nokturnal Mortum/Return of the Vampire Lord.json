@@ -1,0 +1,119 @@
+{
+  "album": {
+    "name": "Return of the Vampire Lord",
+    "artist": "Nokturnal Mortum",
+    "mbid": "e1c2aa3b-4a1c-4824-8e65-552f706fe87d",
+    "url": "https://www.last.fm/music/Nokturnal+Mortum/Return+of+the+Vampire+Lord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/186dbc8c3b76421596293e6da4f8af3b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2257",
+    "playcount": "17046",
+    "tracks": {
+      "track": [
+        {
+          "name": "Return of the Vampire Lord",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Return+of+the+Vampire+Lord",
+          "duration": "693",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Mi Agama Khaz Mifisto",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Mi+Agama+Khaz+Mifisto",
+          "duration": "314",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Crystaline Darkness",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Crystaline+Darkness",
+          "duration": "270",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "Ukrainian",
+          "url": "https://www.last.fm/tag/Ukrainian"
+        },
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:15:24.034Z"
+}

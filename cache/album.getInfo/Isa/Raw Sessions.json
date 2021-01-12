@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Raw Sessions",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Raw+Sessions",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/200104140f758028d82eae6b748b1d6b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/200104140f758028d82eae6b748b1d6b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/200104140f758028d82eae6b748b1d6b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/200104140f758028d82eae6b748b1d6b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/200104140f758028d82eae6b748b1d6b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/200104140f758028d82eae6b748b1d6b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "80",
+    "playcount": "1900",
+    "tracks": {
+      "track": [
+        {
+          "name": "Set My Spirit Free",
+          "url": "https://www.last.fm/music/Isa/_/Set+My+Spirit+Free",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Beautiful",
+          "url": "https://www.last.fm/music/Isa/_/Beautiful",
+          "duration": "213",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Testify",
+          "url": "https://www.last.fm/music/Isa/_/Testify",
+          "duration": "222",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "All That You Dreamed Of",
+          "url": "https://www.last.fm/music/Isa/_/All+That+You+Dreamed+Of",
+          "duration": "249",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Delight",
+          "url": "https://www.last.fm/music/Isa/_/Delight",
+          "duration": "268",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Holy Spirit Come",
+          "url": "https://www.last.fm/music/Isa/_/Holy+Spirit+Come",
+          "duration": "422",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Breathe",
+          "url": "https://www.last.fm/music/Isa/_/Breathe",
+          "duration": "337",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Familiar Song",
+          "url": "https://www.last.fm/music/Isa/_/Familiar+Song",
+          "duration": "129",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Safe Place",
+          "url": "https://www.last.fm/music/Isa/_/Safe+Place",
+          "duration": "431",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Rend The Heavens",
+          "url": "https://www.last.fm/music/Isa/_/Rend+The+Heavens",
+          "duration": "503",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:45.045Z"
+}

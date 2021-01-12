@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Maiastru Sfetnic",
+    "artist": "Negură Bunget",
+    "url": "https://www.last.fm/music/Negur%C4%83+Bunget/Maiastru+Sfetnic",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a2bf1207ea06e4c7ba81fb2ecd849b7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7564",
+    "playcount": "75765",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vremea locului sortit",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Vremea+locului+sortit",
+          "duration": "541",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "În-zvîcnirea apusului",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/%C3%8En-zv%C3%AEcnirea+apusului",
+          "duration": "587",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "A-vînt în abis",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/A-v%C3%AEnt+%C3%AEn+abis",
+          "duration": "363",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Al locului",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Al+locului",
+          "duration": "607",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Bruiestru",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Bruiestru",
+          "duration": "638",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Plecaciunea Mortii",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Plecaciunea+Mortii",
+          "duration": "620",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "1990s",
+          "url": "https://www.last.fm/tag/1990s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:21:21.523Z"
+}

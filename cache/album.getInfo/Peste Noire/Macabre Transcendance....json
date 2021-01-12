@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "Macabre Transcendance...",
+    "artist": "Peste Noire",
+    "mbid": "60cd814e-242b-4a15-b6dc-f9b3192ff394",
+    "url": "https://www.last.fm/music/Peste+Noire/Macabre+Transcendance...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e224428571804f3fcf59fbcae479f787.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e224428571804f3fcf59fbcae479f787.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e224428571804f3fcf59fbcae479f787.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e224428571804f3fcf59fbcae479f787.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e224428571804f3fcf59fbcae479f787.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e224428571804f3fcf59fbcae479f787.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3537",
+    "playcount": "39820",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Intro",
+          "duration": "99",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Le Mort Joyeux",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Le+Mort+Joyeux",
+          "duration": "280",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "666 Millions D'esclaves Et De Déchets",
+          "url": "https://www.last.fm/music/Peste+Noire/_/666+Millions+D%27esclaves+Et+De+D%C3%A9chets",
+          "duration": "454",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Spleen",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Spleen",
+          "duration": "347",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "J'éjaculerai sur vos Décombres Fumants",
+          "url": "https://www.last.fm/music/Peste+Noire/_/J%27%C3%A9jaculerai+sur+vos+D%C3%A9combres+Fumants",
+          "duration": "368",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "french black metal",
+          "url": "https://www.last.fm/tag/french+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:13:50.115Z"
+}

@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "The Truth We Can't Escape",
+    "artist": "Dawn",
+    "url": "https://www.last.fm/music/Dawn/The+Truth+We+Can%27t+Escape",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46a1d2e9f29dad0aeb52fab4cc65c0fe.png",
+        "size": ""
+      }
+    ],
+    "listeners": "569",
+    "playcount": "1465",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Truth We Can't Escape",
+          "url": "https://www.last.fm/music/Dawn/_/The+Truth+We+Can%27t+Escape",
+          "duration": "195",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        },
+        {
+          "name": "The Truth We Can't Escape (Original Mix)",
+          "url": "https://www.last.fm/music/Dawn/_/The+Truth+We+Can%27t+Escape+(Original+Mix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "trance",
+          "url": "https://www.last.fm/tag/trance"
+        },
+        {
+          "name": "asot",
+          "url": "https://www.last.fm/tag/asot"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:40:06.131Z"
+}

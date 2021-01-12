@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Blackcrowned",
+    "artist": "Marduk",
+    "mbid": "5267aeb7-3e68-4f74-b1cb-725f28a4162d",
+    "url": "https://www.last.fm/music/Marduk/Blackcrowned",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d387ad189804c0e99f6338240a4daa4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2338",
+    "playcount": "53261",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bloodletting",
+          "url": "https://www.last.fm/music/Marduk/_/Bloodletting",
+          "duration": "348",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Todeskessel Kurland",
+          "url": "https://www.last.fm/music/Marduk/_/Todeskessel+Kurland",
+          "duration": "152",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Paint It Black",
+          "url": "https://www.last.fm/music/Marduk/_/Paint+It+Black",
+          "duration": "194",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Macabre",
+          "url": "https://www.last.fm/music/Marduk/_/Macabre",
+          "duration": "140",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Baptism By Fire",
+          "url": "https://www.last.fm/music/Marduk/_/Baptism+By+Fire",
+          "duration": "230",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Funeral Bitch",
+          "url": "https://www.last.fm/music/Marduk/_/Funeral+Bitch",
+          "duration": "297",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Dracole Wayda",
+          "url": "https://www.last.fm/music/Marduk/_/Dracole+Wayda",
+          "duration": "247",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Sulphur Souls",
+          "url": "https://www.last.fm/music/Marduk/_/Sulphur+Souls",
+          "duration": "340",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Materialized in Stone",
+          "url": "https://www.last.fm/music/Marduk/_/Materialized+in+Stone",
+          "duration": "310",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Opus Nocturne",
+          "url": "https://www.last.fm/music/Marduk/_/Opus+Nocturne",
+          "duration": "152",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Autumnal Reaper",
+          "url": "https://www.last.fm/music/Marduk/_/Autumnal+Reaper",
+          "duration": "211",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Samhain",
+          "url": "https://www.last.fm/music/Marduk/_/Samhain",
+          "duration": "89",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Hellchild",
+          "url": "https://www.last.fm/music/Marduk/_/Hellchild",
+          "duration": "178",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:55:06.541Z"
+}

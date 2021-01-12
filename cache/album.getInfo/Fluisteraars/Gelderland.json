@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Gelderland",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/Gelderland",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3e3b7c5a3a916ac78998f3f5a30f25f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1241",
+    "playcount": "10251",
+    "tracks": {
+      "track": [
+        {
+          "name": "Zijsselt",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Zijsselt",
+          "duration": "282",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Stuk",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Stuk",
+          "duration": "293",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:41:15.861Z"
+}

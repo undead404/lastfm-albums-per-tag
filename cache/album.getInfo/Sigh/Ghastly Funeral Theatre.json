@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Ghastly Funeral Theatre",
+    "artist": "Sigh",
+    "mbid": "c7a17a17-00ec-4c19-8e89-001734cd9a30",
+    "url": "https://www.last.fm/music/Sigh/Ghastly+Funeral+Theatre",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40bbe2eb3b502c3da26080468182efde.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40bbe2eb3b502c3da26080468182efde.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40bbe2eb3b502c3da26080468182efde.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40bbe2eb3b502c3da26080468182efde.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40bbe2eb3b502c3da26080468182efde.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40bbe2eb3b502c3da26080468182efde.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3659",
+    "playcount": "60669",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro: Soushiki",
+          "url": "https://www.last.fm/music/Sigh/_/Intro:+Soushiki",
+          "duration": "86",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Shingontachikawa",
+          "url": "https://www.last.fm/music/Sigh/_/Shingontachikawa",
+          "duration": "327",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Doman Seman",
+          "url": "https://www.last.fm/music/Sigh/_/Doman+Seman",
+          "duration": "332",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Imiuta",
+          "url": "https://www.last.fm/music/Sigh/_/Imiuta",
+          "duration": "194",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Shikigami",
+          "url": "https://www.last.fm/music/Sigh/_/Shikigami",
+          "duration": "381",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Outro: Higeki",
+          "url": "https://www.last.fm/music/Sigh/_/Outro:+Higeki",
+          "duration": "91",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "Avant-garde Metal",
+          "url": "https://www.last.fm/tag/Avant-garde+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "asian occultism",
+          "url": "https://www.last.fm/tag/asian+occultism"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:18:38.911Z"
+}

@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Grey Rigorism",
+    "artist": "Merrimack",
+    "mbid": "aa204789-488a-4840-9b76-f0c8d0f8f747",
+    "url": "https://www.last.fm/music/Merrimack/Grey+Rigorism",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ece562beebb249d1be14a4eeeed25e7c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4017",
+    "playcount": "74998",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Golden Door",
+          "url": "https://www.last.fm/music/Merrimack/_/The+Golden+Door",
+          "duration": "328",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Omniabsence",
+          "url": "https://www.last.fm/music/Merrimack/_/Omniabsence",
+          "duration": "341",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Kirjath-ra",
+          "url": "https://www.last.fm/music/Merrimack/_/Kirjath-ra",
+          "duration": "414",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "La sainteté du mal",
+          "url": "https://www.last.fm/music/Merrimack/_/La+saintet%C3%A9+du+mal",
+          "duration": "155",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Cold Earth Mourning",
+          "url": "https://www.last.fm/music/Merrimack/_/Cold+Earth+Mourning",
+          "duration": "382",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Grey Rigorism",
+          "url": "https://www.last.fm/music/Merrimack/_/Grey+Rigorism",
+          "duration": "447",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "When the Stars Align",
+          "url": "https://www.last.fm/music/Merrimack/_/When+the+Stars+Align",
+          "duration": "322",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Désaveu",
+          "url": "https://www.last.fm/music/Merrimack/_/D%C3%A9saveu",
+          "duration": "160",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "In the Halls of White Death",
+          "url": "https://www.last.fm/music/Merrimack/_/In+the+Halls+of+White+Death",
+          "duration": "323",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "By thy Grace",
+          "url": "https://www.last.fm/music/Merrimack/_/By+thy+Grace",
+          "duration": "811",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:49:35.100Z"
+}

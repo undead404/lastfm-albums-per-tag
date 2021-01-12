@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Friendship Is Friendship, War Is War!",
+    "artist": "Gloomy Grim",
+    "url": "https://www.last.fm/music/Gloomy+Grim/Friendship+Is+Friendship,+War+Is+War%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a234db7a921843dbc36cd72f36785ccf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "33",
+    "playcount": "259",
+    "tracks": {
+      "track": [
+        {
+          "name": "War",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/War",
+          "duration": "281",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Ashes",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Ashes",
+          "duration": "321",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Blood",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Blood",
+          "duration": "240",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Reign",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Reign",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:47:30.153Z"
+}

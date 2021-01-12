@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Mój Anioł",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/M%C3%B3j+Anio%C5%82",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8cef464e7f64feda971718e576591c4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8cef464e7f64feda971718e576591c4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8cef464e7f64feda971718e576591c4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8cef464e7f64feda971718e576591c4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8cef464e7f64feda971718e576591c4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8cef464e7f64feda971718e576591c4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "78",
+    "playcount": "1000",
+    "tracks": {
+      "track": [
+        {
+          "name": "Raz Jeszcze",
+          "url": "https://www.last.fm/music/Isa/_/Raz+Jeszcze",
+          "duration": "252",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Mój Anioł",
+          "url": "https://www.last.fm/music/Isa/_/M%C3%B3j+Anio%C5%82",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Z Szuflady",
+          "url": "https://www.last.fm/music/Isa/_/Z+Szuflady",
+          "duration": "207",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Taniec Nocy",
+          "url": "https://www.last.fm/music/Isa/_/Taniec+Nocy",
+          "duration": "300",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Słodka Chwila",
+          "url": "https://www.last.fm/music/Isa/_/S%C5%82odka+Chwila",
+          "duration": "183",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Amargo",
+          "url": "https://www.last.fm/music/Isa/_/Amargo",
+          "duration": "236",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Apetyt Na Miłość",
+          "url": "https://www.last.fm/music/Isa/_/Apetyt+Na+Mi%C5%82o%C5%9B%C4%87",
+          "duration": "200",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Skarb",
+          "url": "https://www.last.fm/music/Isa/_/Skarb",
+          "duration": "258",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Sen",
+          "url": "https://www.last.fm/music/Isa/_/Sen",
+          "duration": "189",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Tylko Gra",
+          "url": "https://www.last.fm/music/Isa/_/Tylko+Gra",
+          "duration": "215",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Kolorowy świat",
+          "url": "https://www.last.fm/music/Isa/_/Kolorowy+%C5%9Bwiat",
+          "duration": "246",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Mój Anioł (Angel Mix)",
+          "url": "https://www.last.fm/music/Isa/_/M%C3%B3j+Anio%C5%82+(Angel+Mix)",
+          "duration": "226",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "spokojne",
+          "url": "https://www.last.fm/tag/spokojne"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:32:45.802Z"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Adventus Satanae",
+    "artist": "Horna",
+    "mbid": "3793d328-2811-4bb7-a16f-723fe50ad35b",
+    "url": "https://www.last.fm/music/Horna/Adventus+Satanae",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c37896c8dd57452ca7a16ae7c7e821db.png",
+        "size": ""
+      }
+    ],
+    "listeners": "647",
+    "playcount": "5119",
+    "tracks": {
+      "track": [
+        {
+          "name": "Adventus Satanae",
+          "url": "https://www.last.fm/music/Horna/_/Adventus+Satanae",
+          "duration": "350",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horna",
+            "mbid": "4fa62d5a-89aa-4a5e-b383-b29396eb5c94",
+            "url": "https://www.last.fm/music/Horna"
+          }
+        },
+        {
+          "name": "Mustan Sydämeni Laulu",
+          "url": "https://www.last.fm/music/Horna/_/Mustan+Syd%C3%A4meni+Laulu",
+          "duration": "238",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horna",
+            "mbid": "4fa62d5a-89aa-4a5e-b383-b29396eb5c94",
+            "url": "https://www.last.fm/music/Horna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:23:55.599Z"
+}

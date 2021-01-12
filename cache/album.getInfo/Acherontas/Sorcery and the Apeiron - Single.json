@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Sorcery and the Apeiron - Single",
+    "artist": "Acherontas",
+    "url": "https://www.last.fm/music/Acherontas/Sorcery+and+the+Apeiron+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "27",
+    "playcount": "31",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sorcery and the Apeiron",
+          "url": "https://www.last.fm/music/Acherontas/_/Sorcery+and+the+Apeiron",
+          "duration": "399",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:49:25.767Z"
+}

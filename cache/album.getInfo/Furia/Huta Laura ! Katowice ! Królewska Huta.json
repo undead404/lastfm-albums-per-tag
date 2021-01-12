@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Huta Laura / Katowice / Królewska Huta",
+    "artist": "Furia",
+    "mbid": "6f4fde51-4dc6-4131-8702-36f32c5a33ee",
+    "url": "https://www.last.fm/music/Furia/Huta+Laura+%2F+Katowice+%2F+Kr%C3%B3lewska+Huta",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad077f6b90c7aae0b962f13de909d8a3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "807",
+    "playcount": "27331",
+    "tracks": {
+      "track": [
+        {
+          "name": "Huta Laura",
+          "url": "https://www.last.fm/music/Furia/_/Huta+Laura",
+          "duration": "338",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Katowice",
+          "url": "https://www.last.fm/music/Furia/_/Katowice",
+          "duration": "300",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Królewska Huta",
+          "url": "https://www.last.fm/music/Furia/_/Kr%C3%B3lewska+Huta",
+          "duration": "593",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:40.106Z"
+}

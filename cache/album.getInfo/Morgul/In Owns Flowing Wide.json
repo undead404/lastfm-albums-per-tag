@@ -1,0 +1,125 @@
+{
+  "album": {
+    "name": "In Gowns Flowing Wide",
+    "artist": "Morgul",
+    "mbid": "b90ec359-5a6a-444c-9316-8c73d34b406e",
+    "url": "https://www.last.fm/music/Morgul/In+Gowns+Flowing+Wide",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ff20e729b0d6c95873352c2af489394.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ff20e729b0d6c95873352c2af489394.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ff20e729b0d6c95873352c2af489394.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff20e729b0d6c95873352c2af489394.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff20e729b0d6c95873352c2af489394.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff20e729b0d6c95873352c2af489394.png",
+        "size": ""
+      }
+    ],
+    "listeners": "279",
+    "playcount": "2528",
+    "tracks": {
+      "track": [
+        {
+          "name": "Riket Som Var",
+          "url": "https://www.last.fm/music/Morgul/_/Riket+Som+Var",
+          "duration": "350",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morgul",
+            "mbid": "450bbd22-56d7-46ef-b55a-382e92bf7b1f",
+            "url": "https://www.last.fm/music/Morgul"
+          }
+        },
+        {
+          "name": "... And the Wolves Wept",
+          "url": "https://www.last.fm/music/Morgul/_/...+And+the+Wolves+Wept",
+          "duration": "401",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morgul",
+            "mbid": "450bbd22-56d7-46ef-b55a-382e92bf7b1f",
+            "url": "https://www.last.fm/music/Morgul"
+          }
+        },
+        {
+          "name": "Night's Eternal Majesty",
+          "url": "https://www.last.fm/music/Morgul/_/Night%27s+Eternal+Majesty",
+          "duration": "428",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morgul",
+            "mbid": "450bbd22-56d7-46ef-b55a-382e92bf7b1f",
+            "url": "https://www.last.fm/music/Morgul"
+          }
+        },
+        {
+          "name": "River Of The Princess",
+          "url": "https://www.last.fm/music/Morgul/_/River+Of+The+Princess",
+          "duration": "585",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morgul",
+            "mbid": "450bbd22-56d7-46ef-b55a-382e92bf7b1f",
+            "url": "https://www.last.fm/music/Morgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:18:54.618Z"
+}

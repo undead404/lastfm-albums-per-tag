@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Elsewhere - Single",
+    "artist": "Mamaleek",
+    "url": "https://www.last.fm/music/Mamaleek/Elsewhere+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bcde846db506437785b72ac084931a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bcde846db506437785b72ac084931a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bcde846db506437785b72ac084931a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bcde846db506437785b72ac084931a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bcde846db506437785b72ac084931a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bcde846db506437785b72ac084931a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "37",
+    "playcount": "110",
+    "tracks": {
+      "track": [
+        {
+          "name": "Elsewhere",
+          "url": "https://www.last.fm/music/Mamaleek/_/Elsewhere",
+          "duration": "363",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:43:01.436Z"
+}

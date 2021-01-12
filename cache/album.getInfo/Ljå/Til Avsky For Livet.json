@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Til Avsky For Livet",
+    "artist": "Ljå",
+    "mbid": "36aedd7e-b971-4062-92d2-40dac868445e",
+    "url": "https://www.last.fm/music/Lj%C3%A5/Til+Avsky+For+Livet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06a81c61f513474c9c2fa4eb421c9ea4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17039",
+    "playcount": "238001",
+    "tracks": {
+      "track": [
+        {
+          "name": "Til Satan",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Til+Satan",
+          "duration": "437",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Til Avsky for Livet",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Til+Avsky+for+Livet",
+          "duration": "319",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Et Barn Er Dødt I Betlehem",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Et+Barn+Er+D%C3%B8dt+I+Betlehem",
+          "duration": "414",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Vårtegn",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/V%C3%A5rtegn",
+          "duration": "208",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Tilgi Dem Aldri",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Tilgi+Dem+Aldri",
+          "duration": "364",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Vådeskudd",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/V%C3%A5deskudd",
+          "duration": "264",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Svart",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Svart",
+          "duration": "195",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Granatsjokk",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Granatsjokk",
+          "duration": "154",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Blendende Lys",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Blendende+Lys",
+          "duration": "240",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Gjort Til Djevel",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Gjort+Til+Djevel",
+          "duration": "396",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "True Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/True+Norwegian+Black+Metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:50:10.096Z"
+}

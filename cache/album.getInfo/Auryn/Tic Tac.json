@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Tic Tac",
+    "artist": "Auryn",
+    "url": "https://www.last.fm/music/Auryn/Tic+Tac",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/715a07328e4542a3c2f4602121798a0b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/715a07328e4542a3c2f4602121798a0b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/715a07328e4542a3c2f4602121798a0b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/715a07328e4542a3c2f4602121798a0b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/715a07328e4542a3c2f4602121798a0b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/715a07328e4542a3c2f4602121798a0b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "103",
+    "playcount": "486",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tic Tac",
+          "url": "https://www.last.fm/music/Auryn/_/Tic+Tac",
+          "duration": "225",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:28.828Z"
+}

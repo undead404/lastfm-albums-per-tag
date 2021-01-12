@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Vilsna Andars Boning",
+    "artist": "Grift",
+    "url": "https://www.last.fm/music/Grift/Vilsna+Andars+Boning",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b834b328d1c0f9ef3761fe8c0b0580e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1351",
+    "playcount": "8917",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bortom berget",
+          "url": "https://www.last.fm/music/Grift/_/Bortom+berget",
+          "duration": "292",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Dårarnas massiv",
+          "url": "https://www.last.fm/music/Grift/_/D%C3%A5rarnas+massiv",
+          "duration": "374",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black-folk metal",
+          "url": "https://www.last.fm/tag/black-folk+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:07:52.284Z"
+}

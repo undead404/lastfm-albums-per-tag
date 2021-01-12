@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Lamia",
+    "artist": "Dragonlord",
+    "url": "https://www.last.fm/music/Dragonlord/Lamia",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/800a638c2131fb2f959a293394b1b476.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/800a638c2131fb2f959a293394b1b476.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/800a638c2131fb2f959a293394b1b476.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/800a638c2131fb2f959a293394b1b476.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/800a638c2131fb2f959a293394b1b476.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/800a638c2131fb2f959a293394b1b476.png",
+        "size": ""
+      }
+    ],
+    "listeners": "207",
+    "playcount": "399",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lamia",
+          "url": "https://www.last.fm/music/Dragonlord/_/Lamia",
+          "duration": "255",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dragonlord",
+            "mbid": "fa0e7255-84e1-44a4-9406-3f0a611dbcb9",
+            "url": "https://www.last.fm/music/Dragonlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:07:21.399Z"
+}

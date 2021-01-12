@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Particles - EP",
+    "artist": "Moon",
+    "url": "https://www.last.fm/music/Moon/Particles+-+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2445cc0d054714c74bd631a9039d2978.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2445cc0d054714c74bd631a9039d2978.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2445cc0d054714c74bd631a9039d2978.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2445cc0d054714c74bd631a9039d2978.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2445cc0d054714c74bd631a9039d2978.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2445cc0d054714c74bd631a9039d2978.png",
+        "size": ""
+      }
+    ],
+    "listeners": "350",
+    "playcount": "2668",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dust",
+          "url": "https://www.last.fm/music/Moon/_/Dust",
+          "duration": "302",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "Plus Four",
+          "url": "https://www.last.fm/music/Moon/_/Plus+Four",
+          "duration": "477",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "Warehouse (feat. Glass Teeth)",
+          "url": "https://www.last.fm/music/Moon/_/Warehouse+(feat.+Glass+Teeth)",
+          "duration": "224",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "Delay",
+          "url": "https://www.last.fm/music/Moon/_/Delay",
+          "duration": "496",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:39.343Z"
+}

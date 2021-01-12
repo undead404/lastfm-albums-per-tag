@@ -1,0 +1,553 @@
+{
+  "album": {
+    "name": "Welt In Flammen",
+    "artist": "Goatpenis",
+    "url": "https://www.last.fm/music/Goatpenis/Welt+In+Flammen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50a832d6d6a8c40e33e765a2ec726e2b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "355",
+    "playcount": "13781",
+    "tracks": {
+      "track": [
+        {
+          "name": "Iluding",
+          "url": "https://www.last.fm/music/Goatpenis/_/Iluding",
+          "duration": "92",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Suffering",
+          "url": "https://www.last.fm/music/Goatpenis/_/Suffering",
+          "duration": "50",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Ripping",
+          "url": "https://www.last.fm/music/Goatpenis/_/Ripping",
+          "duration": "99",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Almost Now",
+          "url": "https://www.last.fm/music/Goatpenis/_/Almost+Now",
+          "duration": "74",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Older",
+          "url": "https://www.last.fm/music/Goatpenis/_/Older",
+          "duration": "6",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Bloody Battles",
+          "url": "https://www.last.fm/music/Goatpenis/_/Bloody+Battles",
+          "duration": "72",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "The Rest of Nothing",
+          "url": "https://www.last.fm/music/Goatpenis/_/The+Rest+of+Nothing",
+          "duration": "40",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Suppurated Fetus",
+          "url": "https://www.last.fm/music/Goatpenis/_/Suppurated+Fetus",
+          "duration": "58",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Violento Sarcasmo",
+          "url": "https://www.last.fm/music/Goatpenis/_/Violento+Sarcasmo",
+          "duration": "24",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Segregacao Esquizoide",
+          "url": "https://www.last.fm/music/Goatpenis/_/Segregacao+Esquizoide",
+          "duration": "32",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Genesis Ch2, V7",
+          "url": "https://www.last.fm/music/Goatpenis/_/Genesis+Ch2,+V7",
+          "duration": "95",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Peccavi",
+          "url": "https://www.last.fm/music/Goatpenis/_/Peccavi",
+          "duration": "70",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Lord of Wrong",
+          "url": "https://www.last.fm/music/Goatpenis/_/Lord+of+Wrong",
+          "duration": "170",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "In Articulo Mortis",
+          "url": "https://www.last.fm/music/Goatpenis/_/In+Articulo+Mortis",
+          "duration": "118",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Insufferable",
+          "url": "https://www.last.fm/music/Goatpenis/_/Insufferable",
+          "duration": "144",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Pray for God",
+          "url": "https://www.last.fm/music/Goatpenis/_/Pray+for+God",
+          "duration": "176",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Ortni",
+          "url": "https://www.last.fm/music/Goatpenis/_/Ortni",
+          "duration": "108",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Sucrop Cinatas",
+          "url": "https://www.last.fm/music/Goatpenis/_/Sucrop+Cinatas",
+          "duration": "144",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Shavohej Defeated",
+          "url": "https://www.last.fm/music/Goatpenis/_/Shavohej+Defeated",
+          "duration": "223",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Kcalb Mood",
+          "url": "https://www.last.fm/music/Goatpenis/_/Kcalb+Mood",
+          "duration": "159",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Eht Tsrow Sdrow",
+          "url": "https://www.last.fm/music/Goatpenis/_/Eht+Tsrow+Sdrow",
+          "duration": "239",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Roman Revenge",
+          "url": "https://www.last.fm/music/Goatpenis/_/Roman+Revenge",
+          "duration": "270",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "High Temperature Fires",
+          "url": "https://www.last.fm/music/Goatpenis/_/High+Temperature+Fires",
+          "duration": "183",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Black Rain",
+          "url": "https://www.last.fm/music/Goatpenis/_/Black+Rain",
+          "duration": "221",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Machine Voidness",
+          "url": "https://www.last.fm/music/Goatpenis/_/Machine+Voidness",
+          "duration": "119",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Lethal Binary Chemical Munitions",
+          "url": "https://www.last.fm/music/Goatpenis/_/Lethal+Binary+Chemical+Munitions",
+          "duration": "78",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "ICBM",
+          "url": "https://www.last.fm/music/Goatpenis/_/ICBM",
+          "duration": "180",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Homo Hommini Lupus",
+          "url": "https://www.last.fm/music/Goatpenis/_/Homo+Hommini+Lupus",
+          "duration": "148",
+          "@attr": {
+            "rank": "32"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Biochemical Annihilation",
+          "url": "https://www.last.fm/music/Goatpenis/_/Biochemical+Annihilation",
+          "duration": "119",
+          "@attr": {
+            "rank": "33"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        },
+        {
+          "name": "Homo Hommini Lupus",
+          "url": "https://www.last.fm/music/Goatpenis/_/Homo+Hommini+Lupus",
+          "duration": "148",
+          "@attr": {
+            "rank": "35"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatpenis",
+            "mbid": "7dcd4995-5360-46b0-bfb1-0a8e9f8a3e07",
+            "url": "https://www.last.fm/music/Goatpenis"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:53:17.145Z"
+}

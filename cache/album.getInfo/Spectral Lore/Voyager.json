@@ -1,0 +1,192 @@
+{
+  "album": {
+    "name": "Voyager",
+    "artist": "Spectral Lore",
+    "url": "https://www.last.fm/music/Spectral+Lore/Voyager",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7754c3b2ad4844c1491817f1916ffe4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "350",
+    "playcount": "7700",
+    "tracks": {
+      "track": [
+        {
+          "name": "Experimental Spectroscopy (Light Years Away)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Experimental+Spectroscopy+(Light+Years+Away)",
+          "duration": "222",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Voyager (Mission Launch)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Voyager+(Mission+Launch)",
+          "duration": "364",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Relic Radiation (Remnants of History)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Relic+Radiation+(Remnants+of+History)",
+          "duration": "215",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Destination (Arrival & Terraforming)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Destination+(Arrival+&+Terraforming)",
+          "duration": "336",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Trespassing into the Event Horizon (The Calling)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Trespassing+into+the+Event+Horizon+(The+Calling)",
+          "duration": "266",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Asteroid Mining (Abandoned Space)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Asteroid+Mining+(Abandoned+Space)",
+          "duration": "245",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Interstellar Cloud Attraction (A Dialogue)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Interstellar+Cloud+Attraction+(A+Dialogue)",
+          "duration": "450",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Sun Drone (Warrior of Light)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Sun+Drone+(Warrior+of+Light)",
+          "duration": "517",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "Space Ambient",
+          "url": "https://www.last.fm/tag/Space+Ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:12:05.319Z"
+}

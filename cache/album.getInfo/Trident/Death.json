@@ -1,0 +1,47 @@
+{
+  "album": {
+    "name": "Death",
+    "artist": "Trident",
+    "url": "https://www.last.fm/music/Trident/Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f514ed6c4f4b50d69657f2a58b1fe6e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "47",
+    "playcount": "86",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:35:51.963Z"
+}

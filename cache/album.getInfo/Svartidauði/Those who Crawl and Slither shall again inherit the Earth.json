@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Those who Crawl and Slither shall again inherit the Earth",
+    "artist": "Svartidauði",
+    "mbid": "405aa5f1-d9a0-4f05-ae3f-f0c60850183f",
+    "url": "https://www.last.fm/music/Svartidau%C3%B0i/Those+who+Crawl+and+Slither+shall+again+inherit+the+Earth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c874898068b04389c3b7413510a6b13e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c874898068b04389c3b7413510a6b13e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c874898068b04389c3b7413510a6b13e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c874898068b04389c3b7413510a6b13e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c874898068b04389c3b7413510a6b13e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c874898068b04389c3b7413510a6b13e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "957",
+    "playcount": "6147",
+    "tracks": {
+      "track": [
+        {
+          "name": "Flesh Cathedral",
+          "url": "https://www.last.fm/music/Svartidau%C3%B0i/_/Flesh+Cathedral",
+          "duration": "684",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartidauði",
+            "mbid": "5b67060c-6ec8-4ee8-9783-2207c169402d",
+            "url": "https://www.last.fm/music/Svartidau%C3%B0i"
+          }
+        },
+        {
+          "name": "The Perpetual Nothing",
+          "url": "https://www.last.fm/music/Svartidau%C3%B0i/_/The+Perpetual+Nothing",
+          "duration": "633",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartidauði",
+            "mbid": "5b67060c-6ec8-4ee8-9783-2207c169402d",
+            "url": "https://www.last.fm/music/Svartidau%C3%B0i"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        },
+        {
+          "name": "icelandic black metal",
+          "url": "https://www.last.fm/tag/icelandic+black+metal"
+        },
+        {
+          "name": "terratur possessions",
+          "url": "https://www.last.fm/tag/terratur+possessions"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:15:48.597Z"
+}

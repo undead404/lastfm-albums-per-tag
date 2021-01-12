@@ -1,0 +1,375 @@
+{
+  "album": {
+    "name": "Anomaly",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/Anomaly",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3c4a305773078fb3c4b8bae4a0e9aa9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "266",
+    "playcount": "3423",
+    "tracks": {
+      "track": [
+        {
+          "name": "black ice",
+          "url": "https://www.last.fm/music/Ancst/_/black+ice",
+          "duration": "370",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "delusions in the deep",
+          "url": "https://www.last.fm/music/Ancst/_/delusions+in+the+deep",
+          "duration": "332",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "abyssal magma",
+          "url": "https://www.last.fm/music/Ancst/_/abyssal+magma",
+          "duration": "332",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "abandoned shore",
+          "url": "https://www.last.fm/music/Ancst/_/abandoned+shore",
+          "duration": "370",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "longing for obliteration",
+          "url": "https://www.last.fm/music/Ancst/_/longing+for+obliteration",
+          "duration": "584",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "dystopian dreams",
+          "url": "https://www.last.fm/music/Ancst/_/dystopian+dreams",
+          "duration": "542",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "dune ghosts",
+          "url": "https://www.last.fm/music/Ancst/_/dune+ghosts",
+          "duration": "346",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Arctic Waste",
+          "url": "https://www.last.fm/music/Ancst/_/Arctic+Waste",
+          "duration": "572",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "emerging echoes",
+          "url": "https://www.last.fm/music/Ancst/_/emerging+echoes",
+          "duration": "538",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "scourge of yuggoth",
+          "url": "https://www.last.fm/music/Ancst/_/scourge+of+yuggoth",
+          "duration": "508",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "lamenting a dying world",
+          "url": "https://www.last.fm/music/Ancst/_/lamenting+a+dying+world",
+          "duration": "710",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Extinction",
+          "url": "https://www.last.fm/music/Ancst/_/Extinction",
+          "duration": "327",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Defunct Portal",
+          "url": "https://www.last.fm/music/Ancst/_/Defunct+Portal",
+          "duration": "615",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Road To Anxiety",
+          "url": "https://www.last.fm/music/Ancst/_/Road+To+Anxiety",
+          "duration": "484",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Midnight Storm",
+          "url": "https://www.last.fm/music/Ancst/_/Midnight+Storm",
+          "duration": "628",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Wasteland Shrine",
+          "url": "https://www.last.fm/music/Ancst/_/Wasteland+Shrine",
+          "duration": "489",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "cosmic circle",
+          "url": "https://www.last.fm/music/Ancst/_/cosmic+circle",
+          "duration": "566",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "frozen giants",
+          "url": "https://www.last.fm/music/Ancst/_/frozen+giants",
+          "duration": "594",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "shadows of eternity",
+          "url": "https://www.last.fm/music/Ancst/_/shadows+of+eternity",
+          "duration": "1234",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:58:58.936Z"
+}

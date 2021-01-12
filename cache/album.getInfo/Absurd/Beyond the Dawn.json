@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Beyond the Dawn",
+    "artist": "Absurd",
+    "mbid": "c95f64f4-3fc4-4079-a41e-2ae9f5695d90",
+    "url": "https://www.last.fm/music/Absurd/Beyond+the+Dawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d7789ca4f0ebd5ac7fb42f2c20e9fd2c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "240",
+    "playcount": "1445",
+    "tracks": {
+      "track": [
+        {
+          "name": "Where Time Has Died Away",
+          "url": "https://www.last.fm/music/Absurd/_/Where+Time+Has+Died+Away",
+          "duration": "271",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Heterodox",
+          "url": "https://www.last.fm/music/Absurd/_/Heterodox",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Beyond the Dawn",
+          "url": "https://www.last.fm/music/Absurd/_/Beyond+the+Dawn",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "No Return",
+          "url": "https://www.last.fm/music/Absurd/_/No+Return",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:31.803Z"
+}

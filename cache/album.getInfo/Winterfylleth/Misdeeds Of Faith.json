@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Misdeeds Of Faith",
+    "artist": "Winterfylleth",
+    "url": "https://www.last.fm/music/Winterfylleth/Misdeeds+Of+Faith",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/967cffc0e929210062acb9c5cacb186b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/967cffc0e929210062acb9c5cacb186b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/967cffc0e929210062acb9c5cacb186b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/967cffc0e929210062acb9c5cacb186b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/967cffc0e929210062acb9c5cacb186b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/967cffc0e929210062acb9c5cacb186b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1822",
+    "playcount": "3298",
+    "tracks": {
+      "track": [
+        {
+          "name": "Misdeeds Of Faith",
+          "url": "https://www.last.fm/music/Winterfylleth/_/Misdeeds+Of+Faith",
+          "duration": "342",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Winterfylleth",
+            "mbid": "59c00a37-e7e7-4375-9324-61214a7bdba5",
+            "url": "https://www.last.fm/music/Winterfylleth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:33.447Z"
+}

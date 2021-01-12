@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Know Me - Single",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/Know+Me+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ef41ba53cdb5d708fc838e902e99f98.png",
+        "size": ""
+      }
+    ],
+    "listeners": "565",
+    "playcount": "3259",
+    "tracks": {
+      "track": [
+        {
+          "name": "Know Me",
+          "url": "https://www.last.fm/music/NAV/_/Know+Me",
+          "duration": "155",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:52:12.916Z"
+}

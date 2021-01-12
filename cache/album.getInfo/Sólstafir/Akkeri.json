@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Akkeri",
+    "artist": "Sólstafir",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/Akkeri",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2781a524af19287f13b712f8d0d49212.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2781a524af19287f13b712f8d0d49212.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2781a524af19287f13b712f8d0d49212.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2781a524af19287f13b712f8d0d49212.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2781a524af19287f13b712f8d0d49212.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2781a524af19287f13b712f8d0d49212.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5665",
+    "playcount": "11992",
+    "tracks": {
+      "track": [
+        {
+          "name": "Akkeri",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Akkeri",
+          "duration": "610",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:51.838Z"
+}

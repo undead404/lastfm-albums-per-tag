@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "Traditionalisme",
+    "artist": "Forteresse",
+    "mbid": "671f09a0-130a-4052-987d-933084470bee",
+    "url": "https://www.last.fm/music/Forteresse/Traditionalisme",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9998e307ecda40898010229eda8697e3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9998e307ecda40898010229eda8697e3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9998e307ecda40898010229eda8697e3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9998e307ecda40898010229eda8697e3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9998e307ecda40898010229eda8697e3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9998e307ecda40898010229eda8697e3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1073",
+    "playcount": "9002",
+    "tracks": {
+      "track": [
+        {
+          "name": "Traditionalisme",
+          "url": "https://www.last.fm/music/Forteresse/_/Traditionalisme",
+          "duration": "353",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        },
+        {
+          "name": "Forêt D'automne",
+          "url": "https://www.last.fm/music/Forteresse/_/For%C3%AAt+D%27automne",
+          "duration": "294",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forteresse",
+            "mbid": "c8dfa910-2ca2-4365-8ada-92df77d210d4",
+            "url": "https://www.last.fm/music/Forteresse"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "5",
+          "url": "https://www.last.fm/tag/5"
+        },
+        {
+          "name": "sepulchral",
+          "url": "https://www.last.fm/tag/sepulchral"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:54:05.299Z"
+}

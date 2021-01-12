@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Betrayed",
+    "artist": "Abyssic Hate",
+    "mbid": "0c48fa1a-829c-46a8-a839-66a47674a315",
+    "url": "https://www.last.fm/music/Abyssic+Hate/Betrayed",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9f8509e7641944d2b8cd670e467ac4db.png",
+        "size": ""
+      }
+    ],
+    "listeners": "773",
+    "playcount": "3197",
+    "tracks": {
+      "track": [
+        {
+          "name": "Betrayed",
+          "url": "https://www.last.fm/music/Abyssic+Hate/_/Betrayed",
+          "duration": "704",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abyssic Hate",
+            "mbid": "4daca06a-d7b7-4368-bb33-9c09301cbef3",
+            "url": "https://www.last.fm/music/Abyssic+Hate"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:10:25.474Z"
+}

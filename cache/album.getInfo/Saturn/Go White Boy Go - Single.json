@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Go White Boy Go - Single",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/Go+White+Boy+Go+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d610549ce574e428d0fd2945a9c47ee.png",
+        "size": ""
+      }
+    ],
+    "listeners": "97",
+    "playcount": "829",
+    "tracks": {
+      "track": [
+        {
+          "name": "go white boy go",
+          "url": "https://www.last.fm/music/Saturn/_/go+white+boy+go",
+          "duration": "101",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:45:11.870Z"
+}

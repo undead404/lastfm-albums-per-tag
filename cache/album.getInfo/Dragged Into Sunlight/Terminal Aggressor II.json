@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Terminal Aggressor II",
+    "artist": "Dragged Into Sunlight",
+    "url": "https://www.last.fm/music/Dragged+Into+Sunlight/Terminal+Aggressor+II",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1bc9a46a24ab8bd3424f26638c9ded3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2138",
+    "playcount": "5290",
+    "tracks": {
+      "track": [
+        {
+          "name": "Terminal Aggressor II",
+          "url": "https://www.last.fm/music/Dragged+Into+Sunlight/_/Terminal+Aggressor+II",
+          "duration": "1720",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dragged Into Sunlight",
+            "mbid": "a9748b2c-4bb5-47ec-a113-ae7316fbce17",
+            "url": "https://www.last.fm/music/Dragged+Into+Sunlight"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:34.861Z"
+}

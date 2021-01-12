@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Unchain My Soul",
+    "artist": "Dark Funeral",
+    "url": "https://www.last.fm/music/Dark+Funeral/Unchain+My+Soul",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef59aef1780e3e2ceecb0029d97642b9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3056",
+    "playcount": "7572",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unchain My Soul",
+          "url": "https://www.last.fm/music/Dark+Funeral/_/Unchain+My+Soul",
+          "duration": "320",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Funeral",
+            "mbid": "7561ff6c-2ab7-4776-9a9a-662f23b2effc",
+            "url": "https://www.last.fm/music/Dark+Funeral"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:05:45.860Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Loathe Forever",
+    "artist": "Okkultokrati",
+    "url": "https://www.last.fm/music/Okkultokrati/Loathe+Forever",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6673b128ff6e61f9d27c261396a7cd6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "274",
+    "playcount": "485",
+    "tracks": {
+      "track": [
+        {
+          "name": "Loathe Forever",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Loathe+Forever",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:43:21.038Z"
+}

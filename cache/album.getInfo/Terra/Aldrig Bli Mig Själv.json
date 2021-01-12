@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Aldrig Bli Mig Själv",
+    "artist": "Terra",
+    "url": "https://www.last.fm/music/Terra/Aldrig+Bli+Mig+Sj%C3%A4lv",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1190",
+    "playcount": "6272",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aldrig Bli Mig Själv",
+          "url": "https://www.last.fm/music/Terra/_/Aldrig+Bli+Mig+Sj%C3%A4lv",
+          "duration": "216",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Terra",
+            "mbid": "c52e44ca-71b8-4095-9d6e-503b550f74f3",
+            "url": "https://www.last.fm/music/Terra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:15:04.789Z"
+}

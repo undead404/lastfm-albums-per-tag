@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Ingen Veit Alt",
+    "artist": "Okkultokrati",
+    "mbid": "16b1b791-1bf8-351c-a79c-eb76495ecfa2",
+    "url": "https://www.last.fm/music/Okkultokrati/Ingen+Veit+Alt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e144a46892e74ec09feb4616b9760231.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e144a46892e74ec09feb4616b9760231.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e144a46892e74ec09feb4616b9760231.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e144a46892e74ec09feb4616b9760231.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e144a46892e74ec09feb4616b9760231.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e144a46892e74ec09feb4616b9760231.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1050",
+    "playcount": "11810",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ingen Veit Alt",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Ingen+Veit+Alt",
+          "duration": "70",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Triumph of Meth",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Triumph+of+Meth",
+          "duration": "112",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Witch House",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Witch+House",
+          "duration": "205",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Upon The Anvil",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Upon+The+Anvil",
+          "duration": "205",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "No Glass",
+          "url": "https://www.last.fm/music/Okkultokrati/_/No+Glass",
+          "duration": "105",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:43:15.150Z"
+}

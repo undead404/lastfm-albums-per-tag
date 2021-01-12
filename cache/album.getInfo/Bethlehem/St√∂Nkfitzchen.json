@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "St√∂Nkfitzchen",
+    "artist": "Bethlehem",
+    "url": "https://www.last.fm/music/Bethlehem/St%E2%88%9A%E2%88%82Nkfitzchen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eab955b1363cfcf52e0815312dcb7dbf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "160",
+    "playcount": "896",
+    "tracks": {
+      "track": [
+        {
+          "name": "Was ihr seid, das waren wir - Was wir sind, das werdet ihr",
+          "url": "https://www.last.fm/music/Bethlehem/_/Was+ihr+seid,+das+waren+wir+-+Was+wir+sind,+das+werdet+ihr",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Kalt regelt ab die Krankgeburt",
+          "url": "https://www.last.fm/music/Bethlehem/_/Kalt+regelt+ab+die+Krankgeburt",
+          "duration": "295",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Yesterday I Already Died Today",
+          "url": "https://www.last.fm/music/Bethlehem/_/Yesterday+I+Already+Died+Today",
+          "duration": "295",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Kandierte Verlosung zu Ross",
+          "url": "https://www.last.fm/music/Bethlehem/_/Kandierte+Verlosung+zu+Ross",
+          "duration": "255",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Pillerthrillaren",
+          "url": "https://www.last.fm/music/Bethlehem/_/Pillerthrillaren",
+          "duration": "336",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "The 11th Hour",
+          "url": "https://www.last.fm/music/Bethlehem/_/The+11th+Hour",
+          "duration": "389",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:36:28.934Z"
+}

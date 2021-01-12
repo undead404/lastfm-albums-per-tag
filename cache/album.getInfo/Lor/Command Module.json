@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Command Module",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Command+Module",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "7",
+    "playcount": "12",
+    "tracks": {
+      "track": [
+        {
+          "name": "Command Module",
+          "url": "https://www.last.fm/music/Lor/_/Command+Module",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:14:02.629Z"
+}

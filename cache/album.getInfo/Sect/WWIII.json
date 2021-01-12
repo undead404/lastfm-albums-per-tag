@@ -1,0 +1,51 @@
+{
+  "album": {
+    "name": "WWIII",
+    "artist": "Sect",
+    "url": "https://www.last.fm/music/Sect/WWIII",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/274bd67f5af7443a8aff34d25e4dda66.png",
+        "size": ""
+      }
+    ],
+    "listeners": "730",
+    "playcount": "14408",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Russian Black Metal",
+          "url": "https://www.last.fm/tag/Russian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:23:21.876Z"
+}

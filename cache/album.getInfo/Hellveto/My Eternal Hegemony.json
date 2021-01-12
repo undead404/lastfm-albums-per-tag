@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "My Eternal Hegemony",
+    "artist": "Hellveto",
+    "mbid": "a56fc7b5-74e6-4a62-baab-b3663308b211",
+    "url": "https://www.last.fm/music/Hellveto/My+Eternal+Hegemony",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/370dbbe017f6471dc759782456a613c0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/370dbbe017f6471dc759782456a613c0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/370dbbe017f6471dc759782456a613c0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/370dbbe017f6471dc759782456a613c0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/370dbbe017f6471dc759782456a613c0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/370dbbe017f6471dc759782456a613c0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "100",
+    "playcount": "1298",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro - Prediction From the Past",
+          "url": "https://www.last.fm/music/Hellveto/_/Intro+-+Prediction+From+the+Past",
+          "duration": "155",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Dziz Nastal Nasz Czas",
+          "url": "https://www.last.fm/music/Hellveto/_/Dziz+Nastal+Nasz+Czas",
+          "duration": "175",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Despair of His Evil",
+          "url": "https://www.last.fm/music/Hellveto/_/Despair+of+His+Evil",
+          "duration": "390",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "On the Ruins of Burning Kingdom",
+          "url": "https://www.last.fm/music/Hellveto/_/On+the+Ruins+of+Burning+Kingdom",
+          "duration": "330",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Mscil Sie Bede",
+          "url": "https://www.last.fm/music/Hellveto/_/Mscil+Sie+Bede",
+          "duration": "335",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Outro - Our Victory!",
+          "url": "https://www.last.fm/music/Hellveto/_/Outro+-+Our+Victory%21",
+          "duration": "146",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:21:52.671Z"
+}

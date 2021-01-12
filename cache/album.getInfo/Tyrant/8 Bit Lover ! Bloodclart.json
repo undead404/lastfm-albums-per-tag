@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "8 Bit Lover / Bloodclart",
+    "artist": "Tyrant",
+    "url": "https://www.last.fm/music/Tyrant/8+Bit+Lover+%2F+Bloodclart",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "93",
+    "playcount": "170",
+    "tracks": {
+      "track": [
+        {
+          "name": "8 Bit Lover",
+          "url": "https://www.last.fm/music/Tyrant/_/8+Bit+Lover",
+          "duration": "324",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Bloodclart",
+          "url": "https://www.last.fm/music/Tyrant/_/Bloodclart",
+          "duration": "401",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:09:42.322Z"
+}

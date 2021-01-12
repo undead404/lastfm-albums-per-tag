@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "Dark Space Clutter",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/Dark+Space+Clutter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4530b90bfa988410e7c36d64981b670.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4530b90bfa988410e7c36d64981b670.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4530b90bfa988410e7c36d64981b670.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4530b90bfa988410e7c36d64981b670.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4530b90bfa988410e7c36d64981b670.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4530b90bfa988410e7c36d64981b670.png",
+        "size": ""
+      }
+    ],
+    "listeners": "173",
+    "playcount": "541",
+    "tracks": {
+      "track": [
+        {
+          "name": "emerging echoes",
+          "url": "https://www.last.fm/music/Ancst/_/emerging+echoes",
+          "duration": "538",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "scourge of yuggoth",
+          "url": "https://www.last.fm/music/Ancst/_/scourge+of+yuggoth",
+          "duration": "508",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "germany",
+          "url": "https://www.last.fm/tag/germany"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:59:03.353Z"
+}

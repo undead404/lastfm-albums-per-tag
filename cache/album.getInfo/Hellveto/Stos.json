@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Stos",
+    "artist": "Hellveto",
+    "mbid": "f180e530-1b04-44d4-8532-24f1b675f160",
+    "url": "https://www.last.fm/music/Hellveto/Stos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7239eec33b949fec9f88d1776266b7f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "942",
+    "playcount": "15205",
+    "tracks": {
+      "track": [
+        {
+          "name": "Daję wam swoją śmierć",
+          "url": "https://www.last.fm/music/Hellveto/_/Daj%C4%99+wam+swoj%C4%85+%C5%9Bmier%C4%87",
+          "duration": "569",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Zdrada!",
+          "url": "https://www.last.fm/music/Hellveto/_/Zdrada%21",
+          "duration": "429",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "W Czarnym Habicie Obłudy",
+          "url": "https://www.last.fm/music/Hellveto/_/W+Czarnym+Habicie+Ob%C5%82udy",
+          "duration": "393",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Opętany Przeszłością",
+          "url": "https://www.last.fm/music/Hellveto/_/Op%C4%99tany+Przesz%C5%82o%C5%9Bci%C4%85",
+          "duration": "229",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Przyrzekam Wam...",
+          "url": "https://www.last.fm/music/Hellveto/_/Przyrzekam+Wam...",
+          "duration": "579",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Skazany Na Prawdę",
+          "url": "https://www.last.fm/music/Hellveto/_/Skazany+Na+Prawd%C4%99",
+          "duration": "441",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "slavic pagan metal",
+          "url": "https://www.last.fm/tag/slavic+pagan+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:21:42.598Z"
+}

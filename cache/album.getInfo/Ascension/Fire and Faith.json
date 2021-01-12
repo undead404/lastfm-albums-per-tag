@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Fire and Faith",
+    "artist": "Ascension",
+    "mbid": "294b85ac-0895-41a9-8901-e9bb47ac251b",
+    "url": "https://www.last.fm/music/Ascension/Fire+and+Faith",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fab0e975d3ab446dc455a5e9ffcd4987.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1387",
+    "playcount": "19433",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fire and Faith",
+          "url": "https://www.last.fm/music/Ascension/_/Fire+and+Faith",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Come from the Shadows",
+          "url": "https://www.last.fm/music/Ascension/_/Come+from+the+Shadows",
+          "duration": "302",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "207 Torches",
+          "url": "https://www.last.fm/music/Ascension/_/207+Torches",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:33:21.441Z"
+}

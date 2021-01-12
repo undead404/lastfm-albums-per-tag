@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "MMIX",
+    "artist": "Caïna",
+    "url": "https://www.last.fm/music/Ca%C3%AFna/MMIX",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/949c0d207c464287c284b2be4f9c567c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/949c0d207c464287c284b2be4f9c567c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/949c0d207c464287c284b2be4f9c567c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/949c0d207c464287c284b2be4f9c567c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/949c0d207c464287c284b2be4f9c567c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/949c0d207c464287c284b2be4f9c567c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "39",
+    "playcount": "272",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Approaching Chastisement",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/The+Approaching+Chastisement",
+          "duration": "217",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Drilling the Spire",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Drilling+the+Spire",
+          "duration": "425",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "To Pluck the Night Up by its Skin",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/To+Pluck+the+Night+Up+by+its+Skin",
+          "duration": "498",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "You Worship the Wrong Carpenter",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/You+Worship+the+Wrong+Carpenter",
+          "duration": "507",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:21:38.511Z"
+}

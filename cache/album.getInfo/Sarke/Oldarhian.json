@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Oldarhian",
+    "artist": "Sarke",
+    "mbid": "e9712029-8e23-45a9-85ec-bed9b807138c",
+    "url": "https://www.last.fm/music/Sarke/Oldarhian",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f3c2671b017443981a80ed181715196.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f3c2671b017443981a80ed181715196.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f3c2671b017443981a80ed181715196.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f3c2671b017443981a80ed181715196.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f3c2671b017443981a80ed181715196.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f3c2671b017443981a80ed181715196.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3926",
+    "playcount": "84532",
+    "tracks": {
+      "track": [
+        {
+          "name": "Condemned",
+          "url": "https://www.last.fm/music/Sarke/_/Condemned",
+          "duration": "225",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Pilgrim of the Occult",
+          "url": "https://www.last.fm/music/Sarke/_/Pilgrim+of+the+Occult",
+          "duration": "261",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Pessimist",
+          "url": "https://www.last.fm/music/Sarke/_/Pessimist",
+          "duration": "260",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Passage to Oldarhian",
+          "url": "https://www.last.fm/music/Sarke/_/Passage+to+Oldarhian",
+          "duration": "251",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Flay the Wolf",
+          "url": "https://www.last.fm/music/Sarke/_/Flay+the+Wolf",
+          "duration": "189",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Captured",
+          "url": "https://www.last.fm/music/Sarke/_/Captured",
+          "duration": "277",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Paradigm Lost",
+          "url": "https://www.last.fm/music/Sarke/_/Paradigm+Lost",
+          "duration": "209",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Novel Dawn",
+          "url": "https://www.last.fm/music/Sarke/_/Novel+Dawn",
+          "duration": "255",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Burning of the Monoliths",
+          "url": "https://www.last.fm/music/Sarke/_/Burning+of+the+Monoliths",
+          "duration": "268",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "The Stranger Brew",
+          "url": "https://www.last.fm/music/Sarke/_/The+Stranger+Brew",
+          "duration": "245",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:37:21.806Z"
+}

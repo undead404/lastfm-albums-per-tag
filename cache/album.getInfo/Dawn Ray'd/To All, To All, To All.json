@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "To All, To All, To All!",
+    "artist": "Dawn Ray'd",
+    "url": "https://www.last.fm/music/Dawn+Ray%27d/To+All,+To+All,+To+All%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4da42536aa83f84e9bf88142c995261.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4da42536aa83f84e9bf88142c995261.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4da42536aa83f84e9bf88142c995261.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4da42536aa83f84e9bf88142c995261.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4da42536aa83f84e9bf88142c995261.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4da42536aa83f84e9bf88142c995261.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1328",
+    "playcount": "2396",
+    "tracks": {
+      "track": [
+        {
+          "name": "To All, To All, To All!",
+          "url": "https://www.last.fm/music/Dawn+Ray%27d/_/To+All,+To+All,+To+All%21",
+          "duration": "238",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn Ray'd",
+            "url": "https://www.last.fm/music/Dawn+Ray%27d"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:58:40.454Z"
+}

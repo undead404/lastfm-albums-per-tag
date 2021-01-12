@@ -1,0 +1,259 @@
+{
+  "album": {
+    "name": "Knochenkult",
+    "artist": "Eisregen",
+    "mbid": "0145dfbc-9da0-48c0-9df5-5061394191bc",
+    "url": "https://www.last.fm/music/Eisregen/Knochenkult",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e5e11658bbb4a94acf089b9bab61791.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8094",
+    "playcount": "386561",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stahlschwarzschwanger",
+          "url": "https://www.last.fm/music/Eisregen/_/Stahlschwarzschwanger",
+          "duration": "369",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Treibjagd",
+          "url": "https://www.last.fm/music/Eisregen/_/Treibjagd",
+          "duration": "303",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Erscheine!",
+          "url": "https://www.last.fm/music/Eisregen/_/Erscheine%21",
+          "duration": "370",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Das Liebe Beil",
+          "url": "https://www.last.fm/music/Eisregen/_/Das+Liebe+Beil",
+          "duration": "329",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "19 Nägel für Sophie",
+          "url": "https://www.last.fm/music/Eisregen/_/19+N%C3%A4gel+f%C3%BCr+Sophie",
+          "duration": "302",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Sei Fleisch und Fleisch sei tot",
+          "url": "https://www.last.fm/music/Eisregen/_/Sei+Fleisch+und+Fleisch+sei+tot",
+          "duration": "168",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Schwarzer Gigolo",
+          "url": "https://www.last.fm/music/Eisregen/_/Schwarzer+Gigolo",
+          "duration": "273",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Süßfleisches Nachtgebet",
+          "url": "https://www.last.fm/music/Eisregen/_/S%C3%BC%C3%9Ffleisches+Nachtgebet",
+          "duration": "352",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Das letzte Haus am Ende der Einbahnstraße",
+          "url": "https://www.last.fm/music/Eisregen/_/Das+letzte+Haus+am+Ende+der+Einbahnstra%C3%9Fe",
+          "duration": "190",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Knochenkult",
+          "url": "https://www.last.fm/music/Eisregen/_/Knochenkult",
+          "duration": "318",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Blut ist Leben",
+          "url": "https://www.last.fm/music/Eisregen/_/Blut+ist+Leben",
+          "duration": "127",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2000s",
+          "url": "https://www.last.fm/tag/2000s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:23.099Z"
+}

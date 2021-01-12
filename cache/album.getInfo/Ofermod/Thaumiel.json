@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Thaumiel",
+    "artist": "Ofermod",
+    "mbid": "8d8a2684-4977-4989-af6b-93103f362112",
+    "url": "https://www.last.fm/music/Ofermod/Thaumiel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35353e3188141aba9bb8bffc55e4a79.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4119",
+    "playcount": "75616",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sisters Of Rapture And Pestilence",
+          "url": "https://www.last.fm/music/Ofermod/_/Sisters+Of+Rapture+And+Pestilence",
+          "duration": "462",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Black Gate",
+          "url": "https://www.last.fm/music/Ofermod/_/Black+Gate",
+          "duration": "339",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Calling Of Setnacht: Twofold Triunity",
+          "url": "https://www.last.fm/music/Ofermod/_/Calling+Of+Setnacht:+Twofold+Triunity",
+          "duration": "392",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Undead Moon",
+          "url": "https://www.last.fm/music/Ofermod/_/Undead+Moon",
+          "duration": "316",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Prayers Unto Warped Eternities",
+          "url": "https://www.last.fm/music/Ofermod/_/Prayers+Unto+Warped+Eternities",
+          "duration": "314",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Chôshekh ên sôf",
+          "url": "https://www.last.fm/music/Ofermod/_/Ch%C3%B4shekh+%C3%AAn+s%C3%B4f",
+          "duration": "364",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Chained To Redemption",
+          "url": "https://www.last.fm/music/Ofermod/_/Chained+To+Redemption",
+          "duration": "387",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        },
+        {
+          "name": "Via Noctis: Veil Of Gargophias",
+          "url": "https://www.last.fm/music/Ofermod/_/Via+Noctis:+Veil+Of+Gargophias",
+          "duration": "303",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ofermod",
+            "mbid": "01ade656-61ef-481f-a6ad-0c63122bc73a",
+            "url": "https://www.last.fm/music/Ofermod"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:46:59.054Z"
+}

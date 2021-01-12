@@ -1,0 +1,159 @@
+{
+  "album": {
+    "name": "Legend",
+    "artist": "Tyrant",
+    "mbid": "ecf838b6-218f-4f0a-b603-a91e1f5aa49c",
+    "url": "https://www.last.fm/music/Tyrant/Legend",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bacc057c89134416b587001fe55d9c57.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bacc057c89134416b587001fe55d9c57.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bacc057c89134416b587001fe55d9c57.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bacc057c89134416b587001fe55d9c57.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bacc057c89134416b587001fe55d9c57.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bacc057c89134416b587001fe55d9c57.png",
+        "size": ""
+      }
+    ],
+    "listeners": "662",
+    "playcount": "9232",
+    "tracks": {
+      "track": [
+        {
+          "name": "Maze of Inferno",
+          "url": "https://www.last.fm/music/Tyrant/_/Maze+of+Inferno",
+          "duration": "513",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Erebus",
+          "url": "https://www.last.fm/music/Tyrant/_/Erebus",
+          "duration": "444",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Wargod",
+          "url": "https://www.last.fm/music/Tyrant/_/Wargod",
+          "duration": "538",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Knight in Black",
+          "url": "https://www.last.fm/music/Tyrant/_/Knight+in+Black",
+          "duration": "374",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Tears of Purgatory (Black Rain)",
+          "url": "https://www.last.fm/music/Tyrant/_/Tears+of+Purgatory+(Black+Rain)",
+          "duration": "811",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Phantasmagoria",
+          "url": "https://www.last.fm/music/Tyrant/_/Phantasmagoria",
+          "duration": "446",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "power-symphonic black metal",
+          "url": "https://www.last.fm/tag/power-symphonic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:09:28.457Z"
+}

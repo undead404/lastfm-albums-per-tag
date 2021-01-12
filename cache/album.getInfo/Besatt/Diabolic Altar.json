@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Diabolic Altar",
+    "artist": "Besatt",
+    "url": "https://www.last.fm/music/Besatt/Diabolic+Altar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ad1cb15c6e401e93f44d15cf2c2afe.png",
+        "size": ""
+      }
+    ],
+    "listeners": "96",
+    "playcount": "772",
+    "tracks": {
+      "track": [
+        {
+          "name": "Antichrist Triumphant",
+          "url": "https://www.last.fm/music/Besatt/_/Antichrist+Triumphant",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Mad Minds",
+          "url": "https://www.last.fm/music/Besatt/_/Mad+Minds",
+          "duration": "325",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Discreated but Reborn",
+          "url": "https://www.last.fm/music/Besatt/_/Discreated+but+Reborn",
+          "duration": "270",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Diabolic Altar",
+          "url": "https://www.last.fm/music/Besatt/_/Diabolic+Altar",
+          "duration": "305",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:57:11.182Z"
+}

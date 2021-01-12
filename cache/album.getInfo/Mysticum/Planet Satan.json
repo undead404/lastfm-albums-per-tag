@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Planet Satan",
+    "artist": "Mysticum",
+    "mbid": "ab679542-8905-498c-8bbe-a1bb27b2568b",
+    "url": "https://www.last.fm/music/Mysticum/Planet+Satan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5a8a5cb1fd946dbc61eb6e19f17b0e7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4861",
+    "playcount": "80910",
+    "tracks": {
+      "track": [
+        {
+          "name": "LSD",
+          "url": "https://www.last.fm/music/Mysticum/_/LSD",
+          "duration": "293",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Annihilation",
+          "url": "https://www.last.fm/music/Mysticum/_/Annihilation",
+          "duration": "286",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Far",
+          "url": "https://www.last.fm/music/Mysticum/_/Far",
+          "duration": "283",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "The Ether",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Ether",
+          "duration": "408",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Fist of Satan",
+          "url": "https://www.last.fm/music/Mysticum/_/Fist+of+Satan",
+          "duration": "293",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "All Must End",
+          "url": "https://www.last.fm/music/Mysticum/_/All+Must+End",
+          "duration": "427",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Cosmic Gun",
+          "url": "https://www.last.fm/music/Mysticum/_/Cosmic+Gun",
+          "duration": "338",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Dissolve Into Impiety",
+          "url": "https://www.last.fm/music/Mysticum/_/Dissolve+Into+Impiety",
+          "duration": "515",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:29:46.932Z"
+}

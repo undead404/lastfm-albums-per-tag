@@ -1,0 +1,90 @@
+{
+  "album": {
+    "name": "Skttrbrain / Darko",
+    "artist": "Myrkur",
+    "url": "https://www.last.fm/music/Myrkur/Skttrbrain+%2F+Darko",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eafdaa0a48484728b5f862cc0a6d65ba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "326",
+    "playcount": "1386",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skttrbrain",
+          "url": "https://www.last.fm/music/Myrkur/_/Skttrbrain",
+          "duration": "409",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Darko",
+          "url": "https://www.last.fm/music/Myrkur/_/Darko",
+          "duration": "357",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Burzum",
+          "url": "https://www.last.fm/tag/Burzum"
+        },
+        {
+          "name": "mmpps",
+          "url": "https://www.last.fm/tag/mmpps"
+        },
+        {
+          "name": "songs to play after you sit for an hour waiting for a bus",
+          "url": "https://www.last.fm/tag/songs+to+play+after+you+sit+for+an+hour+waiting+for+a+bus"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:06.979Z"
+}

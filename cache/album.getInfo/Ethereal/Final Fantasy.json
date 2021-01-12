@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Final Fantasy",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Final+Fantasy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/681af9080a580a2b7ee187d051135ebc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/681af9080a580a2b7ee187d051135ebc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/681af9080a580a2b7ee187d051135ebc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/681af9080a580a2b7ee187d051135ebc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/681af9080a580a2b7ee187d051135ebc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/681af9080a580a2b7ee187d051135ebc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6306",
+    "playcount": "47825",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fantasy!",
+          "url": "https://www.last.fm/music/Ethereal/_/Fantasy%21",
+          "duration": "236",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "I Can't Feel",
+          "url": "https://www.last.fm/music/Ethereal/_/I+Can%27t+Feel",
+          "duration": "255",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Bump [Off The Wall}",
+          "url": "https://www.last.fm/music/Ethereal/_/Bump+%5BOff+The+Wall%7D",
+          "duration": "248",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Agoraphobia",
+          "url": "https://www.last.fm/music/Ethereal/_/Agoraphobia",
+          "duration": "241",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Ultima!",
+          "url": "https://www.last.fm/music/Ethereal/_/Ultima%21",
+          "duration": "224",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "RPG",
+          "url": "https://www.last.fm/music/Ethereal/_/RPG",
+          "duration": "133",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "12 [Different]",
+          "url": "https://www.last.fm/music/Ethereal/_/12+%5BDifferent%5D",
+          "duration": "213",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Come Here!",
+          "url": "https://www.last.fm/music/Ethereal/_/Come+Here%21",
+          "duration": "240",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Free Your Mind",
+          "url": "https://www.last.fm/music/Ethereal/_/Free+Your+Mind",
+          "duration": "316",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "UGKog",
+          "url": "https://www.last.fm/music/Ethereal/_/UGKog",
+          "duration": "247",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:45.745Z"
+}

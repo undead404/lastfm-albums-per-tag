@@ -1,0 +1,149 @@
+{
+  "album": {
+    "name": "Evil's Message",
+    "artist": "Evil",
+    "url": "https://www.last.fm/music/Evil/Evil%27s+Message",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147332dd8e5a40a418e6fb074aeae0a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "522",
+    "playcount": "6649",
+    "tracks": {
+      "track": [
+        {
+          "name": "Evil's Message",
+          "url": "https://www.last.fm/music/Evil/_/Evil%27s+Message",
+          "duration": "165",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Evil",
+          "url": "https://www.last.fm/music/Evil/_/Evil",
+          "duration": "287",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "The Devil wants me",
+          "url": "https://www.last.fm/music/Evil/_/The+Devil+wants+me",
+          "duration": "183",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Son Of The Bitch",
+          "url": "https://www.last.fm/music/Evil/_/Son+Of+The+Bitch",
+          "duration": "355",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Take Good Care (Of Your Balls)",
+          "url": "https://www.last.fm/music/Evil/_/Take+Good+Care+(Of+Your+Balls)",
+          "duration": "346",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "80s",
+          "url": "https://www.last.fm/tag/80s"
+        },
+        {
+          "name": "danish",
+          "url": "https://www.last.fm/tag/danish"
+        },
+        {
+          "name": "hard rock",
+          "url": "https://www.last.fm/tag/hard+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:49:45.095Z"
+}

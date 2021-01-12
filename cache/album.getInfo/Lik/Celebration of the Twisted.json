@@ -1,0 +1,73 @@
+{
+  "album": {
+    "name": "Celebration of the Twisted",
+    "artist": "Lik",
+    "url": "https://www.last.fm/music/Lik/Celebration+of+the+Twisted",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed9d3a45420476da89ff437ca2edde00.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1125",
+    "playcount": "2483",
+    "tracks": {
+      "track": [
+        {
+          "name": "Celebration of the Twisted",
+          "url": "https://www.last.fm/music/Lik/_/Celebration+of+the+Twisted",
+          "duration": "236",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lik",
+            "mbid": "a0339c85-b8d9-4dde-87e8-6bb527835b3e",
+            "url": "https://www.last.fm/music/Lik"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "old school death metal",
+          "url": "https://www.last.fm/tag/old+school+death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:46:15.784Z"
+}

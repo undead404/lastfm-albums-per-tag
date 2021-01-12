@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "The Eternal Winter",
+    "artist": "Forest Silence",
+    "mbid": "b21b3705-305a-42c1-aacf-2927959f7744",
+    "url": "https://www.last.fm/music/Forest+Silence/The+Eternal+Winter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfdc333be14b785cc1da76ca053b6a84.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1336",
+    "playcount": "17237",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Eternal Winter",
+          "url": "https://www.last.fm/music/Forest+Silence/_/The+Eternal+Winter",
+          "duration": "398",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest Silence",
+            "mbid": "f9f94ce7-965c-4965-9ed7-468c48feba26",
+            "url": "https://www.last.fm/music/Forest+Silence"
+          }
+        },
+        {
+          "name": "I Feel The Claws Of Darkness",
+          "url": "https://www.last.fm/music/Forest+Silence/_/I+Feel+The+Claws+Of+Darkness",
+          "duration": "403",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest Silence",
+            "mbid": "f9f94ce7-965c-4965-9ed7-468c48feba26",
+            "url": "https://www.last.fm/music/Forest+Silence"
+          }
+        },
+        {
+          "name": "Silence",
+          "url": "https://www.last.fm/music/Forest+Silence/_/Silence",
+          "duration": "331",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest Silence",
+            "mbid": "f9f94ce7-965c-4965-9ed7-468c48feba26",
+            "url": "https://www.last.fm/music/Forest+Silence"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Hungarian Black Metal",
+          "url": "https://www.last.fm/tag/Hungarian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:42:25.181Z"
+}

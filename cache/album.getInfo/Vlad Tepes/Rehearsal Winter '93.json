@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Rehearsal Winter '93",
+    "artist": "Vlad Tepes",
+    "mbid": "9e24ab9a-fa81-4a09-b135-c26f2cc4f198",
+    "url": "https://www.last.fm/music/Vlad+Tepes/Rehearsal+Winter+%2793",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f05eda84be304888ff5fc33851a43a93.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f05eda84be304888ff5fc33851a43a93.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f05eda84be304888ff5fc33851a43a93.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05eda84be304888ff5fc33851a43a93.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05eda84be304888ff5fc33851a43a93.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f05eda84be304888ff5fc33851a43a93.png",
+        "size": ""
+      }
+    ],
+    "listeners": "532",
+    "playcount": "4169",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frozen Dead's Kingdom",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Frozen+Dead%27s+Kingdom",
+          "duration": "259",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under the Carpathian Yoke",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+the+Carpathian+Yoke",
+          "duration": "285",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "In Holocaust to the Natural Darkness",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/In+Holocaust+to+the+Natural+Darkness",
+          "duration": "176",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Massacre Song From the Devastated Lands",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Massacre+Song+From+the+Devastated+Lands",
+          "duration": "288",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "les legions noires",
+          "url": "https://www.last.fm/tag/les+legions+noires"
+        },
+        {
+          "name": "The Black Legions",
+          "url": "https://www.last.fm/tag/The+Black+Legions"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:49:38.925Z"
+}

@@ -1,0 +1,367 @@
+{
+  "album": {
+    "name": "ANTI-HEROES",
+    "artist": "Auryn",
+    "mbid": "5b923659-0902-4bd1-bd43-75281a97fa9d",
+    "url": "https://www.last.fm/music/Auryn/ANTI-HEROES",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/404bbb27bbe73955f5e156a66baaa2b2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "143",
+    "playcount": "6733",
+    "tracks": {
+      "track": [
+        {
+          "name": "Route 66 - Up we go!",
+          "url": "https://www.last.fm/music/Auryn/_/Route+66+-+Up+we+go%21",
+          "duration": "214",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Heartbreaker",
+          "url": "https://www.last.fm/music/Auryn/_/Heartbreaker",
+          "duration": "211",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Love Taxi",
+          "url": "https://www.last.fm/music/Auryn/_/Love+Taxi",
+          "duration": "185",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Me Gusta",
+          "url": "https://www.last.fm/music/Auryn/_/Me+Gusta",
+          "duration": "222",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Make My Day",
+          "url": "https://www.last.fm/music/Auryn/_/Make+My+Day",
+          "duration": "179",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Breathe Your Fire",
+          "url": "https://www.last.fm/music/Auryn/_/Breathe+Your+Fire",
+          "duration": "200",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Away",
+          "url": "https://www.last.fm/music/Auryn/_/Away",
+          "duration": "185",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Cuando Se Que Estas Dormida",
+          "url": "https://www.last.fm/music/Auryn/_/Cuando+Se+Que+Estas+Dormida",
+          "duration": "218",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Desaparecer",
+          "url": "https://www.last.fm/music/Auryn/_/Desaparecer",
+          "duration": "220",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Somebody Loves You",
+          "url": "https://www.last.fm/music/Auryn/_/Somebody+Loves+You",
+          "duration": "189",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Sentado En El Banco",
+          "url": "https://www.last.fm/music/Auryn/_/Sentado+En+El+Banco",
+          "duration": "278",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Better Than Me",
+          "url": "https://www.last.fm/music/Auryn/_/Better+Than+Me",
+          "duration": "221",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Nada",
+          "url": "https://www.last.fm/music/Auryn/_/Nada",
+          "duration": "177",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "I Can't Break Up",
+          "url": "https://www.last.fm/music/Auryn/_/I+Can%27t+Break+Up",
+          "duration": "189",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Siempre estas ahí",
+          "url": "https://www.last.fm/music/Auryn/_/Siempre+estas+ah%C3%AD",
+          "duration": "186",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Breathe Your Fire (Powered by Wally Lopez)",
+          "url": "https://www.last.fm/music/Auryn/_/Breathe+Your+Fire+(Powered+by+Wally+Lopez)",
+          "duration": "200",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "I met an Angel - On Christmas Day",
+          "url": "https://www.last.fm/music/Auryn/_/I+met+an+Angel+-+On+Christmas+Day",
+          "duration": "193",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Cuando Te Volveré a Ver (Tema Principal de La Pelicula \"Rompe Ralph\")",
+          "url": "https://www.last.fm/music/Auryn/_/Cuando+Te+Volver%C3%A9+a+Ver+(Tema+Principal+de+La+Pelicula+%22Rompe+Ralph%22)",
+          "duration": "218",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Viral (Tema original de La Pelicula \"Viral\")",
+          "url": "https://www.last.fm/music/Auryn/_/Viral+(Tema+original+de+La+Pelicula+%22Viral%22)",
+          "duration": "189",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:26.317Z"
+}

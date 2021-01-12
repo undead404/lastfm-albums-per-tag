@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Friends - Single",
+    "artist": "Chapel",
+    "url": "https://www.last.fm/music/Chapel/Friends+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f0791d711002b98c55e47ac88ed6984.png",
+        "size": ""
+      }
+    ],
+    "listeners": "35",
+    "playcount": "343",
+    "tracks": {
+      "track": [
+        {
+          "name": "Friends",
+          "url": "https://www.last.fm/music/Chapel/_/Friends",
+          "duration": "166",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chapel",
+            "mbid": "d42438d5-41a1-410c-b002-93621f7d8984",
+            "url": "https://www.last.fm/music/Chapel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:41:14.355Z"
+}

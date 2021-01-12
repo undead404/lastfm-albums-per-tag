@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Ophidian",
+    "artist": "Kampfar",
+    "url": "https://www.last.fm/music/Kampfar/Ophidian",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "2187",
+    "playcount": "5203",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ophidian",
+          "url": "https://www.last.fm/music/Kampfar/_/Ophidian",
+          "duration": "288",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:31:35.836Z"
+}

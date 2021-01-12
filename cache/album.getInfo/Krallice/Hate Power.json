@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Hate Power",
+    "artist": "Krallice",
+    "url": "https://www.last.fm/music/Krallice/Hate+Power",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55a6a005976635f04fe2a89176ca9df8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10",
+    "playcount": "29",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hate Power",
+          "url": "https://www.last.fm/music/Krallice/_/Hate+Power",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:01:43.458Z"
+}

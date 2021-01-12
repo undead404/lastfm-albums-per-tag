@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Like Smoke into Fog",
+    "artist": "Dawn Ray'd",
+    "url": "https://www.last.fm/music/Dawn+Ray%27d/Like+Smoke+into+Fog",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0eb2c42e90ff3aee90f4da91769933db.png",
+        "size": ""
+      }
+    ],
+    "listeners": "532",
+    "playcount": "846",
+    "tracks": {
+      "track": [
+        {
+          "name": "Like Smoke Into Fog",
+          "url": "https://www.last.fm/music/Dawn+Ray%27d/_/Like+Smoke+Into+Fog",
+          "duration": "216",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn Ray'd",
+            "url": "https://www.last.fm/music/Dawn+Ray%27d"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:58:41.477Z"
+}

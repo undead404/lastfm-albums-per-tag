@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Den Siste Vinternatten",
+    "artist": "Massemord",
+    "url": "https://www.last.fm/music/Massemord/Den+Siste+Vinternatten",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78735cacf8cce427a8bf0d6b5affc90c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "33",
+    "playcount": "420",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dance Of The Moon",
+          "url": "https://www.last.fm/music/Massemord/_/Dance+Of+The+Moon",
+          "duration": "253",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Aa Drepe Og Skrike",
+          "url": "https://www.last.fm/music/Massemord/_/Aa+Drepe+Og+Skrike",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Flowers For Your Funeral",
+          "url": "https://www.last.fm/music/Massemord/_/Flowers+For+Your+Funeral",
+          "duration": "243",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Angel Of Fire",
+          "url": "https://www.last.fm/music/Massemord/_/Angel+Of+Fire",
+          "duration": "226",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "When Darkness Prevails",
+          "url": "https://www.last.fm/music/Massemord/_/When+Darkness+Prevails",
+          "duration": "232",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Suicide",
+          "url": "https://www.last.fm/music/Massemord/_/Suicide",
+          "duration": "262",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "The cave",
+          "url": "https://www.last.fm/music/Massemord/_/The+cave",
+          "duration": "288",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:42.215Z"
+}

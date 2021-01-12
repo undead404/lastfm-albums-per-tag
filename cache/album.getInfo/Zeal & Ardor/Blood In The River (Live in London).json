@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Blood In The River (Live in London)",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/Blood+In+The+River+(Live+in+London)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2c8070943f42ec7880166863a08dd556.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2c8070943f42ec7880166863a08dd556.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2c8070943f42ec7880166863a08dd556.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c8070943f42ec7880166863a08dd556.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c8070943f42ec7880166863a08dd556.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c8070943f42ec7880166863a08dd556.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1050",
+    "playcount": "2172",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blood In The River (Live in London)",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/Blood+In+The+River+(Live+in+London)",
+          "duration": "227",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:24.070Z"
+}

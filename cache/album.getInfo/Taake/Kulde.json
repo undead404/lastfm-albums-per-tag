@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Kulde",
+    "artist": "Taake",
+    "mbid": "a6589fb8-ba10-4f59-8382-0b4f7233525e",
+    "url": "https://www.last.fm/music/Taake/Kulde",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03d0ec9abbba4b18cbe9e317167e0800.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4711",
+    "playcount": "29354",
+    "tracks": {
+      "track": [
+        {
+          "name": "Det fins en Prins",
+          "url": "https://www.last.fm/music/Taake/_/Det+fins+en+Prins",
+          "duration": "487",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Stridens Hus",
+          "url": "https://www.last.fm/music/Taake/_/Stridens+Hus",
+          "duration": "354",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Cold",
+          "url": "https://www.last.fm/music/Taake/_/Cold",
+          "duration": "396",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Manndaudsvinter",
+          "url": "https://www.last.fm/music/Taake/_/Manndaudsvinter",
+          "duration": "197",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:28.266Z"
+}

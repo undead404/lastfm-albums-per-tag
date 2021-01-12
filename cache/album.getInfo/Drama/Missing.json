@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Missing",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Missing",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83da6fd3032c41c5568355fc1f9b84c4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7356",
+    "playcount": "27519",
+    "tracks": {
+      "track": [
+        {
+          "name": "Missing",
+          "url": "https://www.last.fm/music/Drama/_/Missing",
+          "duration": "348",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:32.660Z"
+}

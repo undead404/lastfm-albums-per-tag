@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Nidr Ok Nordr Liggr Helvegr",
+    "artist": "Helheim",
+    "url": "https://www.last.fm/music/Helheim/Nidr+Ok+Nordr+Liggr+Helvegr",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1dcf71bed291f20adc5b6cccd0ed84aa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "477",
+    "playcount": "6864",
+    "tracks": {
+      "track": [
+        {
+          "name": "Muspilli Strid",
+          "url": "https://www.last.fm/music/Helheim/_/Muspilli+Strid",
+          "duration": "179",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Blandt Ulvens Frender og Kråkenes Trær",
+          "url": "https://www.last.fm/music/Helheim/_/Blandt+Ulvens+Frender+og+Kr%C3%A5kenes+Tr%C3%A6r",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Jotne Vandring",
+          "url": "https://www.last.fm/music/Helheim/_/Jotne+Vandring",
+          "duration": "147",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Under the Norse Sky",
+          "url": "https://www.last.fm/music/Helheim/_/Under+the+Norse+Sky",
+          "duration": "397",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "De Kalde Marker Av Slag Fortapt",
+          "url": "https://www.last.fm/music/Helheim/_/De+Kalde+Marker+Av+Slag+Fortapt",
+          "duration": "580",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Drømmedans",
+          "url": "https://www.last.fm/music/Helheim/_/Dr%C3%B8mmedans",
+          "duration": "70",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Gravlagt i Eljudne",
+          "url": "https://www.last.fm/music/Helheim/_/Gravlagt+i+Eljudne",
+          "duration": "526",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        },
+        {
+          "name": "Gjennom Mørke og Tåke",
+          "url": "https://www.last.fm/music/Helheim/_/Gjennom+M%C3%B8rke+og+T%C3%A5ke",
+          "duration": "731",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helheim",
+            "mbid": "a325fa1b-74d5-4ed5-996b-db98af625c78",
+            "url": "https://www.last.fm/music/Helheim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:30:17.602Z"
+}

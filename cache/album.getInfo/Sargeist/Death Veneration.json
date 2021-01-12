@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Death Veneration",
+    "artist": "Sargeist",
+    "url": "https://www.last.fm/music/Sargeist/Death+Veneration",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6c725c41689f9daaba0d4121e65aef0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "973",
+    "playcount": "8165",
+    "tracks": {
+      "track": [
+        {
+          "name": "To Make Wolves of Men",
+          "url": "https://www.last.fm/music/Sargeist/_/To+Make+Wolves+of+Men",
+          "duration": "186",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "To Feast on Astral Blood",
+          "url": "https://www.last.fm/music/Sargeist/_/To+Feast+on+Astral+Blood",
+          "duration": "438",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Lunar Curse",
+          "url": "https://www.last.fm/music/Sargeist/_/Lunar+Curse",
+          "duration": "232",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Death Veneration",
+          "url": "https://www.last.fm/music/Sargeist/_/Death+Veneration",
+          "duration": "262",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:31:05.115Z"
+}

@@ -1,0 +1,366 @@
+{
+  "album": {
+    "name": "Decade of Decay",
+    "artist": "Sarcófago",
+    "url": "https://www.last.fm/music/Sarc%C3%B3fago/Decade+of+Decay",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e44269aa74c64445b04a834d7b07b811.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e44269aa74c64445b04a834d7b07b811.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e44269aa74c64445b04a834d7b07b811.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e44269aa74c64445b04a834d7b07b811.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e44269aa74c64445b04a834d7b07b811.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e44269aa74c64445b04a834d7b07b811.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1591",
+    "playcount": "50752",
+    "tracks": {
+      "track": [
+        {
+          "name": "The lost of innocence",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/The+lost+of+innocence",
+          "duration": "89",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Orgy of Flies",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Orgy+of+Flies",
+          "duration": "283",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Hate",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Hate",
+          "duration": "145",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "The God's Faces",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/The+God%27s+Faces",
+          "duration": "226",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Song For My Death",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Song+For+My+Death",
+          "duration": "146",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Midnight Queen",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Midnight+Queen",
+          "duration": "375",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Piercings",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Piercings",
+          "duration": "298",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Crush, Kill, Destroy",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Crush,+Kill,+Destroy",
+          "duration": "335",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Screeches from the Silence",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Screeches+from+the+Silence",
+          "duration": "228",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Rotting",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Rotting",
+          "duration": "420",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "INRI",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/INRI",
+          "duration": "126",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Desecration of Virgin",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Desecration+of+Virgin",
+          "duration": "118",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Recrucify",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Recrucify",
+          "duration": "149",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "The Black Vomit",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/The+Black+Vomit",
+          "duration": "141",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanic Lust",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanic+Lust",
+          "duration": "188",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Christ's Death",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Christ%27s+Death",
+          "duration": "195",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "The anal rape of god",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/The+anal+rape+of+god",
+          "duration": "36",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanas",
+          "duration": "121",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Third Slaughter",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Third+Slaughter",
+          "duration": "337",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:28:58.189Z"
+}

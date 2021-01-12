@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Steineiche",
+    "artist": "Paysage d'Hiver",
+    "mbid": "e68fcc1f-6d31-4d7f-8bb4-5b33e948eecf",
+    "url": "https://www.last.fm/music/Paysage+d%27Hiver/Steineiche",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36cd7860eaa948aca63848515bd8e2ff.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4971",
+    "playcount": "59443",
+    "tracks": {
+      "track": [
+        {
+          "name": "Die Baumfrau",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Die+Baumfrau",
+          "duration": "1196",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Der Baummann",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Der+Baummann",
+          "duration": "969",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Der Baum",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Der+Baum",
+          "duration": "1474",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "winter synth",
+          "url": "https://www.last.fm/tag/winter+synth"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:37.587Z"
+}

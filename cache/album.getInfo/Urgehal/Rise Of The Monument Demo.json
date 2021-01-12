@@ -1,0 +1,316 @@
+{
+  "album": {
+    "name": "Rise of the Monument",
+    "artist": "Urgehal",
+    "mbid": "b447adcd-145d-4d7b-9cb4-325f67b20379",
+    "url": "https://www.last.fm/music/Urgehal/Rise+of+the+Monument",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63acf45bbd6040cc9a870b93efbddbdc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3361",
+    "playcount": "29934",
+    "tracks": {
+      "track": [
+        {
+          "name": "Matte Blodet Flomme",
+          "url": "https://www.last.fm/music/Urgehal/_/Matte+Blodet+Flomme",
+          "duration": "299",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Souls of Black Blood",
+          "url": "https://www.last.fm/music/Urgehal/_/Souls+of+Black+Blood",
+          "duration": "432",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Fortaert av Skogens Skapninger",
+          "url": "https://www.last.fm/music/Urgehal/_/Fortaert+av+Skogens+Skapninger",
+          "duration": "227",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "En legende av mørket",
+          "url": "https://www.last.fm/music/Urgehal/_/En+legende+av+m%C3%B8rket",
+          "duration": "248",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Vintermorke",
+          "url": "https://www.last.fm/music/Urgehal/_/Vintermorke",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Towards Dimensions Unseen",
+          "url": "https://www.last.fm/music/Urgehal/_/Towards+Dimensions+Unseen",
+          "duration": "317",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "The Forest of Illusion",
+          "url": "https://www.last.fm/music/Urgehal/_/The+Forest+of+Illusion",
+          "duration": "282",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau I",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+I",
+          "duration": "283",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau II",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+II",
+          "duration": "340",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau III",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+III",
+          "duration": "288",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau IV",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+IV",
+          "duration": "385",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau V",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+V",
+          "duration": "251",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau VI",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+VI",
+          "duration": "225",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau VII",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+VII",
+          "duration": "397",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau VIII",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+VIII",
+          "duration": "261",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Live at UTBS 2008 Helenenau IX",
+          "url": "https://www.last.fm/music/Urgehal/_/Live+at+UTBS+2008+Helenenau+IX",
+          "duration": "164",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:48:23.448Z"
+}

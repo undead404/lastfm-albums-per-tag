@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Djinn - Single",
+    "artist": "Uada",
+    "url": "https://www.last.fm/music/Uada/Djinn+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1f4c3bd6b9bdb85b17caedcd868bfdd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "115",
+    "playcount": "306",
+    "tracks": {
+      "track": [
+        {
+          "name": "Djinn",
+          "url": "https://www.last.fm/music/Uada/_/Djinn",
+          "duration": "471",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:23:06.864Z"
+}

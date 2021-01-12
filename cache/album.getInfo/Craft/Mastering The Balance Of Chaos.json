@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Mastering The Balance Of Chaos",
+    "artist": "Craft",
+    "url": "https://www.last.fm/music/Craft/Mastering+The+Balance+Of+Chaos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7159e84ce2bb5575db505c58620355af.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7159e84ce2bb5575db505c58620355af.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7159e84ce2bb5575db505c58620355af.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7159e84ce2bb5575db505c58620355af.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7159e84ce2bb5575db505c58620355af.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7159e84ce2bb5575db505c58620355af.png",
+        "size": ""
+      }
+    ],
+    "listeners": "153",
+    "playcount": "421",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mastering The Balance of Chaos",
+          "url": "https://www.last.fm/music/Craft/_/Mastering+The+Balance+of+Chaos",
+          "duration": "496",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Presidia",
+          "url": "https://www.last.fm/music/Craft/_/Presidia",
+          "duration": "485",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Bene Comune",
+          "url": "https://www.last.fm/music/Craft/_/Bene+Comune",
+          "duration": "460",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Presidia (!nertia Remix)",
+          "url": "https://www.last.fm/music/Craft/_/Presidia+(%21nertia+Remix)",
+          "duration": "485",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Mastering The Balance Of Chaos (Ambient Mix)",
+          "url": "https://www.last.fm/music/Craft/_/Mastering+The+Balance+Of+Chaos+(Ambient+Mix)",
+          "duration": "495",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:11.393Z"
+}

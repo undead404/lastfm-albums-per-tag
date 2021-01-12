@@ -1,0 +1,405 @@
+{
+  "album": {
+    "name": "Nowe dobro to zło",
+    "artist": "Hades",
+    "mbid": "2c9877b5-790a-49fa-aa02-2e1c54ff3537",
+    "url": "https://www.last.fm/music/Hades/Nowe+dobro+to+z%C5%82o",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/791b48a8faf9408a9b727deadf844acf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/791b48a8faf9408a9b727deadf844acf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/791b48a8faf9408a9b727deadf844acf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/791b48a8faf9408a9b727deadf844acf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/791b48a8faf9408a9b727deadf844acf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/791b48a8faf9408a9b727deadf844acf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5845",
+    "playcount": "300531",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Hades/_/Intro",
+          "duration": "60",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Duma",
+          "url": "https://www.last.fm/music/Hades/_/Duma",
+          "duration": "147",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Słowa",
+          "url": "https://www.last.fm/music/Hades/_/S%C5%82owa",
+          "duration": "119",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Nigdy",
+          "url": "https://www.last.fm/music/Hades/_/Nigdy",
+          "duration": "158",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Na Ulicy",
+          "url": "https://www.last.fm/music/Hades/_/Na+Ulicy",
+          "duration": "290",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Kurz",
+          "url": "https://www.last.fm/music/Hades/_/Kurz",
+          "duration": "98",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Zimna Krew",
+          "url": "https://www.last.fm/music/Hades/_/Zimna+Krew",
+          "duration": "140",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Brudny Funk",
+          "url": "https://www.last.fm/music/Hades/_/Brudny+Funk",
+          "duration": "187",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Zostaw To",
+          "url": "https://www.last.fm/music/Hades/_/Zostaw+To",
+          "duration": "170",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Zło Konieczne",
+          "url": "https://www.last.fm/music/Hades/_/Z%C5%82o+Konieczne",
+          "duration": "180",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Wszyscy święci",
+          "url": "https://www.last.fm/music/Hades/_/Wszyscy+%C5%9Bwi%C4%99ci",
+          "duration": "214",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Nowe Dobro To Zło",
+          "url": "https://www.last.fm/music/Hades/_/Nowe+Dobro+To+Z%C5%82o",
+          "duration": "189",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Nie Zasługujesz",
+          "url": "https://www.last.fm/music/Hades/_/Nie+Zas%C5%82ugujesz",
+          "duration": "159",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Jak Za Dawnych Lat",
+          "url": "https://www.last.fm/music/Hades/_/Jak+Za+Dawnych+Lat",
+          "duration": "136",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Dwie Dłonie",
+          "url": "https://www.last.fm/music/Hades/_/Dwie+D%C5%82onie",
+          "duration": "202",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Trzeba Oszczędzać",
+          "url": "https://www.last.fm/music/Hades/_/Trzeba+Oszcz%C4%99dza%C4%87",
+          "duration": "216",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Oddaj",
+          "url": "https://www.last.fm/music/Hades/_/Oddaj",
+          "duration": "154",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Kosmos To Rytm",
+          "url": "https://www.last.fm/music/Hades/_/Kosmos+To+Rytm",
+          "duration": "211",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Zmiany",
+          "url": "https://www.last.fm/music/Hades/_/Zmiany",
+          "duration": "195",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Hades/_/Outro",
+          "duration": "23",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "gay",
+          "url": "https://www.last.fm/tag/gay"
+        },
+        {
+          "name": "Polish RAP",
+          "url": "https://www.last.fm/tag/Polish+RAP"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:49:33.588Z"
+}

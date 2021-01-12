@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Impaler's Wolves",
+    "artist": "Graveland",
+    "mbid": "cd4f970d-23f2-4e77-80e0-0b17b59e1730",
+    "url": "https://www.last.fm/music/Graveland/Impaler%27s+Wolves",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e35b1ad865aa4dfcb88e5be875f3168e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1129",
+    "playcount": "7253",
+    "tracks": {
+      "track": [
+        {
+          "name": "Impaler of Wallachia",
+          "url": "https://www.last.fm/music/Graveland/_/Impaler+of+Wallachia",
+          "duration": "535",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "In the Northern Carpathians",
+          "url": "https://www.last.fm/music/Graveland/_/In+the+Northern+Carpathians",
+          "duration": "310",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:11.056Z"
+}

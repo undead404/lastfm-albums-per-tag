@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Ceremony of Black Cult",
+    "artist": "Mütiilation",
+    "mbid": "66c8b7a0-e6aa-4633-bc9b-70b388d457fa",
+    "url": "https://www.last.fm/music/M%C3%BCtiilation/Ceremony+of+Black+Cult",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dd3188975fb24d4acd19cb054c71b551.png",
+        "size": ""
+      }
+    ],
+    "listeners": "232",
+    "playcount": "1778",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Intro",
+          "duration": "73",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Desecrate Jesus' Name",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Desecrate+Jesus%27+Name",
+          "duration": "342",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "As the Night falls",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/As+the+Night+falls",
+          "duration": "260",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Sorcerer's Land",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Sorcerer%27s+Land",
+          "duration": "240",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Under the Full Moon",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Under+the+Full+Moon",
+          "duration": "303",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:06:07.042Z"
+}

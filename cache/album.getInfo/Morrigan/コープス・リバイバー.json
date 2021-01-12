@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "コープス・リバイバー",
+    "artist": "Morrigan",
+    "url": "https://www.last.fm/music/Morrigan/%E3%82%B3%E3%83%BC%E3%83%97%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2e60357b53ca627e86ec2ae59a612b1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "160",
+    "playcount": "3666",
+    "tracks": {
+      "track": [
+        {
+          "name": "UNDER WORLD END 'XISS",
+          "url": "https://www.last.fm/music/Morrigan/_/UNDER+WORLD+END+%27XISS",
+          "duration": "222",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Devil parade",
+          "url": "https://www.last.fm/music/Morrigan/_/Devil+parade",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "everlasting",
+          "url": "https://www.last.fm/music/Morrigan/_/everlasting",
+          "duration": "319",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "BRAIN PINK.AD",
+          "url": "https://www.last.fm/music/Morrigan/_/BRAIN+PINK.AD",
+          "duration": "253",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Betrayal:Cocytus",
+          "url": "https://www.last.fm/music/Morrigan/_/Betrayal:Cocytus",
+          "duration": "287",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:12:50.842Z"
+}

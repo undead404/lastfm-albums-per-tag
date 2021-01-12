@@ -1,0 +1,196 @@
+{
+  "album": {
+    "name": "W imię bogów",
+    "artist": "Saltus",
+    "url": "https://www.last.fm/music/Saltus/W+imi%C4%99+bog%C3%B3w",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1973843f2db28963e02fe8d910da4390.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1973843f2db28963e02fe8d910da4390.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1973843f2db28963e02fe8d910da4390.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1973843f2db28963e02fe8d910da4390.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1973843f2db28963e02fe8d910da4390.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1973843f2db28963e02fe8d910da4390.png",
+        "size": ""
+      }
+    ],
+    "listeners": "163",
+    "playcount": "4605",
+    "tracks": {
+      "track": [
+        {
+          "name": "W Imię Bogów",
+          "url": "https://www.last.fm/music/Saltus/_/W+Imi%C4%99+Bog%C3%B3w",
+          "duration": "236",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Na śmierć ku przeznaczeniu życia",
+          "url": "https://www.last.fm/music/Saltus/_/Na+%C5%9Bmier%C4%87+ku+przeznaczeniu+%C5%BCycia",
+          "duration": "238",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Gdy Bogowie światem rządzili",
+          "url": "https://www.last.fm/music/Saltus/_/Gdy+Bogowie+%C5%9Bwiatem+rz%C4%85dzili",
+          "duration": "234",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Chyląc czoło ku przeszłości",
+          "url": "https://www.last.fm/music/Saltus/_/Chyl%C4%85c+czo%C5%82o+ku+przesz%C5%82o%C5%9Bci",
+          "duration": "241",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Twoja Krew",
+          "url": "https://www.last.fm/music/Saltus/_/Twoja+Krew",
+          "duration": "281",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Perunie prowadź",
+          "url": "https://www.last.fm/music/Saltus/_/Perunie+prowad%C5%BA",
+          "duration": "252",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Imperium Słońca",
+          "url": "https://www.last.fm/music/Saltus/_/Imperium+S%C5%82o%C5%84ca",
+          "duration": "323",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Blask Chwały Orlej",
+          "url": "https://www.last.fm/music/Saltus/_/Blask+Chwa%C5%82y+Orlej",
+          "duration": "236",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Wielki Las",
+          "url": "https://www.last.fm/music/Saltus/_/Wielki+Las",
+          "duration": "332",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:25:07.776Z"
+}

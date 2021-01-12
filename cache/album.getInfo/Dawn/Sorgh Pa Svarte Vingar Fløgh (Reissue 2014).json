@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Sorgh Pa Svarte Vingar Fløgh (Reissue 2014)",
+    "artist": "Dawn",
+    "url": "https://www.last.fm/music/Dawn/Sorgh+Pa+Svarte+Vingar+Fl%C3%B8gh+(Reissue+2014)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/099605f99c34885183ba4990d5c132b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/099605f99c34885183ba4990d5c132b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/099605f99c34885183ba4990d5c132b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099605f99c34885183ba4990d5c132b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099605f99c34885183ba4990d5c132b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099605f99c34885183ba4990d5c132b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "663",
+    "playcount": "4000",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vya Kal",
+          "url": "https://www.last.fm/music/Dawn/_/Vya+Kal",
+          "duration": "90",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        },
+        {
+          "name": "Sorrow Flew on Black Wings",
+          "url": "https://www.last.fm/music/Dawn/_/Sorrow+Flew+on+Black+Wings",
+          "duration": "471",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        },
+        {
+          "name": "Soil of Dead Earth",
+          "url": "https://www.last.fm/music/Dawn/_/Soil+of+Dead+Earth",
+          "duration": "417",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        },
+        {
+          "name": "Night of the Living Dead",
+          "url": "https://www.last.fm/music/Dawn/_/Night+of+the+Living+Dead",
+          "duration": "426",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dawn",
+            "mbid": "dfbc28d8-8a81-4480-b6b2-8013a71c5ce6",
+            "url": "https://www.last.fm/music/Dawn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:40:04.304Z"
+}

@@ -1,0 +1,63 @@
+{
+  "album": {
+    "name": "Woes",
+    "artist": "Szron",
+    "url": "https://www.last.fm/music/Szron/Woes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dd035444a18d4a9690f2a4afd6a66f3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "25",
+    "playcount": "248",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "noise rock",
+          "url": "https://www.last.fm/tag/noise+rock"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "drone",
+          "url": "https://www.last.fm/tag/drone"
+        },
+        {
+          "name": "hipsterskie gunwo",
+          "url": "https://www.last.fm/tag/hipsterskie+gunwo"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:49:28.151Z"
+}

@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "The Bemoaning Of Metatron",
+    "artist": "The Meads of Asphodel",
+    "mbid": "1b3f7aa0-0b6f-4685-824d-a8186e9fc0b7",
+    "url": "https://www.last.fm/music/The+Meads+of+Asphodel/The+Bemoaning+Of+Metatron",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79ec35c67b2c4414a66b608a055c46fa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "383",
+    "playcount": "2715",
+    "tracks": {
+      "track": [
+        {
+          "name": "Angelwhore",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Angelwhore",
+          "duration": "196",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Book of Dreams",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Book+of+Dreams",
+          "duration": "372",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Spellbound",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Spellbound",
+          "duration": "335",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:54:35.993Z"
+}

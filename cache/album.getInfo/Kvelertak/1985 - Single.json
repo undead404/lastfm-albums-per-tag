@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "1985 - Single",
+    "artist": "Kvelertak",
+    "url": "https://www.last.fm/music/Kvelertak/1985+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "48",
+    "playcount": "115",
+    "tracks": {
+      "track": [
+        {
+          "name": "1985",
+          "url": "https://www.last.fm/music/Kvelertak/_/1985",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:59:37.961Z"
+}

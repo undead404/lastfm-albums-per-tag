@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Depravity Favours the Bold",
+    "artist": "Anaal Nathrakh",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/Depravity+Favours+the+Bold",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83e9c4be072e1995ba93093da85ab78f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2425",
+    "playcount": "8745",
+    "tracks": {
+      "track": [
+        {
+          "name": "Depravity Favours the Bold",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Depravity+Favours+the+Bold",
+          "duration": "187",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:55:32.956Z"
+}

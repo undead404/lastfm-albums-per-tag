@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Promotion Tape",
+    "artist": "Limbonic Art",
+    "url": "https://www.last.fm/music/Limbonic+Art/Promotion+Tape",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/888c4aee839a4a41cad3c5ade80d3fee.png",
+        "size": ""
+      }
+    ],
+    "listeners": "37",
+    "playcount": "153",
+    "tracks": {
+      "track": [
+        {
+          "name": "Beyond the Candles Burning",
+          "url": "https://www.last.fm/music/Limbonic+Art/_/Beyond+the+Candles+Burning",
+          "duration": "427",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Limbonic Art",
+            "mbid": "95af3066-4711-42a0-90f7-91257e09ae97",
+            "url": "https://www.last.fm/music/Limbonic+Art"
+          }
+        },
+        {
+          "name": "Moon in the Scorpio",
+          "url": "https://www.last.fm/music/Limbonic+Art/_/Moon+in+the+Scorpio",
+          "duration": "503",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Limbonic Art",
+            "mbid": "95af3066-4711-42a0-90f7-91257e09ae97",
+            "url": "https://www.last.fm/music/Limbonic+Art"
+          }
+        },
+        {
+          "name": "In Mourning Mystique",
+          "url": "https://www.last.fm/music/Limbonic+Art/_/In+Mourning+Mystique",
+          "duration": "880",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Limbonic Art",
+            "mbid": "95af3066-4711-42a0-90f7-91257e09ae97",
+            "url": "https://www.last.fm/music/Limbonic+Art"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:34:01.439Z"
+}

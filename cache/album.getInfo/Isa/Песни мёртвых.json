@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Песни мёртвых",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/%D0%9F%D0%B5%D1%81%D0%BD%D0%B8+%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94f5e7281010420cc27a04ee8406d1c7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "44",
+    "playcount": "744",
+    "tracks": {
+      "track": [
+        {
+          "name": "Песни мёртвых (Ночь-день-ночь)",
+          "url": "https://www.last.fm/music/Isa/_/%D0%9F%D0%B5%D1%81%D0%BD%D0%B8+%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85+(%D0%9D%D0%BE%D1%87%D1%8C-%D0%B4%D0%B5%D0%BD%D1%8C-%D0%BD%D0%BE%D1%87%D1%8C)",
+          "duration": "724",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "По лезвию ножа",
+          "url": "https://www.last.fm/music/Isa/_/%D0%9F%D0%BE+%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D1%8E+%D0%BD%D0%BE%D0%B6%D0%B0",
+          "duration": "574",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Жатва. Зарево",
+          "url": "https://www.last.fm/music/Isa/_/%D0%96%D0%B0%D1%82%D0%B2%D0%B0.+%D0%97%D0%B0%D1%80%D0%B5%D0%B2%D0%BE",
+          "duration": "482",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Домой (Край Земли)",
+          "url": "https://www.last.fm/music/Isa/_/%D0%94%D0%BE%D0%BC%D0%BE%D0%B9+(%D0%9A%D1%80%D0%B0%D0%B9+%D0%97%D0%B5%D0%BC%D0%BB%D0%B8)",
+          "duration": "529",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Братья-ветра",
+          "url": "https://www.last.fm/music/Isa/_/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%B0",
+          "duration": "521",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Память затопленных деревень (Прощание)",
+          "url": "https://www.last.fm/music/Isa/_/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D1%8C+%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85+%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C+(%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5)",
+          "duration": "585",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:47.975Z"
+}

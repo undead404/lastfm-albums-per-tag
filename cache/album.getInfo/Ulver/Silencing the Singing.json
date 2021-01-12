@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "Silencing the Singing",
+    "artist": "Ulver",
+    "url": "https://www.last.fm/music/Ulver/Silencing+the+Singing",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e338e614ed624f6ee945eb6d5c40780.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6563",
+    "playcount": "74945",
+    "tracks": {
+      "track": [
+        {
+          "name": "Darling Didn't We Kill You?",
+          "url": "https://www.last.fm/music/Ulver/_/Darling+Didn%27t+We+Kill+You%3F",
+          "duration": "532",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Speak Dead Speaker",
+          "url": "https://www.last.fm/music/Ulver/_/Speak+Dead+Speaker",
+          "duration": "573",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Not Saved",
+          "url": "https://www.last.fm/music/Ulver/_/Not+Saved",
+          "duration": "629",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "glitch",
+          "url": "https://www.last.fm/tag/glitch"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:16.570Z"
+}

@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "EP 3: Green Metal",
+    "artist": "Botanist",
+    "url": "https://www.last.fm/music/Botanist/EP+3:+Green+Metal",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "77",
+    "playcount": "259",
+    "tracks": {
+      "track": [
+        {
+          "name": "Amorphophallus Titanum",
+          "url": "https://www.last.fm/music/Botanist/_/Amorphophallus+Titanum",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Clathrus Columnatus",
+          "url": "https://www.last.fm/music/Botanist/_/Clathrus+Columnatus",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Varkoor",
+          "url": "https://www.last.fm/music/Botanist/_/Varkoor",
+          "duration": "268",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Saprophyte",
+          "url": "https://www.last.fm/music/Botanist/_/Saprophyte",
+          "duration": "221",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Dracula Vampira",
+          "url": "https://www.last.fm/music/Botanist/_/Dracula+Vampira",
+          "duration": "289",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:11.220Z"
+}

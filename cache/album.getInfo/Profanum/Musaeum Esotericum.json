@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Musaeum Esotericum",
+    "artist": "Profanum",
+    "mbid": "9b899022-96d4-496e-8f29-08a7ef0c1109",
+    "url": "https://www.last.fm/music/Profanum/Musaeum+Esotericum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4932a14cd5dd4bcdcbafbafe47da1477.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2935",
+    "playcount": "23562",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ecce Deliquium Lunae: Atri Misanthropiae Floris",
+          "url": "https://www.last.fm/music/Profanum/_/Ecce+Deliquium+Lunae:+Atri+Misanthropiae+Floris",
+          "duration": "1256",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanum",
+            "mbid": "c191cdd9-9810-4284-83a9-a5bb404a394c",
+            "url": "https://www.last.fm/music/Profanum"
+          }
+        },
+        {
+          "name": "Ecce Axis Mundi: Ars Magna et Ultima",
+          "url": "https://www.last.fm/music/Profanum/_/Ecce+Axis+Mundi:+Ars+Magna+et+Ultima",
+          "duration": "1055",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanum",
+            "mbid": "c191cdd9-9810-4284-83a9-a5bb404a394c",
+            "url": "https://www.last.fm/music/Profanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "polish",
+          "url": "https://www.last.fm/tag/polish"
+        },
+        {
+          "name": "neoclassical",
+          "url": "https://www.last.fm/tag/neoclassical"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:09:07.903Z"
+}

@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Scourge of Malice (Remastered)",
+    "artist": "Graveworm",
+    "url": "https://www.last.fm/music/Graveworm/Scourge+of+Malice+(Remastered)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a60b6cc2d8b4602992d138f9bd9924f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8655",
+    "playcount": "50095",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dreaded Time",
+          "url": "https://www.last.fm/music/Graveworm/_/Dreaded+Time",
+          "duration": "106",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Unhallowed by the Infernal One",
+          "url": "https://www.last.fm/music/Graveworm/_/Unhallowed+by+the+Infernal+One",
+          "duration": "360",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Abandoned by Heaven",
+          "url": "https://www.last.fm/music/Graveworm/_/Abandoned+by+Heaven",
+          "duration": "366",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Descending into Etherial Mist",
+          "url": "https://www.last.fm/music/Graveworm/_/Descending+into+Etherial+Mist",
+          "duration": "406",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Threnody",
+          "url": "https://www.last.fm/music/Graveworm/_/Threnody",
+          "duration": "267",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Demonic Dreams",
+          "url": "https://www.last.fm/music/Graveworm/_/Demonic+Dreams",
+          "duration": "441",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Fear of the Dark",
+          "url": "https://www.last.fm/music/Graveworm/_/Fear+of+the+Dark",
+          "duration": "524",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "In Vengeance of Our Wrath",
+          "url": "https://www.last.fm/music/Graveworm/_/In+Vengeance+of+Our+Wrath",
+          "duration": "353",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Ars Diaboli",
+          "url": "https://www.last.fm/music/Graveworm/_/Ars+Diaboli",
+          "duration": "72",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        },
+        {
+          "name": "Sanctity Within Darkness",
+          "url": "https://www.last.fm/music/Graveworm/_/Sanctity+Within+Darkness",
+          "duration": "319",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveworm",
+            "mbid": "ad3eb8ea-f541-4e3a-b550-7900bdc4992b",
+            "url": "https://www.last.fm/music/Graveworm"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2001",
+          "url": "https://www.last.fm/tag/2001"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:08:58.455Z"
+}

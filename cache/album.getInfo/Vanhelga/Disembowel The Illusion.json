@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Disembowel The Illusion",
+    "artist": "Vanhelga",
+    "mbid": "a7cbc244-5545-47ad-8279-0980a3477c5e",
+    "url": "https://www.last.fm/music/Vanhelga/Disembowel+The+Illusion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46960d80ee3486a8f6e0333fb3dfae92.png",
+        "size": ""
+      }
+    ],
+    "listeners": "112",
+    "playcount": "1588",
+    "tracks": {
+      "track": [
+        {
+          "name": "Paradoxal Eternity",
+          "url": "https://www.last.fm/music/Vanhelga/_/Paradoxal+Eternity",
+          "duration": "154",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Proclaiming The Self",
+          "url": "https://www.last.fm/music/Vanhelga/_/Proclaiming+The+Self",
+          "duration": "193",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Deceitful God",
+          "url": "https://www.last.fm/music/Vanhelga/_/Deceitful+God",
+          "duration": "181",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Memories Cloaked in Darkness",
+          "url": "https://www.last.fm/music/Vanhelga/_/Memories+Cloaked+in+Darkness",
+          "duration": "124",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "PTL (Praise the Lord)",
+          "url": "https://www.last.fm/music/Vanhelga/_/PTL+(Praise+the+Lord)",
+          "duration": "180",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Transcendera Kosmos",
+          "url": "https://www.last.fm/music/Vanhelga/_/Transcendera+Kosmos",
+          "duration": "283",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:16.021Z"
+}

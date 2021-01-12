@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Relentless Recurrence",
+    "artist": "Chthonic",
+    "mbid": "81b04d0c-67df-4952-82e0-ea591ce4d5b2",
+    "url": "https://www.last.fm/music/Chthonic/Relentless+Recurrence",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14646a98ce0a4773c7a3b884dd16da1a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3167",
+    "playcount": "69821",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nemesis",
+          "url": "https://www.last.fm/music/Chthonic/_/Nemesis",
+          "duration": "164",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Onset of Tragedy",
+          "url": "https://www.last.fm/music/Chthonic/_/Onset+of+Tragedy",
+          "duration": "392",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Obituary Tuning",
+          "url": "https://www.last.fm/music/Chthonic/_/Obituary+Tuning",
+          "duration": "219",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Grievance, Acheron Poem",
+          "url": "https://www.last.fm/music/Chthonic/_/Grievance,+Acheron+Poem",
+          "duration": "517",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Revert to Mortal Territory",
+          "url": "https://www.last.fm/music/Chthonic/_/Revert+to+Mortal+Territory",
+          "duration": "207",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Funest Demon Born",
+          "url": "https://www.last.fm/music/Chthonic/_/Funest+Demon+Born",
+          "duration": "146",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Vengeance Arise",
+          "url": "https://www.last.fm/music/Chthonic/_/Vengeance+Arise",
+          "duration": "266",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Slaughter in Tri-Territory",
+          "url": "https://www.last.fm/music/Chthonic/_/Slaughter+in+Tri-Territory",
+          "duration": "500",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Grab The Soul To Hell",
+          "url": "https://www.last.fm/music/Chthonic/_/Grab+The+Soul+To+Hell",
+          "duration": "306",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Relentless Recurrence",
+          "url": "https://www.last.fm/music/Chthonic/_/Relentless+Recurrence",
+          "duration": "505",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2002",
+          "url": "https://www.last.fm/tag/2002"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:29:25.614Z"
+}

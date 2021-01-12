@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Lone Gunman",
+    "artist": "Raspberry Bulbs",
+    "url": "https://www.last.fm/music/Raspberry+Bulbs/Lone+Gunman",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d429c85b6dea49e0be1d036c590eee59.png",
+        "size": ""
+      }
+    ],
+    "listeners": "604",
+    "playcount": "6413",
+    "tracks": {
+      "track": [
+        {
+          "name": "In a Two-Winged World",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/In+a+Two-Winged+World",
+          "duration": "189",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Tell Me How",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Tell+Me+How",
+          "duration": "196",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:31:32.216Z"
+}

@@ -1,0 +1,137 @@
+{
+  "album": {
+    "name": "Sonnets",
+    "artist": "Abigail",
+    "url": "https://www.last.fm/music/Abigail/Sonnets",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/57bc0416e56b4637a39309a467227426.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/57bc0416e56b4637a39309a467227426.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/57bc0416e56b4637a39309a467227426.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57bc0416e56b4637a39309a467227426.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57bc0416e56b4637a39309a467227426.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57bc0416e56b4637a39309a467227426.png",
+        "size": ""
+      }
+    ],
+    "listeners": "142",
+    "playcount": "2519",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bitterness… Tears",
+          "url": "https://www.last.fm/music/Abigail/_/Bitterness%E2%80%A6+Tears",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Sonet",
+          "url": "https://www.last.fm/music/Abigail/_/Sonet",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Insight",
+          "url": "https://www.last.fm/music/Abigail/_/Insight",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Desire",
+          "url": "https://www.last.fm/music/Abigail/_/Desire",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "CXLII",
+          "url": "https://www.last.fm/music/Abigail/_/CXLII",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "melodic doom metal",
+          "url": "https://www.last.fm/tag/melodic+doom+metal"
+        },
+        {
+          "name": "atmospheric death metal",
+          "url": "https://www.last.fm/tag/atmospheric+death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:06:07.810Z"
+}

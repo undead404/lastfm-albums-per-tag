@@ -1,0 +1,125 @@
+{
+  "album": {
+    "name": "All Evil",
+    "artist": "Satyricon",
+    "mbid": "769244a1-dd4c-47d8-99da-b8c5454c619e",
+    "url": "https://www.last.fm/music/Satyricon/All+Evil",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d08b2f9e55a49c2b3fee0fb25f85adc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2714",
+    "playcount": "22298",
+    "tracks": {
+      "track": [
+        {
+          "name": "All Evil",
+          "url": "https://www.last.fm/music/Satyricon/_/All+Evil",
+          "duration": "301",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "This Red Sky",
+          "url": "https://www.last.fm/music/Satyricon/_/This+Red+Sky",
+          "duration": "99",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Dreams of Satyr",
+          "url": "https://www.last.fm/music/Satyricon/_/Dreams+of+Satyr",
+          "duration": "276",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "All Evil (short version)",
+          "url": "https://www.last.fm/music/Satyricon/_/All+Evil+(short+version)",
+          "duration": "54",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:37.617Z"
+}

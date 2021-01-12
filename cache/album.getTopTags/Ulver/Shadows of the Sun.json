@@ -1,0 +1,511 @@
+{
+  "toptags": {
+    "tag": [
+      {
+        "count": 100,
+        "name": "ambient",
+        "url": "https://www.last.fm/tag/ambient"
+      },
+      {
+        "count": 50,
+        "name": "experimental",
+        "url": "https://www.last.fm/tag/experimental"
+      },
+      {
+        "count": 43,
+        "name": "dark ambient",
+        "url": "https://www.last.fm/tag/dark+ambient"
+      },
+      {
+        "count": 42,
+        "name": "atmospheric",
+        "url": "https://www.last.fm/tag/atmospheric"
+      },
+      {
+        "count": 34,
+        "name": "2007",
+        "url": "https://www.last.fm/tag/2007"
+      },
+      {
+        "count": 31,
+        "name": "Avant-Garde",
+        "url": "https://www.last.fm/tag/Avant-Garde"
+      },
+      {
+        "count": 23,
+        "name": "electronic",
+        "url": "https://www.last.fm/tag/electronic"
+      },
+      {
+        "count": 14,
+        "name": "melancholic",
+        "url": "https://www.last.fm/tag/melancholic"
+      },
+      {
+        "count": 13,
+        "name": "albums I own",
+        "url": "https://www.last.fm/tag/albums+I+own"
+      },
+      {
+        "count": 11,
+        "name": "Masterpiece",
+        "url": "https://www.last.fm/tag/Masterpiece"
+      },
+      {
+        "count": 10,
+        "name": "ethereal",
+        "url": "https://www.last.fm/tag/ethereal"
+      },
+      {
+        "count": 6,
+        "name": "dark",
+        "url": "https://www.last.fm/tag/dark"
+      },
+      {
+        "count": 6,
+        "name": "norwegian",
+        "url": "https://www.last.fm/tag/norwegian"
+      },
+      {
+        "count": 6,
+        "name": "favorite albums",
+        "url": "https://www.last.fm/tag/favorite+albums"
+      },
+      {
+        "count": 5,
+        "name": "favourite albums",
+        "url": "https://www.last.fm/tag/favourite+albums"
+      },
+      {
+        "count": 5,
+        "name": "dark and beautiful",
+        "url": "https://www.last.fm/tag/dark+and+beautiful"
+      },
+      {
+        "count": 5,
+        "name": "excellent streamability",
+        "url": "https://www.last.fm/tag/excellent+streamability"
+      },
+      {
+        "count": 4,
+        "name": "metal",
+        "url": "https://www.last.fm/tag/metal"
+      },
+      {
+        "count": 4,
+        "name": "electronica",
+        "url": "https://www.last.fm/tag/electronica"
+      },
+      {
+        "count": 4,
+        "name": "trip-hop",
+        "url": "https://www.last.fm/tag/trip-hop"
+      },
+      {
+        "count": 4,
+        "name": "downtempo",
+        "url": "https://www.last.fm/tag/downtempo"
+      },
+      {
+        "count": 4,
+        "name": "avantgarde",
+        "url": "https://www.last.fm/tag/avantgarde"
+      },
+      {
+        "count": 4,
+        "name": "modern classical",
+        "url": "https://www.last.fm/tag/modern+classical"
+      },
+      {
+        "count": 4,
+        "name": "00s",
+        "url": "https://www.last.fm/tag/00s"
+      },
+      {
+        "count": 4,
+        "name": "fully streamable albums",
+        "url": "https://www.last.fm/tag/fully+streamable+albums"
+      },
+      {
+        "count": 4,
+        "name": "neoclassical",
+        "url": "https://www.last.fm/tag/neoclassical"
+      },
+      {
+        "count": 3,
+        "name": "black metal",
+        "url": "https://www.last.fm/tag/black+metal"
+      },
+      {
+        "count": 3,
+        "name": "Classical",
+        "url": "https://www.last.fm/tag/Classical"
+      },
+      {
+        "count": 3,
+        "name": "alternative",
+        "url": "https://www.last.fm/tag/alternative"
+      },
+      {
+        "count": 3,
+        "name": "epic",
+        "url": "https://www.last.fm/tag/epic"
+      },
+      {
+        "count": 3,
+        "name": "new age",
+        "url": "https://www.last.fm/tag/new+age"
+      },
+      {
+        "count": 3,
+        "name": "beautiful",
+        "url": "https://www.last.fm/tag/beautiful"
+      },
+      {
+        "count": 3,
+        "name": "art rock",
+        "url": "https://www.last.fm/tag/art+rock"
+      },
+      {
+        "count": 3,
+        "name": "melancholy",
+        "url": "https://www.last.fm/tag/melancholy"
+      },
+      {
+        "count": 3,
+        "name": "best of 2007",
+        "url": "https://www.last.fm/tag/best+of+2007"
+      },
+      {
+        "count": 3,
+        "name": "2000s",
+        "url": "https://www.last.fm/tag/2000s"
+      },
+      {
+        "count": 3,
+        "name": "not black metal",
+        "url": "https://www.last.fm/tag/not+black+metal"
+      },
+      {
+        "count": 3,
+        "name": "jester records",
+        "url": "https://www.last.fm/tag/jester+records"
+      },
+      {
+        "count": 3,
+        "name": "the end records",
+        "url": "https://www.last.fm/tag/the+end+records"
+      },
+      {
+        "count": 2,
+        "name": "chillout",
+        "url": "https://www.last.fm/tag/chillout"
+      },
+      {
+        "count": 2,
+        "name": "alternative rock",
+        "url": "https://www.last.fm/tag/alternative+rock"
+      },
+      {
+        "count": 2,
+        "name": "darkjazz",
+        "url": "https://www.last.fm/tag/darkjazz"
+      },
+      {
+        "count": 2,
+        "name": "dark jazz",
+        "url": "https://www.last.fm/tag/dark+jazz"
+      },
+      {
+        "count": 2,
+        "name": "industrial",
+        "url": "https://www.last.fm/tag/industrial"
+      },
+      {
+        "count": 2,
+        "name": "Experimental Rock",
+        "url": "https://www.last.fm/tag/Experimental+Rock"
+      },
+      {
+        "count": 2,
+        "name": "Gothic",
+        "url": "https://www.last.fm/tag/Gothic"
+      },
+      {
+        "count": 2,
+        "name": "shoegaze",
+        "url": "https://www.last.fm/tag/shoegaze"
+      },
+      {
+        "count": 2,
+        "name": "Awesome",
+        "url": "https://www.last.fm/tag/Awesome"
+      },
+      {
+        "count": 2,
+        "name": "late night",
+        "url": "https://www.last.fm/tag/late+night"
+      },
+      {
+        "count": 2,
+        "name": "trip hop",
+        "url": "https://www.last.fm/tag/trip+hop"
+      },
+      {
+        "count": 2,
+        "name": "dream pop",
+        "url": "https://www.last.fm/tag/dream+pop"
+      },
+      {
+        "count": 2,
+        "name": "drone",
+        "url": "https://www.last.fm/tag/drone"
+      },
+      {
+        "count": 2,
+        "name": "future jazz",
+        "url": "https://www.last.fm/tag/future+jazz"
+      },
+      {
+        "count": 2,
+        "name": "introspective",
+        "url": "https://www.last.fm/tag/introspective"
+      },
+      {
+        "count": 2,
+        "name": "contemporary classical",
+        "url": "https://www.last.fm/tag/contemporary+classical"
+      },
+      {
+        "count": 2,
+        "name": "amazing",
+        "url": "https://www.last.fm/tag/amazing"
+      },
+      {
+        "count": 2,
+        "name": "dark electro",
+        "url": "https://www.last.fm/tag/dark+electro"
+      },
+      {
+        "count": 2,
+        "name": "minimalism",
+        "url": "https://www.last.fm/tag/minimalism"
+      },
+      {
+        "count": 2,
+        "name": "emotional",
+        "url": "https://www.last.fm/tag/emotional"
+      },
+      {
+        "count": 2,
+        "name": "darkwave",
+        "url": "https://www.last.fm/tag/darkwave"
+      },
+      {
+        "count": 2,
+        "name": "wishlist",
+        "url": "https://www.last.fm/tag/wishlist"
+      },
+      {
+        "count": 2,
+        "name": "neo-classical",
+        "url": "https://www.last.fm/tag/neo-classical"
+      },
+      {
+        "count": 2,
+        "name": "drone ambient",
+        "url": "https://www.last.fm/tag/drone+ambient"
+      },
+      {
+        "count": 2,
+        "name": "best albums",
+        "url": "https://www.last.fm/tag/best+albums"
+      },
+      {
+        "count": 2,
+        "name": "Avant-garde Metal",
+        "url": "https://www.last.fm/tag/Avant-garde+Metal"
+      },
+      {
+        "count": 2,
+        "name": "fantasy",
+        "url": "https://www.last.fm/tag/fantasy"
+      },
+      {
+        "count": 2,
+        "name": "fuck",
+        "url": "https://www.last.fm/tag/fuck"
+      },
+      {
+        "count": 2,
+        "name": "my albums",
+        "url": "https://www.last.fm/tag/my+albums"
+      },
+      {
+        "count": 2,
+        "name": "silence",
+        "url": "https://www.last.fm/tag/silence"
+      },
+      {
+        "count": 2,
+        "name": "theremin",
+        "url": "https://www.last.fm/tag/theremin"
+      },
+      {
+        "count": 2,
+        "name": "best albums ever",
+        "url": "https://www.last.fm/tag/best+albums+ever"
+      },
+      {
+        "count": 2,
+        "name": "make love",
+        "url": "https://www.last.fm/tag/make+love"
+      },
+      {
+        "count": 2,
+        "name": "the best",
+        "url": "https://www.last.fm/tag/the+best"
+      },
+      {
+        "count": 2,
+        "name": "Morning music",
+        "url": "https://www.last.fm/tag/Morning+music"
+      },
+      {
+        "count": 2,
+        "name": "favourite album",
+        "url": "https://www.last.fm/tag/favourite+album"
+      },
+      {
+        "count": 2,
+        "name": "5 Star",
+        "url": "https://www.last.fm/tag/5+Star"
+      },
+      {
+        "count": 2,
+        "name": "s",
+        "url": "https://www.last.fm/tag/s"
+      },
+      {
+        "count": 2,
+        "name": "albums 2007",
+        "url": "https://www.last.fm/tag/albums+2007"
+      },
+      {
+        "count": 2,
+        "name": "intelligent music",
+        "url": "https://www.last.fm/tag/intelligent+music"
+      },
+      {
+        "count": 2,
+        "name": "Streamable",
+        "url": "https://www.last.fm/tag/Streamable"
+      },
+      {
+        "count": 2,
+        "name": "owned",
+        "url": "https://www.last.fm/tag/owned"
+      },
+      {
+        "count": 2,
+        "name": "Kult",
+        "url": "https://www.last.fm/tag/Kult"
+      },
+      {
+        "count": 2,
+        "name": "pure genius",
+        "url": "https://www.last.fm/tag/pure+genius"
+      },
+      {
+        "count": 2,
+        "name": "silent intensity",
+        "url": "https://www.last.fm/tag/silent+intensity"
+      },
+      {
+        "count": 2,
+        "name": "fav albums",
+        "url": "https://www.last.fm/tag/fav+albums"
+      },
+      {
+        "count": 2,
+        "name": "favorite artwork",
+        "url": "https://www.last.fm/tag/favorite+artwork"
+      },
+      {
+        "count": 2,
+        "name": "FAVORITE ALBUM COVERS",
+        "url": "https://www.last.fm/tag/FAVORITE+ALBUM+COVERS"
+      },
+      {
+        "count": 2,
+        "name": "loving it",
+        "url": "https://www.last.fm/tag/loving+it"
+      },
+      {
+        "count": 2,
+        "name": "Garm",
+        "url": "https://www.last.fm/tag/Garm"
+      },
+      {
+        "count": 2,
+        "name": "sun and moon and stars and outer space",
+        "url": "https://www.last.fm/tag/sun+and+moon+and+stars+and+outer+space"
+      },
+      {
+        "count": 2,
+        "name": "album i own",
+        "url": "https://www.last.fm/tag/album+i+own"
+      },
+      {
+        "count": 2,
+        "name": "road to absolute",
+        "url": "https://www.last.fm/tag/road+to+absolute"
+      },
+      {
+        "count": 2,
+        "name": "headbangers ball",
+        "url": "https://www.last.fm/tag/headbangers+ball"
+      },
+      {
+        "count": 2,
+        "name": "The Fucking Best",
+        "url": "https://www.last.fm/tag/The+Fucking+Best"
+      },
+      {
+        "count": 2,
+        "name": "Smolson Recommends",
+        "url": "https://www.last.fm/tag/Smolson+Recommends"
+      },
+      {
+        "count": 2,
+        "name": "god tier",
+        "url": "https://www.last.fm/tag/god+tier"
+      },
+      {
+        "count": 2,
+        "name": "listenagain",
+        "url": "https://www.last.fm/tag/listenagain"
+      },
+      {
+        "count": 2,
+        "name": "music for astronauts",
+        "url": "https://www.last.fm/tag/music+for+astronauts"
+      },
+      {
+        "count": 2,
+        "name": "Snot with Sugar",
+        "url": "https://www.last.fm/tag/Snot+with+Sugar"
+      },
+      {
+        "count": 2,
+        "name": "soundweave",
+        "url": "https://www.last.fm/tag/soundweave"
+      }
+    ],
+    "@attr": {
+      "artist": "Ulver",
+      "album": "Shadows of the Sun"
+    }
+  },
+  "createdAt": "2021-01-11T11:49:52.541Z"
+}

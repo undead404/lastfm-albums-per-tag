@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Ubungsraum",
+    "artist": "Absurd",
+    "url": "https://www.last.fm/music/Absurd/Ubungsraum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/409bf8e12e544cc5a904ae8ba3683d76.png",
+        "size": ""
+      }
+    ],
+    "listeners": "179",
+    "playcount": "969",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:16:40.843Z"
+}

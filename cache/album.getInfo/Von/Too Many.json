@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Too Many",
+    "artist": "Von",
+    "url": "https://www.last.fm/music/Von/Too+Many",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "47",
+    "playcount": "125",
+    "tracks": {
+      "track": [
+        {
+          "name": "Too Many",
+          "url": "https://www.last.fm/music/Von/_/Too+Many",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Von",
+            "mbid": "69708043-6595-4e95-9b78-a8822a04a3bd",
+            "url": "https://www.last.fm/music/Von"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:53:52.097Z"
+}

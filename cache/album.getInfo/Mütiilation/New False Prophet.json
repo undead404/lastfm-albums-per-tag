@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "New False Prophet",
+    "artist": "Mütiilation",
+    "mbid": "69ef16cb-124b-48d2-8526-91b957ec28c7",
+    "url": "https://www.last.fm/music/M%C3%BCtiilation/New+False+Prophet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45da1397b7714397a6d59ddde43f0b60.png",
+        "size": ""
+      }
+    ],
+    "listeners": "730",
+    "playcount": "3431",
+    "tracks": {
+      "track": [
+        {
+          "name": "New False Prophet",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/New+False+Prophet",
+          "duration": "418",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Glorious Evil Time",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Glorious+Evil+Time",
+          "duration": "269",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:06:00.286Z"
+}

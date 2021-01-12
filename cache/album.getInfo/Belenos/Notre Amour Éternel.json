@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Notre Amour Éternel",
+    "artist": "Belenos",
+    "mbid": "ad112e48-eb7f-4100-ac8e-ea6a38440314",
+    "url": "https://www.last.fm/music/Belenos/Notre+Amour+%C3%89ternel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/866909372af51aa2b1befc6f4ad3109f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "368",
+    "playcount": "5875",
+    "tracks": {
+      "track": [
+        {
+          "name": "Priez encore",
+          "url": "https://www.last.fm/music/Belenos/_/Priez+encore",
+          "duration": "405",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Rêveries",
+          "url": "https://www.last.fm/music/Belenos/_/R%C3%AAveries",
+          "duration": "390",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Etrange Douceur",
+          "url": "https://www.last.fm/music/Belenos/_/Etrange+Douceur",
+          "duration": "405",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Notre amour éternel",
+          "url": "https://www.last.fm/music/Belenos/_/Notre+amour+%C3%A9ternel",
+          "duration": "396",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Le Déluge",
+          "url": "https://www.last.fm/music/Belenos/_/Le+D%C3%A9luge",
+          "duration": "328",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Le Visage De La Solitude",
+          "url": "https://www.last.fm/music/Belenos/_/Le+Visage+De+La+Solitude",
+          "duration": "510",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Adorable Mépris",
+          "url": "https://www.last.fm/music/Belenos/_/Adorable+M%C3%A9pris",
+          "duration": "409",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:32:40.094Z"
+}

@@ -1,0 +1,176 @@
+{
+  "album": {
+    "name": "Obsidian Arc",
+    "artist": "Pillorian",
+    "url": "https://www.last.fm/music/Pillorian/Obsidian+Arc",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ee743790e67fc4efdac8515f429676b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ee743790e67fc4efdac8515f429676b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ee743790e67fc4efdac8515f429676b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ee743790e67fc4efdac8515f429676b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ee743790e67fc4efdac8515f429676b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ee743790e67fc4efdac8515f429676b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10320",
+    "playcount": "155948",
+    "tracks": {
+      "track": [
+        {
+          "name": "By The Light Of A Black Sun",
+          "url": "https://www.last.fm/music/Pillorian/_/By+The+Light+Of+A+Black+Sun",
+          "duration": "502",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "Archaen Divinity",
+          "url": "https://www.last.fm/music/Pillorian/_/Archaen+Divinity",
+          "duration": "404",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "The Vestige Of Thorns",
+          "url": "https://www.last.fm/music/Pillorian/_/The+Vestige+Of+Thorns",
+          "duration": "525",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "Forged Iron Crucible",
+          "url": "https://www.last.fm/music/Pillorian/_/Forged+Iron+Crucible",
+          "duration": "428",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "A Stygian Pyre",
+          "url": "https://www.last.fm/music/Pillorian/_/A+Stygian+Pyre",
+          "duration": "310",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "The Sentient Arcanum",
+          "url": "https://www.last.fm/music/Pillorian/_/The+Sentient+Arcanum",
+          "duration": "163",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        },
+        {
+          "name": "Dark Is The River Of Man",
+          "url": "https://www.last.fm/music/Pillorian/_/Dark+Is+The+River+Of+Man",
+          "duration": "571",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pillorian",
+            "url": "https://www.last.fm/music/Pillorian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:52:37.008Z"
+}

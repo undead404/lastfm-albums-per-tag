@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Synthetic Calm",
+    "artist": "Mord'A'Stigmata",
+    "url": "https://www.last.fm/music/Mord%27A%27Stigmata/Synthetic+Calm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a9d695db8799081180c92c0899cabf1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a9d695db8799081180c92c0899cabf1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a9d695db8799081180c92c0899cabf1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a9d695db8799081180c92c0899cabf1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a9d695db8799081180c92c0899cabf1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a9d695db8799081180c92c0899cabf1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "106",
+    "playcount": "557",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frameworx Of The Past",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Frameworx+Of+The+Past",
+          "duration": "20",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Mother Which You Will Serve",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Mother+Which+You+Will+Serve",
+          "duration": "220",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Regenerated in Stigmatamord",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Regenerated+in+Stigmatamord",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Synthetic Calm",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Synthetic+Calm",
+          "duration": "253",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Flashback",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Flashback",
+          "duration": "126",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:09:43.778Z"
+}

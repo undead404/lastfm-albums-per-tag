@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "La Culpa",
+    "artist": "Mora",
+    "url": "https://www.last.fm/music/Mora/La+Culpa",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "60",
+    "playcount": "241",
+    "tracks": {
+      "track": [
+        {
+          "name": "La Culpa",
+          "url": "https://www.last.fm/music/Mora/_/La+Culpa",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mora",
+            "mbid": "5fd0d57d-238a-4161-bcd4-12c22fe92556",
+            "url": "https://www.last.fm/music/Mora"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:54:44.495Z"
+}

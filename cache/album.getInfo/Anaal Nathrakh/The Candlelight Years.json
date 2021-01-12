@@ -1,0 +1,553 @@
+{
+  "album": {
+    "name": "The Candlelight Years",
+    "artist": "Anaal Nathrakh",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/The+Candlelight+Years",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/484c5e72e232c77039a400c968cae619.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/484c5e72e232c77039a400c968cae619.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/484c5e72e232c77039a400c968cae619.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/484c5e72e232c77039a400c968cae619.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/484c5e72e232c77039a400c968cae619.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/484c5e72e232c77039a400c968cae619.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1743",
+    "playcount": "41107",
+    "tracks": {
+      "track": [
+        {
+          "name": "In the Constellation of the Black Widow",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/In+the+Constellation+of+the+Black+Widow",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "I Am the Wrath of Gods and the Desolation of the Earth",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/I+Am+the+Wrath+of+Gods+and+the+Desolation+of+the+Earth",
+          "duration": "144",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "More of Fire Than Blood",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/More+of+Fire+Than+Blood",
+          "duration": "204",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Unbearable Filth of the Soul",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Unbearable+Filth+of+the+Soul",
+          "duration": "211",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Terror in the Mind of God",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Terror+in+the+Mind+of+God",
+          "duration": "207",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "So Be It",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/So+Be+It",
+          "duration": "142",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Lucifer Effect",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Lucifer+Effect",
+          "duration": "234",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Oil Upon the Sores of Lepers",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Oil+Upon+the+Sores+of+Lepers",
+          "duration": "167",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Satanarchrist",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Satanarchrist",
+          "duration": "280",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Blood Eagles Carved on the Backs of Innocents",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Blood+Eagles+Carved+on+the+Backs+of+Innocents",
+          "duration": "197",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Volenti Non Fit Iniuria",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Volenti+Non+Fit+Iniuria",
+          "duration": "298",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Drug-Fucking Abomination",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Drug-Fucking+Abomination",
+          "duration": "445",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Post Traumatic Stress Euphoria",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Post+Traumatic+Stress+Euphoria",
+          "duration": "101",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Le diabolique est l'ami du simplement mal",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Le+diabolique+est+l%27ami+du+simplement+mal",
+          "duration": "222",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Locus of Damnation",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Locus+of+Damnation",
+          "duration": "60",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Tod Huetet Uebel",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Tod+Huetet+Uebel",
+          "duration": "255",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Paragon Pariah",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Paragon+Pariah",
+          "duration": "226",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Who Thinks of the Executioner?",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Who+Thinks+of+the+Executioner%3F",
+          "duration": "237",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Ashes Screaming Silence",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Ashes+Screaming+Silence",
+          "duration": "238",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Portrait of the Artist",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Portrait+of+the+Artist",
+          "duration": "78",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Blood-Dimmed Tide",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Blood-Dimmed+Tide",
+          "duration": "200",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Forging Towards the Sunset",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Forging+Towards+the+Sunset",
+          "duration": "226",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "To Spite the Face",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/To+Spite+the+Face",
+          "duration": "243",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Todos Somos Humanos",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Todos+Somos+Humanos",
+          "duration": "250",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "In Coelo Quies, Tout Finis Ici Bas",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/In+Coelo+Quies,+Tout+Finis+Ici+Bas",
+          "duration": "272",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "You Can't Save Me, So Stop Fucking Trying",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/You+Can%27t+Save+Me,+So+Stop+Fucking+Trying",
+          "duration": "261",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Make Glorious the Embrace of Saturn",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Make+Glorious+the+Embrace+of+Saturn",
+          "duration": "188",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Feeding the Beast",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Feeding+the+Beast",
+          "duration": "299",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Of Fire, and Fucking Pigs",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Of+Fire,+and+Fucking+Pigs",
+          "duration": "181",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "A Metaphor for the Dead",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/A+Metaphor+for+the+Dead",
+          "duration": "259",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:55:34.187Z"
+}

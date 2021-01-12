@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "9th Empyrean",
+    "artist": "Chthonic",
+    "mbid": "830ad66e-0047-3e13-9d95-9250dc340da8",
+    "url": "https://www.last.fm/music/Chthonic/9th+Empyrean",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c15dbbb26414a57bccc80e00385d957.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2925",
+    "playcount": "57067",
+    "tracks": {
+      "track": [
+        {
+          "name": "Breath of Ocean",
+          "url": "https://www.last.fm/music/Chthonic/_/Breath+of+Ocean",
+          "duration": "165",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Mother Isle Disintegrated. Aboriginal Gods Enthroned (Chapter 2)",
+          "url": "https://www.last.fm/music/Chthonic/_/Mother+Isle+Disintegrated.+Aboriginal+Gods+Enthroned+(Chapter+2)",
+          "duration": "99",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Floated Unconsciously in the Acheron",
+          "url": "https://www.last.fm/music/Chthonic/_/Floated+Unconsciously+in+the+Acheron",
+          "duration": "377",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Summon of China",
+          "url": "https://www.last.fm/music/Chthonic/_/Summon+of+China",
+          "duration": "362",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Gods Souls Gathered",
+          "url": "https://www.last.fm/music/Chthonic/_/Gods+Souls+Gathered",
+          "duration": "102",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Invasion",
+          "url": "https://www.last.fm/music/Chthonic/_/Invasion",
+          "duration": "466",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Upon the Empyrean",
+          "url": "https://www.last.fm/music/Chthonic/_/Upon+the+Empyrean",
+          "duration": "130",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Guard the Isle Eternally",
+          "url": "https://www.last.fm/music/Chthonic/_/Guard+the+Isle+Eternally",
+          "duration": "546",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "2000",
+          "url": "https://www.last.fm/tag/2000"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "taiwanese",
+          "url": "https://www.last.fm/tag/taiwanese"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:29:26.248Z"
+}

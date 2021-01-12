@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Eine Erhalten",
+    "artist": "Eisregen",
+    "mbid": "4a58bfe7-fa0f-4625-b13e-827562999d6f",
+    "url": "https://www.last.fm/music/Eisregen/Eine+Erhalten",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0dd4afa729b54c12bc1eedd3f03b647c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2513",
+    "playcount": "42805",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eine Erhalten (Unveröffentlicht)",
+          "url": "https://www.last.fm/music/Eisregen/_/Eine+Erhalten+(Unver%C3%B6ffentlicht)",
+          "duration": "172",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Schlachthaus-Blues (Alternative Gesangsversion)",
+          "url": "https://www.last.fm/music/Eisregen/_/Schlachthaus-Blues+(Alternative+Gesangsversion)",
+          "duration": "324",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Alphawolf (alternative Gesangsversion)",
+          "url": "https://www.last.fm/music/Eisregen/_/Alphawolf+(alternative+Gesangsversion)",
+          "duration": "257",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Blutbahnen (alternative Gesangsversion)",
+          "url": "https://www.last.fm/music/Eisregen/_/Blutbahnen+(alternative+Gesangsversion)",
+          "duration": "294",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Schneuz Den Kasper! (Alternative Gesangsverison)",
+          "url": "https://www.last.fm/music/Eisregen/_/Schneuz+Den+Kasper%21+(Alternative+Gesangsverison)",
+          "duration": "323",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "2000s",
+          "url": "https://www.last.fm/tag/2000s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:25.961Z"
+}

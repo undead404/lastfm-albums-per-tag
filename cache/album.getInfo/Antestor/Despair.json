@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "Despair",
+    "artist": "Antestor",
+    "mbid": "7216bd97-fa0b-482a-ab36-bff9a9f2db46",
+    "url": "https://www.last.fm/music/Antestor/Despair",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7006c6e2ee3544289584a179686cdfbb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "676",
+    "playcount": "7492",
+    "tracks": {
+      "track": [
+        {
+          "name": "Demonic Seduction",
+          "url": "https://www.last.fm/music/Antestor/_/Demonic+Seduction",
+          "duration": "359",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Message From Hell",
+          "url": "https://www.last.fm/music/Antestor/_/Message+From+Hell",
+          "duration": "224",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Lost Generation",
+          "url": "https://www.last.fm/music/Antestor/_/Lost+Generation",
+          "duration": "202",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Human",
+          "url": "https://www.last.fm/music/Antestor/_/Human",
+          "duration": "299",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Jesus, Jesus, Ver Du Hjå Meg",
+          "url": "https://www.last.fm/music/Antestor/_/Jesus,+Jesus,+Ver+Du+Hj%C3%A5+Meg",
+          "duration": "194",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death-doom metal",
+          "url": "https://www.last.fm/tag/death-doom+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:23:02.021Z"
+}

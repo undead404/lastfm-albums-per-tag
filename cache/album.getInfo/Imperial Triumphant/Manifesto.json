@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Manifesto",
+    "artist": "Imperial Triumphant",
+    "url": "https://www.last.fm/music/Imperial+Triumphant/Manifesto",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/863d6dc7494c4506c5b42f8ad16b9876.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3",
+    "playcount": "7",
+    "tracks": {
+      "track": [
+        {
+          "name": "Manifesto",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Manifesto",
+          "duration": "227",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:46:01.415Z"
+}

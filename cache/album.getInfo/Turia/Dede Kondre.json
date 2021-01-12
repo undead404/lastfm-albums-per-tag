@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Dede Kondre",
+    "artist": "Turia",
+    "url": "https://www.last.fm/music/Turia/Dede+Kondre",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/679a68ff86555384ac58f28d7ccfe2ff.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1198",
+    "playcount": "22300",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dede Kondre",
+          "url": "https://www.last.fm/music/Turia/_/Dede+Kondre",
+          "duration": "405",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        },
+        {
+          "name": "Een Poort Van Takken En Loof",
+          "url": "https://www.last.fm/music/Turia/_/Een+Poort+Van+Takken+En+Loof",
+          "duration": "480",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        },
+        {
+          "name": "De Houten Tempel",
+          "url": "https://www.last.fm/music/Turia/_/De+Houten+Tempel",
+          "duration": "484",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        },
+        {
+          "name": "Waterzucht",
+          "url": "https://www.last.fm/music/Turia/_/Waterzucht",
+          "duration": "455",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        },
+        {
+          "name": "De Toorn Der Goden",
+          "url": "https://www.last.fm/music/Turia/_/De+Toorn+Der+Goden",
+          "duration": "671",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:18:18.373Z"
+}

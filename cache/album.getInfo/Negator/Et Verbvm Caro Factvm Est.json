@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Et Verbvm Caro Factvm Est",
+    "artist": "Negator",
+    "url": "https://www.last.fm/music/Negator/Et+Verbvm+Caro+Factvm+Est",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f891360f89e8767c5d87cb6943738cf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11",
+    "playcount": "60",
+    "tracks": {
+      "track": [
+        {
+          "name": "Et Verbvm Caro Factvm Est",
+          "url": "https://www.last.fm/music/Negator/_/Et+Verbvm+Caro+Factvm+Est",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negator",
+            "mbid": "3f6ed996-a74c-415d-903a-17a5e50ae7f5",
+            "url": "https://www.last.fm/music/Negator"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:44:38.206Z"
+}

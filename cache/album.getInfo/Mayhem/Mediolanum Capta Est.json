@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Mediolanum Capta Est",
+    "artist": "Mayhem",
+    "mbid": "62d86a75-0fa3-42ce-90d2-5759c3cd14ee",
+    "url": "https://www.last.fm/music/Mayhem/Mediolanum+Capta+Est",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a42ca1848cc549f2c9757bd9ef95b05d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17362",
+    "playcount": "277651",
+    "tracks": {
+      "track": [
+        {
+          "name": "Silvester Anfang",
+          "url": "https://www.last.fm/music/Mayhem/_/Silvester+Anfang",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Deathcrush",
+          "url": "https://www.last.fm/music/Mayhem/_/Deathcrush",
+          "duration": "277",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Fall of Seraphs",
+          "url": "https://www.last.fm/music/Mayhem/_/Fall+of+Seraphs",
+          "duration": "362",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Carnage",
+          "url": "https://www.last.fm/music/Mayhem/_/Carnage",
+          "duration": "246",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Necrolust",
+          "url": "https://www.last.fm/music/Mayhem/_/Necrolust",
+          "duration": "226",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Ancient Skin",
+          "url": "https://www.last.fm/music/Mayhem/_/Ancient+Skin",
+          "duration": "328",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Freezing Moon",
+          "url": "https://www.last.fm/music/Mayhem/_/Freezing+Moon",
+          "duration": "410",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Symbols of Bloodswords",
+          "url": "https://www.last.fm/music/Mayhem/_/Symbols+of+Bloodswords",
+          "duration": "293",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "From the Dark Past",
+          "url": "https://www.last.fm/music/Mayhem/_/From+the+Dark+Past",
+          "duration": "326",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Chainsaw Gutsfuck",
+          "url": "https://www.last.fm/music/Mayhem/_/Chainsaw+Gutsfuck",
+          "duration": "313",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "I Am Thy Labyrinth",
+          "url": "https://www.last.fm/music/Mayhem/_/I+Am+Thy+Labyrinth",
+          "duration": "374",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Pure Fucking Armageddon",
+          "url": "https://www.last.fm/music/Mayhem/_/Pure+Fucking+Armageddon",
+          "duration": "190",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "live",
+          "url": "https://www.last.fm/tag/live"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Aug 2009, 20:42",
+      "summary": "Mediolanum Capta Est is a live album by the Norwegian black metal band Mayhem. The title of the album means, in Latin, Milano is taken. Milan was the Italian city where this live album was recorded.\n\nLine - Up\n\n    * Maniac (Sven Erik Kristiansen) - Vocals\n    * Blasphemer (Rune Eriksen) - Guitar\n    * Necrobutcher (Jørn Stubberud) - Bass\n    * Hellhammer (Jan Axel Blomberg) - Drums\n\nGuest\n\n    * Attila Csihar - Guest vocals on From the Dark Past\n\n\n <a href=\"http://www.last.fm/music/Mayhem/Mediolanum+Capta+Est\">Read more on Last.fm</a>.",
+      "content": "Mediolanum Capta Est is a live album by the Norwegian black metal band Mayhem. The title of the album means, in Latin, Milano is taken. Milan was the Italian city where this live album was recorded.\n\nLine - Up\n\n    * Maniac (Sven Erik Kristiansen) - Vocals\n    * Blasphemer (Rune Eriksen) - Guitar\n    * Necrobutcher (Jørn Stubberud) - Bass\n    * Hellhammer (Jan Axel Blomberg) - Drums\n\nGuest\n\n    * Attila Csihar - Guest vocals on From the Dark Past\n\n\n <a href=\"http://www.last.fm/music/Mayhem/Mediolanum+Capta+Est\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:53:01.299Z"
+}

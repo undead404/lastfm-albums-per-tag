@@ -1,0 +1,371 @@
+{
+  "album": {
+    "name": "Meaningless Leaning Mess",
+    "artist": "Bone Awl",
+    "mbid": "b5abd35e-da4c-481b-bbe4-bff82714db7a",
+    "url": "https://www.last.fm/music/Bone+Awl/Meaningless+Leaning+Mess",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/35f936d616944bccec84c8087b8356f5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/35f936d616944bccec84c8087b8356f5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/35f936d616944bccec84c8087b8356f5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f936d616944bccec84c8087b8356f5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f936d616944bccec84c8087b8356f5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f936d616944bccec84c8087b8356f5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5245",
+    "playcount": "225815",
+    "tracks": {
+      "track": [
+        {
+          "name": "these days are marked",
+          "url": "https://www.last.fm/music/Bone+Awl/_/these+days+are+marked",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "pendulum",
+          "url": "https://www.last.fm/music/Bone+Awl/_/pendulum",
+          "duration": "115",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "one nothing between",
+          "url": "https://www.last.fm/music/Bone+Awl/_/one+nothing+between",
+          "duration": "103",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "it's all death",
+          "url": "https://www.last.fm/music/Bone+Awl/_/it%27s+all+death",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "The Great Violence",
+          "url": "https://www.last.fm/music/Bone+Awl/_/The+Great+Violence",
+          "duration": "188",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "without hesitation",
+          "url": "https://www.last.fm/music/Bone+Awl/_/without+hesitation",
+          "duration": "114",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "smiling star-wide",
+          "url": "https://www.last.fm/music/Bone+Awl/_/smiling+star-wide",
+          "duration": "103",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "i am only alone",
+          "url": "https://www.last.fm/music/Bone+Awl/_/i+am+only+alone",
+          "duration": "62",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "head of silence",
+          "url": "https://www.last.fm/music/Bone+Awl/_/head+of+silence",
+          "duration": "288",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "show me",
+          "url": "https://www.last.fm/music/Bone+Awl/_/show+me",
+          "duration": "190",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "will a white face",
+          "url": "https://www.last.fm/music/Bone+Awl/_/will+a+white+face",
+          "duration": "75",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Gray Heaps that Never Rot",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Gray+Heaps+that+Never+Rot",
+          "duration": "178",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "meaningless leaning mess",
+          "url": "https://www.last.fm/music/Bone+Awl/_/meaningless+leaning+mess",
+          "duration": "93",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Crowned in Martyrmony",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Crowned+in+Martyrmony",
+          "duration": "108",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Big Decisions",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Big+Decisions",
+          "duration": "101",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Black Wings",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Black+Wings",
+          "duration": "121",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Be Still",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Be+Still",
+          "duration": "101",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "The King In Red",
+          "url": "https://www.last.fm/music/Bone+Awl/_/The+King+In+Red",
+          "duration": "160",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:02:23.817Z"
+}

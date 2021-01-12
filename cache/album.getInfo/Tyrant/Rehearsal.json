@@ -1,0 +1,51 @@
+{
+  "album": {
+    "name": "Rehearsal",
+    "artist": "Tyrant",
+    "url": "https://www.last.fm/music/Tyrant/Rehearsal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4186ee95e174ab185ef15659aeac30c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "772",
+    "playcount": "7421",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:09:25.976Z"
+}

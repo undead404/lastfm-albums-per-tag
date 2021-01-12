@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Black Seal",
+    "artist": "Root",
+    "mbid": "12412a13-a3d3-41d9-b0f8-5a807dcb9b0f",
+    "url": "https://www.last.fm/music/Root/Black+Seal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a628634fd05bacc04d572698535e41f0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a628634fd05bacc04d572698535e41f0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a628634fd05bacc04d572698535e41f0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a628634fd05bacc04d572698535e41f0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a628634fd05bacc04d572698535e41f0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a628634fd05bacc04d572698535e41f0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2411",
+    "playcount": "65140",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Festival of Destruction",
+          "url": "https://www.last.fm/music/Root/_/The+Festival+of+Destruction",
+          "duration": "297",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "The Incantation of Thessalonian Women",
+          "url": "https://www.last.fm/music/Root/_/The+Incantation+of+Thessalonian+Women",
+          "duration": "312",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Nativity",
+          "url": "https://www.last.fm/music/Root/_/Nativity",
+          "duration": "258",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "His Eyes Were Dark",
+          "url": "https://www.last.fm/music/Root/_/His+Eyes+Were+Dark",
+          "duration": "262",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Black Seal",
+          "url": "https://www.last.fm/music/Root/_/Black+Seal",
+          "duration": "255",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "The Faith",
+          "url": "https://www.last.fm/music/Root/_/The+Faith",
+          "duration": "132",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Salamandra",
+          "url": "https://www.last.fm/music/Root/_/Salamandra",
+          "duration": "446",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Necromancy",
+          "url": "https://www.last.fm/music/Root/_/Necromancy",
+          "duration": "297",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Theriak",
+          "url": "https://www.last.fm/music/Root/_/Theriak",
+          "duration": "331",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "The Mirror of Soul",
+          "url": "https://www.last.fm/music/Root/_/The+Mirror+of+Soul",
+          "duration": "434",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Liber Prohibitus",
+          "url": "https://www.last.fm/music/Root/_/Liber+Prohibitus",
+          "duration": "221",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "...Before I Leave!",
+          "url": "https://www.last.fm/music/Root/_/...Before+I+Leave%21",
+          "duration": "1175",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "oldies",
+          "url": "https://www.last.fm/tag/oldies"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:41:56.549Z"
+}

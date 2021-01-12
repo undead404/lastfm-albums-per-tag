@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "BOYS' QUEST",
+    "artist": "Flame",
+    "mbid": "e4224902-ca81-436d-a631-df190cdbc0ce",
+    "url": "https://www.last.fm/music/Flame/BOYS%27+QUEST",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae69a9cf4c544f6b07044b86516c394.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2099",
+    "playcount": "13328",
+    "tracks": {
+      "track": [
+        {
+          "name": "BOYS' QUEST",
+          "url": "https://www.last.fm/music/Flame/_/BOYS%27+QUEST",
+          "duration": "197",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "all right!all right!",
+          "url": "https://www.last.fm/music/Flame/_/all+right%21all+right%21",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Go the Way",
+          "url": "https://www.last.fm/music/Flame/_/Go+the+Way",
+          "duration": "253",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "情熱",
+          "url": "https://www.last.fm/music/Flame/_/%E6%83%85%E7%86%B1",
+          "duration": "244",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Heaven's Night",
+          "url": "https://www.last.fm/music/Flame/_/Heaven%27s+Night",
+          "duration": "208",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Close My Eyes",
+          "url": "https://www.last.fm/music/Flame/_/Close+My+Eyes",
+          "duration": "222",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "ムネノコドウ （Smooth HeartBeat style）",
+          "url": "https://www.last.fm/music/Flame/_/%E3%83%A0%E3%83%8D%E3%83%8E%E3%82%B3%E3%83%89%E3%82%A6+%EF%BC%88Smooth+HeartBeat+style%EF%BC%89",
+          "duration": "248",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "HOW TO LOVE?",
+          "url": "https://www.last.fm/music/Flame/_/HOW+TO+LOVE%3F",
+          "duration": "185",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "BYE MY LOVE",
+          "url": "https://www.last.fm/music/Flame/_/BYE+MY+LOVE",
+          "duration": "235",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "What Can I Do?",
+          "url": "https://www.last.fm/music/Flame/_/What+Can+I+Do%3F",
+          "duration": "211",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Truly (quench style)",
+          "url": "https://www.last.fm/music/Flame/_/Truly+(quench+style)",
+          "duration": "251",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:31.412Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Bomb",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Bomb",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/333ce746536d4f8695bc32aa848ce914.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/333ce746536d4f8695bc32aa848ce914.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/333ce746536d4f8695bc32aa848ce914.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ce746536d4f8695bc32aa848ce914.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ce746536d4f8695bc32aa848ce914.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ce746536d4f8695bc32aa848ce914.png",
+        "size": ""
+      }
+    ],
+    "listeners": "888",
+    "playcount": "4978",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bomb",
+          "url": "https://www.last.fm/music/Isa/_/Bomb",
+          "duration": "210",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:14.813Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Mutacion Por Radiacion",
+    "artist": "Parabellum",
+    "url": "https://www.last.fm/music/Parabellum/Mutacion+Por+Radiacion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c284ee760cf4715d5272226a44401f6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c284ee760cf4715d5272226a44401f6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c284ee760cf4715d5272226a44401f6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c284ee760cf4715d5272226a44401f6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c284ee760cf4715d5272226a44401f6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c284ee760cf4715d5272226a44401f6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "127",
+    "playcount": "555",
+    "tracks": {
+      "track": [
+        {
+          "name": "bruja maldita",
+          "url": "https://www.last.fm/music/Parabellum/_/bruja+maldita",
+          "duration": "375",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Mutación por Radiación",
+          "url": "https://www.last.fm/music/Parabellum/_/Mutaci%C3%B3n+por+Radiaci%C3%B3n",
+          "duration": "249",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:46:07.127Z"
+}

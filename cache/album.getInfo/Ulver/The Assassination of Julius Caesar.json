@@ -1,0 +1,205 @@
+{
+  "album": {
+    "name": "The Assassination of Julius Caesar",
+    "artist": "Ulver",
+    "url": "https://www.last.fm/music/Ulver/The+Assassination+of+Julius+Caesar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3085462af4c55e6f62a9e1c8dff2a4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "63305",
+    "playcount": "1525100",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nemoralia",
+          "url": "https://www.last.fm/music/Ulver/_/Nemoralia",
+          "duration": "250",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.last.fm/music/Ulver/_/Rolling+Stone",
+          "duration": "566",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "So Falls The World",
+          "url": "https://www.last.fm/music/Ulver/_/So+Falls+The+World",
+          "duration": "357",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Southern Gothic",
+          "url": "https://www.last.fm/music/Ulver/_/Southern+Gothic",
+          "duration": "220",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Angelus Novus",
+          "url": "https://www.last.fm/music/Ulver/_/Angelus+Novus",
+          "duration": "247",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Transverberation",
+          "url": "https://www.last.fm/music/Ulver/_/Transverberation",
+          "duration": "270",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "1969",
+          "url": "https://www.last.fm/music/Ulver/_/1969",
+          "duration": "240",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Coming Home",
+          "url": "https://www.last.fm/music/Ulver/_/Coming+Home",
+          "duration": "470",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "synth pop",
+          "url": "https://www.last.fm/tag/synth+pop"
+        },
+        {
+          "name": "best of 2017",
+          "url": "https://www.last.fm/tag/best+of+2017"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Jul 2017, 01:58",
+      "summary": "31 AUGUST 1997 was one of the hottest nights in Paris that year. Just after midnight a black Mercedes Benz rushes through the dark streets with a horde of ravenous paparazzi on tow. In the Pont de l’Alma tunnel the car swerves into a roof-supporting pillar and in the echo of the metallic roar dies Diana, the Princess of Wales. The world has lost one of its greatest icons and the morbidity of popular culture hits a new high. The story is strangely resonant with the myth of the Greek goddess Artemis (Roman: Diana) and the hunter Actaeon <a href=\"http://www.last.fm/music/Ulver/The+Assassination+of+Julius+Caesar\">Read more on Last.fm</a>.",
+      "content": "31 AUGUST 1997 was one of the hottest nights in Paris that year. Just after midnight a black Mercedes Benz rushes through the dark streets with a horde of ravenous paparazzi on tow. In the Pont de l’Alma tunnel the car swerves into a roof-supporting pillar and in the echo of the metallic roar dies Diana, the Princess of Wales. The world has lost one of its greatest icons and the morbidity of popular culture hits a new high. The story is strangely resonant with the myth of the Greek goddess Artemis (Roman: Diana) and the hunter Actaeon, who, after having seen the goddess bathing naked, is turned into a stag and torn to pieces by his own hunting hounds. This picture opens Ulver’s 13th album, The Assassination of Julius Caesar. \n\nSuch historical quantum leaps often occur in Ulver’s musical universe, which has never been bound by any physical law. And the band’s unruly play with myth, history and popular culture has never been more manifest than now. From the assassination attempt against Pope John Paul II on one day in May 1981, to the queer, black house with the address 6114 California Street, San Francisco, better known as the headquarters of Anton LaVey’s Church of Satan – Ulver moves seamlessly through time and space, and manages, in their own strange ways, to create a coherent tableau with a deeply personal backdrop. “I want to tell you something / about the grace of faded things,” as it goes in the song “Southern Gothic”. \n\nThose familiar with this stubborn pack of wolves from Oslo will not be surprised that they also this time round are shifting shape. Never afraid of challenging or redefining current musical conventions, Ulver has now enacted what they are calling “their pop album”. You don’t have to worry about vexing radio humdrum or pastel ear candy though – Talk Talk and Music Machine are pop music as good as any in the universe of Ulver. A universe where “pop” is more a mark of distinction, denoting immediacy and possible body movement. Factory Records and Welcome to the Pleasuredome. The Assassination of Julius Caesar is an album the band has been longing to do for many years, to delve into the music of their childhood, along with the now fading memories and drifting clouds of romance. \n\nAfter the (to them) surprising success of last year’s hybrid ATGCLVLSSCAP, released on the recently established House of Mythology, the way was eventually cleared for a full status studio album from Ulver. Not since Shadows of the Sun, now ten years of age, has the band worked under such clearly defined criteria, staying true to an aesthetics. Such music is never easily conceived, but Ulver’s unyielding ethos of following their instincts has again showed them the way. Fear of repetition and standstill is just as instinctive in the mind of this group as hunger is for their counterparts in nature. \n\nThe core crew behind this album is Kristoffer Rygg, Jørn H. Sværen and Tore Ylwizaker, in company with Ole Alexander Halstensgård, who has also been an important contributor to earlier albums. As usual, there are prominent guests, the renowned experimental guitarist Stian Westerhus puts his personal signature on several tracks, the same goes for associated members Anders Møller and Daniel O’Sullivan. Legendary Hawkwind shaman Nik Turner adds his sax to “Rolling Stone”. \n\nThe Assassination of Julius Caesar is mixed by Martin “Youth” Glover, known from bands such as Killing Joke and The Fireman (with Paul McCartney), plus producer of The Verve’s “Bitter Sweet Symphony” and many other major players. The result is epic and wide-scoped as a historical drama, without ever mollycoddling the listener. \n\n“What have I done to leave you here,” asks vocalist and primus motor Kristoffer Rygg on the last track, “Coming Home”. Since Ulver was formed a quarter of a century ago, their musical odyssey has taken them round the world in many shapes. This year will see them perform in select places with a new spectacular live production. And even if Ulver might have brought home the game with their most ambitious and majestic work thus far, rest assured that the wolves will keep on following you through the night. \n\n– Ando Woltmann\n\nReleased April 7, 2017. <a href=\"http://www.last.fm/music/Ulver/The+Assassination+of+Julius+Caesar\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:49:55.843Z"
+}

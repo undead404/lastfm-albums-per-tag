@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "This From the Past - Single",
+    "artist": "God Seed",
+    "url": "https://www.last.fm/music/God+Seed/This+From+the+Past+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "7",
+    "playcount": "14",
+    "tracks": {
+      "track": [
+        {
+          "name": "This from the Past",
+          "url": "https://www.last.fm/music/God+Seed/_/This+from+the+Past",
+          "duration": "318",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "God Seed",
+            "mbid": "ce8cc6cf-8013-471a-a37d-257ef7428cfb",
+            "url": "https://www.last.fm/music/God+Seed"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:10:59.862Z"
+}

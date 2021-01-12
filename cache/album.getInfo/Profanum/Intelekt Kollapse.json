@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Intelekt Kollapse",
+    "artist": "Profanum",
+    "url": "https://www.last.fm/music/Profanum/Intelekt+Kollapse",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a01efb8d1234de7978ce257fab5c5bb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "45",
+    "playcount": "556",
+    "tracks": {
+      "track": [
+        {
+          "name": "Theme 1: Transformation",
+          "url": "https://www.last.fm/music/Profanum/_/Theme+1:+Transformation",
+          "duration": "461",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanum",
+            "mbid": "c191cdd9-9810-4284-83a9-a5bb404a394c",
+            "url": "https://www.last.fm/music/Profanum"
+          }
+        },
+        {
+          "name": "Theme 2: Kollapse",
+          "url": "https://www.last.fm/music/Profanum/_/Theme+2:+Kollapse",
+          "duration": "574",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanum",
+            "mbid": "c191cdd9-9810-4284-83a9-a5bb404a394c",
+            "url": "https://www.last.fm/music/Profanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:09:18.308Z"
+}

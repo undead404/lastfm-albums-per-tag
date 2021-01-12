@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Decapitator's Prayer",
+    "artist": "Panzerfaust",
+    "url": "https://www.last.fm/music/Panzerfaust/The+Decapitator%27s+Prayer",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "50",
+    "playcount": "964",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Decapitator's Prayer",
+          "url": "https://www.last.fm/music/Panzerfaust/_/The+Decapitator%27s+Prayer",
+          "duration": "387",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:25:07.278Z"
+}

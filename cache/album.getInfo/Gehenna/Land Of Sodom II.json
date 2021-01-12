@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Land Of Sodom II",
+    "artist": "Gehenna",
+    "url": "https://www.last.fm/music/Gehenna/Land+Of+Sodom+II",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6163a0da8e034e46a95658caf9c913ce.png",
+        "size": ""
+      }
+    ],
+    "listeners": "594",
+    "playcount": "2469",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tormentor",
+          "url": "https://www.last.fm/music/Gehenna/_/Tormentor",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        },
+        {
+          "name": "Possessed",
+          "url": "https://www.last.fm/music/Gehenna/_/Possessed",
+          "duration": "91",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        },
+        {
+          "name": "Caveman",
+          "url": "https://www.last.fm/music/Gehenna/_/Caveman",
+          "duration": "64",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        },
+        {
+          "name": "Land Of Sodom",
+          "url": "https://www.last.fm/music/Gehenna/_/Land+Of+Sodom",
+          "duration": "335",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:48:43.149Z"
+}

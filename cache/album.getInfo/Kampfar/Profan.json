@@ -1,0 +1,183 @@
+{
+  "album": {
+    "name": "Profan",
+    "artist": "Kampfar",
+    "url": "https://www.last.fm/music/Kampfar/Profan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/daa719df6044587f8cf1edcba8edceb2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11196",
+    "playcount": "135914",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gloria Ablaze",
+          "url": "https://www.last.fm/music/Kampfar/_/Gloria+Ablaze",
+          "duration": "273",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Profanum",
+          "url": "https://www.last.fm/music/Kampfar/_/Profanum",
+          "duration": "337",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Icons",
+          "url": "https://www.last.fm/music/Kampfar/_/Icons",
+          "duration": "302",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Skavank",
+          "url": "https://www.last.fm/music/Kampfar/_/Skavank",
+          "duration": "457",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Daimon",
+          "url": "https://www.last.fm/music/Kampfar/_/Daimon",
+          "duration": "356",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Pole In The Ground",
+          "url": "https://www.last.fm/music/Kampfar/_/Pole+In+The+Ground",
+          "duration": "390",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Tornekratt",
+          "url": "https://www.last.fm/music/Kampfar/_/Tornekratt",
+          "duration": "307",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:31:30.849Z"
+}

@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Nefarious Dismal Orations",
+    "artist": "Inquisition",
+    "mbid": "86c8319c-ba32-4fc8-832d-5662b5999198",
+    "url": "https://www.last.fm/music/Inquisition/Nefarious+Dismal+Orations",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fbd20d6746844d02cdb3ea4b2eeff457.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15766",
+    "playcount": "392135",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ancient Monumental War Hymn",
+          "url": "https://www.last.fm/music/Inquisition/_/Ancient+Monumental+War+Hymn",
+          "duration": "344",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Nocturnal Gatherings and Wicked Rites",
+          "url": "https://www.last.fm/music/Inquisition/_/Nocturnal+Gatherings+and+Wicked+Rites",
+          "duration": "337",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Strike of the Morning Star",
+          "url": "https://www.last.fm/music/Inquisition/_/Strike+of+the+Morning+Star",
+          "duration": "303",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Through the Infinite Sphere Our Majesty Shall Rise",
+          "url": "https://www.last.fm/music/Inquisition/_/Through+the+Infinite+Sphere+Our+Majesty+Shall+Rise",
+          "duration": "338",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Infernal Evocation of Torment",
+          "url": "https://www.last.fm/music/Inquisition/_/Infernal+Evocation+of+Torment",
+          "duration": "177",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Where Darkness Is Lord and Death the Beginning",
+          "url": "https://www.last.fm/music/Inquisition/_/Where+Darkness+Is+Lord+and+Death+the+Beginning",
+          "duration": "442",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Nefarious Dismal Orations",
+          "url": "https://www.last.fm/music/Inquisition/_/Nefarious+Dismal+Orations",
+          "duration": "253",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Enter the Cult",
+          "url": "https://www.last.fm/music/Inquisition/_/Enter+the+Cult",
+          "duration": "224",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Before the Symbol of Satan We Bow and Praise",
+          "url": "https://www.last.fm/music/Inquisition/_/Before+the+Symbol+of+Satan+We+Bow+and+Praise",
+          "duration": "358",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "best of 2007",
+          "url": "https://www.last.fm/tag/best+of+2007"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:49.718Z"
+}

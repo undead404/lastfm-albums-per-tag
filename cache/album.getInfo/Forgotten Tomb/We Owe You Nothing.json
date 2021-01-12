@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "We Owe You Nothing",
+    "artist": "Forgotten Tomb",
+    "url": "https://www.last.fm/music/Forgotten+Tomb/We+Owe+You+Nothing",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e240aee38e425cee8bd4b300e3a5a240.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2487",
+    "playcount": "22938",
+    "tracks": {
+      "track": [
+        {
+          "name": "We Owe You Nothing",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/We+Owe+You+Nothing",
+          "duration": "451",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Second Chances",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Second+Chances",
+          "duration": "491",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Saboteur",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Saboteur",
+          "duration": "398",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Abandon Everything",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Abandon+Everything",
+          "duration": "498",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Longing For Decay",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Longing+For+Decay",
+          "duration": "396",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Black Overture",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Black+Overture",
+          "duration": "221",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "DSBM",
+          "url": "https://www.last.fm/tag/DSBM"
+        },
+        {
+          "name": "Depressive Suicidal Black Metal",
+          "url": "https://www.last.fm/tag/Depressive+Suicidal+Black+Metal"
+        },
+        {
+          "name": "albums i want",
+          "url": "https://www.last.fm/tag/albums+i+want"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:35:08.328Z"
+}

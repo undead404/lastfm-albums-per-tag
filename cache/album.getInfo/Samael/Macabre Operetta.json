@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Macabre Operetta",
+    "artist": "Samael",
+    "mbid": "563e1716-080f-423e-825e-1fa15149b520",
+    "url": "https://www.last.fm/music/Samael/Macabre+Operetta",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b8329c1e67142f2869bdd2ab54cec77.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1643",
+    "playcount": "7934",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blood Ritual",
+          "url": "https://www.last.fm/music/Samael/_/Blood+Ritual",
+          "duration": "204",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Crown of Evil",
+          "url": "https://www.last.fm/music/Samael/_/Crown+of+Evil",
+          "duration": "273",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Macabre Operetta",
+          "url": "https://www.last.fm/music/Samael/_/Macabre+Operetta",
+          "duration": "401",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:05.674Z"
+}

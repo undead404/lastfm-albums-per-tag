@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Pfaffenschwein",
+    "artist": "Leichenzug",
+    "url": "https://www.last.fm/music/Leichenzug/Pfaffenschwein",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42e5555e0857486084f66cd8deaa7ced.png",
+        "size": ""
+      }
+    ],
+    "listeners": "265",
+    "playcount": "4911",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pfaffenschwein",
+          "url": "https://www.last.fm/music/Leichenzug/_/Pfaffenschwein",
+          "duration": "244",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leichenzug",
+            "mbid": "fab12012-4c9d-48fa-a01d-cbef460cd188",
+            "url": "https://www.last.fm/music/Leichenzug"
+          }
+        },
+        {
+          "name": "Das Reich zerfällt",
+          "url": "https://www.last.fm/music/Leichenzug/_/Das+Reich+zerf%C3%A4llt",
+          "duration": "481",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leichenzug",
+            "mbid": "fab12012-4c9d-48fa-a01d-cbef460cd188",
+            "url": "https://www.last.fm/music/Leichenzug"
+          }
+        },
+        {
+          "name": "Infiziert",
+          "url": "https://www.last.fm/music/Leichenzug/_/Infiziert",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leichenzug",
+            "mbid": "fab12012-4c9d-48fa-a01d-cbef460cd188",
+            "url": "https://www.last.fm/music/Leichenzug"
+          }
+        },
+        {
+          "name": "Was einst war",
+          "url": "https://www.last.fm/music/Leichenzug/_/Was+einst+war",
+          "duration": "875",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leichenzug",
+            "mbid": "fab12012-4c9d-48fa-a01d-cbef460cd188",
+            "url": "https://www.last.fm/music/Leichenzug"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:46:48.913Z"
+}

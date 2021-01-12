@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Try Me Out",
+    "artist": "Cobalt",
+    "url": "https://www.last.fm/music/Cobalt/Try+Me+Out",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f6dc0927c0b45139390339637f18b30.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f6dc0927c0b45139390339637f18b30.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f6dc0927c0b45139390339637f18b30.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f6dc0927c0b45139390339637f18b30.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f6dc0927c0b45139390339637f18b30.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f6dc0927c0b45139390339637f18b30.png",
+        "size": ""
+      }
+    ],
+    "listeners": "66",
+    "playcount": "406",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cold Case",
+          "url": "https://www.last.fm/music/Cobalt/_/Cold+Case",
+          "duration": "205",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Try Me Out",
+          "url": "https://www.last.fm/music/Cobalt/_/Try+Me+Out",
+          "duration": "209",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Strange Experience",
+          "url": "https://www.last.fm/music/Cobalt/_/Strange+Experience",
+          "duration": "230",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Sin of Joy",
+          "url": "https://www.last.fm/music/Cobalt/_/Sin+of+Joy",
+          "duration": "203",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "There's No Word",
+          "url": "https://www.last.fm/music/Cobalt/_/There%27s+No+Word",
+          "duration": "198",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Wild Side",
+          "url": "https://www.last.fm/music/Cobalt/_/Wild+Side",
+          "duration": "211",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Love Game",
+          "url": "https://www.last.fm/music/Cobalt/_/Love+Game",
+          "duration": "220",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "You Need Love",
+          "url": "https://www.last.fm/music/Cobalt/_/You+Need+Love",
+          "duration": "229",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Naked Night",
+          "url": "https://www.last.fm/music/Cobalt/_/Naked+Night",
+          "duration": "215",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Someone Like You",
+          "url": "https://www.last.fm/music/Cobalt/_/Someone+Like+You",
+          "duration": "219",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Dangerous Fulfilment",
+          "url": "https://www.last.fm/music/Cobalt/_/Dangerous+Fulfilment",
+          "duration": "252",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Grace",
+          "url": "https://www.last.fm/music/Cobalt/_/Grace",
+          "duration": "344",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:20:42.359Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "mahi kali",
+    "artist": "Dissection",
+    "url": "https://www.last.fm/music/Dissection/mahi+kali",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/213d3938094cacdf9fa21fae61ac709d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1504",
+    "playcount": "4872",
+    "tracks": {
+      "track": [
+        {
+          "name": "Maha Kali",
+          "url": "https://www.last.fm/music/Dissection/_/Maha+Kali",
+          "duration": "366",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        },
+        {
+          "name": "Unhallowed",
+          "url": "https://www.last.fm/music/Dissection/_/Unhallowed",
+          "duration": "429",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:00:31.333Z"
+}

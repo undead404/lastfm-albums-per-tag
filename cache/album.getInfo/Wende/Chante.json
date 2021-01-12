@@ -1,0 +1,401 @@
+{
+  "album": {
+    "name": "Chante!",
+    "artist": "Wende",
+    "mbid": "d1538c0e-4a58-4be8-9099-15c92e63c681",
+    "url": "https://www.last.fm/music/Wende/Chante%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab0ba712211c55d1c41e7a99e55b8c74.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2378",
+    "playcount": "45661",
+    "tracks": {
+      "track": [
+        {
+          "name": "Die begin van die aarde",
+          "url": "https://www.last.fm/music/Wende/_/Die+begin+van+die+aarde",
+          "duration": "273",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Le plat pays",
+          "url": "https://www.last.fm/music/Wende/_/Le+plat+pays",
+          "duration": "182",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Vesoul",
+          "url": "https://www.last.fm/music/Wende/_/Vesoul",
+          "duration": "214",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Au Suivant",
+          "url": "https://www.last.fm/music/Wende/_/Au+Suivant",
+          "duration": "205",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Come Together",
+          "url": "https://www.last.fm/music/Wende/_/Come+Together",
+          "duration": "140",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La chanson de Mandalay",
+          "url": "https://www.last.fm/music/Wende/_/La+chanson+de+Mandalay",
+          "duration": "164",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "De Dame Vloert De Blues",
+          "url": "https://www.last.fm/music/Wende/_/De+Dame+Vloert+De+Blues",
+          "duration": "218",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "De Nuttelozen Van De Nacht",
+          "url": "https://www.last.fm/music/Wende/_/De+Nuttelozen+Van+De+Nacht",
+          "duration": "343",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Dis Quand Reviendras-Tu-",
+          "url": "https://www.last.fm/music/Wende/_/Dis+Quand+Reviendras-Tu-",
+          "duration": "217",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Madre",
+          "url": "https://www.last.fm/music/Wende/_/Madre",
+          "duration": "187",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "De wereld beweegt",
+          "url": "https://www.last.fm/music/Wende/_/De+wereld+beweegt",
+          "duration": "237",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Ravel",
+          "url": "https://www.last.fm/music/Wende/_/Ravel",
+          "duration": "47",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Avec le temps",
+          "url": "https://www.last.fm/music/Wende/_/Avec+le+temps",
+          "duration": "207",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La Fleur d'Istanbul",
+          "url": "https://www.last.fm/music/Wende/_/La+Fleur+d%27Istanbul",
+          "duration": "253",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La quête",
+          "url": "https://www.last.fm/music/Wende/_/La+qu%C3%AAte",
+          "duration": "152",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Je suis là",
+          "url": "https://www.last.fm/music/Wende/_/Je+suis+l%C3%A0",
+          "duration": "144",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Mens Durf Te Leven",
+          "url": "https://www.last.fm/music/Wende/_/Mens+Durf+Te+Leven",
+          "duration": "148",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La vie en rose",
+          "url": "https://www.last.fm/music/Wende/_/La+vie+en+rose",
+          "duration": "216",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "J'arrive",
+          "url": "https://www.last.fm/music/Wende/_/J%27arrive",
+          "duration": "313",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Chante",
+          "url": "https://www.last.fm/music/Wende/_/Chante",
+          "duration": "316",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Vertrekkend",
+          "url": "https://www.last.fm/music/Wende/_/Vertrekkend",
+          "duration": "320",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:34:16.396Z"
+}

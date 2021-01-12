@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Höllenfeuer",
+    "artist": "Panzerfaust",
+    "mbid": "f83c039a-8d92-40e8-b9fe-a621a6ecf6ba",
+    "url": "https://www.last.fm/music/Panzerfaust/H%C3%B6llenfeuer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/382fe861638192c0dd738b0326df8ba2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/382fe861638192c0dd738b0326df8ba2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/382fe861638192c0dd738b0326df8ba2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/382fe861638192c0dd738b0326df8ba2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/382fe861638192c0dd738b0326df8ba2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/382fe861638192c0dd738b0326df8ba2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "49",
+    "playcount": "605",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prolog / Die Zusammenkunft",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Prolog+%2F+Die+Zusammenkunft",
+          "duration": "106",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Höllenfeuer",
+          "url": "https://www.last.fm/music/Panzerfaust/_/H%C3%B6llenfeuer",
+          "duration": "168",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "... In Dunkelster Nacht",
+          "url": "https://www.last.fm/music/Panzerfaust/_/...+In+Dunkelster+Nacht",
+          "duration": "221",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Krieger's Stolz",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Krieger%27s+Stolz",
+          "duration": "301",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Blutiges Fleisch",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Blutiges+Fleisch",
+          "duration": "313",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Siegesfeldzug",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Siegesfeldzug",
+          "duration": "287",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:25:07.796Z"
+}

@@ -1,0 +1,73 @@
+{
+  "album": {
+    "name": "schwarzä Feus & schwarzäs Isä",
+    "artist": "Paysage d'Hiver",
+    "url": "https://www.last.fm/music/Paysage+d%27Hiver/schwarz%C3%A4+Feus+&+schwarz%C3%A4s+Is%C3%A4",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba49e1b25c1946e9835e796d8ac0a59a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "207",
+    "playcount": "563",
+    "tracks": {
+      "track": [
+        {
+          "name": "Schwarzä Feus & Schwarzäs Isä",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Schwarz%C3%A4+Feus+&+Schwarz%C3%A4s+Is%C3%A4",
+          "duration": "1372",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:55.458Z"
+}

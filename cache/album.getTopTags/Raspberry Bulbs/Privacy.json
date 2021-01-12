@@ -1,0 +1,41 @@
+{
+  "toptags": {
+    "tag": [
+      {
+        "count": 100,
+        "name": "punk",
+        "url": "https://www.last.fm/tag/punk"
+      },
+      {
+        "count": 100,
+        "name": "blackened punk",
+        "url": "https://www.last.fm/tag/blackened+punk"
+      },
+      {
+        "count": 50,
+        "name": "experimental",
+        "url": "https://www.last.fm/tag/experimental"
+      },
+      {
+        "count": 50,
+        "name": "post-punk",
+        "url": "https://www.last.fm/tag/post-punk"
+      },
+      {
+        "count": 50,
+        "name": "hardcore punk",
+        "url": "https://www.last.fm/tag/hardcore+punk"
+      },
+      {
+        "count": 50,
+        "name": "psychedelic punk",
+        "url": "https://www.last.fm/tag/psychedelic+punk"
+      }
+    ],
+    "@attr": {
+      "artist": "Raspberry Bulbs",
+      "album": "Privacy"
+    }
+  },
+  "createdAt": "2021-01-11T14:31:29.278Z"
+}

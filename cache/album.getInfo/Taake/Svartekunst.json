@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Svartekunst",
+    "artist": "Taake",
+    "mbid": "7e3ac248-c6ac-4ddd-9efb-69f03c07d63d",
+    "url": "https://www.last.fm/music/Taake/Svartekunst",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f26f21e17f7c42639e6b99b6d6d5f27c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2626",
+    "playcount": "20078",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eismalsott",
+          "url": "https://www.last.fm/music/Taake/_/Eismalsott",
+          "duration": "184",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Tykjes fele",
+          "url": "https://www.last.fm/music/Taake/_/Tykjes+fele",
+          "duration": "135",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Over Fjell Og Gjennom Torner",
+          "url": "https://www.last.fm/music/Taake/_/Over+Fjell+Og+Gjennom+Torner",
+          "duration": "144",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Voldtekt",
+          "url": "https://www.last.fm/music/Taake/_/Voldtekt",
+          "duration": "217",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:31.259Z"
+}

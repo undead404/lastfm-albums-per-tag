@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Dissolution of Mind and Matter",
+    "artist": "...and Oceans",
+    "url": "https://www.last.fm/music/...and+Oceans/The+Dissolution+of+Mind+and+Matter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2c8853cb2f7530529e73b5e71d32596.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2060",
+    "playcount": "4255",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Dissolution of Mind and Matter",
+          "url": "https://www.last.fm/music/...and+Oceans/_/The+Dissolution+of+Mind+and+Matter",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "...and Oceans",
+            "mbid": "284460fc-c58a-4214-b81c-299a66bbd786",
+            "url": "https://www.last.fm/music/...and+Oceans"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:21:06.037Z"
+}

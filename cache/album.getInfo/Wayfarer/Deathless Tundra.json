@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Deathless Tundra",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/Deathless+Tundra",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "64",
+    "playcount": "86",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deathless Tundra",
+          "url": "https://www.last.fm/music/Wayfarer/_/Deathless+Tundra",
+          "duration": "510",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:52:03.754Z"
+}

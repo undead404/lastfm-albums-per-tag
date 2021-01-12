@@ -1,0 +1,202 @@
+{
+  "album": {
+    "name": "Islands",
+    "artist": "Circle of Ouroborus",
+    "mbid": "b526c981-b120-405c-9ce8-cc0f8acb885f",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/Islands",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57b0f3b48d3044de8f437fb95ff850b8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1140",
+    "playcount": "21521",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vedestä",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Vedest%C3%A4",
+          "duration": "69",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Somewhere Between The Planets",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Somewhere+Between+The+Planets",
+          "duration": "433",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Flight Of Lucifer",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Flight+Of+Lucifer",
+          "duration": "264",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Green Grey Winter",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Green+Grey+Winter",
+          "duration": "352",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Timbre Noir, Part 4",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Timbre+Noir,+Part+4",
+          "duration": "63",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Ajassa",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Ajassa",
+          "duration": "112",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "These Feathers In My Hand",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/These+Feathers+In+My+Hand",
+          "duration": "328",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Somewhere in the Islands",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Somewhere+in+the+Islands",
+          "duration": "278",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Sumusta",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Sumusta",
+          "duration": "296",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Feb 2014, 07:57",
+      "summary": "Slow and sorrowful masterpiece. <a href=\"http://www.last.fm/music/Circle+of+Ouroborus/Islands\">Read more on Last.fm</a>.",
+      "content": "Slow and sorrowful masterpiece. <a href=\"http://www.last.fm/music/Circle+of+Ouroborus/Islands\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:55:03.742Z"
+}

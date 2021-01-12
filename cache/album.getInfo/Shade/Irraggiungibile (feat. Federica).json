@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Irraggiungibile (feat. Federica)",
+    "artist": "Shade",
+    "url": "https://www.last.fm/music/Shade/Irraggiungibile+(feat.+Federica)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f423329c199a26583fd25c15dd2b23a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1031",
+    "playcount": "5042",
+    "tracks": {
+      "track": [
+        {
+          "name": "Irraggiungibile (feat. Federica)",
+          "url": "https://www.last.fm/music/Shade/_/Irraggiungibile+(feat.+Federica)",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:56:32.089Z"
+}

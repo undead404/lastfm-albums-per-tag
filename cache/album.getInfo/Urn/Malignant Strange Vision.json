@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Malignant Strange Vision",
+    "artist": "Urn",
+    "url": "https://www.last.fm/music/Urn/Malignant+Strange+Vision",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "49",
+    "playcount": "64",
+    "tracks": {
+      "track": [
+        {
+          "name": "Malignant Strange Vision",
+          "url": "https://www.last.fm/music/Urn/_/Malignant+Strange+Vision",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urn",
+            "mbid": "fece4108-d00e-49cd-b2f5-faec0a2605fb",
+            "url": "https://www.last.fm/music/Urn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:40:37.018Z"
+}

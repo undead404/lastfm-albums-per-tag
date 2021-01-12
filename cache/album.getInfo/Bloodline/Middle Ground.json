@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Middle Ground",
+    "artist": "Bloodline",
+    "url": "https://www.last.fm/music/Bloodline/Middle+Ground",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c7655d5122c96922f9366b8720a36317.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c7655d5122c96922f9366b8720a36317.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c7655d5122c96922f9366b8720a36317.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c7655d5122c96922f9366b8720a36317.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c7655d5122c96922f9366b8720a36317.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c7655d5122c96922f9366b8720a36317.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1190",
+    "playcount": "3027",
+    "tracks": {
+      "track": [
+        {
+          "name": "Middle Ground",
+          "url": "https://www.last.fm/music/Bloodline/_/Middle+Ground",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bloodline",
+            "mbid": "e3bcbe90-a7f6-4826-ae6e-bad74213d10a",
+            "url": "https://www.last.fm/music/Bloodline"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:34:28.462Z"
+}

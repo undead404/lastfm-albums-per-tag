@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Rise / Mantis / Ritual",
+    "artist": "marsh",
+    "url": "https://www.last.fm/music/marsh/Rise+%2F+Mantis+%2F+Ritual",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "425",
+    "playcount": "1951",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rise",
+          "url": "https://www.last.fm/music/marsh/_/Rise",
+          "duration": "274",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Mantis",
+          "url": "https://www.last.fm/music/marsh/_/Mantis",
+          "duration": "262",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Ritual",
+          "url": "https://www.last.fm/music/marsh/_/Ritual",
+          "duration": "264",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:46:34.990Z"
+}

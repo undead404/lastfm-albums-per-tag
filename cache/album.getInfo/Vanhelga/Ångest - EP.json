@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Ångest - EP",
+    "artist": "Vanhelga",
+    "url": "https://www.last.fm/music/Vanhelga/%C3%85ngest+-+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b71fa7c463c92c739d867ec83b94e07.png",
+        "size": ""
+      }
+    ],
+    "listeners": "80",
+    "playcount": "733",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deperation",
+          "url": "https://www.last.fm/music/Vanhelga/_/Deperation",
+          "duration": "311",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Pessimit",
+          "url": "https://www.last.fm/music/Vanhelga/_/Pessimit",
+          "duration": "235",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Sorg",
+          "url": "https://www.last.fm/music/Vanhelga/_/Sorg",
+          "duration": "306",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Unknown",
+          "url": "https://www.last.fm/music/Vanhelga/_/Unknown",
+          "duration": "176",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Ångest",
+          "url": "https://www.last.fm/music/Vanhelga/_/%C3%85ngest",
+          "duration": "162",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Suicide",
+          "url": "https://www.last.fm/music/Vanhelga/_/Suicide",
+          "duration": "314",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:17.609Z"
+}

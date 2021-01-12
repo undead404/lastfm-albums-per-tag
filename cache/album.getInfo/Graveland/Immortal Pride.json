@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Immortal Pride",
+    "artist": "Graveland",
+    "mbid": "26ce982c-ea19-46e5-9f0d-497fd5c7d54e",
+    "url": "https://www.last.fm/music/Graveland/Immortal+Pride",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/951f0377473a47d7c7b984f23865686b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/951f0377473a47d7c7b984f23865686b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/951f0377473a47d7c7b984f23865686b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/951f0377473a47d7c7b984f23865686b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/951f0377473a47d7c7b984f23865686b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/951f0377473a47d7c7b984f23865686b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4370",
+    "playcount": "53505",
+    "tracks": {
+      "track": [
+        {
+          "name": "Day of Fury",
+          "url": "https://www.last.fm/music/Graveland/_/Day+of+Fury",
+          "duration": "203",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Sons of Fire and Steel & Servants of War",
+          "url": "https://www.last.fm/music/Graveland/_/Sons+of+Fire+and+Steel+&+Servants+of+War",
+          "duration": "1421",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Sacrifice for Honour",
+          "url": "https://www.last.fm/music/Graveland/_/Sacrifice+for+Honour",
+          "duration": "985",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Outro (To Die in Glory)",
+          "url": "https://www.last.fm/music/Graveland/_/Outro+(To+Die+in+Glory)",
+          "duration": "420",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "epic metal",
+          "url": "https://www.last.fm/tag/epic+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:04.048Z"
+}

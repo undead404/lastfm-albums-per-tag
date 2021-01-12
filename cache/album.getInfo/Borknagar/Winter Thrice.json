@@ -1,0 +1,205 @@
+{
+  "album": {
+    "name": "Winter Thrice",
+    "artist": "Borknagar",
+    "url": "https://www.last.fm/music/Borknagar/Winter+Thrice",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6499ff87e6a9800aa8a64257a3b5fddb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "23893",
+    "playcount": "456292",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Rhymes Of The Mountain",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Rhymes+Of+The+Mountain",
+          "duration": "401",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Winter Thrice",
+          "url": "https://www.last.fm/music/Borknagar/_/Winter+Thrice",
+          "duration": "373",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Cold Runs The River",
+          "url": "https://www.last.fm/music/Borknagar/_/Cold+Runs+The+River",
+          "duration": "351",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Panorama",
+          "url": "https://www.last.fm/music/Borknagar/_/Panorama",
+          "duration": "351",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "When Chaos Calls",
+          "url": "https://www.last.fm/music/Borknagar/_/When+Chaos+Calls",
+          "duration": "422",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Erodent",
+          "url": "https://www.last.fm/music/Borknagar/_/Erodent",
+          "duration": "416",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Noctilucent",
+          "url": "https://www.last.fm/music/Borknagar/_/Noctilucent",
+          "duration": "234",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Terminus",
+          "url": "https://www.last.fm/music/Borknagar/_/Terminus",
+          "duration": "426",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "great albums",
+          "url": "https://www.last.fm/tag/great+albums"
+        },
+        {
+          "name": "progressive viking metal",
+          "url": "https://www.last.fm/tag/progressive+viking+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Jan 2016, 07:26",
+      "summary": "Borknagar's tenth studio release, Winter Thrice. The album's tracklist is below:  \n\n1. The Rhymes of the Mountain - 6:41\n2. Winter Thrice - 6:13\n3. Cold Runs the River - 5:52\n4. Panorama - 5:51\n5. When Chaos Calls - 7:02\n6. Erodent - 6:56\n7. Noctilucent - 3:54\n8. Terminus - 7:07\n9. Dominant Winds - 7:18 (only on 2LP and some CD issues of the album) <a href=\"http://www.last.fm/music/Borknagar/Winter+Thrice\">Read more on Last.fm</a>.",
+      "content": "Borknagar's tenth studio release, Winter Thrice. The album's tracklist is below:  \n\n1. The Rhymes of the Mountain - 6:41\n2. Winter Thrice - 6:13\n3. Cold Runs the River - 5:52\n4. Panorama - 5:51\n5. When Chaos Calls - 7:02\n6. Erodent - 6:56\n7. Noctilucent - 3:54\n8. Terminus - 7:07\n9. Dominant Winds - 7:18 (only on 2LP and some CD issues of the album) <a href=\"http://www.last.fm/music/Borknagar/Winter+Thrice\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:06:07.786Z"
+}

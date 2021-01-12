@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Running Hot",
+    "artist": "Tyrant",
+    "mbid": "fcd11620-e184-4697-a091-07442fa9e3c7",
+    "url": "https://www.last.fm/music/Tyrant/Running+Hot",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3daa643d51ec4da0a4a293fd4bb09bd9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "272",
+    "playcount": "6900",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rock Your Bottom",
+          "url": "https://www.last.fm/music/Tyrant/_/Rock+Your+Bottom",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Breakout",
+          "url": "https://www.last.fm/music/Tyrant/_/Breakout",
+          "duration": "176",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Taste Of Paradise",
+          "url": "https://www.last.fm/music/Tyrant/_/Taste+Of+Paradise",
+          "duration": "203",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "When The Raven Flies Again",
+          "url": "https://www.last.fm/music/Tyrant/_/When+The+Raven+Flies+Again",
+          "duration": "207",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Running Hot",
+          "url": "https://www.last.fm/music/Tyrant/_/Running+Hot",
+          "duration": "293",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Fire At Sea",
+          "url": "https://www.last.fm/music/Tyrant/_/Fire+At+Sea",
+          "duration": "246",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Take The Most Dangerous Way",
+          "url": "https://www.last.fm/music/Tyrant/_/Take+The+Most+Dangerous+Way",
+          "duration": "208",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Get Ready",
+          "url": "https://www.last.fm/music/Tyrant/_/Get+Ready",
+          "duration": "189",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "She's A Killer",
+          "url": "https://www.last.fm/music/Tyrant/_/She%27s+A+Killer",
+          "duration": "217",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Starlight",
+          "url": "https://www.last.fm/music/Tyrant/_/Starlight",
+          "duration": "366",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:09:33.709Z"
+}

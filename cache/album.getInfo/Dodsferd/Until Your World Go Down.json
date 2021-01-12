@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Until Your World Go Down",
+    "artist": "Dodsferd",
+    "url": "https://www.last.fm/music/Dodsferd/Until+Your+World+Go+Down",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8dfcd6dbcc463591cd210a7b8916c4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "249",
+    "playcount": "2437",
+    "tracks": {
+      "track": [
+        {
+          "name": "Only Thorns Can Embrace Your Condemned Throne",
+          "url": "https://www.last.fm/music/Dodsferd/_/Only+Thorns+Can+Embrace+Your+Condemned+Throne",
+          "duration": "420",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Another two of your scars and the world is dead",
+          "url": "https://www.last.fm/music/Dodsferd/_/Another+two+of+your+scars+and+the+world+is+dead",
+          "duration": "295",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "You Called It Resurrection; I Call It Fairytale for Human Parasites, Your Kind (Live)",
+          "url": "https://www.last.fm/music/Dodsferd/_/You+Called+It+Resurrection;+I+Call+It+Fairytale+for+Human+Parasites,+Your+Kind+(Live)",
+          "duration": "398",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Rebirth",
+          "url": "https://www.last.fm/music/Dodsferd/_/Rebirth",
+          "duration": "1229",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:29:36.283Z"
+}

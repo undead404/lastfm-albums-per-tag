@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Her von welken Nächten",
+    "artist": "Dornenreich",
+    "mbid": "fb617532-242d-4fb3-8c2f-99182c81c853",
+    "url": "https://www.last.fm/music/Dornenreich/Her+von+welken+N%C3%A4chten",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b40525d2c0343f7bf231c218bb8eb42.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12898",
+    "playcount": "477143",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eigenwach",
+          "url": "https://www.last.fm/music/Dornenreich/_/Eigenwach",
+          "duration": "404",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Ich bin aus mir",
+          "url": "https://www.last.fm/music/Dornenreich/_/Ich+bin+aus+mir",
+          "duration": "400",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Wer hat Angst vor Einsamkeit?",
+          "url": "https://www.last.fm/music/Dornenreich/_/Wer+hat+Angst+vor+Einsamkeit%3F",
+          "duration": "379",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Grell und dunkel strömt das Leben",
+          "url": "https://www.last.fm/music/Dornenreich/_/Grell+und+dunkel+str%C3%B6mt+das+Leben",
+          "duration": "300",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Innerwille ist mein Docht",
+          "url": "https://www.last.fm/music/Dornenreich/_/Innerwille+ist+mein+Docht",
+          "duration": "351",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Hier weht ein Moment",
+          "url": "https://www.last.fm/music/Dornenreich/_/Hier+weht+ein+Moment",
+          "duration": "390",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Schwarz schaut tiefsten Lichterglanz",
+          "url": "https://www.last.fm/music/Dornenreich/_/Schwarz+schaut+tiefsten+Lichterglanz",
+          "duration": "476",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Trauerbrandung",
+          "url": "https://www.last.fm/music/Dornenreich/_/Trauerbrandung",
+          "duration": "362",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Mein Publikum - Der Augenblick",
+          "url": "https://www.last.fm/music/Dornenreich/_/Mein+Publikum+-+Der+Augenblick",
+          "duration": "510",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "Avant-Garde Black Metal",
+          "url": "https://www.last.fm/tag/Avant-Garde+Black+Metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:26:33.188Z"
+}

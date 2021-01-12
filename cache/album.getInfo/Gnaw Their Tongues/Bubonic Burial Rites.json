@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Bubonic Burial Rites",
+    "artist": "Gnaw Their Tongues",
+    "mbid": "b4c8adc3-ee7f-4552-a23c-c401d22842de",
+    "url": "https://www.last.fm/music/Gnaw+Their+Tongues/Bubonic+Burial+Rites",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4725a363d1c47044aaee734b2002cfa0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "713",
+    "playcount": "4567",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bubonic Burial Rites",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Bubonic+Burial+Rites",
+          "duration": "664",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Vademecum Mutilus",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Vademecum+Mutilus",
+          "duration": "422",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Tarred Coffins",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Tarred+Coffins",
+          "duration": "734",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "black ambient",
+          "url": "https://www.last.fm/tag/black+ambient"
+        },
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:50:41.563Z"
+}

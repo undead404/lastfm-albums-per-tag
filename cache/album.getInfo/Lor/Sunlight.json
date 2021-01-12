@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Sunlight",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Sunlight",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83fa139e047bb1f44d47733143c00f9a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5286",
+    "playcount": "39272",
+    "tracks": {
+      "track": [
+        {
+          "name": "welcome home, sun",
+          "url": "https://www.last.fm/music/Lor/_/welcome+home,+sun",
+          "duration": "56",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Sun#2 (feat. Runforrest)",
+          "url": "https://www.last.fm/music/Lor/_/Sun%232+(feat.+Runforrest)",
+          "duration": "178",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "suntescobar",
+          "url": "https://www.last.fm/music/Lor/_/suntescobar",
+          "duration": "198",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "słońce",
+          "url": "https://www.last.fm/music/Lor/_/s%C5%82o%C5%84ce",
+          "duration": "38",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "The sun is not my son",
+          "url": "https://www.last.fm/music/Lor/_/The%C2%A0sun%C2%A0is%C2%A0not%C2%A0my%C2%A0son",
+          "duration": "174",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "bye bye, sun francisco",
+          "url": "https://www.last.fm/music/Lor/_/bye%C2%A0bye,%C2%A0sun%C2%A0francisco",
+          "duration": "260",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Where did the sun go?",
+          "url": "https://www.last.fm/music/Lor/_/Where%C2%A0did%C2%A0the%C2%A0sun%C2%A0go%3F",
+          "duration": "68",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:38.730Z"
+}

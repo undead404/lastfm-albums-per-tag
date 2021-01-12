@@ -1,0 +1,98 @@
+{
+  "album": {
+    "name": "Dogma (2-Track Promo Version)",
+    "artist": "Nachtblut",
+    "url": "https://www.last.fm/music/Nachtblut/Dogma+(2-Track+Promo+Version)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7059954eba37abe9e30145edd38132f2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7059954eba37abe9e30145edd38132f2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7059954eba37abe9e30145edd38132f2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059954eba37abe9e30145edd38132f2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059954eba37abe9e30145edd38132f2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059954eba37abe9e30145edd38132f2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "94",
+    "playcount": "404",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dogma",
+          "url": "https://www.last.fm/music/Nachtblut/_/Dogma",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Eiskönigin",
+          "url": "https://www.last.fm/music/Nachtblut/_/Eisk%C3%B6nigin",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "Osnabrueck",
+          "url": "https://www.last.fm/tag/Osnabrueck"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:40:32.911Z"
+}

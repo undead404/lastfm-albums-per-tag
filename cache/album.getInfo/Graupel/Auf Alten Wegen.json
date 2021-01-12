@@ -1,0 +1,227 @@
+{
+  "album": {
+    "name": "Auf Alten Wegen...",
+    "artist": "Graupel",
+    "mbid": "4756ca82-19c8-3ba9-afb6-ccedd34b9c38",
+    "url": "https://www.last.fm/music/Graupel/Auf+Alten+Wegen...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be7f05a269d84b6c93aeeed658ebd4b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3004",
+    "playcount": "80012",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heimkehr",
+          "url": "https://www.last.fm/music/Graupel/_/Heimkehr",
+          "duration": "266",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Saat Zieht Zeit",
+          "url": "https://www.last.fm/music/Graupel/_/Saat+Zieht+Zeit",
+          "duration": "229",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Die Notglocke",
+          "url": "https://www.last.fm/music/Graupel/_/Die+Notglocke",
+          "duration": "241",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Der Alte Weg",
+          "url": "https://www.last.fm/music/Graupel/_/Der+Alte+Weg",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Requies Filii",
+          "url": "https://www.last.fm/music/Graupel/_/Requies+Filii",
+          "duration": "614",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Soll und Sein",
+          "url": "https://www.last.fm/music/Graupel/_/Soll+und+Sein",
+          "duration": "201",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Von Der Gunst Zur Schelte",
+          "url": "https://www.last.fm/music/Graupel/_/Von+Der+Gunst+Zur+Schelte",
+          "duration": "397",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Vom Glück Der Söhne",
+          "url": "https://www.last.fm/music/Graupel/_/Vom+Gl%C3%BCck+Der+S%C3%B6hne",
+          "duration": "238",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Ein Sterbelied Auf Metall",
+          "url": "https://www.last.fm/music/Graupel/_/Ein+Sterbelied+Auf+Metall",
+          "duration": "332",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Blutend Weiß",
+          "url": "https://www.last.fm/music/Graupel/_/Blutend+Wei%C3%9F",
+          "duration": "178",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "cold dimensions",
+          "url": "https://www.last.fm/tag/cold+dimensions"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:08:19.801Z"
+}

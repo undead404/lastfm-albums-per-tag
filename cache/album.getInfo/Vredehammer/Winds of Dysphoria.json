@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Winds of Dysphoria",
+    "artist": "Vredehammer",
+    "url": "https://www.last.fm/music/Vredehammer/Winds+of+Dysphoria",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7059bb3a50b5b877bed6c39a2c842125.png",
+        "size": ""
+      }
+    ],
+    "listeners": "821",
+    "playcount": "1629",
+    "tracks": {
+      "track": [
+        {
+          "name": "Winds of Dysphoria",
+          "url": "https://www.last.fm/music/Vredehammer/_/Winds+of+Dysphoria",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:30:59.759Z"
+}

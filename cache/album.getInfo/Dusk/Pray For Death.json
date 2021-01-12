@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Pray For Death",
+    "artist": "Dusk",
+    "mbid": "be9310c9-c366-43c3-a34f-64a548d3a5d6",
+    "url": "https://www.last.fm/music/Dusk/Pray+For+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caae49c49a3048b2a5ec85aaad9cc15d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "507",
+    "playcount": "6224",
+    "tracks": {
+      "track": [
+        {
+          "name": "Idézet",
+          "url": "https://www.last.fm/music/Dusk/_/Id%C3%A9zet",
+          "duration": "95",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "Örök álmok",
+          "url": "https://www.last.fm/music/Dusk/_/%C3%96r%C3%B6k+%C3%A1lmok",
+          "duration": "1120",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "csak egy árny",
+          "url": "https://www.last.fm/music/Dusk/_/csak+egy+%C3%A1rny",
+          "duration": "587",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "Ima",
+          "url": "https://www.last.fm/music/Dusk/_/Ima",
+          "duration": "432",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "átérezni a halált",
+          "url": "https://www.last.fm/music/Dusk/_/%C3%A1t%C3%A9rezni+a+hal%C3%A1lt",
+          "duration": "648",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        },
+        {
+          "name": "Sötétség",
+          "url": "https://www.last.fm/music/Dusk/_/S%C3%B6t%C3%A9ts%C3%A9g",
+          "duration": "180",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dusk",
+            "mbid": "fff13d63-3f14-45a9-a5f5-c41951217688",
+            "url": "https://www.last.fm/music/Dusk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:57:38.439Z"
+}

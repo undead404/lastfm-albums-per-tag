@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Step Back",
+    "artist": "Bloodline",
+    "url": "https://www.last.fm/music/Bloodline/Step+Back",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1e0aa4d070181979ba94a5afe465d85.png",
+        "size": ""
+      }
+    ],
+    "listeners": "444",
+    "playcount": "1020",
+    "tracks": {
+      "track": [
+        {
+          "name": "Step Back",
+          "url": "https://www.last.fm/music/Bloodline/_/Step+Back",
+          "duration": "188",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bloodline",
+            "mbid": "e3bcbe90-a7f6-4826-ae6e-bad74213d10a",
+            "url": "https://www.last.fm/music/Bloodline"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:34:31.493Z"
+}

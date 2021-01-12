@@ -1,0 +1,189 @@
+{
+  "album": {
+    "name": "Triumvirát",
+    "artist": "Cult of Fire",
+    "mbid": "2b495082-0495-4ce3-afcb-00ca1696efdb",
+    "url": "https://www.last.fm/music/Cult+of+Fire/Triumvir%C3%A1t",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6f62368d9a342238bf4e7d73d466d4a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7290",
+    "playcount": "213474",
+    "tracks": {
+      "track": [
+        {
+          "name": "Závěť Světu",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Z%C3%A1v%C4%9B%C5%A5+Sv%C4%9Btu",
+          "duration": "439",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Satan Mentor",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Satan+Mentor",
+          "duration": "298",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Černá Aura",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/%C4%8Cern%C3%A1+Aura",
+          "duration": "260",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Horizont Temnoty",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Horizont+Temnoty",
+          "duration": "492",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Z Jícnů Propastí",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Z+J%C3%ADcn%C5%AF+Propast%C3%AD",
+          "duration": "451",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Sluhové Věčného",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Sluhov%C3%A9+V%C4%9B%C4%8Dn%C3%A9ho",
+          "duration": "378",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Triumvirát",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Triumvir%C3%A1t",
+          "duration": "298",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "Supreme Albums",
+          "url": "https://www.last.fm/tag/Supreme+Albums"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Mar 2015, 20:00",
+      "summary": "Debut full album by the Czech black metal band, released 2012.\nCD version includes the 20:11 EP as bonus tracks.\n\nVERSION HISTORY:\nJuly 2012 - LP gatefold edition, 180g vinyl, includes A1 sized black&white poster. Self-released.\nNov. 2012 - CD edition released by Demonhood productions, includes bonus track Horizont Temnoty and both tracks from 20:11 EP.\nApril 2013 - LP gatefold edition released by Iron Bonehead, 140g vinyl, A2 color poster.\nJune 2014 - CD edition released by Necroshine records, same bonus tracks as the Demonhood prod. version. <a href=\"http://www.last.fm/music/Cult+of+Fire/Triumvir%C3%A1t\">Read more on Last.fm</a>.",
+      "content": "Debut full album by the Czech black metal band, released 2012.\nCD version includes the 20:11 EP as bonus tracks.\n\nVERSION HISTORY:\nJuly 2012 - LP gatefold edition, 180g vinyl, includes A1 sized black&white poster. Self-released.\nNov. 2012 - CD edition released by Demonhood productions, includes bonus track Horizont Temnoty and both tracks from 20:11 EP.\nApril 2013 - LP gatefold edition released by Iron Bonehead, 140g vinyl, A2 color poster.\nJune 2014 - CD edition released by Necroshine records, same bonus tracks as the Demonhood prod. version. <a href=\"http://www.last.fm/music/Cult+of+Fire/Triumvir%C3%A1t\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:08:55.925Z"
+}

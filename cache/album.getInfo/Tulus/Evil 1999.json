@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Evil 1999",
+    "artist": "Tulus",
+    "mbid": "7c0ec05a-4e45-44b9-b296-02948060203a",
+    "url": "https://www.last.fm/music/Tulus/Evil+1999",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ac43acdb21cbd51ebc320144c3dd462.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2105",
+    "playcount": "35723",
+    "tracks": {
+      "track": [
+        {
+          "name": "Menneskefar",
+          "url": "https://www.last.fm/music/Tulus/_/Menneskefar",
+          "duration": "178",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Tarantulus",
+          "url": "https://www.last.fm/music/Tulus/_/Tarantulus",
+          "duration": "284",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Draug",
+          "url": "https://www.last.fm/music/Tulus/_/Draug",
+          "duration": "181",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Cyprianus",
+          "url": "https://www.last.fm/music/Tulus/_/Cyprianus",
+          "duration": "203",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Dokkemaker",
+          "url": "https://www.last.fm/music/Tulus/_/Dokkemaker",
+          "duration": "182",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Salme",
+          "url": "https://www.last.fm/music/Tulus/_/Salme",
+          "duration": "354",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Blodstrup",
+          "url": "https://www.last.fm/music/Tulus/_/Blodstrup",
+          "duration": "134",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Sjel",
+          "url": "https://www.last.fm/music/Tulus/_/Sjel",
+          "duration": "197",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Dårskap Til Visdom",
+          "url": "https://www.last.fm/music/Tulus/_/D%C3%A5rskap+Til+Visdom",
+          "duration": "157",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Kviteheim",
+          "url": "https://www.last.fm/music/Tulus/_/Kviteheim",
+          "duration": "226",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "1999",
+          "url": "https://www.last.fm/tag/1999"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:33:07.282Z"
+}

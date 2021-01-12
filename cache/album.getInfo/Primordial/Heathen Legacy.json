@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Heathen Legacy",
+    "artist": "Primordial",
+    "url": "https://www.last.fm/music/Primordial/Heathen+Legacy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3babdf42d21c930e9dcaef7e531008a9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "364",
+    "playcount": "3343",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stolen Years",
+          "url": "https://www.last.fm/music/Primordial/_/Stolen+Years",
+          "duration": "315",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "To Hell or the Hangman",
+          "url": "https://www.last.fm/music/Primordial/_/To+Hell+or+the+Hangman",
+          "duration": "437",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Among the Lazarae",
+          "url": "https://www.last.fm/music/Primordial/_/Among+the+Lazarae",
+          "duration": "349",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "To The Ends Of The Earth",
+          "url": "https://www.last.fm/music/Primordial/_/To+The+Ends+Of+The+Earth",
+          "duration": "331",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "The Antichrist",
+          "url": "https://www.last.fm/music/Primordial/_/The+Antichrist",
+          "duration": "185",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:04:26.635Z"
+}

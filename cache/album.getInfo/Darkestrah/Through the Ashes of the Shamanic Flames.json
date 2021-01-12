@@ -1,0 +1,108 @@
+{
+  "album": {
+    "name": "Through the Ashes of the Shamanic Flames",
+    "artist": "Darkestrah",
+    "mbid": "aee8befd-7e4d-42b6-ae4a-57919540f3cb",
+    "url": "https://www.last.fm/music/Darkestrah/Through+the+Ashes+of+the+Shamanic+Flames",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac1a3387bda472d80180fe1cb1ac916.png",
+        "size": ""
+      }
+    ],
+    "listeners": "278",
+    "playcount": "1994",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lost in Eternal Calmness",
+          "url": "https://www.last.fm/music/Darkestrah/_/Lost+in+Eternal+Calmness",
+          "duration": "151",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Through the Ashes of the Shamanic Flames",
+          "url": "https://www.last.fm/music/Darkestrah/_/Through+the+Ashes+of+the+Shamanic+Flames",
+          "duration": "767",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Ordo Sakhna",
+          "url": "https://www.last.fm/music/Darkestrah/_/Ordo+Sakhna",
+          "duration": "95",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:16:47.274Z"
+}

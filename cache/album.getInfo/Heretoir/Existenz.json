@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Existenz",
+    "artist": "Heretoir",
+    "url": "https://www.last.fm/music/Heretoir/Existenz",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5735927064fc88011d2dcba51c294e73.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5735927064fc88011d2dcba51c294e73.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5735927064fc88011d2dcba51c294e73.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5735927064fc88011d2dcba51c294e73.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5735927064fc88011d2dcba51c294e73.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5735927064fc88011d2dcba51c294e73.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3514",
+    "playcount": "17728",
+    "tracks": {
+      "track": [
+        {
+          "name": "Erwachen Im Dunkel",
+          "url": "https://www.last.fm/music/Heretoir/_/Erwachen+Im+Dunkel",
+          "duration": "376",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ein Schrey in die Nacht",
+          "url": "https://www.last.fm/music/Heretoir/_/Ein+Schrey+in+die+Nacht",
+          "duration": "411",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ausgeburt",
+          "url": "https://www.last.fm/music/Heretoir/_/Ausgeburt",
+          "duration": "476",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Weltenwandler",
+          "url": "https://www.last.fm/music/Heretoir/_/Weltenwandler",
+          "duration": "689",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "blackened shoegaze",
+          "url": "https://www.last.fm/tag/blackened+shoegaze"
+        },
+        {
+          "name": "Blackened Post-Rock",
+          "url": "https://www.last.fm/tag/Blackened+Post-Rock"
+        },
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:55:52.972Z"
+}

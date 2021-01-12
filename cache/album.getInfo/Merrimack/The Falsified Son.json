@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Falsified Son",
+    "artist": "Merrimack",
+    "url": "https://www.last.fm/music/Merrimack/The+Falsified+Son",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "335",
+    "playcount": "711",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Falsified Son",
+          "url": "https://www.last.fm/music/Merrimack/_/The+Falsified+Son",
+          "duration": "294",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:49:39.907Z"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Tour Rehearsal Demo",
+    "artist": "Ash Borer",
+    "mbid": "fd124d80-6e5a-4caf-a711-8b11f0401e2e",
+    "url": "https://www.last.fm/music/Ash+Borer/Tour+Rehearsal+Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf6f12fab3ef41be96cdb9a639be293b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "433",
+    "playcount": "2594",
+    "tracks": {
+      "track": [
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Ash+Borer/_/%5Buntitled%5D",
+          "duration": "640",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ash Borer",
+            "mbid": "cf025a52-840d-49ad-86ca-02d29a792ce7",
+            "url": "https://www.last.fm/music/Ash+Borer"
+          }
+        },
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Ash+Borer/_/%5Buntitled%5D",
+          "duration": "640",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ash Borer",
+            "mbid": "cf025a52-840d-49ad-86ca-02d29a792ce7",
+            "url": "https://www.last.fm/music/Ash+Borer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Jun 2015, 02:59",
+      "summary": "1. Untitled III - 7:42\n2. Untitled IV - 10:11\n\nBoth tracks are instrumental. Untitled III was later remade (with vocals) as Rest, You Are the Lightning on Ash Borer. Untitled I appears on 2009 Demo and Untitled II appears on Ash Borer/Fell Voices. <a href=\"http://www.last.fm/music/Ash+Borer/Tour+Rehearsal+Demo\">Read more on Last.fm</a>.",
+      "content": "1. Untitled III - 7:42\n2. Untitled IV - 10:11\n\nBoth tracks are instrumental. Untitled III was later remade (with vocals) as Rest, You Are the Lightning on Ash Borer. Untitled I appears on 2009 Demo and Untitled II appears on Ash Borer/Fell Voices. <a href=\"http://www.last.fm/music/Ash+Borer/Tour+Rehearsal+Demo\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:18:09.496Z"
+}

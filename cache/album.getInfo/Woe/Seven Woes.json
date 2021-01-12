@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Seven Woes",
+    "artist": "Woe",
+    "url": "https://www.last.fm/music/Woe/Seven+Woes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/844629d79f4d717e592b10bd2175b580.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/844629d79f4d717e592b10bd2175b580.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/844629d79f4d717e592b10bd2175b580.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/844629d79f4d717e592b10bd2175b580.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/844629d79f4d717e592b10bd2175b580.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/844629d79f4d717e592b10bd2175b580.png",
+        "size": ""
+      }
+    ],
+    "listeners": "240",
+    "playcount": "722",
+    "tracks": {
+      "track": [
+        {
+          "name": "Seven Woes",
+          "url": "https://www.last.fm/music/Woe/_/Seven+Woes",
+          "duration": "210",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woe",
+            "mbid": "db0ce7e9-45b0-4724-bb0e-ec2307908eba",
+            "url": "https://www.last.fm/music/Woe"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:39:37.253Z"
+}

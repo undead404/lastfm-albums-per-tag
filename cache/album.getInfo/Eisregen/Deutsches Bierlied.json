@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Deutsches Bierlied",
+    "artist": "Eisregen",
+    "url": "https://www.last.fm/music/Eisregen/Deutsches+Bierlied",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "451",
+    "playcount": "1007",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deutsches Bierlied",
+          "url": "https://www.last.fm/music/Eisregen/_/Deutsches+Bierlied",
+          "duration": "98",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:11:39.033Z"
+}

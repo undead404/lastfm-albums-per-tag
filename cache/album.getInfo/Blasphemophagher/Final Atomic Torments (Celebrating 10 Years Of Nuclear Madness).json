@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Final Atomic Torments (Celebrating 10 Years Of Nuclear Madness)",
+    "artist": "Blasphemophagher",
+    "url": "https://www.last.fm/music/Blasphemophagher/Final+Atomic+Torments+(Celebrating+10+Years+Of+Nuclear+Madness)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36b358d6be4f4f01238f18068a3b8947.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10",
+    "playcount": "61",
+    "tracks": {
+      "track": [
+        {
+          "name": "Devastating Radioactive Torments",
+          "url": "https://www.last.fm/music/Blasphemophagher/_/Devastating+Radioactive+Torments",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blasphemophagher",
+            "mbid": "a77a806d-1254-4edd-a157-59532218a853",
+            "url": "https://www.last.fm/music/Blasphemophagher"
+          }
+        },
+        {
+          "name": "Final hour of Christ (Profanatica cover)",
+          "url": "https://www.last.fm/music/Blasphemophagher/_/Final+hour+of+Christ+(Profanatica+cover)",
+          "duration": "159",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blasphemophagher",
+            "mbid": "a77a806d-1254-4edd-a157-59532218a853",
+            "url": "https://www.last.fm/music/Blasphemophagher"
+          }
+        },
+        {
+          "name": "Atomic Infested Carnage",
+          "url": "https://www.last.fm/music/Blasphemophagher/_/Atomic+Infested+Carnage",
+          "duration": "161",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blasphemophagher",
+            "mbid": "a77a806d-1254-4edd-a157-59532218a853",
+            "url": "https://www.last.fm/music/Blasphemophagher"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:29.800Z"
+}

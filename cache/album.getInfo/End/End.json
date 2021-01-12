@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "End",
+    "artist": "End",
+    "mbid": "d98a4bd3-570f-423a-858d-97293d5ed980",
+    "url": "https://www.last.fm/music/End/End",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9291c5af4fd8de8462d181d706d7105.png",
+        "size": ""
+      }
+    ],
+    "listeners": "351",
+    "playcount": "4982",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sick",
+          "url": "https://www.last.fm/music/End/_/Sick",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Pitiless Paranormal Reek",
+          "url": "https://www.last.fm/music/End/_/Pitiless+Paranormal+Reek",
+          "duration": "328",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Nails and Forests",
+          "url": "https://www.last.fm/music/End/_/Nails+and+Forests",
+          "duration": "644",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Humanitarianism",
+          "url": "https://www.last.fm/music/End/_/Humanitarianism",
+          "duration": "310",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Come Blackness Feed Me",
+          "url": "https://www.last.fm/music/End/_/Come+Blackness+Feed+Me",
+          "duration": "381",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Pessimism",
+          "url": "https://www.last.fm/music/End/_/Pessimism",
+          "duration": "306",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Greek",
+          "url": "https://www.last.fm/tag/Greek"
+        },
+        {
+          "name": "greece",
+          "url": "https://www.last.fm/tag/greece"
+        },
+        {
+          "name": "Nihilistic",
+          "url": "https://www.last.fm/tag/Nihilistic"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:28:08.803Z"
+}

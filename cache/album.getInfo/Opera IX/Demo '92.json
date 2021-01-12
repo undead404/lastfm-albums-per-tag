@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Demo '92",
+    "artist": "Opera IX",
+    "url": "https://www.last.fm/music/Opera+IX/Demo+%2792",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/764afb3f2c90463e852533ed9e9f7da1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "47",
+    "playcount": "281",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rhymes About Dying Stones",
+          "url": "https://www.last.fm/music/Opera+IX/_/Rhymes+About+Dying+Stones",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Opera IX",
+            "mbid": "abf76e96-80b7-450f-9bc1-ac79dcb3b553",
+            "url": "https://www.last.fm/music/Opera+IX"
+          }
+        },
+        {
+          "name": "House of agony",
+          "url": "https://www.last.fm/music/Opera+IX/_/House+of+agony",
+          "duration": "289",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Opera IX",
+            "mbid": "abf76e96-80b7-450f-9bc1-ac79dcb3b553",
+            "url": "https://www.last.fm/music/Opera+IX"
+          }
+        },
+        {
+          "name": "Last Down",
+          "url": "https://www.last.fm/music/Opera+IX/_/Last+Down",
+          "duration": "333",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Opera IX",
+            "mbid": "abf76e96-80b7-450f-9bc1-ac79dcb3b553",
+            "url": "https://www.last.fm/music/Opera+IX"
+          }
+        },
+        {
+          "name": "Malum in sacrum",
+          "url": "https://www.last.fm/music/Opera+IX/_/Malum+in+sacrum",
+          "duration": "372",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Opera IX",
+            "mbid": "abf76e96-80b7-450f-9bc1-ac79dcb3b553",
+            "url": "https://www.last.fm/music/Opera+IX"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:04:47.344Z"
+}

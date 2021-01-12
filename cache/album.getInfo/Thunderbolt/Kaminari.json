@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Kaminari",
+    "artist": "Thunderbolt",
+    "url": "https://www.last.fm/music/Thunderbolt/Kaminari",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/383fa8f089cc45bba4527e98e2125bfd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "439",
+    "playcount": "916",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:05:17.465Z"
+}

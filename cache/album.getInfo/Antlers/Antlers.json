@@ -1,0 +1,180 @@
+{
+  "album": {
+    "name": "Antlers",
+    "artist": "Antlers",
+    "mbid": "54318abd-990d-4b7a-ab8b-e638cad345f2",
+    "url": "https://www.last.fm/music/Antlers/Antlers",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/88ef13d64db847af82fbede68ab42693.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/88ef13d64db847af82fbede68ab42693.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/88ef13d64db847af82fbede68ab42693.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88ef13d64db847af82fbede68ab42693.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88ef13d64db847af82fbede68ab42693.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88ef13d64db847af82fbede68ab42693.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3189",
+    "playcount": "40317",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Walnut",
+          "url": "https://www.last.fm/music/Antlers/_/Black+Walnut",
+          "duration": "140",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Dogwood",
+          "url": "https://www.last.fm/music/Antlers/_/Dogwood",
+          "duration": "180",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Bald Cypress",
+          "url": "https://www.last.fm/music/Antlers/_/Bald+Cypress",
+          "duration": "79",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Water Tupelo",
+          "url": "https://www.last.fm/music/Antlers/_/Water+Tupelo",
+          "duration": "278",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Sequoia",
+          "url": "https://www.last.fm/music/Antlers/_/Sequoia",
+          "duration": "207",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Catalpa",
+          "url": "https://www.last.fm/music/Antlers/_/Catalpa",
+          "duration": "204",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "Bur Oak",
+          "url": "https://www.last.fm/music/Antlers/_/Bur+Oak",
+          "duration": "105",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        },
+        {
+          "name": "White Fur",
+          "url": "https://www.last.fm/music/Antlers/_/White+Fur",
+          "duration": "164",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antlers",
+            "mbid": "0f56dc7c-a1f3-428f-9ec6-e4cd5c6c2438",
+            "url": "https://www.last.fm/music/Antlers"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:03:00.901Z"
+}

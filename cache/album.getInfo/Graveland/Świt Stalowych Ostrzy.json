@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Świt Stalowych Ostrzy",
+    "artist": "Graveland",
+    "url": "https://www.last.fm/music/Graveland/%C5%9Awit+Stalowych+Ostrzy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/277801c8528c499799c363d1b03fbf51.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/277801c8528c499799c363d1b03fbf51.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/277801c8528c499799c363d1b03fbf51.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/277801c8528c499799c363d1b03fbf51.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/277801c8528c499799c363d1b03fbf51.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/277801c8528c499799c363d1b03fbf51.png",
+        "size": ""
+      }
+    ],
+    "listeners": "536",
+    "playcount": "4651",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stal Utopiona We Mgle",
+          "url": "https://www.last.fm/music/Graveland/_/Stal+Utopiona+We+Mgle",
+          "duration": "528",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Semper Fidelis",
+          "url": "https://www.last.fm/music/Graveland/_/Semper+Fidelis",
+          "duration": "569",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Nieśmiertelna Krew",
+          "url": "https://www.last.fm/music/Graveland/_/Nie%C5%9Bmiertelna+Krew",
+          "duration": "451",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Na Północ Od Rubikonu",
+          "url": "https://www.last.fm/music/Graveland/_/Na+P%C3%B3%C5%82noc+Od+Rubikonu",
+          "duration": "424",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Odchodząc w chwale",
+          "url": "https://www.last.fm/music/Graveland/_/Odchodz%C4%85c+w+chwale",
+          "duration": "364",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "U Boku Walkirii",
+          "url": "https://www.last.fm/music/Graveland/_/U+Boku+Walkirii",
+          "duration": "531",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:40:18.148Z"
+}

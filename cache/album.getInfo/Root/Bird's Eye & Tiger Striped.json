@@ -1,0 +1,63 @@
+{
+  "album": {
+    "name": "Bird's Eye & Tiger Striped",
+    "artist": "Root",
+    "url": "https://www.last.fm/music/Root/Bird%27s+Eye+&+Tiger+Striped",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d03ac1ba2cc543afada75e5abcb74f9a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "36",
+    "playcount": "349",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive rock",
+          "url": "https://www.last.fm/tag/Progressive+rock"
+        },
+        {
+          "name": "UK",
+          "url": "https://www.last.fm/tag/UK"
+        },
+        {
+          "name": "art rock",
+          "url": "https://www.last.fm/tag/art+rock"
+        },
+        {
+          "name": "space rock",
+          "url": "https://www.last.fm/tag/space+rock"
+        },
+        {
+          "name": "SymphoRock",
+          "url": "https://www.last.fm/tag/SymphoRock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:42:23.261Z"
+}

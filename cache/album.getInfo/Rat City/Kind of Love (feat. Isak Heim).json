@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Kind of Love (feat. Isak Heim)",
+    "artist": "Rat City",
+    "url": "https://www.last.fm/music/Rat+City/Kind+of+Love+(feat.+Isak+Heim)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20e95c4bc5b971044eda288a31779331.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20e95c4bc5b971044eda288a31779331.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20e95c4bc5b971044eda288a31779331.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20e95c4bc5b971044eda288a31779331.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20e95c4bc5b971044eda288a31779331.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20e95c4bc5b971044eda288a31779331.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11875",
+    "playcount": "57861",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kind of Love (feat. Isak Heim)",
+          "url": "https://www.last.fm/music/Rat+City/_/Kind+of+Love+(feat.+Isak+Heim)",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rat City",
+            "url": "https://www.last.fm/music/Rat+City"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:09:53.982Z"
+}

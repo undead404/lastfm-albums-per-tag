@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "At The Ellipse's Arc",
+    "artist": "Bone Awl",
+    "mbid": "dece60d5-fa54-4189-933b-c1d4f0b0cd5d",
+    "url": "https://www.last.fm/music/Bone+Awl/At+The+Ellipse%27s+Arc",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1722185dbc8b043a5eaf88ad08b3cbed.png",
+        "size": ""
+      }
+    ],
+    "listeners": "714",
+    "playcount": "7078",
+    "tracks": {
+      "track": [
+        {
+          "name": "At the Ellipse's Arc",
+          "url": "https://www.last.fm/music/Bone+Awl/_/At+the+Ellipse%27s+Arc",
+          "duration": "108",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "cornered slave",
+          "url": "https://www.last.fm/music/Bone+Awl/_/cornered+slave",
+          "duration": "178",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "W.T.D.",
+          "url": "https://www.last.fm/music/Bone+Awl/_/W.T.D.",
+          "duration": "118",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "when i die",
+          "url": "https://www.last.fm/music/Bone+Awl/_/when+i+die",
+          "duration": "188",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:29.248Z"
+}

@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Desolation",
+    "artist": "Sigh",
+    "mbid": "b7db3289-6e28-4848-9233-e957ad09b447",
+    "url": "https://www.last.fm/music/Sigh/Desolation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/242654e0dbf18e9cd8625f34e80d1e46.png",
+        "size": ""
+      }
+    ],
+    "listeners": "217",
+    "playcount": "1105",
+    "tracks": {
+      "track": [
+        {
+          "name": "Weakness Within",
+          "url": "https://www.last.fm/music/Sigh/_/Weakness+Within",
+          "duration": "187",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Desolation Of My Mind",
+          "url": "https://www.last.fm/music/Sigh/_/Desolation+Of+My+Mind",
+          "duration": "276",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Mentally Numb",
+          "url": "https://www.last.fm/music/Sigh/_/Mentally+Numb",
+          "duration": "65",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Avant-garde Metal",
+          "url": "https://www.last.fm/tag/Avant-garde+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:18:49.707Z"
+}

@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Black Ceremony",
+    "artist": "Baptism",
+    "url": "https://www.last.fm/music/Baptism/Black+Ceremony",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff6f072b56364650bd15e916e761d985.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff6f072b56364650bd15e916e761d985.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff6f072b56364650bd15e916e761d985.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff6f072b56364650bd15e916e761d985.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff6f072b56364650bd15e916e761d985.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff6f072b56364650bd15e916e761d985.png",
+        "size": ""
+      }
+    ],
+    "listeners": "638",
+    "playcount": "3952",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Ceremony of Hate",
+          "url": "https://www.last.fm/music/Baptism/_/Black+Ceremony+of+Hate",
+          "duration": "481",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Baptism",
+            "mbid": "6eb04ae9-b616-450d-867b-6f5d4b1e590e",
+            "url": "https://www.last.fm/music/Baptism"
+          }
+        },
+        {
+          "name": "Forgotten Temple of Death",
+          "url": "https://www.last.fm/music/Baptism/_/Forgotten+Temple+of+Death",
+          "duration": "314",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Baptism",
+            "mbid": "6eb04ae9-b616-450d-867b-6f5d4b1e590e",
+            "url": "https://www.last.fm/music/Baptism"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "04 Jul 2010, 16:19",
+      "summary": "1.\tBlack Ceremony of Hate\t08:08\t\n2.\tForgotten Temple of Death\t05:14\t\n\nTotal playing time\t13:22 <a href=\"http://www.last.fm/music/Baptism/Black+Ceremony\">Read more on Last.fm</a>.",
+      "content": "1.\tBlack Ceremony of Hate\t08:08\t\n2.\tForgotten Temple of Death\t05:14\t\n\nTotal playing time\t13:22 <a href=\"http://www.last.fm/music/Baptism/Black+Ceremony\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:12:17.693Z"
+}

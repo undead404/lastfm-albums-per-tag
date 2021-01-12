@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Horizon",
+    "artist": "Graupel",
+    "url": "https://www.last.fm/music/Graupel/Horizon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a743814b1eb6af8a82ba1f9c227080dc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "40",
+    "playcount": "538",
+    "tracks": {
+      "track": [
+        {
+          "name": "Horizon",
+          "url": "https://www.last.fm/music/Graupel/_/Horizon",
+          "duration": "276",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Frozen",
+          "url": "https://www.last.fm/music/Graupel/_/Frozen",
+          "duration": "202",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:13.019Z"
+}

@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Yggdrasill",
+    "artist": "Enslaved",
+    "mbid": "38419ee5-b586-480f-a59d-9d8137dd457e",
+    "url": "https://www.last.fm/music/Enslaved/Yggdrasill",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78494b3fefee18958b6d63e2c7701bc4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7162",
+    "playcount": "65659",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heimdallr",
+          "url": "https://www.last.fm/music/Enslaved/_/Heimdallr",
+          "duration": "400",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Allfadr Odinn",
+          "url": "https://www.last.fm/music/Enslaved/_/Allfadr+Odinn",
+          "duration": "470",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Hal Valr",
+          "url": "https://www.last.fm/music/Enslaved/_/Hal+Valr",
+          "duration": "446",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Niunda Heim",
+          "url": "https://www.last.fm/music/Enslaved/_/Niunda+Heim",
+          "duration": "459",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Resound Of Gjallarhorn",
+          "url": "https://www.last.fm/music/Enslaved/_/Resound+Of+Gjallarhorn",
+          "duration": "194",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Enslaved",
+          "url": "https://www.last.fm/music/Enslaved/_/Enslaved",
+          "duration": "370",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "1992",
+          "url": "https://www.last.fm/tag/1992"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:56:30.886Z"
+}

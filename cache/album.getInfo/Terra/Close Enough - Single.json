@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Close Enough - Single",
+    "artist": "Terra",
+    "url": "https://www.last.fm/music/Terra/Close+Enough+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1508",
+    "playcount": "3882",
+    "tracks": {
+      "track": [
+        {
+          "name": "Close Enough",
+          "url": "https://www.last.fm/music/Terra/_/Close+Enough",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Terra",
+            "mbid": "c52e44ca-71b8-4095-9d6e-503b550f74f3",
+            "url": "https://www.last.fm/music/Terra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:15:02.800Z"
+}

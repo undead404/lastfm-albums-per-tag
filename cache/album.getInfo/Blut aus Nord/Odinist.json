@@ -1,0 +1,217 @@
+{
+  "album": {
+    "name": "Odinist",
+    "artist": "Blut aus Nord",
+    "url": "https://www.last.fm/music/Blut+aus+Nord/Odinist",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8beb119db8c8444b86b5351f52a468ef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6553",
+    "playcount": "132491",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Intro",
+          "duration": "89",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "An Element of Flesh",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/An+Element+of+Flesh",
+          "duration": "330",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "The Sounds of the Universe",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Sounds+of+the+Universe",
+          "duration": "326",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Odinist",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Odinist",
+          "duration": "302",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "A Few Shreds Of Thoughts",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/A+Few+Shreds+Of+Thoughts",
+          "duration": "291",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Ellipsis",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Ellipsis",
+          "duration": "187",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Mystic Absolu",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Mystic+Absolu",
+          "duration": "270",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "The Cycle of the Cycles",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Cycle+of+the+Cycles",
+          "duration": "319",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Outro",
+          "duration": "98",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "vinyl",
+          "url": "https://www.last.fm/tag/vinyl"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:07:44.617Z"
+}

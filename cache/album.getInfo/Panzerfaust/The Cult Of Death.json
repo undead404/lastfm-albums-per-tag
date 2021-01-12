@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "The Cult Of Death",
+    "artist": "Panzerfaust",
+    "mbid": "7d7cef63-ecfd-453f-8d89-7ae098a344b2",
+    "url": "https://www.last.fm/music/Panzerfaust/The+Cult+Of+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123faa90a0ea52f975a2a1d080d180c8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "644",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ecstasy Of My Murder",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Ecstasy+Of+My+Murder",
+          "duration": "182",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Amongst The Last Storm",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Amongst+The+Last+Storm",
+          "duration": "342",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "The Dark Call",
+          "url": "https://www.last.fm/music/Panzerfaust/_/The+Dark+Call",
+          "duration": "177",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Prelude (Of My Murder)",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Prelude+(Of+My+Murder)",
+          "duration": "82",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Satan's Words",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Satan%27s+Words",
+          "duration": "74",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "A Blaze In The Lost Kingdom",
+          "url": "https://www.last.fm/music/Panzerfaust/_/A+Blaze+In+The+Lost+Kingdom",
+          "duration": "385",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        },
+        {
+          "name": "Illusion Of Humanity",
+          "url": "https://www.last.fm/music/Panzerfaust/_/Illusion+Of+Humanity",
+          "duration": "258",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:25:10.433Z"
+}

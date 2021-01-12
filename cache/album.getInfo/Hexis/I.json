@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "I",
+    "artist": "Hexis",
+    "url": "https://www.last.fm/music/Hexis/I",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25bb8619d54f428cc2c245fe1e80744b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "48",
+    "playcount": "1180",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:26.422Z"
+}

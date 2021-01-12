@@ -1,0 +1,264 @@
+{
+  "album": {
+    "name": "Tracks From The Archives",
+    "artist": "Nattefrost",
+    "url": "https://www.last.fm/music/Nattefrost/Tracks+From+The+Archives",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b4c05e410034108b39eb482f1caa0a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "167",
+    "playcount": "1422",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Magic of Forgotten Times",
+          "url": "https://www.last.fm/music/Nattefrost/_/The+Magic+of+Forgotten+Times",
+          "duration": "355",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Einkaufen",
+          "url": "https://www.last.fm/music/Nattefrost/_/Einkaufen",
+          "duration": "225",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Nightfall",
+          "url": "https://www.last.fm/music/Nattefrost/_/Nightfall",
+          "duration": "302",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Vejen Til Asgård",
+          "url": "https://www.last.fm/music/Nattefrost/_/Vejen+Til+Asg%C3%A5rd",
+          "duration": "253",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Valhal",
+          "url": "https://www.last.fm/music/Nattefrost/_/Valhal",
+          "duration": "690",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Technological Revenge",
+          "url": "https://www.last.fm/music/Nattefrost/_/Technological+Revenge",
+          "duration": "238",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Underneath Another Nightsky",
+          "url": "https://www.last.fm/music/Nattefrost/_/Underneath+Another+Nightsky",
+          "duration": "442",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Norrøn",
+          "url": "https://www.last.fm/music/Nattefrost/_/Norr%C3%B8n",
+          "duration": "548",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Hjertestop",
+          "url": "https://www.last.fm/music/Nattefrost/_/Hjertestop",
+          "duration": "267",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Transformation",
+          "url": "https://www.last.fm/music/Nattefrost/_/Transformation",
+          "duration": "311",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Decadence",
+          "url": "https://www.last.fm/music/Nattefrost/_/Decadence",
+          "duration": "310",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Searching For A Distant Planet",
+          "url": "https://www.last.fm/music/Nattefrost/_/Searching+For+A+Distant+Planet",
+          "duration": "281",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        },
+        {
+          "name": "Descending from the stars",
+          "url": "https://www.last.fm/music/Nattefrost/_/Descending+from+the+stars",
+          "duration": "221",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nattefrost",
+            "mbid": "5449a5d0-fa1c-488a-a584-6052f99722e2",
+            "url": "https://www.last.fm/music/Nattefrost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:31:57.366Z"
+}

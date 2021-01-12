@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "III : Angst",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/III+:+Angst",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d42ca563dc3835d73718137244e03b38.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d42ca563dc3835d73718137244e03b38.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d42ca563dc3835d73718137244e03b38.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d42ca563dc3835d73718137244e03b38.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d42ca563dc3835d73718137244e03b38.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d42ca563dc3835d73718137244e03b38.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5220",
+    "playcount": "55765",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mörda dig själv...",
+          "url": "https://www.last.fm/music/Shining/_/M%C3%B6rda+dig+sj%C3%A4lv...",
+          "duration": "547",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Svart industriell olycka",
+          "url": "https://www.last.fm/music/Shining/_/Svart+industriell+olycka",
+          "duration": "485",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Självdestruktivitetens emissarie",
+          "url": "https://www.last.fm/music/Shining/_/Sj%C3%A4lvdestruktivitetens+emissarie",
+          "duration": "509",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Submit to Self-destruction",
+          "url": "https://www.last.fm/music/Shining/_/Submit+to+Self-destruction",
+          "duration": "432",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Till minne av daghen",
+          "url": "https://www.last.fm/music/Shining/_/Till+minne+av+daghen",
+          "duration": "262",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Fields Of Faceless",
+          "url": "https://www.last.fm/music/Shining/_/Fields+Of+Faceless",
+          "duration": "621",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:30.445Z"
+}

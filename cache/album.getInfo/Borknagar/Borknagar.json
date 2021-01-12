@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Borknagar",
+    "artist": "Borknagar",
+    "mbid": "d84ed986-cc03-358a-a830-5253bb7b6da9",
+    "url": "https://www.last.fm/music/Borknagar/Borknagar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6d5605856a6c210ddf4408bdf84facc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "33900",
+    "playcount": "396225",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vintervredets Sjelesagn",
+          "url": "https://www.last.fm/music/Borknagar/_/Vintervredets+Sjelesagn",
+          "duration": "404",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Tanker mot Tind (Kvelding)",
+          "url": "https://www.last.fm/music/Borknagar/_/Tanker+mot+Tind+(Kvelding)",
+          "duration": "209",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Svartskogs Gilde",
+          "url": "https://www.last.fm/music/Borknagar/_/Svartskogs+Gilde",
+          "duration": "352",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Ved Steingard",
+          "url": "https://www.last.fm/music/Borknagar/_/Ved+Steingard",
+          "duration": "133",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Krigsstev",
+          "url": "https://www.last.fm/music/Borknagar/_/Krigsstev",
+          "duration": "123",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Dauden",
+          "url": "https://www.last.fm/music/Borknagar/_/Dauden",
+          "duration": "348",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Grimskalle Trell",
+          "url": "https://www.last.fm/music/Borknagar/_/Grimskalle+Trell",
+          "duration": "338",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Nord Naagauk",
+          "url": "https://www.last.fm/music/Borknagar/_/Nord+Naagauk",
+          "duration": "186",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Fandens Allheim",
+          "url": "https://www.last.fm/music/Borknagar/_/Fandens+Allheim",
+          "duration": "379",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Tanker mot Tind (Gryning)",
+          "url": "https://www.last.fm/music/Borknagar/_/Tanker+mot+Tind+(Gryning)",
+          "duration": "176",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:06:05.053Z"
+}

@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "The Last Supper",
+    "artist": "Belphegor",
+    "mbid": "f410685a-29d7-4873-a432-012520614158",
+    "url": "https://www.last.fm/music/Belphegor/The+Last+Supper",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f393bff6496f4b32b56d402267ee5965.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f393bff6496f4b32b56d402267ee5965.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f393bff6496f4b32b56d402267ee5965.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f393bff6496f4b32b56d402267ee5965.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f393bff6496f4b32b56d402267ee5965.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f393bff6496f4b32b56d402267ee5965.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9682",
+    "playcount": "245633",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Last Supper",
+          "url": "https://www.last.fm/music/Belphegor/_/The+Last+Supper",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "A Funeral Without a Cry",
+          "url": "https://www.last.fm/music/Belphegor/_/A+Funeral+Without+a+Cry",
+          "duration": "293",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Impalement Without Mercy",
+          "url": "https://www.last.fm/music/Belphegor/_/Impalement+Without+Mercy",
+          "duration": "224",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "March Of The Dead",
+          "url": "https://www.last.fm/music/Belphegor/_/March+Of+The+Dead",
+          "duration": "297",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "The Rapture Of Cremation",
+          "url": "https://www.last.fm/music/Belphegor/_/The+Rapture+Of+Cremation",
+          "duration": "235",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Engulfed In Eternal Frost",
+          "url": "https://www.last.fm/music/Belphegor/_/Engulfed+In+Eternal+Frost",
+          "duration": "219",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "D.I.E.",
+          "url": "https://www.last.fm/music/Belphegor/_/D.I.E.",
+          "duration": "214",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "In Remembrance of Hate and Sorrow",
+          "url": "https://www.last.fm/music/Belphegor/_/In+Remembrance+of+Hate+and+Sorrow",
+          "duration": "299",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Bloodbath in Paradise-Part 2",
+          "url": "https://www.last.fm/music/Belphegor/_/Bloodbath+in+Paradise-Part+2",
+          "duration": "181",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Kruzifixion",
+          "url": "https://www.last.fm/music/Belphegor/_/Kruzifixion",
+          "duration": "249",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "1995",
+          "url": "https://www.last.fm/tag/1995"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:04:43.245Z"
+}

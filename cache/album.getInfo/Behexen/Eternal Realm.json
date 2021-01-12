@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Eternal Realm",
+    "artist": "Behexen",
+    "mbid": "fc287aae-2344-4315-8369-e284c0a521b4",
+    "url": "https://www.last.fm/music/Behexen/Eternal+Realm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06eb1527badfbe6c440bb969ac9ce331.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1597",
+    "playcount": "22522",
+    "tracks": {
+      "track": [
+        {
+          "name": "Beyond The Dark Graves",
+          "url": "https://www.last.fm/music/Behexen/_/Beyond+The+Dark+Graves",
+          "duration": "164",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "The Queen of Blood & Lust",
+          "url": "https://www.last.fm/music/Behexen/_/The+Queen+of+Blood+&+Lust",
+          "duration": "302",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "The Land Of The Troll",
+          "url": "https://www.last.fm/music/Behexen/_/The+Land+Of+The+Troll",
+          "duration": "471",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Eternal Realm",
+          "url": "https://www.last.fm/music/Behexen/_/Eternal+Realm",
+          "duration": "297",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Derision For Jesus",
+          "url": "https://www.last.fm/music/Behexen/_/Derision+For+Jesus",
+          "duration": "351",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:30:00.633Z"
+}

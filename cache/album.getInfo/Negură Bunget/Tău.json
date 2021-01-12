@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Tău",
+    "artist": "Negură Bunget",
+    "mbid": "85006c89-df95-4031-b3ce-bc41bd7645aa",
+    "url": "https://www.last.fm/music/Negur%C4%83+Bunget/T%C4%83u",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d8c7a89377f4002c0cac9f028eb69aa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1046",
+    "playcount": "29029",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nămetenie",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/N%C4%83metenie",
+          "duration": "616",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Izbucul galbenei",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Izbucul+galbenei",
+          "duration": "389",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "La Hotaru Cu Cinci Culmi",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/La+Hotaru+Cu+Cinci+Culmi",
+          "duration": "251",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Curgerea muntelui",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Curgerea+muntelui",
+          "duration": "324",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Tărîm vîlhovnicesc",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/T%C4%83r%C3%AEm+v%C3%AElhovnicesc",
+          "duration": "399",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Împodobeala timpului",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/%C3%8Empodobeala+timpului",
+          "duration": "371",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Picur Viu Foc",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Picur+Viu+Foc",
+          "duration": "309",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Schimnicește",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Schimnice%C8%99te",
+          "duration": "368",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "best of 2015",
+          "url": "https://www.last.fm/tag/best+of+2015"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:21:30.488Z"
+}

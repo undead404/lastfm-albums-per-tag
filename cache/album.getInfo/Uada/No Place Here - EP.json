@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "No Place Here - EP",
+    "artist": "Uada",
+    "url": "https://www.last.fm/music/Uada/No+Place+Here+-+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b0301ce1cd0fb814c6972eded8465eb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21",
+    "playcount": "31",
+    "tracks": {
+      "track": [
+        {
+          "name": "No Place Here",
+          "url": "https://www.last.fm/music/Uada/_/No+Place+Here",
+          "duration": "821",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:23:07.323Z"
+}

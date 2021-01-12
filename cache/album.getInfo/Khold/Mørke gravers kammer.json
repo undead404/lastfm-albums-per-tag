@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Mørke gravers kammer",
+    "artist": "Khold",
+    "mbid": "13f79bf7-1248-43cc-a455-225d47d21822",
+    "url": "https://www.last.fm/music/Khold/M%C3%B8rke+gravers+kammer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/591c74e77aae048992c4397917841d5f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/591c74e77aae048992c4397917841d5f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/591c74e77aae048992c4397917841d5f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/591c74e77aae048992c4397917841d5f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/591c74e77aae048992c4397917841d5f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/591c74e77aae048992c4397917841d5f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7239",
+    "playcount": "73669",
+    "tracks": {
+      "track": [
+        {
+          "name": "Åtselgraver",
+          "url": "https://www.last.fm/music/Khold/_/%C3%85tselgraver",
+          "duration": "229",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Død",
+          "url": "https://www.last.fm/music/Khold/_/D%C3%B8d",
+          "duration": "251",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Niflheimr",
+          "url": "https://www.last.fm/music/Khold/_/Niflheimr",
+          "duration": "173",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Hevnerske",
+          "url": "https://www.last.fm/music/Khold/_/Hevnerske",
+          "duration": "238",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Med nebb og klør",
+          "url": "https://www.last.fm/music/Khold/_/Med+nebb+og+kl%C3%B8r",
+          "duration": "217",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Mørke gravers kammer",
+          "url": "https://www.last.fm/music/Khold/_/M%C3%B8rke+gravers+kammer",
+          "duration": "269",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Opera Seria",
+          "url": "https://www.last.fm/music/Khold/_/Opera+Seria",
+          "duration": "233",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Sjeleskjender",
+          "url": "https://www.last.fm/music/Khold/_/Sjeleskjender",
+          "duration": "272",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Vardøger",
+          "url": "https://www.last.fm/music/Khold/_/Vard%C3%B8ger",
+          "duration": "211",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Kamp",
+          "url": "https://www.last.fm/music/Khold/_/Kamp",
+          "duration": "242",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Død",
+          "url": "https://www.last.fm/music/Khold/_/D%C3%B8d",
+          "duration": "251",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2004",
+          "url": "https://www.last.fm/tag/2004"
+        },
+        {
+          "name": "cds I own",
+          "url": "https://www.last.fm/tag/cds+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:38:23.665Z"
+}

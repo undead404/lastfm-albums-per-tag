@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Skogsgriftens Rike",
+    "artist": "Sorhin",
+    "mbid": "07a934b7-f570-4193-915c-be8e02fa13a6",
+    "url": "https://www.last.fm/music/Sorhin/Skogsgriftens+Rike",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b95b5a118fe4cca0f8bd3bb384134498.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1487",
+    "playcount": "18096",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svarta Själars Vandring",
+          "url": "https://www.last.fm/music/Sorhin/_/Svarta+Sj%C3%A4lars+Vandring",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Skogsgriftens Rike",
+          "url": "https://www.last.fm/music/Sorhin/_/Skogsgriftens+Rike",
+          "duration": "288",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "i fullmånens dystra sken",
+          "url": "https://www.last.fm/music/Sorhin/_/i+fullm%C3%A5nens+dystra+sken",
+          "duration": "305",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "...och om natten min själ dansar",
+          "url": "https://www.last.fm/music/Sorhin/_/...och+om+natten+min+sj%C3%A4l+dansar",
+          "duration": "198",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "1996",
+          "url": "https://www.last.fm/tag/1996"
+        },
+        {
+          "name": "Norma Evangelium Diaboli",
+          "url": "https://www.last.fm/tag/Norma+Evangelium+Diaboli"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:56:59.351Z"
+}

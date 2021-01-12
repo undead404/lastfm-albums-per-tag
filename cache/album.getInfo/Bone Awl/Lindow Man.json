@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Lindow Man",
+    "artist": "Bone Awl",
+    "url": "https://www.last.fm/music/Bone+Awl/Lindow+Man",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/78cd07216ef6466f9691d057e6821273.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/78cd07216ef6466f9691d057e6821273.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/78cd07216ef6466f9691d057e6821273.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78cd07216ef6466f9691d057e6821273.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78cd07216ef6466f9691d057e6821273.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/78cd07216ef6466f9691d057e6821273.png",
+        "size": ""
+      }
+    ],
+    "listeners": "54",
+    "playcount": "164",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lindow Man",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Lindow+Man",
+          "duration": "213",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:50.981Z"
+}

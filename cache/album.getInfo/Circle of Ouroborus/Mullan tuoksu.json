@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Mullan tuoksu",
+    "artist": "Circle of Ouroborus",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/Mullan+tuoksu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c52e263f1fce4dcbebc3b2f51fb969b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "169",
+    "playcount": "904",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kukkia ja luita",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Kukkia+ja+luita",
+          "duration": "720",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Mitä enemmän, sitä enemmän",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Mit%C3%A4+enemm%C3%A4n,+sit%C3%A4+enemm%C3%A4n",
+          "duration": "348",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Kukkia ja luita",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Kukkia+ja+luita",
+          "duration": "720",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Mitä enemmän, sitä enemmän",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Mit%C3%A4+enemm%C3%A4n,+sit%C3%A4+enemm%C3%A4n",
+          "duration": "348",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:21.517Z"
+}

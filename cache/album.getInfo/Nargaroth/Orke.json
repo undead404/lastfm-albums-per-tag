@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "Orke",
+    "artist": "Nargaroth",
+    "mbid": "0c3d2641-5a46-4d18-b077-97eafa8af9e0",
+    "url": "https://www.last.fm/music/Nargaroth/Orke",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3329a847c45ba11c7e0ef8029cc1c822.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2362",
+    "playcount": "34116",
+    "tracks": {
+      "track": [
+        {
+          "name": "Barnedød",
+          "url": "https://www.last.fm/music/Nargaroth/_/Barned%C3%B8d",
+          "duration": "97",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Det Lys Aldri I Livet Orke",
+          "url": "https://www.last.fm/music/Nargaroth/_/Det+Lys+Aldri+I+Livet+Orke",
+          "duration": "912",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Asgardsrei",
+          "url": "https://www.last.fm/music/Nargaroth/_/Asgardsrei",
+          "duration": "331",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Getragen von Valkyren",
+          "url": "https://www.last.fm/music/Nargaroth/_/Getragen+von+Valkyren",
+          "duration": "409",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Nag Ur Sol",
+          "url": "https://www.last.fm/music/Nargaroth/_/Nag+Ur+Sol",
+          "duration": "206",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Escape Through the Gates to the Stars",
+          "url": "https://www.last.fm/music/Nargaroth/_/Escape+Through+the+Gates+to+the+Stars",
+          "duration": "522",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Nadedød (shorted)",
+          "url": "https://www.last.fm/music/Nargaroth/_/Naded%C3%B8d+(shorted)",
+          "duration": "301",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Auf Dem Grunde Des See's Ruhend",
+          "url": "https://www.last.fm/music/Nargaroth/_/Auf+Dem+Grunde+Des+See%27s+Ruhend",
+          "duration": "434",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Jan 2015, 16:28",
+      "summary": "All tracks are instrumental.  <a href=\"http://www.last.fm/music/Nargaroth/Orke\">Read more on Last.fm</a>.",
+      "content": "All tracks are instrumental.  <a href=\"http://www.last.fm/music/Nargaroth/Orke\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:19:08.306Z"
+}

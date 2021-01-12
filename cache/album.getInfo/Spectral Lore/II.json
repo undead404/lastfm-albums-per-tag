@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "II",
+    "artist": "Spectral Lore",
+    "mbid": "0ae84458-16f6-4d89-8620-be232131a166",
+    "url": "https://www.last.fm/music/Spectral+Lore/II",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd921bf8c88b46a2a222af00052cd39a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1488",
+    "playcount": "25015",
+    "tracks": {
+      "track": [
+        {
+          "name": "Introitus",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Introitus",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "The Thorns that Guide My Warpath",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/The+Thorns+that+Guide+My+Warpath",
+          "duration": "1482",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Towards The Great Crossroad",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Towards+The+Great+Crossroad",
+          "duration": "526",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Leaving The Stars Far Behind",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Leaving+The+Stars+Far+Behind",
+          "duration": "188",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "The Drone's Journey, Recoiling Beneath The Waves",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/The+Drone%27s+Journey,+Recoiling+Beneath+The+Waves",
+          "duration": "664",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Through An Infinite Dreamscape",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Through+An+Infinite+Dreamscape",
+          "duration": "410",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "To Wither In Silence and Dismay",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/To+Wither+In+Silence+and+Dismay",
+          "duration": "799",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Where Nature Will Not Ever Yield to Man",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Where+Nature+Will+Not+Ever+Yield+to+Man",
+          "duration": "449",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "Greek",
+          "url": "https://www.last.fm/tag/Greek"
+        },
+        {
+          "name": "00s",
+          "url": "https://www.last.fm/tag/00s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:12:01.387Z"
+}

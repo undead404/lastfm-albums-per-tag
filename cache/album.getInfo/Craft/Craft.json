@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Craft",
+    "artist": "Craft",
+    "mbid": "56afbe51-48f9-4df0-b006-de506db213a4",
+    "url": "https://www.last.fm/music/Craft/Craft",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42a948c2c098b9658c0c3693b52ce565.png",
+        "size": ""
+      }
+    ],
+    "listeners": "315",
+    "playcount": "5590",
+    "tracks": {
+      "track": [
+        {
+          "name": "Find A Way",
+          "url": "https://www.last.fm/music/Craft/_/Find+A+Way",
+          "duration": "251",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Wicked Web",
+          "url": "https://www.last.fm/music/Craft/_/Wicked+Web",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Trust In Love",
+          "url": "https://www.last.fm/music/Craft/_/Trust+In+Love",
+          "duration": "266",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Soundwave",
+          "url": "https://www.last.fm/music/Craft/_/Soundwave",
+          "duration": "241",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Loving Arms",
+          "url": "https://www.last.fm/music/Craft/_/Loving+Arms",
+          "duration": "240",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Dreaming",
+          "url": "https://www.last.fm/music/Craft/_/Dreaming",
+          "duration": "252",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Lets Face Facts",
+          "url": "https://www.last.fm/music/Craft/_/Lets+Face+Facts",
+          "duration": "260",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Take Her Home",
+          "url": "https://www.last.fm/music/Craft/_/Take+Her+Home",
+          "duration": "223",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Dont Disappear",
+          "url": "https://www.last.fm/music/Craft/_/Dont+Disappear",
+          "duration": "205",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Float",
+          "url": "https://www.last.fm/music/Craft/_/Float",
+          "duration": "361",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:08.571Z"
+}

@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "March 1991 Rehearsal",
+    "artist": "Zelda",
+    "url": "https://www.last.fm/music/Zelda/March+1991+Rehearsal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4814c35a8040bf95e81b13a9548ad5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "323",
+    "playcount": "2269",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Underprism",
+          "url": "https://www.last.fm/music/Zelda/_/The+Underprism",
+          "duration": "320",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zelda",
+            "mbid": "368f1a6a-fd94-45f8-a12e-91d3112d3f7b",
+            "url": "https://www.last.fm/music/Zelda"
+          }
+        },
+        {
+          "name": "Promulgate Theocentrism",
+          "url": "https://www.last.fm/music/Zelda/_/Promulgate+Theocentrism",
+          "duration": "325",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zelda",
+            "mbid": "368f1a6a-fd94-45f8-a12e-91d3112d3f7b",
+            "url": "https://www.last.fm/music/Zelda"
+          }
+        },
+        {
+          "name": "Zelda",
+          "url": "https://www.last.fm/music/Zelda/_/Zelda",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zelda",
+            "mbid": "368f1a6a-fd94-45f8-a12e-91d3112d3f7b",
+            "url": "https://www.last.fm/music/Zelda"
+          }
+        },
+        {
+          "name": "Untitled",
+          "url": "https://www.last.fm/music/Zelda/_/Untitled",
+          "duration": "270",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zelda",
+            "mbid": "368f1a6a-fd94-45f8-a12e-91d3112d3f7b",
+            "url": "https://www.last.fm/music/Zelda"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:55:13.970Z"
+}

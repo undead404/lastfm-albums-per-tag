@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "In Memory",
+    "artist": "Abigor",
+    "url": "https://www.last.fm/music/Abigor/In+Memory",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1e8debcf92ea2c9ec80c13d1f871faf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1890",
+    "playcount": "15267",
+    "tracks": {
+      "track": [
+        {
+          "name": "Terrible Certainty",
+          "url": "https://www.last.fm/music/Abigor/_/Terrible+Certainty",
+          "duration": "294",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigor",
+            "mbid": "22b99651-3595-4790-9d9a-c3f8baeb06cc",
+            "url": "https://www.last.fm/music/Abigor"
+          }
+        },
+        {
+          "name": "Crionics",
+          "url": "https://www.last.fm/music/Abigor/_/Crionics",
+          "duration": "259",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigor",
+            "mbid": "22b99651-3595-4790-9d9a-c3f8baeb06cc",
+            "url": "https://www.last.fm/music/Abigor"
+          }
+        },
+        {
+          "name": "Shadowlord - Alternate Version",
+          "url": "https://www.last.fm/music/Abigor/_/Shadowlord+-+Alternate+Version",
+          "duration": "369",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigor",
+            "mbid": "22b99651-3595-4790-9d9a-c3f8baeb06cc",
+            "url": "https://www.last.fm/music/Abigor"
+          }
+        },
+        {
+          "name": "Crimson Horizons",
+          "url": "https://www.last.fm/music/Abigor/_/Crimson+Horizons",
+          "duration": "368",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigor",
+            "mbid": "22b99651-3595-4790-9d9a-c3f8baeb06cc",
+            "url": "https://www.last.fm/music/Abigor"
+          }
+        },
+        {
+          "name": "Verwüstung - Alternate Version",
+          "url": "https://www.last.fm/music/Abigor/_/Verw%C3%BCstung+-+Alternate+Version",
+          "duration": "188",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigor",
+            "mbid": "22b99651-3595-4790-9d9a-c3f8baeb06cc",
+            "url": "https://www.last.fm/music/Abigor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:42:04.955Z"
+}

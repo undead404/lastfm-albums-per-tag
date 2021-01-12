@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Music For Falling Buildings",
+    "artist": "Velvet Cacoon",
+    "mbid": "3b3c03e3-f7ba-4402-aba9-d13684345755",
+    "url": "https://www.last.fm/music/Velvet+Cacoon/Music+For+Falling+Buildings",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4cc67abdff804369951180c1bae22978.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4cc67abdff804369951180c1bae22978.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4cc67abdff804369951180c1bae22978.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc67abdff804369951180c1bae22978.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc67abdff804369951180c1bae22978.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc67abdff804369951180c1bae22978.png",
+        "size": ""
+      }
+    ],
+    "listeners": "931",
+    "playcount": "4787",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dieselflame Novapyre 1892",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Dieselflame+Novapyre+1892",
+          "duration": "371",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Fire Bloomed From Frost",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Fire+Bloomed+From+Frost",
+          "duration": "287",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:36:16.317Z"
+}

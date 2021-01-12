@@ -1,0 +1,241 @@
+{
+  "album": {
+    "name": "Dung Idols",
+    "artist": "Thunderbolt",
+    "mbid": "5e016c16-e65d-4db5-92e3-5584074fb302",
+    "url": "https://www.last.fm/music/Thunderbolt/Dung+Idols",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74b514f578634450942afd41fe0abd6d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74b514f578634450942afd41fe0abd6d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74b514f578634450942afd41fe0abd6d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b514f578634450942afd41fe0abd6d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b514f578634450942afd41fe0abd6d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b514f578634450942afd41fe0abd6d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "234",
+    "playcount": "3521",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dung Idols",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Dung+Idols",
+          "duration": "336",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Metal Tide",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Metal+Tide",
+          "duration": "252",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Special",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Special",
+          "duration": "317",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Land Of The Living",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Land+Of+The+Living",
+          "duration": "256",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Majestic Travesty",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Majestic+Travesty",
+          "duration": "280",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Fight",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Fight",
+          "duration": "283",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "The Moderators",
+          "url": "https://www.last.fm/music/Thunderbolt/_/The+Moderators",
+          "duration": "286",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Heel Run",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Heel+Run",
+          "duration": "278",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Black Horde",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Black+Horde",
+          "duration": "261",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Crime Of The Sentry",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Crime+Of+The+Sentry",
+          "duration": "321",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "norwegian heavy metal",
+          "url": "https://www.last.fm/tag/norwegian+heavy+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:05:19.437Z"
+}

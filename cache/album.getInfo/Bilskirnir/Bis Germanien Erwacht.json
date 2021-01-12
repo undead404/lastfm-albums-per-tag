@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "...Bis Germanien Erwacht",
+    "artist": "Bilskirnir",
+    "url": "https://www.last.fm/music/Bilskirnir/...Bis+Germanien+Erwacht",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc876f49f9694c95a95cbd46c1e1decb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "374",
+    "playcount": "5635",
+    "tracks": {
+      "track": [
+        {
+          "name": "Der Rabengott",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Der+Rabengott",
+          "duration": "377",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Final Winter War",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Final+Winter+War",
+          "duration": "299",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "...bis Germanien erwacht",
+          "url": "https://www.last.fm/music/Bilskirnir/_/...bis+Germanien+erwacht",
+          "duration": "527",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "The Depressive Vision of the Cursed Warriors",
+          "url": "https://www.last.fm/music/Bilskirnir/_/The+Depressive+Vision+of+the+Cursed+Warriors",
+          "duration": "319",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Night's Fall 2",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Night%27s+Fall+2",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:19:08.906Z"
+}

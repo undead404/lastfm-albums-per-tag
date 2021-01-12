@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Herbstleyd",
+    "artist": "Nargaroth",
+    "mbid": "85514a85-3abb-40b1-91ab-c10bc7df0c68",
+    "url": "https://www.last.fm/music/Nargaroth/Herbstleyd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e432d2867d2e8f6878ff4d27c1b8c8d1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13471",
+    "playcount": "227003",
+    "tracks": {
+      "track": [
+        {
+          "name": "Introduction / Herbstleyd",
+          "url": "https://www.last.fm/music/Nargaroth/_/Introduction+%2F+Herbstleyd",
+          "duration": "961",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Karmageddon",
+          "url": "https://www.last.fm/music/Nargaroth/_/Karmageddon",
+          "duration": "263",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Nargaroth",
+          "url": "https://www.last.fm/music/Nargaroth/_/Nargaroth",
+          "duration": "181",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Des alten Kriegers Seelenruh'",
+          "url": "https://www.last.fm/music/Nargaroth/_/Des+alten+Kriegers+Seelenruh%27",
+          "duration": "519",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Amarok - Zorn des Lammes",
+          "url": "https://www.last.fm/music/Nargaroth/_/Amarok+-+Zorn+des+Lammes",
+          "duration": "1119",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Das schwarze Gemaelde",
+          "url": "https://www.last.fm/music/Nargaroth/_/Das+schwarze+Gemaelde",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Vom Traum, die Menschheit zu toeten / Outroduction",
+          "url": "https://www.last.fm/music/Nargaroth/_/Vom+Traum,+die+Menschheit+zu+toeten+%2F+Outroduction",
+          "duration": "0",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:19:01.702Z"
+}

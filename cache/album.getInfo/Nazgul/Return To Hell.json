@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Return To Hell",
+    "artist": "Nazgul",
+    "url": "https://www.last.fm/music/Nazgul/Return+To+Hell",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "24",
+    "playcount": "63",
+    "tracks": {
+      "track": [
+        {
+          "name": "Return Of Hell (Original Mix) - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Return+Of+Hell+(Original+Mix)+-+Original+Mix",
+          "duration": "444",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Gran Michelet (Original Mix) - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Gran+Michelet+(Original+Mix)+-+Original+Mix",
+          "duration": "369",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Possessed robot (Original Mix) - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Possessed+robot+(Original+Mix)+-+Original+Mix",
+          "duration": "415",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:41.788Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Call Me",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/Call+Me",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3a73363681ddd55f032f9af121132309.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3a73363681ddd55f032f9af121132309.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3a73363681ddd55f032f9af121132309.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a73363681ddd55f032f9af121132309.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a73363681ddd55f032f9af121132309.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a73363681ddd55f032f9af121132309.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5231",
+    "playcount": "23906",
+    "tracks": {
+      "track": [
+        {
+          "name": "Call Me",
+          "url": "https://www.last.fm/music/NAV/_/Call+Me",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:52:08.562Z"
+}

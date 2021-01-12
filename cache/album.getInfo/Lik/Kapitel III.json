@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Kapitel III",
+    "artist": "Lik",
+    "url": "https://www.last.fm/music/Lik/Kapitel+III",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/00b07135e65647b7a9bb363f18b45685.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/00b07135e65647b7a9bb363f18b45685.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/00b07135e65647b7a9bb363f18b45685.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00b07135e65647b7a9bb363f18b45685.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00b07135e65647b7a9bb363f18b45685.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00b07135e65647b7a9bb363f18b45685.png",
+        "size": ""
+      }
+    ],
+    "listeners": "116",
+    "playcount": "2072",
+    "tracks": {
+      "track": [
+        {
+          "name": "I tidens ande ar det tron som bestar",
+          "url": "https://www.last.fm/music/Lik/_/I+tidens+ande+ar+det+tron+som+bestar",
+          "duration": "415",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lik",
+            "mbid": "a0339c85-b8d9-4dde-87e8-6bb527835b3e",
+            "url": "https://www.last.fm/music/Lik"
+          }
+        },
+        {
+          "name": "Röd Puls",
+          "url": "https://www.last.fm/music/Lik/_/R%C3%B6d+Puls",
+          "duration": "307",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lik",
+            "mbid": "a0339c85-b8d9-4dde-87e8-6bb527835b3e",
+            "url": "https://www.last.fm/music/Lik"
+          }
+        },
+        {
+          "name": "Vredens trolldom",
+          "url": "https://www.last.fm/music/Lik/_/Vredens+trolldom",
+          "duration": "307",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lik",
+            "mbid": "a0339c85-b8d9-4dde-87e8-6bb527835b3e",
+            "url": "https://www.last.fm/music/Lik"
+          }
+        },
+        {
+          "name": "Visioner Om En ödslig Framtid",
+          "url": "https://www.last.fm/music/Lik/_/Visioner+Om+En+%C3%B6dslig+Framtid",
+          "duration": "307",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lik",
+            "mbid": "a0339c85-b8d9-4dde-87e8-6bb527835b3e",
+            "url": "https://www.last.fm/music/Lik"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:46:20.518Z"
+}

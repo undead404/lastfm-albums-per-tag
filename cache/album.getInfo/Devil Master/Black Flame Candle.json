@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Black Flame Candle",
+    "artist": "Devil Master",
+    "url": "https://www.last.fm/music/Devil+Master/Black+Flame+Candle",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1142",
+    "playcount": "1953",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Flame Candle",
+          "url": "https://www.last.fm/music/Devil+Master/_/Black+Flame+Candle",
+          "duration": "166",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:22:50.610Z"
+}

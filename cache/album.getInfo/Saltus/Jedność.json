@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Jedność",
+    "artist": "Saltus",
+    "url": "https://www.last.fm/music/Saltus/Jedno%C5%9B%C4%87",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8148dbb0ea04604623975de8e2523e92.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8148dbb0ea04604623975de8e2523e92.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8148dbb0ea04604623975de8e2523e92.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8148dbb0ea04604623975de8e2523e92.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8148dbb0ea04604623975de8e2523e92.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8148dbb0ea04604623975de8e2523e92.png",
+        "size": ""
+      }
+    ],
+    "listeners": "107",
+    "playcount": "1228",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ojcowizna",
+          "url": "https://www.last.fm/music/Saltus/_/Ojcowizna",
+          "duration": "234",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Słowiańska Jedność",
+          "url": "https://www.last.fm/music/Saltus/_/S%C5%82owia%C5%84ska+Jedno%C5%9B%C4%87",
+          "duration": "291",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Damned in Black",
+          "url": "https://www.last.fm/music/Saltus/_/Damned+in+Black",
+          "duration": "439",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Curse You All Men!",
+          "url": "https://www.last.fm/music/Saltus/_/Curse+You+All+Men%21",
+          "duration": "279",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Przed bitwą",
+          "url": "https://www.last.fm/music/Saltus/_/Przed+bitw%C4%85",
+          "duration": "95",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:25:10.778Z"
+}

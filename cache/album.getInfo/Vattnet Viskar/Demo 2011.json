@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Demo 2011",
+    "artist": "Vattnet Viskar",
+    "url": "https://www.last.fm/music/Vattnet+Viskar/Demo+2011",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee2485f805034ac4b5b3b16068dc341c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "316",
+    "playcount": "2579",
+    "tracks": {
+      "track": [
+        {
+          "name": "Despair",
+          "url": "https://www.last.fm/music/Vattnet+Viskar/_/Despair",
+          "duration": "362",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vattnet Viskar",
+            "mbid": "728f539b-b8e0-44af-9199-7a3c0f95eb08",
+            "url": "https://www.last.fm/music/Vattnet+Viskar"
+          }
+        },
+        {
+          "name": "Vattnet Viskar",
+          "url": "https://www.last.fm/music/Vattnet+Viskar/_/Vattnet+Viskar",
+          "duration": "503",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vattnet Viskar",
+            "mbid": "728f539b-b8e0-44af-9199-7a3c0f95eb08",
+            "url": "https://www.last.fm/music/Vattnet+Viskar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 Jan 2015, 11:23",
+      "summary": "1. Despair - 6:02\n2. Vattnet Viskar - 8:23\n\nOriginally released as limited-edition cassette; later released for free on Bandcamp. <a href=\"http://www.last.fm/music/Vattnet+Viskar/Demo+2011\">Read more on Last.fm</a>.",
+      "content": "1. Despair - 6:02\n2. Vattnet Viskar - 8:23\n\nOriginally released as limited-edition cassette; later released for free on Bandcamp. <a href=\"http://www.last.fm/music/Vattnet+Viskar/Demo+2011\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T15:39:58.559Z"
+}

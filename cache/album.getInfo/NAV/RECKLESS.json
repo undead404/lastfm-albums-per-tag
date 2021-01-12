@@ -1,0 +1,268 @@
+{
+  "album": {
+    "name": "RECKLESS",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/RECKLESS",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4eda8cfea6bf8217d14f15ec1e35a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "102642",
+    "playcount": "1526760",
+    "tracks": {
+      "track": [
+        {
+          "name": "Reckless Intro",
+          "url": "https://www.last.fm/music/NAV/_/Reckless+Intro",
+          "duration": "142",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Never Change",
+          "url": "https://www.last.fm/music/NAV/_/Never+Change",
+          "duration": "181",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Hold Your Hand",
+          "url": "https://www.last.fm/music/NAV/_/Hold+Your+Hand",
+          "duration": "234",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Faith",
+          "url": "https://www.last.fm/music/NAV/_/Faith",
+          "duration": "201",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Champion",
+          "url": "https://www.last.fm/music/NAV/_/Champion",
+          "duration": "194",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Glow Up",
+          "url": "https://www.last.fm/music/NAV/_/Glow+Up",
+          "duration": "160",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Just Happened",
+          "url": "https://www.last.fm/music/NAV/_/Just+Happened",
+          "duration": "201",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Wanted You",
+          "url": "https://www.last.fm/music/NAV/_/Wanted+You",
+          "duration": "228",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "With Me",
+          "url": "https://www.last.fm/music/NAV/_/With+Me",
+          "duration": "173",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "EAT",
+          "url": "https://www.last.fm/music/NAV/_/EAT",
+          "duration": "202",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Freshman List",
+          "url": "https://www.last.fm/music/NAV/_/Freshman+List",
+          "duration": "186",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "What I Need / Daheala Outro",
+          "url": "https://www.last.fm/music/NAV/_/What+I+Need+%2F+Daheala+Outro",
+          "duration": "300",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nav",
+          "url": "https://www.last.fm/tag/nav"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "XO",
+          "url": "https://www.last.fm/tag/XO"
+        },
+        {
+          "name": "TTd",
+          "url": "https://www.last.fm/tag/TTd"
+        },
+        {
+          "name": "everything hit",
+          "url": "https://www.last.fm/tag/everything+hit"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:00.935Z"
+}

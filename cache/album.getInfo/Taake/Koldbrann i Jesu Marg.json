@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Koldbrann i Jesu Marg",
+    "artist": "Taake",
+    "mbid": "1f4f5ee4-1ea8-4849-8d42-3abcbc013cde",
+    "url": "https://www.last.fm/music/Taake/Koldbrann+i+Jesu+Marg",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23dc0a031b5f4b3c9807a6d00e1861e8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2673",
+    "playcount": "27049",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blant Sølv og Gull i Mørket",
+          "url": "https://www.last.fm/music/Taake/_/Blant+S%C3%B8lv+og+Gull+i+M%C3%B8rket",
+          "duration": "414",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Marerittet",
+          "url": "https://www.last.fm/music/Taake/_/Marerittet",
+          "duration": "91",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Trolldom",
+          "url": "https://www.last.fm/music/Taake/_/Trolldom",
+          "duration": "294",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "True Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/True+Norwegian+Black+Metal"
+        },
+        {
+          "name": "Extreme Black metal",
+          "url": "https://www.last.fm/tag/Extreme+Black+metal"
+        },
+        {
+          "name": "true black metal",
+          "url": "https://www.last.fm/tag/true+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:30.798Z"
+}

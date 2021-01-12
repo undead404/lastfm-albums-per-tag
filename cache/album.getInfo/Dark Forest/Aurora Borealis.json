@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Aurora Borealis",
+    "artist": "Dark Forest",
+    "mbid": "c747c4f0-9f5e-42fe-bae6-8e28ed52add3",
+    "url": "https://www.last.fm/music/Dark+Forest/Aurora+Borealis",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03eb01c20fa9acee689d64e7949166f1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5370",
+    "playcount": "78627",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aurora Borealis",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Aurora+Borealis",
+          "duration": "160",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Wind and Waves",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Wind+and+Waves",
+          "duration": "551",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Thurisaz",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Thurisaz",
+          "duration": "315",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Under the Northern Fullmoon",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Under+the+Northern+Fullmoon",
+          "duration": "484",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Eternal Forest",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Eternal+Forest",
+          "duration": "459",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Northstar",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Northstar",
+          "duration": "523",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Journey to Ever-Eternal Skies",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Journey+to+Ever-Eternal+Skies",
+          "duration": "491",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Two Ravens Soaring",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Two+Ravens+Soaring",
+          "duration": "344",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "best of 2006",
+          "url": "https://www.last.fm/tag/best+of+2006"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:19:50.038Z"
+}

@@ -1,0 +1,262 @@
+{
+  "album": {
+    "name": "Verity",
+    "artist": "Nokturnal Mortum",
+    "url": "https://www.last.fm/music/Nokturnal+Mortum/Verity",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8347481f91628edb10a01afe5ae32e9d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1157",
+    "playcount": "27303",
+    "tracks": {
+      "track": [
+        {
+          "name": "I'll Meet You in Ancient Darkness",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/I%27ll+Meet+You+in+Ancient+Darkness",
+          "duration": "159",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Molfa",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Molfa",
+          "duration": "513",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "With Chort in My Bosom",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/With+Chort+in+My+Bosom",
+          "duration": "362",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Spruce Elder",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Spruce+Elder",
+          "duration": "289",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Wolfish Berries",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Wolfish+Berries",
+          "duration": "540",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "In The Boat With Fools",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/In+The+Boat+With+Fools",
+          "duration": "384",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Wild Weregild",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Wild+Weregild",
+          "duration": "401",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Lira",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Lira",
+          "duration": "308",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Black Honey",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Black+Honey",
+          "duration": "222",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Night of the Gods",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Night+of+the+Gods",
+          "duration": "554",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        },
+        {
+          "name": "Where Do the Wreaths Float Down the River",
+          "url": "https://www.last.fm/music/Nokturnal+Mortum/_/Where+Do+the+Wreaths+Float+Down+the+River",
+          "duration": "223",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nokturnal Mortum",
+            "mbid": "656a7ed6-fb23-4bc3-a7f2-90406ca86fc9",
+            "url": "https://www.last.fm/music/Nokturnal+Mortum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "Ukrainian",
+          "url": "https://www.last.fm/tag/Ukrainian"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "heathen metal",
+          "url": "https://www.last.fm/tag/heathen+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:15:27.186Z"
+}

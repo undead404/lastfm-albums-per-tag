@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "The 6th: Man on Fire",
+    "artist": "Flame",
+    "url": "https://www.last.fm/music/Flame/The+6th:+Man+on+Fire",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a18e9d1aea345b7b6ac599b06c9347c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "440",
+    "playcount": "3733",
+    "tracks": {
+      "track": [
+        {
+          "name": "Clear Sight Music",
+          "url": "https://www.last.fm/music/Flame/_/Clear+Sight+Music",
+          "duration": "272",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "#1 Spot",
+          "url": "https://www.last.fm/music/Flame/_/%231+Spot",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Over & Out (feat. V. Rose)",
+          "url": "https://www.last.fm/music/Flame/_/Over+&+Out+(feat.+V.+Rose)",
+          "duration": "218",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Red",
+          "url": "https://www.last.fm/music/Flame/_/Red",
+          "duration": "155",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Entertainment Paradox",
+          "url": "https://www.last.fm/music/Flame/_/Entertainment+Paradox",
+          "duration": "119",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Likeness (feat. Json)",
+          "url": "https://www.last.fm/music/Flame/_/Likeness+(feat.+Json)",
+          "duration": "218",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Man (Extended)",
+          "url": "https://www.last.fm/music/Flame/_/Man+(Extended)",
+          "duration": "230",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:38.307Z"
+}

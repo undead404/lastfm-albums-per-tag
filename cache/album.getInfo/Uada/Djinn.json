@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "Djinn",
+    "artist": "Uada",
+    "url": "https://www.last.fm/music/Uada/Djinn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee8e26721ee9018516675123e3b9d1dd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8417",
+    "playcount": "68214",
+    "tracks": {
+      "track": [
+        {
+          "name": "Djinn",
+          "url": "https://www.last.fm/music/Uada/_/Djinn",
+          "duration": "471",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        },
+        {
+          "name": "The Great Mirage",
+          "url": "https://www.last.fm/music/Uada/_/The+Great+Mirage",
+          "duration": "410",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        },
+        {
+          "name": "No Place Here",
+          "url": "https://www.last.fm/music/Uada/_/No+Place+Here",
+          "duration": "821",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        },
+        {
+          "name": "In the Absence of Matter",
+          "url": "https://www.last.fm/music/Uada/_/In+the+Absence+of+Matter",
+          "duration": "590",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        },
+        {
+          "name": "Forestless",
+          "url": "https://www.last.fm/music/Uada/_/Forestless",
+          "duration": "478",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        },
+        {
+          "name": "Between Two Worlds",
+          "url": "https://www.last.fm/music/Uada/_/Between+Two+Worlds",
+          "duration": "837",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Uada",
+            "mbid": "3c89758b-bb04-4765-b85d-5661e797754b",
+            "url": "https://www.last.fm/music/Uada"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "atmospheric black",
+          "url": "https://www.last.fm/tag/atmospheric+black"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:23:05.251Z"
+}

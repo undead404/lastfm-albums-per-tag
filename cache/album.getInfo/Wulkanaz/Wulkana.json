@@ -1,0 +1,75 @@
+{
+  "album": {
+    "name": "Wulkana",
+    "artist": "Wulkanaz",
+    "url": "https://www.last.fm/music/Wulkanaz/Wulkana",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/691fcb1c68743c5e32a9146e3ea5eea2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "341",
+    "playcount": "2540",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wulkana 1",
+          "url": "https://www.last.fm/music/Wulkanaz/_/Wulkana+1",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wulkanaz",
+            "url": "https://www.last.fm/music/Wulkanaz"
+          }
+        },
+        {
+          "name": "Wulkana 2",
+          "url": "https://www.last.fm/music/Wulkanaz/_/Wulkana+2",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wulkanaz",
+            "url": "https://www.last.fm/music/Wulkanaz"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:50:44.125Z"
+}

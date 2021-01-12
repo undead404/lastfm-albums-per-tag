@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "Sóknardalr",
+    "artist": "Windir",
+    "mbid": "55c1eacb-cacf-4d34-a7c1-fc9a352ad96d",
+    "url": "https://www.last.fm/music/Windir/S%C3%B3knardalr",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27d0b05c7286b54de3009cb7ef58f513.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21133",
+    "playcount": "482629",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sognariket Sine Krigarar",
+          "url": "https://www.last.fm/music/Windir/_/Sognariket+Sine+Krigarar",
+          "duration": "336",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Det som var Haukareid",
+          "url": "https://www.last.fm/music/Windir/_/Det+som+var+Haukareid",
+          "duration": "340",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Mørket Sin Fyrste",
+          "url": "https://www.last.fm/music/Windir/_/M%C3%B8rket+Sin+Fyrste",
+          "duration": "446",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sognariket Si Herskarinne",
+          "url": "https://www.last.fm/music/Windir/_/Sognariket+Si+Herskarinne",
+          "duration": "257",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "I Ei Krystallnatt",
+          "url": "https://www.last.fm/music/Windir/_/I+Ei+Krystallnatt",
+          "duration": "317",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Røvhaugane",
+          "url": "https://www.last.fm/music/Windir/_/R%C3%B8vhaugane",
+          "duration": "332",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Likbør",
+          "url": "https://www.last.fm/music/Windir/_/Likb%C3%B8r",
+          "duration": "488",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sóknardalr",
+          "url": "https://www.last.fm/music/Windir/_/S%C3%B3knardalr",
+          "duration": "342",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "viking black metal",
+          "url": "https://www.last.fm/tag/viking+black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Sep 2016, 08:07",
+      "summary": "Sóknardalr is the debut studio album by Norwegian black metal band Windir. It was released in April 1997 through the Head Not Found record label. <a href=\"http://www.last.fm/music/Windir/S%C3%B3knardalr\">Read more on Last.fm</a>.",
+      "content": "Sóknardalr is the debut studio album by Norwegian black metal band Windir. It was released in April 1997 through the Head Not Found record label. <a href=\"http://www.last.fm/music/Windir/S%C3%B3knardalr\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:10:00.365Z"
+}

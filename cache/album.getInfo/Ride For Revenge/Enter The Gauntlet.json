@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Enter The Gauntlet",
+    "artist": "Ride For Revenge",
+    "url": "https://www.last.fm/music/Ride+For+Revenge/Enter+The+Gauntlet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f4e411b02924c81cca94b09f5741b9a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "735",
+    "playcount": "13246",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nights Possessed",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Nights+Possessed",
+          "duration": "474",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Dead Insane",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Dead+Insane",
+          "duration": "329",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "The Fog is Green and Pungent",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/The+Fog+is+Green+and+Pungent",
+          "duration": "1418",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Absolute Mystical Doctrine",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Absolute+Mystical+Doctrine",
+          "duration": "183",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Presence of the Reaper",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Presence+of+the+Reaper",
+          "duration": "163",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Frozen",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Frozen",
+          "duration": "799",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Victorious",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Victorious",
+          "duration": "833",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Enter the Gauntlet",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Enter+the+Gauntlet",
+          "duration": "182",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:19:19.615Z"
+}

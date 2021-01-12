@@ -1,0 +1,191 @@
+{
+  "album": {
+    "name": "Sorrow",
+    "artist": "Hate Forest",
+    "mbid": "7db4a140-5ba5-479c-9022-6f1b080a37b6",
+    "url": "https://www.last.fm/music/Hate+Forest/Sorrow",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab2bd42157b846b18c104a711de78241.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab2bd42157b846b18c104a711de78241.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab2bd42157b846b18c104a711de78241.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab2bd42157b846b18c104a711de78241.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab2bd42157b846b18c104a711de78241.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab2bd42157b846b18c104a711de78241.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6744",
+    "playcount": "179490",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cold of the Grave",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Cold+of+the+Grave",
+          "duration": "236",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Fullmoon",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Fullmoon",
+          "duration": "332",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "What the Ruins Remember",
+          "url": "https://www.last.fm/music/Hate+Forest/_/What+the+Ruins+Remember",
+          "duration": "318",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Fog",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Fog",
+          "duration": "259",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "As the Sunlight Dies",
+          "url": "https://www.last.fm/music/Hate+Forest/_/As+the+Sunlight+Dies",
+          "duration": "242",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Night Harvest",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Night+Harvest",
+          "duration": "270",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Chambers of the Winds",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Chambers+of+the+Winds",
+          "duration": "260",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "Ukrainian",
+          "url": "https://www.last.fm/tag/Ukrainian"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:54.138Z"
+}

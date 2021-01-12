@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Sworn to the Dark",
+    "artist": "Watain",
+    "mbid": "49cce7c4-83d3-3398-82b1-f0161d11f29f",
+    "url": "https://www.last.fm/music/Watain/Sworn+to+the+Dark",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/333ee44a25a205514d4b4ccfa9e57f2b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "60105",
+    "playcount": "1773177",
+    "tracks": {
+      "track": [
+        {
+          "name": "Legions of the Black Light",
+          "url": "https://www.last.fm/music/Watain/_/Legions+of+the+Black+Light",
+          "duration": "483",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Satan's Hunger",
+          "url": "https://www.last.fm/music/Watain/_/Satan%27s+Hunger",
+          "duration": "406",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Withershins",
+          "url": "https://www.last.fm/music/Watain/_/Withershins",
+          "duration": "61",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Storm of the Antichrist",
+          "url": "https://www.last.fm/music/Watain/_/Storm+of+the+Antichrist",
+          "duration": "254",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "The Light that Burns the Sun",
+          "url": "https://www.last.fm/music/Watain/_/The+Light+that+Burns+the+Sun",
+          "duration": "424",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Sworn to the Dark",
+          "url": "https://www.last.fm/music/Watain/_/Sworn+to+the+Dark",
+          "duration": "303",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Underneath the Cenotaph",
+          "url": "https://www.last.fm/music/Watain/_/Underneath+the+Cenotaph",
+          "duration": "252",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "The Serpent's Chalice",
+          "url": "https://www.last.fm/music/Watain/_/The+Serpent%27s+Chalice",
+          "duration": "402",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Darkness and Death",
+          "url": "https://www.last.fm/music/Watain/_/Darkness+and+Death",
+          "duration": "253",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Dead but Dreaming",
+          "url": "https://www.last.fm/music/Watain/_/Dead+but+Dreaming",
+          "duration": "124",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Stellarvore",
+          "url": "https://www.last.fm/music/Watain/_/Stellarvore",
+          "duration": "497",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "religious black metal",
+          "url": "https://www.last.fm/tag/religious+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Aug 2010, 00:30",
+      "summary": "Sworn to the Dark is the third studio album by Watain. It was recorded in the fall of 2006 at Necromorbus Studios. The album received very positive reviews from music critics and has been described as the band's \"breakthrough\" album. The song 'Legions of the Black Light' is dedicated to Dissection's late frontman Jon Nödtveidt. <a href=\"http://www.last.fm/music/Watain/Sworn+to+the+Dark\">Read more on Last.fm</a>.",
+      "content": "Sworn to the Dark is the third studio album by Watain. It was recorded in the fall of 2006 at Necromorbus Studios. The album received very positive reviews from music critics and has been described as the band's \"breakthrough\" album. The song 'Legions of the Black Light' is dedicated to Dissection's late frontman Jon Nödtveidt. <a href=\"http://www.last.fm/music/Watain/Sworn+to+the+Dark\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:03:12.860Z"
+}

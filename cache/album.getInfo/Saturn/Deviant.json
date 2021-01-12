@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Deviant",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/Deviant",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d67d3e6899494f3cba96a813ec5573cd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "51",
+    "playcount": "90",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wild",
+          "url": "https://www.last.fm/music/Saturn/_/Wild",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Deviant",
+          "url": "https://www.last.fm/music/Saturn/_/Deviant",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Chemistry",
+          "url": "https://www.last.fm/music/Saturn/_/Chemistry",
+          "duration": "281",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "I Luv Everything About U",
+          "url": "https://www.last.fm/music/Saturn/_/I+Luv+Everything+About+U",
+          "duration": "204",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Art",
+          "url": "https://www.last.fm/music/Saturn/_/Art",
+          "duration": "276",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Flirt",
+          "url": "https://www.last.fm/music/Saturn/_/Flirt",
+          "duration": "233",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "They Don't Know ...",
+          "url": "https://www.last.fm/music/Saturn/_/They+Don%27t+Know+...",
+          "duration": "96",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Make U Scream",
+          "url": "https://www.last.fm/music/Saturn/_/Make+U+Scream",
+          "duration": "228",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Atlantis",
+          "url": "https://www.last.fm/music/Saturn/_/Atlantis",
+          "duration": "206",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Boy 2 Boy",
+          "url": "https://www.last.fm/music/Saturn/_/Boy+2+Boy",
+          "duration": "243",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Saint",
+          "url": "https://www.last.fm/music/Saturn/_/Saint",
+          "duration": "249",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "I'm Coming Out",
+          "url": "https://www.last.fm/music/Saturn/_/I%27m+Coming+Out",
+          "duration": "288",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:45:16.208Z"
+}

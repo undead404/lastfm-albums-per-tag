@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Tando Ashanti",
+    "artist": "Hexis",
+    "url": "https://www.last.fm/music/Hexis/Tando+Ashanti",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d79d8f7c610a7652d882a6323af41932.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d79d8f7c610a7652d882a6323af41932.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d79d8f7c610a7652d882a6323af41932.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d79d8f7c610a7652d882a6323af41932.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d79d8f7c610a7652d882a6323af41932.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d79d8f7c610a7652d882a6323af41932.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2457",
+    "playcount": "38228",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tando",
+          "url": "https://www.last.fm/music/Hexis/_/Tando",
+          "duration": "136",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://www.last.fm/music/Hexis/_/Ashanti",
+          "duration": "324",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Molestus",
+          "url": "https://www.last.fm/music/Hexis/_/Molestus",
+          "duration": "157",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Ritualis",
+          "url": "https://www.last.fm/music/Hexis/_/Ritualis",
+          "duration": "166",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Calamitas",
+          "url": "https://www.last.fm/music/Hexis/_/Calamitas",
+          "duration": "119",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Nocturnus",
+          "url": "https://www.last.fm/music/Hexis/_/Nocturnus",
+          "duration": "298",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Opacus",
+          "url": "https://www.last.fm/music/Hexis/_/Opacus",
+          "duration": "144",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Cordolium",
+          "url": "https://www.last.fm/music/Hexis/_/Cordolium",
+          "duration": "354",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Resurrectio",
+          "url": "https://www.last.fm/music/Hexis/_/Resurrectio",
+          "duration": "147",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Septem",
+          "url": "https://www.last.fm/music/Hexis/_/Septem",
+          "duration": "151",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Presagium",
+          "url": "https://www.last.fm/music/Hexis/_/Presagium",
+          "duration": "328",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "Sludge",
+          "url": "https://www.last.fm/tag/Sludge"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:04:09.600Z"
+}

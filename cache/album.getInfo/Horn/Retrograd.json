@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Retrograd",
+    "artist": "Horn",
+    "url": "https://www.last.fm/music/Horn/Retrograd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85a3ac989194284b0c36c2e752e662aa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "671",
+    "playcount": "9002",
+    "tracks": {
+      "track": [
+        {
+          "name": "Retrograd (Einleitung)",
+          "url": "https://www.last.fm/music/Horn/_/Retrograd+(Einleitung)",
+          "duration": "124",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Retrograd",
+          "url": "https://www.last.fm/music/Horn/_/Retrograd",
+          "duration": "361",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Bocksfuß (Einleitung)",
+          "url": "https://www.last.fm/music/Horn/_/Bocksfu%C3%9F+(Einleitung)",
+          "duration": "112",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Bocksfuß",
+          "url": "https://www.last.fm/music/Horn/_/Bocksfu%C3%9F",
+          "duration": "301",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Garant",
+          "url": "https://www.last.fm/music/Horn/_/Garant",
+          "duration": "299",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "De Einder",
+          "url": "https://www.last.fm/music/Horn/_/De+Einder",
+          "duration": "367",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "ep",
+          "url": "https://www.last.fm/tag/ep"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:16:20.571Z"
+}

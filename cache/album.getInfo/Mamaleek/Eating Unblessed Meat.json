@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Eating Unblessed Meat",
+    "artist": "Mamaleek",
+    "url": "https://www.last.fm/music/Mamaleek/Eating+Unblessed+Meat",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2931d41eb287c9bda2d444cb814dd8ae.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1529",
+    "playcount": "3095",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eating Unblessed Meat",
+          "url": "https://www.last.fm/music/Mamaleek/_/Eating+Unblessed+Meat",
+          "duration": "480",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:42:54.946Z"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "My Angel",
+    "artist": "Arcturus",
+    "mbid": "8d4d9637-3c67-4ceb-8d9a-eae2dfa170df",
+    "url": "https://www.last.fm/music/Arcturus/My+Angel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/837854907cde4467aa220acfdc65fd98.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/837854907cde4467aa220acfdc65fd98.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/837854907cde4467aa220acfdc65fd98.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/837854907cde4467aa220acfdc65fd98.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/837854907cde4467aa220acfdc65fd98.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/837854907cde4467aa220acfdc65fd98.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3009",
+    "playcount": "11721",
+    "tracks": {
+      "track": [
+        {
+          "name": "My Angel",
+          "url": "https://www.last.fm/music/Arcturus/_/My+Angel",
+          "duration": "355",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Morax",
+          "url": "https://www.last.fm/music/Arcturus/_/Morax",
+          "duration": "388",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:06:39.874Z"
+}

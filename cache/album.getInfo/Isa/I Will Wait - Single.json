@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "I Will Wait - Single",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/I+Will+Wait+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0e51b9a2d04f56fbfdd14e19dde4f11.png",
+        "size": ""
+      }
+    ],
+    "listeners": "158",
+    "playcount": "2627",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Will Wait",
+          "url": "https://www.last.fm/music/Isa/_/I+Will+Wait",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:34.039Z"
+}

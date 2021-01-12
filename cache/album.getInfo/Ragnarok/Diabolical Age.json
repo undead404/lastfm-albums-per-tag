@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Diabolical Age",
+    "artist": "Ragnarok",
+    "mbid": "168898fb-9b93-4577-b68f-96a2f9b493ae",
+    "url": "https://www.last.fm/music/Ragnarok/Diabolical+Age",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f42619b17b37988a0ae7d9b58e7aa3c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6017",
+    "playcount": "99944",
+    "tracks": {
+      "track": [
+        {
+          "name": "It's War",
+          "url": "https://www.last.fm/music/Ragnarok/_/It%27s+War",
+          "duration": "436",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Nocturnal Sphere",
+          "url": "https://www.last.fm/music/Ragnarok/_/Nocturnal+Sphere",
+          "duration": "508",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Diabolical Age",
+          "url": "https://www.last.fm/music/Ragnarok/_/Diabolical+Age",
+          "duration": "426",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Certain Death",
+          "url": "https://www.last.fm/music/Ragnarok/_/Certain+Death",
+          "duration": "316",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "The Heart of Satan",
+          "url": "https://www.last.fm/music/Ragnarok/_/The+Heart+of+Satan",
+          "duration": "327",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Devestated Christ",
+          "url": "https://www.last.fm/music/Ragnarok/_/Devestated+Christ",
+          "duration": "512",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "The Key Is Turned for the 7th Time",
+          "url": "https://www.last.fm/music/Ragnarok/_/The+Key+Is+Turned+for+the+7th+Time",
+          "duration": "372",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Postludium",
+          "url": "https://www.last.fm/music/Ragnarok/_/Postludium",
+          "duration": "354",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "cds I own",
+          "url": "https://www.last.fm/tag/cds+I+own"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "True Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/True+Norwegian+Black+Metal"
+        },
+        {
+          "name": "best album ever",
+          "url": "https://www.last.fm/tag/best+album+ever"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:00:29.573Z"
+}

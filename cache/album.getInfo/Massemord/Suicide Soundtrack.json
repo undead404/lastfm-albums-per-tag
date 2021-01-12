@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Suicide Soundtrack",
+    "artist": "Massemord",
+    "url": "https://www.last.fm/music/Massemord/Suicide+Soundtrack",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4dbaf4a984d24d90cdb6cd01a7988af5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "315",
+    "playcount": "3396",
+    "tracks": {
+      "track": [
+        {
+          "name": "Part One",
+          "url": "https://www.last.fm/music/Massemord/_/Part+One",
+          "duration": "1088",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Part Two",
+          "url": "https://www.last.fm/music/Massemord/_/Part+Two",
+          "duration": "852",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Part Three",
+          "url": "https://www.last.fm/music/Massemord/_/Part+Three",
+          "duration": "203",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Part Four",
+          "url": "https://www.last.fm/music/Massemord/_/Part+Four",
+          "duration": "380",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Part Five",
+          "url": "https://www.last.fm/music/Massemord/_/Part+Five",
+          "duration": "495",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Part Six",
+          "url": "https://www.last.fm/music/Massemord/_/Part+Six",
+          "duration": "376",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:33.768Z"
+}

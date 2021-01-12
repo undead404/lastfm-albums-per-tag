@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "The Olden Domain",
+    "artist": "Borknagar",
+    "mbid": "55b69d1e-5936-354d-889c-a04ea70fcf2c",
+    "url": "https://www.last.fm/music/Borknagar/The+Olden+Domain",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0df663b1fe5b448f86ba8797308ae979.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30333",
+    "playcount": "435553",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Eye Of Oden",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Eye+Of+Oden",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "The Winterway",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Winterway",
+          "duration": "471",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Om Hundrede Aar Er Alting Glemt",
+          "url": "https://www.last.fm/music/Borknagar/_/Om+Hundrede+Aar+Er+Alting+Glemt",
+          "duration": "252",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "A Tale Of Pagan Tongue",
+          "url": "https://www.last.fm/music/Borknagar/_/A+Tale+Of+Pagan+Tongue",
+          "duration": "372",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "To Mount And Rove",
+          "url": "https://www.last.fm/music/Borknagar/_/To+Mount+And+Rove",
+          "duration": "295",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Grimland Domain",
+          "url": "https://www.last.fm/music/Borknagar/_/Grimland+Domain",
+          "duration": "379",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Ascension Of Our Fathers",
+          "url": "https://www.last.fm/music/Borknagar/_/Ascension+Of+Our+Fathers",
+          "duration": "233",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "The Dawn Of The End",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Dawn+Of+The+End",
+          "duration": "306",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:06:06.317Z"
+}

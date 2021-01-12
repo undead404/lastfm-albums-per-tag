@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Rotted Futures",
+    "artist": "Imperial Triumphant",
+    "url": "https://www.last.fm/music/Imperial+Triumphant/Rotted+Futures",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0230b70d4caa3b1bd8b6495853b1f947.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3095",
+    "playcount": "5750",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rotted Futures",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Rotted+Futures",
+          "duration": "359",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:45:37.862Z"
+}

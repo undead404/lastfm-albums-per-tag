@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "Firestorms",
+    "artist": "Setherial",
+    "url": "https://www.last.fm/music/Setherial/Firestorms",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62c5ac4a85034ef4b69bccb88d50856c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "43",
+    "playcount": "242",
+    "tracks": {
+      "track": [
+        {
+          "name": "Firestorms Over Haar-Megiddo",
+          "url": "https://www.last.fm/music/Setherial/_/Firestorms+Over+Haar-Megiddo",
+          "duration": "389",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "The Neural Cage Of Self-Infliction",
+          "url": "https://www.last.fm/music/Setherial/_/The+Neural+Cage+Of+Self-Infliction",
+          "duration": "425",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:39:42.811Z"
+}

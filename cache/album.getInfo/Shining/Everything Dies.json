@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Everything Dies",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/Everything+Dies",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98dea764b4e5e0ad69ae0d8c90390475.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1878",
+    "playcount": "3772",
+    "tracks": {
+      "track": [
+        {
+          "name": "Everything Dies",
+          "url": "https://www.last.fm/music/Shining/_/Everything+Dies",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:42.740Z"
+}

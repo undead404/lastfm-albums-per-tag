@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Heritage",
+    "artist": "Astrofaes",
+    "mbid": "94ae9dbe-6530-442e-982c-ff076c0b445c",
+    "url": "https://www.last.fm/music/Astrofaes/Heritage",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b15d78c828dd4999971c4c3451d0524b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2939",
+    "playcount": "21977",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Spirit Born Of Freedom",
+          "url": "https://www.last.fm/music/Astrofaes/_/The+Spirit+Born+Of+Freedom",
+          "duration": "488",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Forgotten Name",
+          "url": "https://www.last.fm/music/Astrofaes/_/Forgotten+Name",
+          "duration": "282",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Ancestors' Shadows",
+          "url": "https://www.last.fm/music/Astrofaes/_/Ancestors%27+Shadows",
+          "duration": "357",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Awakening",
+          "url": "https://www.last.fm/music/Astrofaes/_/Awakening",
+          "duration": "388",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Through Time Of Memory",
+          "url": "https://www.last.fm/music/Astrofaes/_/Through+Time+Of+Memory",
+          "duration": "491",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "best of 2002",
+          "url": "https://www.last.fm/tag/best+of+2002"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:41:38.718Z"
+}

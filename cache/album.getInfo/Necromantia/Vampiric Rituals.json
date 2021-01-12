@@ -1,0 +1,171 @@
+{
+  "album": {
+    "name": "Vampiric Rituals",
+    "artist": "Necromantia",
+    "url": "https://www.last.fm/music/Necromantia/Vampiric+Rituals",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e3c1b93b8fac4e23ad0347354e48d604.png",
+        "size": ""
+      }
+    ],
+    "listeners": "257",
+    "playcount": "3839",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lord of the Abyss",
+          "url": "https://www.last.fm/music/Necromantia/_/Lord+of+the+Abyss",
+          "duration": "468",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "The Feast of Ghouls",
+          "url": "https://www.last.fm/music/Necromantia/_/The+Feast+of+Ghouls",
+          "duration": "333",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "Evil Prayers",
+          "url": "https://www.last.fm/music/Necromantia/_/Evil+Prayers",
+          "duration": "300",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "Lycanthropia",
+          "url": "https://www.last.fm/music/Necromantia/_/Lycanthropia",
+          "duration": "102",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "De Magia Veterum",
+          "url": "https://www.last.fm/music/Necromantia/_/De+Magia+Veterum",
+          "duration": "604",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "Faceless Gods",
+          "url": "https://www.last.fm/music/Necromantia/_/Faceless+Gods",
+          "duration": "226",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "La Mort",
+          "url": "https://www.last.fm/music/Necromantia/_/La+Mort",
+          "duration": "254",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:56:47.716Z"
+}

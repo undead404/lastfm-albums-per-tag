@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "as jerusalem burns",
+    "artist": "Melechesh",
+    "url": "https://www.last.fm/music/Melechesh/as+jerusalem+burns",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9ffa16caf2243238778427c5f151a6f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "213",
+    "playcount": "3417",
+    "tracks": {
+      "track": [
+        {
+          "name": "Planetary Rites",
+          "url": "https://www.last.fm/music/Melechesh/_/Planetary+Rites",
+          "duration": "293",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Assyrian Spirit",
+          "url": "https://www.last.fm/music/Melechesh/_/Assyrian+Spirit",
+          "duration": "580",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Sultan of Mischief",
+          "url": "https://www.last.fm/music/Melechesh/_/Sultan+of+Mischief",
+          "duration": "229",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "The Sorcerers of Melechesh",
+          "url": "https://www.last.fm/music/Melechesh/_/The+Sorcerers+of+Melechesh",
+          "duration": "267",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Baphomet's Lust",
+          "url": "https://www.last.fm/music/Melechesh/_/Baphomet%27s+Lust",
+          "duration": "190",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:21:55.695Z"
+}

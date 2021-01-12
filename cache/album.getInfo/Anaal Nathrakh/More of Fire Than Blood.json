@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "More of Fire Than Blood",
+    "artist": "Anaal Nathrakh",
+    "mbid": "7bfc5836-a3ff-4bc8-b491-5f2aedc52fa8",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/More+of+Fire+Than+Blood",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/123a1df933afb0b614a6696fe6369b2a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "635",
+    "playcount": "2139",
+    "tracks": {
+      "track": [
+        {
+          "name": "More of Fire Than Blood",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/More+of+Fire+Than+Blood",
+          "duration": "204",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "grindcore",
+          "url": "https://www.last.fm/tag/grindcore"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:55:38.226Z"
+}

@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "OCCII, Amsterdam",
+    "artist": "Dragged Into Sunlight",
+    "mbid": "224b3539-12fc-4681-859c-bedb72fd405a",
+    "url": "https://www.last.fm/music/Dragged+Into+Sunlight/OCCII,+Amsterdam",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebb32bdcd4064f969deb3dfcf425448e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "54",
+    "playcount": "237",
+    "tracks": {
+      "track": [
+        {
+          "name": "Boiled Angel / Buried With Leeches / I, Aurora",
+          "url": "https://www.last.fm/music/Dragged+Into+Sunlight/_/Boiled+Angel+%2F+Buried+With+Leeches+%2F+I,+Aurora",
+          "duration": "1719",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dragged Into Sunlight",
+            "mbid": "a9748b2c-4bb5-47ec-a113-ae7316fbce17",
+            "url": "https://www.last.fm/music/Dragged+Into+Sunlight"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:37.582Z"
+}

@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Bruane Brenn",
+    "artist": "Kvelertak",
+    "url": "https://www.last.fm/music/Kvelertak/Bruane+Brenn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e026ccb94b60ea86b85285ae240af3f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7712",
+    "playcount": "30453",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bruane brenn",
+          "url": "https://www.last.fm/music/Kvelertak/_/Bruane+brenn",
+          "duration": "247",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Snilepisk",
+          "url": "https://www.last.fm/music/Kvelertak/_/Snilepisk",
+          "duration": "172",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:59:21.573Z"
+}

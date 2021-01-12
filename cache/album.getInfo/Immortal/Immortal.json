@@ -1,0 +1,108 @@
+{
+  "album": {
+    "name": "Immortal",
+    "artist": "Immortal",
+    "mbid": "8cfcc63d-70b8-40d4-beb4-ba4f9982bcf4",
+    "url": "https://www.last.fm/music/Immortal/Immortal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3078c51ac52c4e5f8207360f1c70c195.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1100",
+    "playcount": "10901",
+    "tracks": {
+      "track": [
+        {
+          "name": "Diabolical Fullmoon Mysticism",
+          "url": "https://www.last.fm/music/Immortal/_/Diabolical+Fullmoon+Mysticism",
+          "duration": "40",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Unholy Forces of Evil",
+          "url": "https://www.last.fm/music/Immortal/_/Unholy+Forces+of+Evil",
+          "duration": "268",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "The Cold Winds of Funeral Frost",
+          "url": "https://www.last.fm/music/Immortal/_/The+Cold+Winds+of+Funeral+Frost",
+          "duration": "224",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "grindcore",
+          "url": "https://www.last.fm/tag/grindcore"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:53:38.485Z"
+}

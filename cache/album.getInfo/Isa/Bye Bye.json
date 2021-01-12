@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Bye Bye",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Bye+Bye",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/417aa17043330fe6e91a4f061a16ae0a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "217",
+    "playcount": "949",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bye Bye",
+          "url": "https://www.last.fm/music/Isa/_/Bye+Bye",
+          "duration": "193",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:30.635Z"
+}

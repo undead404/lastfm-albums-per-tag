@@ -1,0 +1,200 @@
+{
+  "album": {
+    "name": "Πάτερ 'Ηλιε Μήτερ Σελάνα",
+    "artist": "Kawir",
+    "url": "https://www.last.fm/music/Kawir/%CE%A0%CE%AC%CF%84%CE%B5%CF%81+%27%CE%97%CE%BB%CE%B9%CE%B5+%CE%9C%CE%AE%CF%84%CE%B5%CF%81+%CE%A3%CE%B5%CE%BB%CE%AC%CE%BD%CE%B1",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64bdb2bd6bf8cba276248b9414ae9f0d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "117",
+    "playcount": "2513",
+    "tracks": {
+      "track": [
+        {
+          "name": "Εις βασιλέα Ήλιον",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%95%CE%B9%CF%82+%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CE%B1+%CE%89%CE%BB%CE%B9%CE%BF%CE%BD",
+          "duration": "483",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Διόνυσος",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%94%CE%B9%CF%8C%CE%BD%CF%85%CF%83%CE%BF%CF%82",
+          "duration": "449",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Ηρακλής μαινόμενος",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%97%CF%81%CE%B1%CE%BA%CE%BB%CE%AE%CF%82+%CE%BC%CE%B1%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%CF%82",
+          "duration": "493",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Εις Διόσκουρους",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%95%CE%B9%CF%82+%CE%94%CE%B9%CF%8C%CF%83%CE%BA%CE%BF%CF%85%CF%81%CE%BF%CF%85%CF%82",
+          "duration": "380",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Εις Μήτερ Σελάνα",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%95%CE%B9%CF%82+%CE%9C%CE%AE%CF%84%CE%B5%CF%81+%CE%A3%CE%B5%CE%BB%CE%AC%CE%BD%CE%B1",
+          "duration": "583",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Χαίρε τρίμορφη θεά",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%A7%CE%B1%CE%AF%CF%81%CE%B5+%CF%84%CF%81%CE%AF%CE%BC%CE%BF%CF%81%CF%86%CE%B7+%CE%B8%CE%B5%CE%AC",
+          "duration": "435",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Η ταύριαν Άρτεμις",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%97+%CF%84%CE%B1%CF%8D%CF%81%CE%B9%CE%B1%CE%BD+%CE%86%CF%81%CF%84%CE%B5%CE%BC%CE%B9%CF%82",
+          "duration": "377",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Η κάθοδος της Περσεφόνης",
+          "url": "https://www.last.fm/music/Kawir/_/%CE%97+%CE%BA%CE%AC%CE%B8%CE%BF%CE%B4%CE%BF%CF%82+%CF%84%CE%B7%CF%82+%CE%A0%CE%B5%CF%81%CF%83%CE%B5%CF%86%CF%8C%CE%BD%CE%B7%CF%82",
+          "duration": "670",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "greek mythology",
+          "url": "https://www.last.fm/tag/greek+mythology"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        },
+        {
+          "name": "Hellenic Black Metal",
+          "url": "https://www.last.fm/tag/Hellenic+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:27:57.699Z"
+}

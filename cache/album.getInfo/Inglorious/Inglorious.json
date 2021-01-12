@@ -1,0 +1,68 @@
+{
+  "album": {
+    "name": "Inglorious",
+    "artist": "Inglorious",
+    "url": "https://www.last.fm/music/Inglorious/Inglorious",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fefd32735657f5ee5c7d1f325027e4eb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6519",
+    "playcount": "71705",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unaware",
+          "url": "https://www.last.fm/music/Inglorious/_/Unaware",
+          "duration": "336",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inglorious",
+            "url": "https://www.last.fm/music/Inglorious"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "hard rock",
+          "url": "https://www.last.fm/tag/hard+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:45:20.529Z"
+}

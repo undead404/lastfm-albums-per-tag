@@ -1,0 +1,69 @@
+{
+  "album": {
+    "name": "The First Ape on New Earth",
+    "artist": "Hail Spirit Noir",
+    "url": "https://www.last.fm/music/Hail+Spirit+Noir/The+First+Ape+on+New+Earth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/865259af27438c47dbbe2bcd50674e41.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/865259af27438c47dbbe2bcd50674e41.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/865259af27438c47dbbe2bcd50674e41.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/865259af27438c47dbbe2bcd50674e41.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/865259af27438c47dbbe2bcd50674e41.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/865259af27438c47dbbe2bcd50674e41.png",
+        "size": ""
+      }
+    ],
+    "listeners": "718",
+    "playcount": "1551",
+    "tracks": {
+      "track": [
+        {
+          "name": "The First Ape on New Earth",
+          "url": "https://www.last.fm/music/Hail+Spirit+Noir/_/The+First+Ape+on+New+Earth",
+          "duration": "446",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hail Spirit Noir",
+            "mbid": "3002f717-248a-4fd6-972d-b6b406afae81",
+            "url": "https://www.last.fm/music/Hail+Spirit+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "Greek",
+          "url": "https://www.last.fm/tag/Greek"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:11:50.689Z"
+}

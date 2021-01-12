@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "Cold Winter Blades",
+    "artist": "Graveland",
+    "mbid": "5fafb105-8b69-4336-8fad-ec0e04c6b9b0",
+    "url": "https://www.last.fm/music/Graveland/Cold+Winter+Blades",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3771f00ce2dd4e01a99238372957f74a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2245",
+    "playcount": "41624",
+    "tracks": {
+      "track": [
+        {
+          "name": "In The Morning Mist",
+          "url": "https://www.last.fm/music/Graveland/_/In+The+Morning+Mist",
+          "duration": "429",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "From The Begining of Time",
+          "url": "https://www.last.fm/music/Graveland/_/From+The+Begining+of+Time",
+          "duration": "385",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "White Winged Hussary",
+          "url": "https://www.last.fm/music/Graveland/_/White+Winged+Hussary",
+          "duration": "455",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Spear of Wotan",
+          "url": "https://www.last.fm/music/Graveland/_/Spear+of+Wotan",
+          "duration": "405",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Dance of Axes and Swords",
+          "url": "https://www.last.fm/music/Graveland/_/Dance+of+Axes+and+Swords",
+          "duration": "422",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:05.959Z"
+}

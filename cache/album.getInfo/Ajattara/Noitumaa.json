@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Noitumaa",
+    "artist": "Ajattara",
+    "mbid": "33cbab61-fe59-4e69-858b-7569a8aee4ab",
+    "url": "https://www.last.fm/music/Ajattara/Noitumaa",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b93ef535042b4c3cbd3fb6ec3c25253e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10387",
+    "playcount": "289367",
+    "tracks": {
+      "track": [
+        {
+          "name": "Keuhkosi",
+          "url": "https://www.last.fm/music/Ajattara/_/Keuhkosi",
+          "duration": "191",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Massat",
+          "url": "https://www.last.fm/music/Ajattara/_/Massat",
+          "duration": "230",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Mitä kuolema parantaa?",
+          "url": "https://www.last.fm/music/Ajattara/_/Mit%C3%A4+kuolema+parantaa%3F",
+          "duration": "233",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Saatana palvoo meitä",
+          "url": "https://www.last.fm/music/Ajattara/_/Saatana+palvoo+meit%C3%A4",
+          "duration": "156",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Saveen saarnattu",
+          "url": "https://www.last.fm/music/Ajattara/_/Saveen+saarnattu",
+          "duration": "254",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Ikuisen aamun sara",
+          "url": "https://www.last.fm/music/Ajattara/_/Ikuisen+aamun+sara",
+          "duration": "196",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Kielletyn sanat",
+          "url": "https://www.last.fm/music/Ajattara/_/Kielletyn+sanat",
+          "duration": "235",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Säkeitä riippuneesta lihasta",
+          "url": "https://www.last.fm/music/Ajattara/_/S%C3%A4keit%C3%A4+riippuneesta+lihasta",
+          "duration": "186",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Lammas",
+          "url": "https://www.last.fm/music/Ajattara/_/Lammas",
+          "duration": "203",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "acoustic black metal",
+          "url": "https://www.last.fm/tag/acoustic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Acoustic Dark Metal",
+          "url": "https://www.last.fm/tag/Acoustic+Dark+Metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:17:37.942Z"
+}

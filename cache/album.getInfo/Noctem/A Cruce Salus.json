@@ -1,0 +1,73 @@
+{
+  "album": {
+    "name": "A Cruce Salus",
+    "artist": "Noctem",
+    "url": "https://www.last.fm/music/Noctem/A+Cruce+Salus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bc70474c411c86f145af22170149d273.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bc70474c411c86f145af22170149d273.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bc70474c411c86f145af22170149d273.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc70474c411c86f145af22170149d273.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc70474c411c86f145af22170149d273.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc70474c411c86f145af22170149d273.png",
+        "size": ""
+      }
+    ],
+    "listeners": "187",
+    "playcount": "357",
+    "tracks": {
+      "track": [
+        {
+          "name": "A CRUCE SALUS",
+          "url": "https://www.last.fm/music/Noctem/_/A+CRUCE+SALUS",
+          "duration": "255",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Noctem",
+            "mbid": "096f4a0c-d7e4-4bbe-8617-92c938566e2b",
+            "url": "https://www.last.fm/music/Noctem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:01:32.287Z"
+}

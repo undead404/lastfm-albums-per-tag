@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Marble Arch EP",
+    "artist": "Hammer",
+    "url": "https://www.last.fm/music/Hammer/Marble+Arch+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a8a07998ded2a545a3ac52b10125264.png",
+        "size": ""
+      }
+    ],
+    "listeners": "621",
+    "playcount": "1332",
+    "tracks": {
+      "track": [
+        {
+          "name": "99er",
+          "url": "https://www.last.fm/music/Hammer/_/99er",
+          "duration": "346",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Mind Bin",
+          "url": "https://www.last.fm/music/Hammer/_/Mind+Bin",
+          "duration": "462",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Marble Arch",
+          "url": "https://www.last.fm/music/Hammer/_/Marble+Arch",
+          "duration": "375",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "99er (Jordan Remix)",
+          "url": "https://www.last.fm/music/Hammer/_/99er+(Jordan+Remix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:51:39.630Z"
+}

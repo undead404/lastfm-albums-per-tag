@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "In The Heart Of The Rainforest",
+    "artist": "Striborg",
+    "url": "https://www.last.fm/music/Striborg/In+The+Heart+Of+The+Rainforest",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6df213c092275c7e9b889914687be4c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6df213c092275c7e9b889914687be4c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6df213c092275c7e9b889914687be4c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6df213c092275c7e9b889914687be4c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6df213c092275c7e9b889914687be4c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6df213c092275c7e9b889914687be4c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "59",
+    "playcount": "385",
+    "tracks": {
+      "track": [
+        {
+          "name": "Forest of Fear",
+          "url": "https://www.last.fm/music/Striborg/_/Forest+of+Fear",
+          "duration": "158",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "In the Heart of the Rainforest",
+          "url": "https://www.last.fm/music/Striborg/_/In+the+Heart+of+the+Rainforest",
+          "duration": "610",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "As Twilight Falls",
+          "url": "https://www.last.fm/music/Striborg/_/As+Twilight+Falls",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Dawn of Winter",
+          "url": "https://www.last.fm/music/Striborg/_/The+Dawn+of+Winter",
+          "duration": "296",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Out of the Fog She Appeared Dressed in Black",
+          "url": "https://www.last.fm/music/Striborg/_/Out+of+the+Fog+She+Appeared+Dressed+in+Black",
+          "duration": "351",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:43:50.613Z"
+}

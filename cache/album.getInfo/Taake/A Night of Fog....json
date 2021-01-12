@@ -1,0 +1,236 @@
+{
+  "album": {
+    "name": "A Night of Fog...",
+    "artist": "Taake",
+    "mbid": "3128b3b4-1b53-4b4a-9160-3382f2f4057b",
+    "url": "https://www.last.fm/music/Taake/A+Night+of+Fog...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbc80bd3c9f42fa9828824885cc7870.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1280",
+    "playcount": "24066",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Taake/_/Intro",
+          "duration": "102",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Nattestid ser porten vid, Part VI",
+          "url": "https://www.last.fm/music/Taake/_/Nattestid+ser+porten+vid,+Part+VI",
+          "duration": "398",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Over Bjoergvin graater himmerik, Part II",
+          "url": "https://www.last.fm/music/Taake/_/Over+Bjoergvin+graater+himmerik,+Part+II",
+          "duration": "376",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Nattestid ser porten vid, Part II",
+          "url": "https://www.last.fm/music/Taake/_/Nattestid+ser+porten+vid,+Part+II",
+          "duration": "338",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Over Bjoergvin graater himmerik, Part IV",
+          "url": "https://www.last.fm/music/Taake/_/Over+Bjoergvin+graater+himmerik,+Part+IV",
+          "duration": "356",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Nattestid ser porten vid, Part VII",
+          "url": "https://www.last.fm/music/Taake/_/Nattestid+ser+porten+vid,+Part+VII",
+          "duration": "540",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Over Bjoergvin graater himmerik, Part I",
+          "url": "https://www.last.fm/music/Taake/_/Over+Bjoergvin+graater+himmerik,+Part+I",
+          "duration": "271",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Return to the Eve",
+          "url": "https://www.last.fm/music/Taake/_/Return+to+the+Eve",
+          "duration": "242",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Nattestid ser porten vid, Part I",
+          "url": "https://www.last.fm/music/Taake/_/Nattestid+ser+porten+vid,+Part+I",
+          "duration": "370",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Rasekrig (demo)",
+          "url": "https://www.last.fm/music/Taake/_/Rasekrig+(demo)",
+          "duration": "440",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Et skaldekvad i hellig blod (demo)",
+          "url": "https://www.last.fm/music/Taake/_/Et+skaldekvad+i+hellig+blod+(demo)",
+          "duration": "365",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "okay",
+          "url": "https://www.last.fm/tag/okay"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:35.357Z"
+}

@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "The Reap",
+    "artist": "Vreid",
+    "mbid": "c267255c-9638-499e-a89c-2bb084f52985",
+    "url": "https://www.last.fm/music/Vreid/The+Reap",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0af0e3c0bf5b4f359a50d635891042c2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "479",
+    "playcount": "1179",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Reap",
+          "url": "https://www.last.fm/music/Vreid/_/The+Reap",
+          "duration": "235",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:38:40.210Z"
+}

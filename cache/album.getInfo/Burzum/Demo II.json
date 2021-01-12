@@ -1,0 +1,265 @@
+{
+  "album": {
+    "name": "Demo II",
+    "artist": "Burzum",
+    "mbid": "83775e26-e4c7-3c12-bc6b-f54157523fa9",
+    "url": "https://www.last.fm/music/Burzum/Demo+II",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f463e66627894148c5ed698c984460a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f463e66627894148c5ed698c984460a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f463e66627894148c5ed698c984460a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f463e66627894148c5ed698c984460a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f463e66627894148c5ed698c984460a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f463e66627894148c5ed698c984460a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2649",
+    "playcount": "47508",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lost Wisdom",
+          "url": "https://www.last.fm/music/Burzum/_/Lost+Wisdom",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Depressive Visions of the Cursed Warrior",
+          "url": "https://www.last.fm/music/Burzum/_/Depressive+Visions+of+the+Cursed+Warrior",
+          "duration": "196",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Lord of the Depths",
+          "url": "https://www.last.fm/music/Burzum/_/Lord+of+the+Depths",
+          "duration": "279",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Black Spell of Destruction",
+          "url": "https://www.last.fm/music/Burzum/_/Black+Spell+of+Destruction",
+          "duration": "341",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "A Lost Forgotten Sad Spirit",
+          "url": "https://www.last.fm/music/Burzum/_/A+Lost+Forgotten+Sad+Spirit",
+          "duration": "653",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Lost Wisdom",
+          "url": "https://www.last.fm/music/Burzum/_/Lost+Wisdom",
+          "duration": "278",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Black Spell of Destruction",
+          "url": "https://www.last.fm/music/Burzum/_/Black+Spell+of+Destruction",
+          "duration": "341",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Channelling the Power of Souls Into a New God",
+          "url": "https://www.last.fm/music/Burzum/_/Channelling+the+Power+of+Souls+Into+a+New+God",
+          "duration": "207",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Feeble Screams From Forests Unknown",
+          "url": "https://www.last.fm/music/Burzum/_/Feeble+Screams+From+Forests+Unknown",
+          "duration": "448",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "My Key To The Purgatory",
+          "url": "https://www.last.fm/music/Burzum/_/My+Key+To+The+Purgatory",
+          "duration": "316",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Rite of Cleansure",
+          "url": "https://www.last.fm/music/Burzum/_/Rite+of+Cleansure",
+          "duration": "377",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "A Lost Forgotten Sad Spirit",
+          "url": "https://www.last.fm/music/Burzum/_/A+Lost+Forgotten+Sad+Spirit",
+          "duration": "653",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:48.304Z"
+}

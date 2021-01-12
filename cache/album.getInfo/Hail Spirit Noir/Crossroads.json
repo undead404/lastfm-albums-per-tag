@@ -1,0 +1,65 @@
+{
+  "album": {
+    "name": "Crossroads",
+    "artist": "Hail Spirit Noir",
+    "url": "https://www.last.fm/music/Hail+Spirit+Noir/Crossroads",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b91d17074449c00f9bc47fc2b809d432.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1467",
+    "playcount": "3229",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crossroads",
+          "url": "https://www.last.fm/music/Hail+Spirit+Noir/_/Crossroads",
+          "duration": "309",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hail Spirit Noir",
+            "mbid": "3002f717-248a-4fd6-972d-b6b406afae81",
+            "url": "https://www.last.fm/music/Hail+Spirit+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:11:49.788Z"
+}

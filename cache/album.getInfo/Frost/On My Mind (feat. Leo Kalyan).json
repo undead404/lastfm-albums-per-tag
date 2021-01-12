@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "On My Mind (feat. Leo Kalyan)",
+    "artist": "Frost",
+    "url": "https://www.last.fm/music/Frost/On+My+Mind+(feat.+Leo+Kalyan)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "2101",
+    "playcount": "7664",
+    "tracks": {
+      "track": [
+        {
+          "name": "On My Mind (feat. Leo Kalyan)",
+          "url": "https://www.last.fm/music/Frost/_/On+My+Mind+(feat.+Leo+Kalyan)",
+          "duration": "350",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "On My Mind (feat. Leo Kalyan) [Illyus & Barrientos Remix]",
+          "url": "https://www.last.fm/music/Frost/_/On+My+Mind+(feat.+Leo+Kalyan)+%5BIllyus+&+Barrientos+Remix%5D",
+          "duration": "427",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "On My Mind (feat. Leo Kalyan) [Max Chapman Remix]",
+          "url": "https://www.last.fm/music/Frost/_/On+My+Mind+(feat.+Leo+Kalyan)+%5BMax+Chapman+Remix%5D",
+          "duration": "468",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:38:56.971Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Ready",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/Ready",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "54",
+    "playcount": "93",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ready",
+          "url": "https://www.last.fm/music/Saturn/_/Ready",
+          "duration": "155",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Waterrrrrrrrr - River Moon Remix",
+          "url": "https://www.last.fm/music/Saturn/_/Waterrrrrrrrr+-+River+Moon+Remix",
+          "duration": "237",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:45:15.169Z"
+}

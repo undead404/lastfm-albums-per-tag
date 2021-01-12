@@ -1,0 +1,227 @@
+{
+  "album": {
+    "name": "At the Bottom",
+    "artist": "Odium",
+    "mbid": "8164cfdf-7fc2-458a-9f5a-41bf24e4ed55",
+    "url": "https://www.last.fm/music/Odium/At+the+Bottom",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a18ed16074c9454fabd4ebdc986a8ad1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1922",
+    "playcount": "63052",
+    "tracks": {
+      "track": [
+        {
+          "name": "Oblivion's Gate",
+          "url": "https://www.last.fm/music/Odium/_/Oblivion%27s+Gate",
+          "duration": "323",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Frailty",
+          "url": "https://www.last.fm/music/Odium/_/Frailty",
+          "duration": "242",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Serenity's End",
+          "url": "https://www.last.fm/music/Odium/_/Serenity%27s+End",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Population Zero",
+          "url": "https://www.last.fm/music/Odium/_/Population+Zero",
+          "duration": "220",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "At the Bottom",
+          "url": "https://www.last.fm/music/Odium/_/At+the+Bottom",
+          "duration": "336",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "The Failure",
+          "url": "https://www.last.fm/music/Odium/_/The+Failure",
+          "duration": "353",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "It Goes Cold",
+          "url": "https://www.last.fm/music/Odium/_/It+Goes+Cold",
+          "duration": "244",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Lifting the Veil",
+          "url": "https://www.last.fm/music/Odium/_/Lifting+the+Veil",
+          "duration": "274",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Need to Exist",
+          "url": "https://www.last.fm/music/Odium/_/Need+to+Exist",
+          "duration": "409",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "The Abyss Stared Back",
+          "url": "https://www.last.fm/music/Odium/_/The+Abyss+Stared+Back",
+          "duration": "270",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        },
+        {
+          "name": "melodic metal",
+          "url": "https://www.last.fm/tag/melodic+metal"
+        },
+        {
+          "name": "melodic metalcore",
+          "url": "https://www.last.fm/tag/melodic+metalcore"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:59:13.503Z"
+}

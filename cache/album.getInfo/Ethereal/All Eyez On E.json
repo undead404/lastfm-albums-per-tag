@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "All Eyez On E",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/All+Eyez+On+E",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a438e380d19c6241c8ad33981c36d34e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "712",
+    "playcount": "7957",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sad No More!",
+          "url": "https://www.last.fm/music/Ethereal/_/Sad+No+More%21",
+          "duration": "180",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Made Up My Mind",
+          "url": "https://www.last.fm/music/Ethereal/_/Made+Up+My+Mind",
+          "duration": "211",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Facts",
+          "url": "https://www.last.fm/music/Ethereal/_/Facts",
+          "duration": "215",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Bruce Leroy",
+          "url": "https://www.last.fm/music/Ethereal/_/Bruce+Leroy",
+          "duration": "176",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Folder",
+          "url": "https://www.last.fm/music/Ethereal/_/Folder",
+          "duration": "136",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "WorldMightEnd",
+          "url": "https://www.last.fm/music/Ethereal/_/WorldMightEnd",
+          "duration": "229",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Shake",
+          "url": "https://www.last.fm/music/Ethereal/_/Shake",
+          "duration": "266",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "10 Toes",
+          "url": "https://www.last.fm/music/Ethereal/_/10+Toes",
+          "duration": "162",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Interlude",
+          "url": "https://www.last.fm/music/Ethereal/_/Interlude",
+          "duration": "96",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Talk",
+          "url": "https://www.last.fm/music/Ethereal/_/Talk",
+          "duration": "221",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Front Door",
+          "url": "https://www.last.fm/music/Ethereal/_/Front+Door",
+          "duration": "127",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Time No More",
+          "url": "https://www.last.fm/music/Ethereal/_/Time+No+More",
+          "duration": "115",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:53.001Z"
+}

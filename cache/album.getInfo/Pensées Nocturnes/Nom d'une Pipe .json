@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Nom d'une Pipe !",
+    "artist": "Pensées Nocturnes",
+    "mbid": "04437e8d-b149-47e6-95d6-63f8a5038e20",
+    "url": "https://www.last.fm/music/Pens%C3%A9es+Nocturnes/Nom+d%27une+Pipe+%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e709a58551444d4fab80bc1eeba47a20.png",
+        "size": ""
+      }
+    ],
+    "listeners": "169",
+    "playcount": "3333",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "CD",
+          "url": "https://www.last.fm/tag/CD"
+        },
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        },
+        {
+          "name": "l",
+          "url": "https://www.last.fm/tag/l"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:01:32.109Z"
+}

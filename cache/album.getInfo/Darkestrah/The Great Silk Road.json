@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "The Great Silk Road",
+    "artist": "Darkestrah",
+    "mbid": "76466bf1-6de1-4f92-8d10-c87c7d0cdc15",
+    "url": "https://www.last.fm/music/Darkestrah/The+Great+Silk+Road",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a31dfdc6ee86480692aca9f5f9e5a681.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5766",
+    "playcount": "95829",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Silk Road",
+          "url": "https://www.last.fm/music/Darkestrah/_/The+Silk+Road",
+          "duration": "785",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Inner Voice",
+          "url": "https://www.last.fm/music/Darkestrah/_/Inner+Voice",
+          "duration": "733",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Cult Tengri",
+          "url": "https://www.last.fm/music/Darkestrah/_/Cult+Tengri",
+          "duration": "506",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Kara-oy",
+          "url": "https://www.last.fm/music/Darkestrah/_/Kara-oy",
+          "duration": "1128",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "The Last Step",
+          "url": "https://www.last.fm/music/Darkestrah/_/The+Last+Step",
+          "duration": "119",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "kyrgyz",
+          "url": "https://www.last.fm/tag/kyrgyz"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:16:39.635Z"
+}

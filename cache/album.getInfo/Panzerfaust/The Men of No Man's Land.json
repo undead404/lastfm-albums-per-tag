@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Men of No Man's Land",
+    "artist": "Panzerfaust",
+    "url": "https://www.last.fm/music/Panzerfaust/The+Men+of+No+Man%27s+Land",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/595fb4ff03f47f4a9d852e403476a1f1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "139",
+    "playcount": "1130",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Men of No Man's Land",
+          "url": "https://www.last.fm/music/Panzerfaust/_/The+Men+of+No+Man%27s+Land",
+          "duration": "780",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panzerfaust",
+            "mbid": "ced035a1-c13f-4512-9b0f-77f173c9d4c3",
+            "url": "https://www.last.fm/music/Panzerfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:25:04.472Z"
+}

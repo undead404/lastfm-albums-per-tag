@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Despise the Blindfold",
+    "artist": "Ravencult",
+    "url": "https://www.last.fm/music/Ravencult/Despise+the+Blindfold",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fc8acf5a02f42d7ba07b4f1d73fb23e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "320",
+    "playcount": "2914",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Vortex Of Superior Grimness",
+          "url": "https://www.last.fm/music/Ravencult/_/The+Vortex+Of+Superior+Grimness",
+          "duration": "298",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ravencult",
+            "mbid": "7d13e7cb-b1a3-49fd-b65e-de9970368c15",
+            "url": "https://www.last.fm/music/Ravencult"
+          }
+        },
+        {
+          "name": "Forever Nailed",
+          "url": "https://www.last.fm/music/Ravencult/_/Forever+Nailed",
+          "duration": "115",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ravencult",
+            "mbid": "7d13e7cb-b1a3-49fd-b65e-de9970368c15",
+            "url": "https://www.last.fm/music/Ravencult"
+          }
+        },
+        {
+          "name": "Supreme Cosmic Union",
+          "url": "https://www.last.fm/music/Ravencult/_/Supreme+Cosmic+Union",
+          "duration": "338",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ravencult",
+            "mbid": "7d13e7cb-b1a3-49fd-b65e-de9970368c15",
+            "url": "https://www.last.fm/music/Ravencult"
+          }
+        },
+        {
+          "name": "Darkest Shade Of Black",
+          "url": "https://www.last.fm/music/Ravencult/_/Darkest+Shade+Of+Black",
+          "duration": "384",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ravencult",
+            "mbid": "7d13e7cb-b1a3-49fd-b65e-de9970368c15",
+            "url": "https://www.last.fm/music/Ravencult"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:10:58.559Z"
+}

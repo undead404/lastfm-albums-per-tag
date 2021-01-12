@@ -1,0 +1,248 @@
+{
+  "album": {
+    "name": "Dragonflight",
+    "artist": "Bewitched",
+    "mbid": "5135d0d8-c580-4a0b-9197-11bb3737adf0",
+    "url": "https://www.last.fm/music/Bewitched/Dragonflight",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c44e62a0b5e43b2931f6b756ef94f72.png",
+        "size": ""
+      }
+    ],
+    "listeners": "225",
+    "playcount": "2569",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Bewitched/_/Intro",
+          "duration": "42",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Poetry of My Forest",
+          "url": "https://www.last.fm/music/Bewitched/_/Poetry+of+My+Forest",
+          "duration": "397",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Funeral",
+          "url": "https://www.last.fm/music/Bewitched/_/Funeral",
+          "duration": "473",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Dragonflight",
+          "url": "https://www.last.fm/music/Bewitched/_/Dragonflight",
+          "duration": "385",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Wotan's Curse",
+          "url": "https://www.last.fm/music/Bewitched/_/Wotan%27s+Curse",
+          "duration": "386",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Candles of Doom",
+          "url": "https://www.last.fm/music/Bewitched/_/Candles+of+Doom",
+          "duration": "265",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "The Prophecy (Aqüarian Revelation)",
+          "url": "https://www.last.fm/music/Bewitched/_/The+Prophecy+(Aq%C3%BCarian+Revelation)",
+          "duration": "330",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "The Threat of Winter's Community",
+          "url": "https://www.last.fm/music/Bewitched/_/The+Threat+of+Winter%27s+Community",
+          "duration": "243",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Warfare",
+          "url": "https://www.last.fm/music/Bewitched/_/Warfare",
+          "duration": "208",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Rainfall",
+          "url": "https://www.last.fm/music/Bewitched/_/Rainfall",
+          "duration": "262",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Dancing Upon Your Grave",
+          "url": "https://www.last.fm/music/Bewitched/_/Dancing+Upon+Your+Grave",
+          "duration": "216",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Souls Tears",
+          "url": "https://www.last.fm/music/Bewitched/_/Souls+Tears",
+          "duration": "363",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:48.137Z"
+}

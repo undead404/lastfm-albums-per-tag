@@ -1,0 +1,70 @@
+{
+  "album": {
+    "name": "Heartbreaker",
+    "artist": "Auryn",
+    "mbid": "f21a558a-ea86-44f4-b953-e9ab3b9b9702",
+    "url": "https://www.last.fm/music/Auryn/Heartbreaker",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d60aea117054b649ff54f49cf69e19f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5099",
+    "playcount": "23973",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heartbreaker",
+          "url": "https://www.last.fm/music/Auryn/_/Heartbreaker",
+          "duration": "211",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Heatbreaker",
+          "url": "https://www.last.fm/tag/Heatbreaker"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:26:08.854Z"
+}

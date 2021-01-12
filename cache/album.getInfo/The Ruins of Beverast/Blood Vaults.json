@@ -1,0 +1,222 @@
+{
+  "album": {
+    "name": "Blood Vaults",
+    "artist": "The Ruins of Beverast",
+    "url": "https://www.last.fm/music/The+Ruins+of+Beverast/Blood+Vaults",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3668913d564312a0b996290c03c8193e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3668913d564312a0b996290c03c8193e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3668913d564312a0b996290c03c8193e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3668913d564312a0b996290c03c8193e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3668913d564312a0b996290c03c8193e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3668913d564312a0b996290c03c8193e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4617",
+    "playcount": "56986",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apologia",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Apologia",
+          "duration": "142",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Daemon",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Daemon",
+          "duration": "537",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Malefica",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Malefica",
+          "duration": "624",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Ornaments on Malice",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Ornaments+on+Malice",
+          "duration": "494",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Spires, the Wailing City",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Spires,+the+Wailing+City",
+          "duration": "796",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "A Failed Exorcism",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/A+Failed+Exorcism",
+          "duration": "933",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Trial",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Trial",
+          "duration": "223",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Ordeal",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Ordeal",
+          "duration": "227",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Monument",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Monument",
+          "duration": "725",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "vinyl",
+          "url": "https://www.last.fm/tag/vinyl"
+        },
+        {
+          "name": "2",
+          "url": "https://www.last.fm/tag/2"
+        },
+        {
+          "name": "l",
+          "url": "https://www.last.fm/tag/l"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Oct 2018, 20:26",
+      "summary": "Correct title:  https://www.last.fm/music/The+Ruins+of+Beverast/Blood%20Vaults%20-%20The%20Blazing%20Gospel%20of%20Heinrich%20Kramer <a href=\"http://www.last.fm/music/The+Ruins+of+Beverast/Blood+Vaults\">Read more on Last.fm</a>.",
+      "content": "Correct title:  https://www.last.fm/music/The+Ruins+of+Beverast/Blood%20Vaults%20-%20The%20Blazing%20Gospel%20of%20Heinrich%20Kramer <a href=\"http://www.last.fm/music/The+Ruins+of+Beverast/Blood+Vaults\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:34:34.886Z"
+}

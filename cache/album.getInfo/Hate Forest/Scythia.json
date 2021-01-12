@@ -1,0 +1,209 @@
+{
+  "album": {
+    "name": "Scythia",
+    "artist": "Hate Forest",
+    "mbid": "2946a87b-a223-4e6e-ab29-0e265bf64eca",
+    "url": "https://www.last.fm/music/Hate+Forest/Scythia",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0d0129faff1469ea5a6d680f74e26d9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9318",
+    "playcount": "111002",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Unity",
+          "url": "https://www.last.fm/music/Hate+Forest/_/The+Unity",
+          "duration": "87",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Scythia",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Scythia",
+          "duration": "425",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Forgotten Voice of Black Perun",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Forgotten+Voice+of+Black+Perun",
+          "duration": "72",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Shining Abyss",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Shining+Abyss",
+          "duration": "270",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Forest of Nevres",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Forest+of+Nevres",
+          "duration": "275",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Attila",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Attila",
+          "duration": "238",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Herros",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Herros",
+          "duration": "131",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "To Those Who Came Before Us",
+          "url": "https://www.last.fm/music/Hate+Forest/_/To+Those+Who+Came+Before+Us",
+          "duration": "668",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:53.090Z"
+}

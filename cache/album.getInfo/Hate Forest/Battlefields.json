@@ -1,0 +1,191 @@
+{
+  "album": {
+    "name": "Battlefields",
+    "artist": "Hate Forest",
+    "mbid": "e1e767ef-2c93-3001-a2e7-dcaadfc3edb7",
+    "url": "https://www.last.fm/music/Hate+Forest/Battlefields",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf0e35bcf66844098e8e4879c54fcfef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8405",
+    "playcount": "148992",
+    "tracks": {
+      "track": [
+        {
+          "name": "Українська народна",
+          "url": "https://www.last.fm/music/Hate+Forest/_/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0+%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0",
+          "duration": "114",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "With Fire and Iron",
+          "url": "https://www.last.fm/music/Hate+Forest/_/With+Fire+and+Iron",
+          "duration": "554",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Українська народна",
+          "url": "https://www.last.fm/music/Hate+Forest/_/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0+%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0",
+          "duration": "114",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Our Fading Horizons",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Our+Fading+Horizons",
+          "duration": "634",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Українська народна",
+          "url": "https://www.last.fm/music/Hate+Forest/_/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0+%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0",
+          "duration": "114",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Glare Over Slavonic Lands",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Glare+Over+Slavonic+Lands",
+          "duration": "620",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "[Keening]",
+          "url": "https://www.last.fm/music/Hate+Forest/_/%5BKeening%5D",
+          "duration": "166",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:53.668Z"
+}

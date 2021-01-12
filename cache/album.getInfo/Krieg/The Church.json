@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "The Church",
+    "artist": "Krieg",
+    "mbid": "132b890e-d80c-4dcf-a009-b7d784d2e9ab",
+    "url": "https://www.last.fm/music/Krieg/The+Church",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e18c0e51d54820c80843c2afab7153.png",
+        "size": ""
+      }
+    ],
+    "listeners": "613",
+    "playcount": "5043",
+    "tracks": {
+      "track": [
+        {
+          "name": "Destruction Ritual",
+          "url": "https://www.last.fm/music/Krieg/_/Destruction+Ritual",
+          "duration": "310",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        },
+        {
+          "name": "To Wander The Stars",
+          "url": "https://www.last.fm/music/Krieg/_/To+Wander+The+Stars",
+          "duration": "240",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        },
+        {
+          "name": "The Ancients Dwell Beneath",
+          "url": "https://www.last.fm/music/Krieg/_/The+Ancients+Dwell+Beneath",
+          "duration": "263",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        },
+        {
+          "name": "As Graveyard Rites, as Darkness Fell",
+          "url": "https://www.last.fm/music/Krieg/_/As+Graveyard+Rites,+as+Darkness+Fell",
+          "duration": "339",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        },
+        {
+          "name": "To Wander The Stars",
+          "url": "https://www.last.fm/music/Krieg/_/To+Wander+The+Stars",
+          "duration": "240",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:06:47.483Z"
+}

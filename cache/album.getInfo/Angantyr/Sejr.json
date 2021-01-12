@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Sejr",
+    "artist": "Angantyr",
+    "mbid": "d8fdc794-1f8a-4cb9-b112-64e675c3b331",
+    "url": "https://www.last.fm/music/Angantyr/Sejr",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8189cabb3be9ab2c0c0a246d4b82e64.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4290",
+    "playcount": "103148",
+    "tracks": {
+      "track": [
+        {
+          "name": "En falden kriger",
+          "url": "https://www.last.fm/music/Angantyr/_/En+falden+kriger",
+          "duration": "483",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Niddingdåd",
+          "url": "https://www.last.fm/music/Angantyr/_/Niddingd%C3%A5d",
+          "duration": "396",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Sølverpilens kald",
+          "url": "https://www.last.fm/music/Angantyr/_/S%C3%B8lverpilens+kald",
+          "duration": "406",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Hadets sorte flamme",
+          "url": "https://www.last.fm/music/Angantyr/_/Hadets+sorte+flamme",
+          "duration": "363",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Blodet Er Styrken",
+          "url": "https://www.last.fm/music/Angantyr/_/Blodet+Er+Styrken",
+          "duration": "510",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Slettes skal mindet",
+          "url": "https://www.last.fm/music/Angantyr/_/Slettes+skal+mindet",
+          "duration": "511",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Tag dig i agt",
+          "url": "https://www.last.fm/music/Angantyr/_/Tag+dig+i+agt",
+          "duration": "301",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Sejr",
+          "url": "https://www.last.fm/music/Angantyr/_/Sejr",
+          "duration": "436",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Danish Black Metal",
+          "url": "https://www.last.fm/tag/Danish+Black+Metal"
+        },
+        {
+          "name": "Best of 2004",
+          "url": "https://www.last.fm/tag/Best+of+2004"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "near-flawless albums",
+          "url": "https://www.last.fm/tag/near-flawless+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:30:21.618Z"
+}

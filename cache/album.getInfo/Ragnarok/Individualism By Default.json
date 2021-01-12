@@ -1,0 +1,536 @@
+{
+  "album": {
+    "name": "Individualism By Default",
+    "artist": "Ragnarok",
+    "url": "https://www.last.fm/music/Ragnarok/Individualism+By+Default",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb053bc1f95a138bba53b004a43b5173.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "567",
+    "tracks": {
+      "track": [
+        {
+          "name": "Forlorn",
+          "url": "https://www.last.fm/music/Ragnarok/_/Forlorn",
+          "duration": "328",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Forsaken Souls",
+          "url": "https://www.last.fm/music/Ragnarok/_/Forsaken+Souls",
+          "duration": "333",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "I Want You",
+          "url": "https://www.last.fm/music/Ragnarok/_/I+Want+You",
+          "duration": "310",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Adopted to the Dark",
+          "url": "https://www.last.fm/music/Ragnarok/_/Adopted+to+the+Dark",
+          "duration": "344",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "A Betrayer Among Us",
+          "url": "https://www.last.fm/music/Ragnarok/_/A+Betrayer+Among+Us",
+          "duration": "288",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Imagination",
+          "url": "https://www.last.fm/music/Ragnarok/_/Imagination",
+          "duration": "195",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Groundwalkers",
+          "url": "https://www.last.fm/music/Ragnarok/_/Groundwalkers",
+          "duration": "363",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Shadows of Violence",
+          "url": "https://www.last.fm/music/Ragnarok/_/Shadows+of+Violence",
+          "duration": "421",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Eradicated",
+          "url": "https://www.last.fm/music/Ragnarok/_/Eradicated",
+          "duration": "341",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Hard Rain",
+          "url": "https://www.last.fm/music/Ragnarok/_/Hard+Rain",
+          "duration": "299",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Compulsion",
+          "url": "https://www.last.fm/music/Ragnarok/_/Compulsion",
+          "duration": "224",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Immortal Technique",
+          "url": "https://www.last.fm/music/Ragnarok/_/Immortal+Technique",
+          "duration": "297",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Wolves On Fire - Ragnarok's Rawcore Vip Mix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Wolves+On+Fire+-+Ragnarok%27s+Rawcore+Vip+Mix",
+          "duration": "325",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Frighten",
+          "url": "https://www.last.fm/music/Ragnarok/_/Frighten",
+          "duration": "268",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Enemy",
+          "url": "https://www.last.fm/music/Ragnarok/_/Enemy",
+          "duration": "397",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Breathe - Dark Like Hell Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Breathe+-+Dark+Like+Hell+Remix",
+          "duration": "334",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Sensations of the Mind",
+          "url": "https://www.last.fm/music/Ragnarok/_/Sensations+of+the+Mind",
+          "duration": "365",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Breathe (The Peoples Republic Of Europe Remix)",
+          "url": "https://www.last.fm/music/Ragnarok/_/Breathe+(The+Peoples+Republic+Of+Europe+Remix)",
+          "duration": "334",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "We Are What We Think (How Hard Remix)",
+          "url": "https://www.last.fm/music/Ragnarok/_/We+Are+What+We+Think+(How+Hard+Remix)",
+          "duration": "275",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Salvation (Kubrick & Dronekiller Remix)",
+          "url": "https://www.last.fm/music/Ragnarok/_/Salvation+(Kubrick+&+Dronekiller+Remix)",
+          "duration": "334",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Tears from Gaza (Jensen's Variation)",
+          "url": "https://www.last.fm/music/Ragnarok/_/Tears+from+Gaza+(Jensen%27s+Variation)",
+          "duration": "428",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Adopted to the Dark - Desolation Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Adopted+to+the+Dark+-+Desolation+Remix",
+          "duration": "323",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "War On Society - Stolen Cult Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/War+On+Society+-+Stolen+Cult+Remix",
+          "duration": "351",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Joker Smokers - Splitt2nd Ganjasex Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Joker+Smokers+-+Splitt2nd+Ganjasex+Remix",
+          "duration": "299",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Wolves On Fire - Dr. Mathlovsky's Ghent175 Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Wolves+On+Fire+-+Dr.+Mathlovsky%27s+Ghent175+Remix",
+          "duration": "333",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Hard Rain - Nu-Phase Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Hard+Rain+-+Nu-Phase+Remix",
+          "duration": "240",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "War On Society (Ars Dada Melancholic Madness Remix)",
+          "url": "https://www.last.fm/music/Ragnarok/_/War+On+Society+(Ars+Dada+Melancholic+Madness+Remix)",
+          "duration": "385",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Joker Smokers - Djipe Dub Remix",
+          "url": "https://www.last.fm/music/Ragnarok/_/Joker+Smokers+-+Djipe+Dub+Remix",
+          "duration": "350",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "We Are What We Think (Syrinx Remix)",
+          "url": "https://www.last.fm/music/Ragnarok/_/We+Are+What+We+Think+(Syrinx+Remix)",
+          "duration": "391",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:00:49.330Z"
+}

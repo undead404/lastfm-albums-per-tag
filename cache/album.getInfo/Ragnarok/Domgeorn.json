@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Domgeorn",
+    "artist": "Ragnarok",
+    "mbid": "c050c7d0-8664-47c1-aaab-2f78d9108a8b",
+    "url": "https://www.last.fm/music/Ragnarok/Domgeorn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7feb154e793c4692c6ab8a0e23cf6638.png",
+        "size": ""
+      }
+    ],
+    "listeners": "810",
+    "playcount": "16981",
+    "tracks": {
+      "track": [
+        {
+          "name": "Be Him to Bresnagod Gaels",
+          "url": "https://www.last.fm/music/Ragnarok/_/Be+Him+to+Bresnagod+Gaels",
+          "duration": "181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Wodnesuno",
+          "url": "https://www.last.fm/music/Ragnarok/_/Wodnesuno",
+          "duration": "372",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Bonne Waeron We Haeles",
+          "url": "https://www.last.fm/music/Ragnarok/_/Bonne+Waeron+We+Haeles",
+          "duration": "505",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Sigrleos",
+          "url": "https://www.last.fm/music/Ragnarok/_/Sigrleos",
+          "duration": "96",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Ni Fuil an Sabras Ajragad Deas",
+          "url": "https://www.last.fm/music/Ragnarok/_/Ni+Fuil+an+Sabras+Ajragad+Deas",
+          "duration": "307",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "To Walhealle",
+          "url": "https://www.last.fm/music/Ragnarok/_/To+Walhealle",
+          "duration": "537",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "I Hear the Mountain",
+          "url": "https://www.last.fm/music/Ragnarok/_/I+Hear+the+Mountain",
+          "duration": "306",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Legion of Death",
+          "url": "https://www.last.fm/music/Ragnarok/_/Legion+of+Death",
+          "duration": "292",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Hlijescleos",
+          "url": "https://www.last.fm/music/Ragnarok/_/Hlijescleos",
+          "duration": "302",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Samhain",
+          "url": "https://www.last.fm/music/Ragnarok/_/Samhain",
+          "duration": "388",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "John Barleycorn",
+          "url": "https://www.last.fm/music/Ragnarok/_/John+Barleycorn",
+          "duration": "329",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "To Aestreow",
+          "url": "https://www.last.fm/music/Ragnarok/_/To+Aestreow",
+          "duration": "326",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Beloved of the Raven God",
+          "url": "https://www.last.fm/music/Ragnarok/_/Beloved+of+the+Raven+God",
+          "duration": "369",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Celtic Folk Metal",
+          "url": "https://www.last.fm/tag/Celtic+Folk+Metal"
+        },
+        {
+          "name": "epic folk black metal",
+          "url": "https://www.last.fm/tag/epic+folk+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:00:33.734Z"
+}

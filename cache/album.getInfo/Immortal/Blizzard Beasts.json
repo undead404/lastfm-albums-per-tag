@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Blizzard Beasts",
+    "artist": "Immortal",
+    "mbid": "3dbf4c45-7a33-3ebc-b232-6b4dc24b6277",
+    "url": "https://www.last.fm/music/Immortal/Blizzard+Beasts",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e92a73467d7c4fafcf4a85da27366422.png",
+        "size": ""
+      }
+    ],
+    "listeners": "42600",
+    "playcount": "893217",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Immortal/_/Intro",
+          "duration": "60",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Blizzard Beasts",
+          "url": "https://www.last.fm/music/Immortal/_/Blizzard+Beasts",
+          "duration": "169",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Nebular Ravens Winter",
+          "url": "https://www.last.fm/music/Immortal/_/Nebular+Ravens+Winter",
+          "duration": "252",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Suns That Sank Below",
+          "url": "https://www.last.fm/music/Immortal/_/Suns+That+Sank+Below",
+          "duration": "166",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Battlefields",
+          "url": "https://www.last.fm/music/Immortal/_/Battlefields",
+          "duration": "220",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Mountains of Might",
+          "url": "https://www.last.fm/music/Immortal/_/Mountains+of+Might",
+          "duration": "397",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Noctambulant",
+          "url": "https://www.last.fm/music/Immortal/_/Noctambulant",
+          "duration": "142",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Winter of the Ages",
+          "url": "https://www.last.fm/music/Immortal/_/Winter+of+the+Ages",
+          "duration": "152",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        },
+        {
+          "name": "Frostdemonstorm",
+          "url": "https://www.last.fm/music/Immortal/_/Frostdemonstorm",
+          "duration": "173",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Immortal",
+            "mbid": "b863cf80-19c6-4a87-8e42-6cff7ac8f18f",
+            "url": "https://www.last.fm/music/Immortal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "True Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/True+Norwegian+Black+Metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Jan 2013, 22:40",
+      "summary": "Blizzard Beasts is the fourth studio album by Norwegian black metal band Immortal. It was released on 20 March 1997 through Osmose Productions. It is the last Immortal album to feature founding member Demonaz Doom Occulta on guitar, and the first to feature Horgh on drums. Demonaz was later diagnosed with acute tendinitis which prevented him from playing guitar at the required speed for Immortal.\n\nStylistically, Blizzard Beasts is more death metal-influenced than the group's previous and later works. <a href=\"http://www.last.fm/music/Immortal/Blizzard+Beasts\">Read more on Last.fm</a>.",
+      "content": "Blizzard Beasts is the fourth studio album by Norwegian black metal band Immortal. It was released on 20 March 1997 through Osmose Productions. It is the last Immortal album to feature founding member Demonaz Doom Occulta on guitar, and the first to feature Horgh on drums. Demonaz was later diagnosed with acute tendinitis which prevented him from playing guitar at the required speed for Immortal.\n\nStylistically, Blizzard Beasts is more death metal-influenced than the group's previous and later works. Most of the songs are less than three minutes long, and only one of them is longer than six minutes.\nOn the first pressings of the album, the logo was etched into the jewel case front. All lyrics written by Demonaz, all music composed by Abbath and Demonaz.\n <a href=\"http://www.last.fm/music/Immortal/Blizzard+Beasts\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:53:27.525Z"
+}

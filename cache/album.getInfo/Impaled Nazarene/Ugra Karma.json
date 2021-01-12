@@ -1,0 +1,286 @@
+{
+  "album": {
+    "name": "Ugra-Karma",
+    "artist": "Impaled Nazarene",
+    "mbid": "d0b513bf-5d89-4839-b9ec-1aff67ba8852",
+    "url": "https://www.last.fm/music/Impaled+Nazarene/Ugra-Karma",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e83e70a2fdd24cebccad4f05fde38ce7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15150",
+    "playcount": "313934",
+    "tracks": {
+      "track": [
+        {
+          "name": "Goatzied",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Goatzied",
+          "duration": "73",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "The Horny And The Horned",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/The+Horny+And+The+Horned",
+          "duration": "210",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Sadhu Satana",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Sadhu+Satana",
+          "duration": "150",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Chaosgoat Law",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Chaosgoat+Law",
+          "duration": "108",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Hate",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Hate",
+          "duration": "351",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Gott ist tot (Antichrist War mix)",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Gott+ist+tot+(Antichrist+War+mix)",
+          "duration": "177",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Coraxo",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Coraxo",
+          "duration": "19",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Soul Rape",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Soul+Rape",
+          "duration": "230",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Kali-Yuga",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Kali-Yuga",
+          "duration": "257",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Cyberchrist",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Cyberchrist",
+          "duration": "339",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "False Jehova",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/False+Jehova",
+          "duration": "135",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Sadistic 666 / Under a Golden Shower",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Sadistic+666+%2F+Under+a+Golden+Shower",
+          "duration": "254",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "1993",
+          "url": "https://www.last.fm/tag/1993"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "finnish",
+          "url": "https://www.last.fm/tag/finnish"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Mar 2011, 05:27",
+      "summary": "Ugra Karma is the second full-length release by Impaled Nazarene. Upon its release there was some controversy over the copyrights of the artwork used, which is a reproduction of the work of Madame Koslovsky; this led to a new artwork for the re-release. <a href=\"http://www.last.fm/music/Impaled+Nazarene/Ugra-Karma\">Read more on Last.fm</a>.",
+      "content": "Ugra Karma is the second full-length release by Impaled Nazarene. Upon its release there was some controversy over the copyrights of the artwork used, which is a reproduction of the work of Madame Koslovsky; this led to a new artwork for the re-release. <a href=\"http://www.last.fm/music/Impaled+Nazarene/Ugra-Karma\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:13:26.881Z"
+}

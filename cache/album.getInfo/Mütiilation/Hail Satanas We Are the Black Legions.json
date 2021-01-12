@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Hail Satanas We Are the Black Legions",
+    "artist": "Mütiilation",
+    "mbid": "84378775-1859-4e00-a2e3-ecc48de01d96",
+    "url": "https://www.last.fm/music/M%C3%BCtiilation/Hail+Satanas+We+Are+the+Black+Legions",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52e55b77cd88bccf9c4882c40f2ae26d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2591",
+    "playcount": "27326",
+    "tracks": {
+      "track": [
+        {
+          "name": "Desecrate Jesus Name",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Desecrate+Jesus+Name",
+          "duration": "335",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Remembrance Of My Past Battles And Times",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Remembrance+Of+My+Past+Battles+And+Times",
+          "duration": "269",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Black Wind of War",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Black+Wind+of+War",
+          "duration": "241",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "french raw black metal",
+          "url": "https://www.last.fm/tag/french+raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:05:56.226Z"
+}

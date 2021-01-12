@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Schall & Rauch",
+    "artist": "Horn",
+    "url": "https://www.last.fm/music/Horn/Schall+&+Rauch",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "59",
+    "playcount": "116",
+    "tracks": {
+      "track": [
+        {
+          "name": "Schall & Rauch",
+          "url": "https://www.last.fm/music/Horn/_/Schall+&+Rauch",
+          "duration": "386",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Rooftop",
+          "url": "https://www.last.fm/music/Horn/_/Rooftop",
+          "duration": "411",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "Subway",
+          "url": "https://www.last.fm/music/Horn/_/Subway",
+          "duration": "385",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        },
+        {
+          "name": "70+DF (Dedicated to Sick DF)",
+          "url": "https://www.last.fm/music/Horn/_/70%252BDF+(Dedicated+to+Sick+DF)",
+          "duration": "412",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horn",
+            "mbid": "9b02b1ef-8ded-4dbf-a005-a5c98b6b178a",
+            "url": "https://www.last.fm/music/Horn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:16:24.066Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Kalt' Ritt in leicht faltiger Leere",
+    "artist": "Bethlehem",
+    "url": "https://www.last.fm/music/Bethlehem/Kalt%27+Ritt+in+leicht+faltiger+Leere",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae4efa941f25e585b08ac9bf149a7d2d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "216",
+    "playcount": "693",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kalt' Ritt In Leicht Faltiger Leere",
+          "url": "https://www.last.fm/music/Bethlehem/_/Kalt%27+Ritt+In+Leicht+Faltiger+Leere",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:36:23.358Z"
+}

@@ -1,0 +1,383 @@
+{
+  "album": {
+    "name": "Somethin' For The Riderz",
+    "artist": "Frost",
+    "url": "https://www.last.fm/music/Frost/Somethin%27+For+The+Riderz",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/24e8d0180391469eabadf1ffb2268518.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/24e8d0180391469eabadf1ffb2268518.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/24e8d0180391469eabadf1ffb2268518.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24e8d0180391469eabadf1ffb2268518.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24e8d0180391469eabadf1ffb2268518.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24e8d0180391469eabadf1ffb2268518.png",
+        "size": ""
+      }
+    ],
+    "listeners": "347",
+    "playcount": "1115",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cali Tex Connection (SPM feat. Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Cali+Tex+Connection+(SPM+feat.+Frost)",
+          "duration": "160",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "How We Ride (Frost, Mr. Gee, K-Borne)",
+          "url": "https://www.last.fm/music/Frost/_/How+We+Ride+(Frost,+Mr.+Gee,+K-Borne)",
+          "duration": "105",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Connection (Mr. Coop feat. Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Connection+(Mr.+Coop+feat.+Frost)",
+          "duration": "163",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Chicano Gambinos (Mr. Gee, G' Fellas, Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Chicano+Gambinos+(Mr.+Gee,+G%27+Fellas,+Frost)",
+          "duration": "188",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Maria (Jay Tee feat. Frost & Baby Beesh)",
+          "url": "https://www.last.fm/music/Frost/_/Maria+(Jay+Tee+feat.+Frost+&+Baby+Beesh)",
+          "duration": "198",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Same Shit (Jay Tee feat. Baby Beesh & Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Same+Shit+(Jay+Tee+feat.+Baby+Beesh+&+Frost)",
+          "duration": "184",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Presidential (LSOB feat. Frost & Jay Tee)",
+          "url": "https://www.last.fm/music/Frost/_/Presidential+(LSOB+feat.+Frost+&+Jay+Tee)",
+          "duration": "184",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "City Of Angels (Above The Law feat. Frost)",
+          "url": "https://www.last.fm/music/Frost/_/City+Of+Angels+(Above+The+Law+feat.+Frost)",
+          "duration": "163",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "What's Goin' On? (Jay Tee & Baby Beesh feat. Frost)",
+          "url": "https://www.last.fm/music/Frost/_/What%27s+Goin%27+On%3F+(Jay+Tee+&+Baby+Beesh+feat.+Frost)",
+          "duration": "204",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "It Ain't Easy (Gambino All Stars)",
+          "url": "https://www.last.fm/music/Frost/_/It+Ain%27t+Easy+(Gambino+All+Stars)",
+          "duration": "227",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "We Ride Hot (Jay Tee, Messy Marv, Frost)",
+          "url": "https://www.last.fm/music/Frost/_/We+Ride+Hot+(Jay+Tee,+Messy+Marv,+Frost)",
+          "duration": "136",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Got Bud (Nino B, Don Cisco, Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Got+Bud+(Nino+B,+Don+Cisco,+Frost)",
+          "duration": "82",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Mamacita (Don Cisco, Frost, Kurupt, Soopafly)",
+          "url": "https://www.last.fm/music/Frost/_/Mamacita+(Don+Cisco,+Frost,+Kurupt,+Soopafly)",
+          "duration": "245",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Last Nite (Jay Tee & Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Last+Nite+(Jay+Tee+&+Frost)",
+          "duration": "167",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "West Coast, Gulf Coast, East Coast (SPM feat. Baby Beesh, Frost,",
+          "url": "https://www.last.fm/music/Frost/_/West+Coast,+Gulf+Coast,+East+Coast+(SPM+feat.+Baby+Beesh,+Frost,",
+          "duration": "154",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Get High With Me (Rappin' 4-Tay feat Frost, Shorty B)",
+          "url": "https://www.last.fm/music/Frost/_/Get+High+With+Me+(Rappin%27+4-Tay+feat+Frost,+Shorty+B)",
+          "duration": "248",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Let's Make A V (King T feat. Frost, DJ Quik, James DeBarge)",
+          "url": "https://www.last.fm/music/Frost/_/Let%27s+Make+A+V+(King+T+feat.+Frost,+DJ+Quik,+James+DeBarge)",
+          "duration": "289",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "What You Wanna Do (Merciless, Javi Picasso, Frost)",
+          "url": "https://www.last.fm/music/Frost/_/What+You+Wanna+Do+(Merciless,+Javi+Picasso,+Frost)",
+          "duration": "180",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Party Goin' Down Tonight (Jay Tee, Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Party+Goin%27+Down+Tonight+(Jay+Tee,+Frost)",
+          "duration": "235",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Tears Of A Mother (Ice T & Frost)",
+          "url": "https://www.last.fm/music/Frost/_/Tears+Of+A+Mother+(Ice+T+&+Frost)",
+          "duration": "264",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:39:07.217Z"
+}

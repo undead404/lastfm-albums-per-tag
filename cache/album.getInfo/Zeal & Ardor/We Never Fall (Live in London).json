@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "We Never Fall (Live in London)",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/We+Never+Fall+(Live+in+London)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0438f3f09ea130a2ae34a263ed00c5e3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1015",
+    "playcount": "2265",
+    "tracks": {
+      "track": [
+        {
+          "name": "We Never Fall (Live in London)",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/We+Never+Fall+(Live+in+London)",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:24.534Z"
+}

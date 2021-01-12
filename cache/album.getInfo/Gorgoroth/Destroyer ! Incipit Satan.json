@@ -1,0 +1,328 @@
+{
+  "album": {
+    "name": "Destroyer / Incipit Satan",
+    "artist": "Gorgoroth",
+    "url": "https://www.last.fm/music/Gorgoroth/Destroyer+%2F+Incipit+Satan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff1e004ce43545d880110f84a0b12e12.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1137",
+    "playcount": "15854",
+    "tracks": {
+      "track": [
+        {
+          "name": "Destroyer",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Destroyer",
+          "duration": "230",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Open The Gates",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Open+The+Gates",
+          "duration": "329",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "The Devil, The Sinner And His Journey",
+          "url": "https://www.last.fm/music/Gorgoroth/_/The+Devil,+The+Sinner+And+His+Journey",
+          "duration": "157",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Om Kristen Og Jödisk Tru",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Om+Kristen+Og+J%C3%B6disk+Tru",
+          "duration": "287",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Pa Slagmark Langt Mot Nord",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Pa+Slagmark+Langt+Mot+Nord",
+          "duration": "308",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Blodoffer",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Blodoffer",
+          "duration": "199",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "The Virginborn",
+          "url": "https://www.last.fm/music/Gorgoroth/_/The+Virginborn",
+          "duration": "495",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Slottet I Det Fjerne",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Slottet+I+Det+Fjerne",
+          "duration": "222",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Incipit Satan",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Incipit+Satan",
+          "duration": "273",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "A World To Win",
+          "url": "https://www.last.fm/music/Gorgoroth/_/A+World+To+Win",
+          "duration": "223",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Litani Till Satan",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Litani+Till+Satan",
+          "duration": "273",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Unchain My Heart",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Unchain+My+Heart",
+          "duration": "287",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "An Excerpt of X",
+          "url": "https://www.last.fm/music/Gorgoroth/_/An+Excerpt+of+X",
+          "duration": "350",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Ein eim au blod og helvetesild",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Ein+eim+au+blod+og+helvetesild",
+          "duration": "189",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Will To Power",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Will+To+Power",
+          "duration": "268",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "When Love Rages Wild In My Heart",
+          "url": "https://www.last.fm/music/Gorgoroth/_/When+Love+Rages+Wild+In+My+Heart",
+          "duration": "343",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "satan",
+          "url": "https://www.last.fm/tag/satan"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:00.547Z"
+}

@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Chaos Preferred",
+    "artist": "1349",
+    "mbid": "ed386063-2dc6-4e98-b0d5-ab27ff469c17",
+    "url": "https://www.last.fm/music/1349/Chaos+Preferred",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de56e7dffe7c4458c4fdd64f96614220.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3046",
+    "playcount": "29139",
+    "tracks": {
+      "track": [
+        {
+          "name": "Chaos Preferred",
+          "url": "https://www.last.fm/music/1349/_/Chaos+Preferred",
+          "duration": "248",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Nightmare Reality",
+          "url": "https://www.last.fm/music/1349/_/Nightmare+Reality",
+          "duration": "240",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "True Violent Passion",
+          "url": "https://www.last.fm/music/1349/_/True+Violent+Passion",
+          "duration": "301",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "F.T.W.",
+          "url": "https://www.last.fm/music/1349/_/F.T.W.",
+          "duration": "383",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:27.098Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Promo '95",
+    "artist": "Forgotten Woods",
+    "url": "https://www.last.fm/music/Forgotten+Woods/Promo+%2795",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/468425455b096c47e98b45cf60a13ce6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/468425455b096c47e98b45cf60a13ce6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/468425455b096c47e98b45cf60a13ce6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/468425455b096c47e98b45cf60a13ce6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/468425455b096c47e98b45cf60a13ce6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/468425455b096c47e98b45cf60a13ce6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "28",
+    "playcount": "50",
+    "tracks": {
+      "track": [
+        {
+          "name": "The starlit waters / I the mountain",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/The+starlit+waters+%2F+I+the+mountain",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:07:26.125Z"
+}

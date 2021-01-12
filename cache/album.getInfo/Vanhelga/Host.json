@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Host",
+    "artist": "Vanhelga",
+    "url": "https://www.last.fm/music/Vanhelga/Host",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0fdf6cc8a8d34d9981c0c57caf3ce79e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "503",
+    "playcount": "15657",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:10.587Z"
+}

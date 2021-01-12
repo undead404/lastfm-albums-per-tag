@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "Zwischen Den Welten...",
+    "artist": "Aaskereia",
+    "mbid": "2b3eb7fd-1c19-4a8d-99cc-7fe21fccc430",
+    "url": "https://www.last.fm/music/Aaskereia/Zwischen+Den+Welten...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ded89387f1b244d5887b4b08f34c395a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1015",
+    "playcount": "18699",
+    "tracks": {
+      "track": [
+        {
+          "name": "Erkenntnis",
+          "url": "https://www.last.fm/music/Aaskereia/_/Erkenntnis",
+          "duration": "217",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Die Flöten des Pan",
+          "url": "https://www.last.fm/music/Aaskereia/_/Die+Fl%C3%B6ten+des+Pan",
+          "duration": "309",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Instrumental",
+          "url": "https://www.last.fm/music/Aaskereia/_/Instrumental",
+          "duration": "87",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Der stille Schrei",
+          "url": "https://www.last.fm/music/Aaskereia/_/Der+stille+Schrei",
+          "duration": "302",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Im Schattenlicht, zwischen den Welten",
+          "url": "https://www.last.fm/music/Aaskereia/_/Im+Schattenlicht,+zwischen+den+Welten",
+          "duration": "412",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:26:17.945Z"
+}

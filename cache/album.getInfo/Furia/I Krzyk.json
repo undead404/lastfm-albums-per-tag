@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "I Krzyk",
+    "artist": "Furia",
+    "mbid": "dbd52ba9-cc01-40ac-b458-f336741598ac",
+    "url": "https://www.last.fm/music/Furia/I+Krzyk",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f037061b89745fb9db79b128ea24cdd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2410",
+    "playcount": "71097",
+    "tracks": {
+      "track": [
+        {
+          "name": "Krzyk",
+          "url": "https://www.last.fm/music/Furia/_/Krzyk",
+          "duration": "519",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Cisza",
+          "url": "https://www.last.fm/music/Furia/_/Cisza",
+          "duration": "397",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Skrajna nienawiść egoistycznej egzystencji",
+          "url": "https://www.last.fm/music/Furia/_/Skrajna+nienawi%C5%9B%C4%87+egoistycznej+egzystencji",
+          "duration": "321",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Śmierć ludzkości II",
+          "url": "https://www.last.fm/music/Furia/_/%C5%9Amier%C4%87+ludzko%C5%9Bci+II",
+          "duration": "411",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:33.847Z"
+}

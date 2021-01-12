@@ -1,0 +1,91 @@
+{
+  "album": {
+    "name": "Afgrundjaslukin",
+    "artist": "Wulkanaz",
+    "url": "https://www.last.fm/music/Wulkanaz/Afgrundjaslukin",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29007565ad054b05cb53fa03b06f2b38.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17",
+    "playcount": "178",
+    "tracks": {
+      "track": [
+        {
+          "name": "Afgrundjaslukin",
+          "url": "https://www.last.fm/music/Wulkanaz/_/Afgrundjaslukin",
+          "duration": "262",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wulkanaz",
+            "url": "https://www.last.fm/music/Wulkanaz"
+          }
+        },
+        {
+          "name": "Gennjan þramiz",
+          "url": "https://www.last.fm/music/Wulkanaz/_/Gennjan+%C3%BEramiz",
+          "duration": "142",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wulkanaz",
+            "url": "https://www.last.fm/music/Wulkanaz"
+          }
+        },
+        {
+          "name": "0:17",
+          "url": "https://www.last.fm/music/Wulkanaz/_/0:17",
+          "duration": "158",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wulkanaz",
+            "url": "https://www.last.fm/music/Wulkanaz"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:50:56.248Z"
+}

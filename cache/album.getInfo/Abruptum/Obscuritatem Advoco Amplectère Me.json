@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Obscuritatem Advoco Amplectère Me",
+    "artist": "Abruptum",
+    "mbid": "5f21c3c4-db6a-48c7-a667-e98630aabdd7",
+    "url": "https://www.last.fm/music/Abruptum/Obscuritatem+Advoco+Amplect%C3%A8re+Me",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea128a6ea2eb41d1b658763a2058793e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "873",
+    "playcount": "2948",
+    "tracks": {
+      "track": [
+        {
+          "name": "Part I",
+          "url": "https://www.last.fm/music/Abruptum/_/Part+I",
+          "duration": "1531",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Part II",
+          "url": "https://www.last.fm/music/Abruptum/_/Part+II",
+          "duration": "1528",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Necroglossolalia",
+          "url": "https://www.last.fm/tag/Necroglossolalia"
+        },
+        {
+          "name": "obloga",
+          "url": "https://www.last.fm/tag/obloga"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:35:06.423Z"
+}

@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Zemsta",
+    "artist": "Hellveto",
+    "mbid": "cc5bc87d-f916-4be5-96d3-a7a7258c4e77",
+    "url": "https://www.last.fm/music/Hellveto/Zemsta",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1d2a717eb8c4199aebbe7ceb6214047.png",
+        "size": ""
+      }
+    ],
+    "listeners": "758",
+    "playcount": "10774",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wstęp: Poranek Martwego Słońca",
+          "url": "https://www.last.fm/music/Hellveto/_/Wst%C4%99p:+Poranek+Martwego+S%C5%82o%C5%84ca",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Akt I: Od Halgilibrum Po Blakagir",
+          "url": "https://www.last.fm/music/Hellveto/_/Akt+I:+Od+Halgilibrum+Po+Blakagir",
+          "duration": "484",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Akt II: Płonące Posągi",
+          "url": "https://www.last.fm/music/Hellveto/_/Akt+II:+P%C5%82on%C4%85ce+Pos%C4%85gi",
+          "duration": "359",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Akt III: Zapomniana Wyrocznia",
+          "url": "https://www.last.fm/music/Hellveto/_/Akt+III:+Zapomniana+Wyrocznia",
+          "duration": "436",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Akt IV: Dni okupione łzami",
+          "url": "https://www.last.fm/music/Hellveto/_/Akt+IV:+Dni+okupione+%C5%82zami",
+          "duration": "359",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Zakończenie: Smak Cierpienia",
+          "url": "https://www.last.fm/music/Hellveto/_/Zako%C5%84czenie:+Smak+Cierpienia",
+          "duration": "323",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:21:43.525Z"
+}

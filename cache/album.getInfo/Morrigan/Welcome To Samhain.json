@@ -1,0 +1,219 @@
+{
+  "album": {
+    "name": "Welcome To Samhain",
+    "artist": "Morrigan",
+    "mbid": "4de32729-fd65-4f9d-99c0-a89697c6a609",
+    "url": "https://www.last.fm/music/Morrigan/Welcome+To+Samhain",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96504f47c7e14afd8d2afbc62b722e43.png",
+        "size": ""
+      }
+    ],
+    "listeners": "926",
+    "playcount": "18444",
+    "tracks": {
+      "track": [
+        {
+          "name": "We Are Possessed",
+          "url": "https://www.last.fm/music/Morrigan/_/We+Are+Possessed",
+          "duration": "109",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "The Eye of Despair",
+          "url": "https://www.last.fm/music/Morrigan/_/The+Eye+of+Despair",
+          "duration": "271",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Welcome to Samhain",
+          "url": "https://www.last.fm/music/Morrigan/_/Welcome+to+Samhain",
+          "duration": "312",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Bastard and Bitch",
+          "url": "https://www.last.fm/music/Morrigan/_/Bastard+and+Bitch",
+          "duration": "201",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Cranking Battleharps",
+          "url": "https://www.last.fm/music/Morrigan/_/Cranking+Battleharps",
+          "duration": "220",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Life, Death and the Here After",
+          "url": "https://www.last.fm/music/Morrigan/_/Life,+Death+and+the+Here+After",
+          "duration": "457",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Belive In Eternity",
+          "url": "https://www.last.fm/music/Morrigan/_/Belive+In+Eternity",
+          "duration": "342",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Armour Of Honour",
+          "url": "https://www.last.fm/music/Morrigan/_/Armour+Of+Honour",
+          "duration": "249",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Roaring Warlike And Victious",
+          "url": "https://www.last.fm/music/Morrigan/_/Roaring+Warlike+And+Victious",
+          "duration": "339",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Poch Mo Hoine",
+          "url": "https://www.last.fm/music/Morrigan/_/Poch+Mo+Hoine",
+          "duration": "238",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2006",
+          "url": "https://www.last.fm/tag/best+of+2006"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:12:43.050Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Dagar som denna",
+    "artist": "Vanhelga",
+    "url": "https://www.last.fm/music/Vanhelga/Dagar+som+denna",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ea95dd29a2fb38bf013913ed293f47.png",
+        "size": ""
+      }
+    ],
+    "listeners": "258",
+    "playcount": "1631",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dagar som denna",
+          "url": "https://www.last.fm/music/Vanhelga/_/Dagar+som+denna",
+          "duration": "344",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:13.341Z"
+}

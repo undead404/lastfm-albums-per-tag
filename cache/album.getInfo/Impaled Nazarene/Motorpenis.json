@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Motorpenis",
+    "artist": "Impaled Nazarene",
+    "mbid": "e681fc31-77e6-467f-b383-879c6be55e61",
+    "url": "https://www.last.fm/music/Impaled+Nazarene/Motorpenis",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64cd73da965a4a6cca6e2492e1526b7e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1812",
+    "playcount": "18416",
+    "tracks": {
+      "track": [
+        {
+          "name": "Motorpenis",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Motorpenis",
+          "duration": "141",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Whore",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Whore",
+          "duration": "73",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "S/m Party",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/S%2Fm+Party",
+          "duration": "102",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Transvestite",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Transvestite",
+          "duration": "77",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Alkohol",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Alkohol",
+          "duration": "169",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "1996",
+          "url": "https://www.last.fm/tag/1996"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:13:25.723Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Bråtebrann",
+    "artist": "Kvelertak",
+    "url": "https://www.last.fm/music/Kvelertak/Br%C3%A5tebrann",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/433477f6a707bb71e797d336f9a0bff7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7364",
+    "playcount": "24369",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bråtebrann",
+          "url": "https://www.last.fm/music/Kvelertak/_/Br%C3%A5tebrann",
+          "duration": "418",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:59:22.052Z"
+}

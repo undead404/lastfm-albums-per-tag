@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Manndaudsvinter",
+    "artist": "Taake",
+    "mbid": "c4cbce60-e064-487b-9e4e-5bd937bc585d",
+    "url": "https://www.last.fm/music/Taake/Manndaudsvinter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c1067b90fe249fa90e1a896a57b47aa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1219",
+    "playcount": "7095",
+    "tracks": {
+      "track": [
+        {
+          "name": "Manndaudsvinter",
+          "url": "https://www.last.fm/music/Taake/_/Manndaudsvinter",
+          "duration": "197",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Eismalsott",
+          "url": "https://www.last.fm/music/Taake/_/Eismalsott",
+          "duration": "184",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best album covers",
+          "url": "https://www.last.fm/tag/best+album+covers"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "Helnorsk Svartmetall",
+          "url": "https://www.last.fm/tag/Helnorsk+Svartmetall"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:35.946Z"
+}

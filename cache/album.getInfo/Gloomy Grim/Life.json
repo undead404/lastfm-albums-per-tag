@@ -1,0 +1,248 @@
+{
+  "album": {
+    "name": "Life?",
+    "artist": "Gloomy Grim",
+    "mbid": "ace58154-2d9d-45af-890c-584e12e8c0f4",
+    "url": "https://www.last.fm/music/Gloomy+Grim/Life%3F",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a3534fb3d0c40769c525e66c6446b60.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3179",
+    "playcount": "40578",
+    "tracks": {
+      "track": [
+        {
+          "name": "Arrival Of The Antichrist",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Arrival+Of+The+Antichrist",
+          "duration": "60",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Born In Fire",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Born+In+Fire",
+          "duration": "248",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "The Chosen One",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/The+Chosen+One",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Mistress Of The Stormblast",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Mistress+Of+The+Stormblast",
+          "duration": "242",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Revelation 666",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Revelation+666",
+          "duration": "346",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Redeemer",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Redeemer",
+          "duration": "305",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Elder Ones",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Elder+Ones",
+          "duration": "303",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "At The Gates",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/At+The+Gates",
+          "duration": "283",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "My Domain",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/My+Domain",
+          "duration": "263",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Heralds Of Pestilence",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Heralds+Of+Pestilence",
+          "duration": "323",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "To The Death",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/To+The+Death",
+          "duration": "162",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:47:16.509Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Iron Horse (Gallows Frontier, Act II)",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/The+Iron+Horse+(Gallows+Frontier,+Act+II)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/745532c7e2161c5f67c41740ec0ac99e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "997",
+    "playcount": "3021",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Iron Horse (Gallows Frontier, Act II)",
+          "url": "https://www.last.fm/music/Wayfarer/_/The+Iron+Horse+(Gallows+Frontier,+Act+II)",
+          "duration": "388",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:51:44.507Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Rise of Deceased",
+    "artist": "Inferi",
+    "url": "https://www.last.fm/music/Inferi/Rise+of+Deceased",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9d790b4c08f409a842bd542e9e52c70.png",
+        "size": ""
+      }
+    ],
+    "listeners": "278",
+    "playcount": "1542",
+    "tracks": {
+      "track": [
+        {
+          "name": "Drift of Sun",
+          "url": "https://www.last.fm/music/Inferi/_/Drift+of+Sun",
+          "duration": "495",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferi",
+            "mbid": "7408e3bd-87a9-41f5-be26-05c3777fa97b",
+            "url": "https://www.last.fm/music/Inferi"
+          }
+        },
+        {
+          "name": "Rise of Deceased",
+          "url": "https://www.last.fm/music/Inferi/_/Rise+of+Deceased",
+          "duration": "466",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferi",
+            "mbid": "7408e3bd-87a9-41f5-be26-05c3777fa97b",
+            "url": "https://www.last.fm/music/Inferi"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:24.949Z"
+}

@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Nosferatu",
+    "artist": "Moonblood",
+    "mbid": "9a475fdd-c8a8-434f-9c70-e218cdd60c81",
+    "url": "https://www.last.fm/music/Moonblood/Nosferatu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed5a6b988369012d8ee3fadc57b1af14.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3178",
+    "playcount": "12911",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro / Nosferatu",
+          "url": "https://www.last.fm/music/Moonblood/_/Intro+%2F+Nosferatu",
+          "duration": "671",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        },
+        {
+          "name": "Listen To Nana",
+          "url": "https://www.last.fm/music/Moonblood/_/Listen+To+Nana",
+          "duration": "288",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        },
+        {
+          "name": "In The Moonshine",
+          "url": "https://www.last.fm/music/Moonblood/_/In+The+Moonshine",
+          "duration": "314",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        },
+        {
+          "name": "Burn Down The Heavenly Garden",
+          "url": "https://www.last.fm/music/Moonblood/_/Burn+Down+The+Heavenly+Garden",
+          "duration": "496",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        },
+        {
+          "name": "Only A Dream Of Dark Kingdom",
+          "url": "https://www.last.fm/music/Moonblood/_/Only+A+Dream+Of+Dark+Kingdom",
+          "duration": "341",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        },
+        {
+          "name": "A Journey Through The Darkness Of Night",
+          "url": "https://www.last.fm/music/Moonblood/_/A+Journey+Through+The+Darkness+Of+Night",
+          "duration": "322",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moonblood",
+            "mbid": "de5cfc35-49d3-4cb1-b451-2b6195e91853",
+            "url": "https://www.last.fm/music/Moonblood"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:52:04.233Z"
+}

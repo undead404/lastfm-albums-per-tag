@@ -1,0 +1,316 @@
+{
+  "album": {
+    "name": "Substanz",
+    "artist": "Heretoir",
+    "mbid": "42008c0a-657d-4314-ac4d-3fcff21900f3",
+    "url": "https://www.last.fm/music/Heretoir/Substanz",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31fbb4d990445079c8b80bd67d8dca8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5505",
+    "playcount": "121362",
+    "tracks": {
+      "track": [
+        {
+          "name": "Erwachen Im Dunkel",
+          "url": "https://www.last.fm/music/Heretoir/_/Erwachen+Im+Dunkel",
+          "duration": "376",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ein Schrey in die Nacht",
+          "url": "https://www.last.fm/music/Heretoir/_/Ein+Schrey+in+die+Nacht",
+          "duration": "411",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Verblasst",
+          "url": "https://www.last.fm/music/Heretoir/_/Verblasst",
+          "duration": "160",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ausgeburt",
+          "url": "https://www.last.fm/music/Heretoir/_/Ausgeburt",
+          "duration": "476",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Weltenwandler",
+          "url": "https://www.last.fm/music/Heretoir/_/Weltenwandler",
+          "duration": "689",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Herbstwind",
+          "url": "https://www.last.fm/music/Heretoir/_/Herbstwind",
+          "duration": "360",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Trümmerwelten",
+          "url": "https://www.last.fm/music/Heretoir/_/Tr%C3%BCmmerwelten",
+          "duration": "191",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Nihil",
+          "url": "https://www.last.fm/music/Heretoir/_/Nihil",
+          "duration": "203",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Aura",
+          "url": "https://www.last.fm/music/Heretoir/_/Aura",
+          "duration": "153",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Erwachen Im Dunkel",
+          "url": "https://www.last.fm/music/Heretoir/_/Erwachen+Im+Dunkel",
+          "duration": "376",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ein Schrey in die Nacht",
+          "url": "https://www.last.fm/music/Heretoir/_/Ein+Schrey+in+die+Nacht",
+          "duration": "411",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Verblasst",
+          "url": "https://www.last.fm/music/Heretoir/_/Verblasst",
+          "duration": "160",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Ausgeburt",
+          "url": "https://www.last.fm/music/Heretoir/_/Ausgeburt",
+          "duration": "476",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Herbstwind",
+          "url": "https://www.last.fm/music/Heretoir/_/Herbstwind",
+          "duration": "360",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        },
+        {
+          "name": "Snow Colours",
+          "url": "https://www.last.fm/music/Heretoir/_/Snow+Colours",
+          "duration": "277",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Heretoir",
+            "mbid": "bdc04329-8622-41e1-9aef-7e398905466a",
+            "url": "https://www.last.fm/music/Heretoir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Post-Black",
+          "url": "https://www.last.fm/tag/Post-Black"
+        },
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "blackgaze",
+          "url": "https://www.last.fm/tag/blackgaze"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:55:52.459Z"
+}

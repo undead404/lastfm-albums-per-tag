@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Prophétie hérétique",
+    "artist": "Akitsa",
+    "mbid": "39427c73-7708-3a32-992c-1971ffb511d8",
+    "url": "https://www.last.fm/music/Akitsa/Proph%C3%A9tie+h%C3%A9r%C3%A9tique",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c536f4eeaf1e31e98b68fbb2a38466b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "184",
+    "playcount": "1364",
+    "tracks": {
+      "track": [
+        {
+          "name": "L'union des cœurs noirs",
+          "url": "https://www.last.fm/music/Akitsa/_/L%27union+des+c%C5%93urs+noirs",
+          "duration": "126",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Prophétie Héritique",
+          "url": "https://www.last.fm/music/Akitsa/_/Proph%C3%A9tie+H%C3%A9ritique",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Goétie",
+          "url": "https://www.last.fm/music/Akitsa/_/Go%C3%A9tie",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:03:40.291Z"
+}

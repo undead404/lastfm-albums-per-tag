@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "DemoN",
+    "artist": "Endstille",
+    "mbid": "ebfe0706-0fe1-45a1-9be5-ec54e9ad5ffb",
+    "url": "https://www.last.fm/music/Endstille/DemoN",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/397cc2af40729d8e65cd7c0ace2c2edd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1539",
+    "playcount": "23500",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tired Sun",
+          "url": "https://www.last.fm/music/Endstille/_/Tired+Sun",
+          "duration": "99",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Endstille",
+            "mbid": "11a18071-0506-4d4e-b1a1-894825763f54",
+            "url": "https://www.last.fm/music/Endstille"
+          }
+        },
+        {
+          "name": "Sea Of Negativity",
+          "url": "https://www.last.fm/music/Endstille/_/Sea+Of+Negativity",
+          "duration": "212",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Endstille",
+            "mbid": "11a18071-0506-4d4e-b1a1-894825763f54",
+            "url": "https://www.last.fm/music/Endstille"
+          }
+        },
+        {
+          "name": "Chaos",
+          "url": "https://www.last.fm/music/Endstille/_/Chaos",
+          "duration": "255",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Endstille",
+            "mbid": "11a18071-0506-4d4e-b1a1-894825763f54",
+            "url": "https://www.last.fm/music/Endstille"
+          }
+        },
+        {
+          "name": "Realm Iv",
+          "url": "https://www.last.fm/music/Endstille/_/Realm+Iv",
+          "duration": "282",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Endstille",
+            "mbid": "11a18071-0506-4d4e-b1a1-894825763f54",
+            "url": "https://www.last.fm/music/Endstille"
+          }
+        },
+        {
+          "name": "Endstille",
+          "url": "https://www.last.fm/music/Endstille/_/Endstille",
+          "duration": "400",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Endstille",
+            "mbid": "11a18071-0506-4d4e-b1a1-894825763f54",
+            "url": "https://www.last.fm/music/Endstille"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:46:58.946Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Ready for Love",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Ready+for+Love",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd93dab18d2ea6a4aa31da83d19e3948.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3472",
+    "playcount": "9922",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ready for Love",
+          "url": "https://www.last.fm/music/Drama/_/Ready+for+Love",
+          "duration": "269",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:37.072Z"
+}

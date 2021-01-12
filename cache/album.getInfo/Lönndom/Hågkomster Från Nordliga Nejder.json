@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Hågkomster Från Nordliga Nejder",
+    "artist": "Lönndom",
+    "mbid": "13620800-a1df-404e-9f58-da6e43baba52",
+    "url": "https://www.last.fm/music/L%C3%B6nndom/H%C3%A5gkomster+Fr%C3%A5n+Nordliga+Nejder",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a8abaf8f0184ff8cfdd9fcada000eec.png",
+        "size": ""
+      }
+    ],
+    "listeners": "464",
+    "playcount": "3907",
+    "tracks": {
+      "track": [
+        {
+          "name": "Smell Mot Det Förmultnande",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Smell+Mot+Det+F%C3%B6rmultnande",
+          "duration": "434",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Omhuld Av De Underjordiska",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Omhuld+Av+De+Underjordiska",
+          "duration": "610",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:58:06.708Z"
+}

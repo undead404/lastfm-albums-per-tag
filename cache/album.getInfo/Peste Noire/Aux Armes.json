@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Aux Armes!",
+    "artist": "Peste Noire",
+    "url": "https://www.last.fm/music/Peste+Noire/Aux+Armes%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95a25966165e74f0efb7c97d27a87b91.png",
+        "size": ""
+      }
+    ],
+    "listeners": "151",
+    "playcount": "1080",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aux Armes!",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Aux+Armes%21",
+          "duration": "419",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:10.210Z"
+}

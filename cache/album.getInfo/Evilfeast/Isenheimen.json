@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Isenheimen",
+    "artist": "Evilfeast",
+    "url": "https://www.last.fm/music/Evilfeast/Isenheimen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/391de1ee5408096f47034b079040a666.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/391de1ee5408096f47034b079040a666.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/391de1ee5408096f47034b079040a666.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/391de1ee5408096f47034b079040a666.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/391de1ee5408096f47034b079040a666.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/391de1ee5408096f47034b079040a666.png",
+        "size": ""
+      }
+    ],
+    "listeners": "378",
+    "playcount": "4239",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dawn of Winter",
+          "url": "https://www.last.fm/music/Evilfeast/_/Dawn+of+Winter",
+          "duration": "375",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "Isenheimen",
+          "url": "https://www.last.fm/music/Evilfeast/_/Isenheimen",
+          "duration": "730",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "My Journey Into Cold Infinity",
+          "url": "https://www.last.fm/music/Evilfeast/_/My+Journey+Into+Cold+Infinity",
+          "duration": "602",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "The Ancient Order",
+          "url": "https://www.last.fm/music/Evilfeast/_/The+Ancient+Order",
+          "duration": "547",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:01:04.650Z"
+}

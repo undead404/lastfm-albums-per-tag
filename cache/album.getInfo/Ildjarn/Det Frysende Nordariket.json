@@ -1,0 +1,495 @@
+{
+  "album": {
+    "name": "Det Frysende Nordariket",
+    "artist": "Ildjarn",
+    "mbid": "97121812-0c5d-49ad-96e7-71c9e1b746e9",
+    "url": "https://www.last.fm/music/Ildjarn/Det+Frysende+Nordariket",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7906217c16a648a29c46dc28a6bed9a9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4249",
+    "playcount": "153586",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mørklagt Sti",
+          "url": "https://www.last.fm/music/Ildjarn/_/M%C3%B8rklagt+Sti",
+          "duration": "233",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Svarte hjerter",
+          "url": "https://www.last.fm/music/Ildjarn/_/Svarte+hjerter",
+          "duration": "143",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Nattens ledestjerne",
+          "url": "https://www.last.fm/music/Ildjarn/_/Nattens+ledestjerne",
+          "duration": "173",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Natt og Tåke",
+          "url": "https://www.last.fm/music/Ildjarn/_/Natt+og+T%C3%A5ke",
+          "duration": "202",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Innferd / Kronet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Innferd+%2F+Kronet",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Sola skjultes",
+          "url": "https://www.last.fm/music/Ildjarn/_/Sola+skjultes",
+          "duration": "237",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Ild",
+          "url": "https://www.last.fm/music/Ildjarn/_/Ild",
+          "duration": "158",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Fjerde dag",
+          "url": "https://www.last.fm/music/Ildjarn/_/Fjerde+dag",
+          "duration": "313",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Et glimt",
+          "url": "https://www.last.fm/music/Ildjarn/_/Et+glimt",
+          "duration": "102",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Støv og aske",
+          "url": "https://www.last.fm/music/Ildjarn/_/St%C3%B8v+og+aske",
+          "duration": "228",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Øde",
+          "url": "https://www.last.fm/music/Ildjarn/_/%C3%98de",
+          "duration": "251",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Utsyn, del 1",
+          "url": "https://www.last.fm/music/Ildjarn/_/Utsyn,+del+1",
+          "duration": "183",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Utsyn, del 2",
+          "url": "https://www.last.fm/music/Ildjarn/_/Utsyn,+del+2",
+          "duration": "181",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Utsyn, del 3",
+          "url": "https://www.last.fm/music/Ildjarn/_/Utsyn,+del+3",
+          "duration": "143",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Utsyn, del 4",
+          "url": "https://www.last.fm/music/Ildjarn/_/Utsyn,+del+4",
+          "duration": "115",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Utsyn, del 5",
+          "url": "https://www.last.fm/music/Ildjarn/_/Utsyn,+del+5",
+          "duration": "131",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Demring",
+          "url": "https://www.last.fm/music/Ildjarn/_/Demring",
+          "duration": "199",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 1",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+1",
+          "duration": "114",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 2",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+2",
+          "duration": "52",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 3",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+3",
+          "duration": "110",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 4",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+4",
+          "duration": "177",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 5",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+5",
+          "duration": "106",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord, del 6",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord,+del+6",
+          "duration": "160",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Myrkvar",
+          "url": "https://www.last.fm/music/Ildjarn/_/Myrkvar",
+          "duration": "128",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Dalens ånd (Avslutning)",
+          "url": "https://www.last.fm/music/Ildjarn/_/Dalens+%C3%A5nd+(Avslutning)",
+          "duration": "48",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Oct 2013, 21:17",
+      "summary": "Tracks taken from \"Norse\", \"Ildjarn\" & \"Minnesjord\" demos.\n\nThe first version of the digipack was released solely by Norse League Productions.\nThe digipack has a slight yellow colour-tone in the black-white cover.\n\nRe-released as digipak CD in 1997 in collaboration with Napalm Records.\nThis version has a pure black-white colour tone.\n\nEven though they appear as seperate songs on the back cover, Innferd and Kronet are parts of the same track!\nThe tracklists you see elsewhere on the internet ignoring this fact are false! <a href=\"http://www.last.fm/music/Ildjarn/Det+Frysende+Nordariket\">Read more on Last.fm</a>.",
+      "content": "Tracks taken from \"Norse\", \"Ildjarn\" & \"Minnesjord\" demos.\n\nThe first version of the digipack was released solely by Norse League Productions.\nThe digipack has a slight yellow colour-tone in the black-white cover.\n\nRe-released as digipak CD in 1997 in collaboration with Napalm Records.\nThis version has a pure black-white colour tone.\n\nEven though they appear as seperate songs on the back cover, Innferd and Kronet are parts of the same track!\nThe tracklists you see elsewhere on the internet ignoring this fact are false! <a href=\"http://www.last.fm/music/Ildjarn/Det+Frysende+Nordariket\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:00:54.049Z"
+}

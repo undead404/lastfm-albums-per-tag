@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Above",
+    "artist": "Samael",
+    "mbid": "2f09e5dd-4536-43f9-bdf6-6822e979e898",
+    "url": "https://www.last.fm/music/Samael/Above",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b877455f847d4805a68174655fedeaa0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b877455f847d4805a68174655fedeaa0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b877455f847d4805a68174655fedeaa0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b877455f847d4805a68174655fedeaa0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b877455f847d4805a68174655fedeaa0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b877455f847d4805a68174655fedeaa0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "22627",
+    "playcount": "594887",
+    "tracks": {
+      "track": [
+        {
+          "name": "Under One Flag",
+          "url": "https://www.last.fm/music/Samael/_/Under+One+Flag",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Virtual War",
+          "url": "https://www.last.fm/music/Samael/_/Virtual+War",
+          "duration": "244",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Polygames",
+          "url": "https://www.last.fm/music/Samael/_/Polygames",
+          "duration": "235",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Earth Country",
+          "url": "https://www.last.fm/music/Samael/_/Earth+Country",
+          "duration": "235",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Illumination",
+          "url": "https://www.last.fm/music/Samael/_/Illumination",
+          "duration": "210",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Black Hole",
+          "url": "https://www.last.fm/music/Samael/_/Black+Hole",
+          "duration": "216",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "In There",
+          "url": "https://www.last.fm/music/Samael/_/In+There",
+          "duration": "241",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Dark Side",
+          "url": "https://www.last.fm/music/Samael/_/Dark+Side",
+          "duration": "177",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "God's Snake",
+          "url": "https://www.last.fm/music/Samael/_/God%27s+Snake",
+          "duration": "247",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "On the Top of It All",
+          "url": "https://www.last.fm/music/Samael/_/On+the+Top+of+It+All",
+          "duration": "282",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Black Hole (Verso Mix)",
+          "url": "https://www.last.fm/music/Samael/_/Black+Hole+(Verso+Mix)",
+          "duration": "215",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:59:49.367Z"
+}

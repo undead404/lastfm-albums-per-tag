@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Gummo",
+    "artist": "Mystifier",
+    "url": "https://www.last.fm/music/Mystifier/Gummo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4928394cff60461eb4d6f192a016d2c2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "626",
+    "playcount": "1395",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:24:32.123Z"
+}

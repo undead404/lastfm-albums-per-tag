@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Eerily Howling Winds",
+    "artist": "Ancient",
+    "mbid": "8da0c04c-6e59-4e30-8c66-fcbe80c1950b",
+    "url": "https://www.last.fm/music/Ancient/Eerily+Howling+Winds",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d14fbff304624a14820a7a980dce6982.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d14fbff304624a14820a7a980dce6982.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d14fbff304624a14820a7a980dce6982.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d14fbff304624a14820a7a980dce6982.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d14fbff304624a14820a7a980dce6982.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d14fbff304624a14820a7a980dce6982.png",
+        "size": ""
+      }
+    ],
+    "listeners": "265",
+    "playcount": "1580",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eerily Howling Winds",
+          "url": "https://www.last.fm/music/Ancient/_/Eerily+Howling+Winds",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient",
+            "mbid": "e6ea52d9-cdc0-475c-b029-0d13dc0f64d6",
+            "url": "https://www.last.fm/music/Ancient"
+          }
+        },
+        {
+          "name": "Call Of The Absu Deep",
+          "url": "https://www.last.fm/music/Ancient/_/Call+Of+The+Absu+Deep",
+          "duration": "327",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient",
+            "mbid": "e6ea52d9-cdc0-475c-b029-0d13dc0f64d6",
+            "url": "https://www.last.fm/music/Ancient"
+          }
+        },
+        {
+          "name": "Det Glemte Riket",
+          "url": "https://www.last.fm/music/Ancient/_/Det+Glemte+Riket",
+          "duration": "419",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient",
+            "mbid": "e6ea52d9-cdc0-475c-b029-0d13dc0f64d6",
+            "url": "https://www.last.fm/music/Ancient"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:29:48.076Z"
+}

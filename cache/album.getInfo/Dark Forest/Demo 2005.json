@@ -1,0 +1,124 @@
+{
+  "album": {
+    "name": "Demo 2005",
+    "artist": "Dark Forest",
+    "url": "https://www.last.fm/music/Dark+Forest/Demo+2005",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/019dc7cb2c4b9a0c90985abff64c92c1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "313",
+    "playcount": "1395",
+    "tracks": {
+      "track": [
+        {
+          "name": "Warwinds",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Warwinds",
+          "duration": "129",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Under the Northern Fullmoon",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Under+the+Northern+Fullmoon",
+          "duration": "484",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Eternal Forest",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Eternal+Forest",
+          "duration": "459",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Among Silent Pine",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Among+Silent+Pine",
+          "duration": "284",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:19:56.469Z"
+}

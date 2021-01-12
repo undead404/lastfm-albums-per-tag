@@ -1,0 +1,261 @@
+{
+  "album": {
+    "name": "The 11 Year Anniversary Album",
+    "artist": "Arckanum",
+    "mbid": "ad81315d-a522-4800-b5e4-9b5c8ed6e7e2",
+    "url": "https://www.last.fm/music/Arckanum/The+11+Year+Anniversary+Album",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79d8c1f4e4d5409db782745281f33646.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79d8c1f4e4d5409db782745281f33646.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79d8c1f4e4d5409db782745281f33646.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79d8c1f4e4d5409db782745281f33646.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79d8c1f4e4d5409db782745281f33646.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79d8c1f4e4d5409db782745281f33646.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1144",
+    "playcount": "24807",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ty Mörkeret",
+          "url": "https://www.last.fm/music/Arckanum/_/Ty+M%C3%B6rkeret",
+          "duration": "138",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Martyrium Af Ondo",
+          "url": "https://www.last.fm/music/Arckanum/_/Martyrium+Af+Ondo",
+          "duration": "360",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "ængin oforhærra",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%A6ngin+oforh%C3%A6rra",
+          "duration": "343",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Svinna",
+          "url": "https://www.last.fm/music/Arckanum/_/Svinna",
+          "duration": "263",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Kolin Væruld",
+          "url": "https://www.last.fm/music/Arckanum/_/Kolin+V%C3%A6ruld",
+          "duration": "228",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Et Sorghetog",
+          "url": "https://www.last.fm/music/Arckanum/_/Et+Sorghetog",
+          "duration": "162",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Træet",
+          "url": "https://www.last.fm/music/Arckanum/_/Tr%C3%A6et",
+          "duration": "220",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "þæn vredhgadi svarti loghin",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%BE%C3%A6n+vredhgadi+svarti+loghin",
+          "duration": "369",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Kosmos Wardhin Dræpas Om Sin",
+          "url": "https://www.last.fm/music/Arckanum/_/Kosmos+Wardhin+Dr%C3%A6pas+Om+Sin",
+          "duration": "257",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Vm Kaos Gatvm ok Kosmos",
+          "url": "https://www.last.fm/music/Arckanum/_/Vm+Kaos+Gatvm+ok+Kosmos",
+          "duration": "360",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Bafomet",
+          "url": "https://www.last.fm/music/Arckanum/_/Bafomet",
+          "duration": "331",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Gava Fran Trulen",
+          "url": "https://www.last.fm/music/Arckanum/_/Gava+Fran+Trulen",
+          "duration": "376",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2004",
+          "url": "https://www.last.fm/tag/2004"
+        },
+        {
+          "name": "occult black metal",
+          "url": "https://www.last.fm/tag/occult+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:28:06.312Z"
+}

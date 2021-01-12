@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Silver Lanterns",
+    "artist": "Nachtmystium",
+    "url": "https://www.last.fm/music/Nachtmystium/Silver+Lanterns",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13e6a483f5ac2efee0c969fef3e35fb4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1971",
+    "playcount": "3730",
+    "tracks": {
+      "track": [
+        {
+          "name": "Silver Lanterns",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Silver+Lanterns",
+          "duration": "430",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:22:21.615Z"
+}

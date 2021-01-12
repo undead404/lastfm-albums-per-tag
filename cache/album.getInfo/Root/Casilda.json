@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "Casilda",
+    "artist": "Root",
+    "mbid": "f38a6cc1-adc1-41da-a34c-bc59058aa8d1",
+    "url": "https://www.last.fm/music/Root/Casilda",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2723e5fd724046428ccd3906a95799e8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2723e5fd724046428ccd3906a95799e8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2723e5fd724046428ccd3906a95799e8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2723e5fd724046428ccd3906a95799e8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2723e5fd724046428ccd3906a95799e8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2723e5fd724046428ccd3906a95799e8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "479",
+    "playcount": "2660",
+    "tracks": {
+      "track": [
+        {
+          "name": "Little Wing (Jimi Hendrix cover)",
+          "url": "https://www.last.fm/music/Root/_/Little+Wing+(Jimi+Hendrix+cover)",
+          "duration": "288",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Strawberry Fields Forever (Beatles cover)",
+          "url": "https://www.last.fm/music/Root/_/Strawberry+Fields+Forever+(Beatles+cover)",
+          "duration": "221",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Casilda's Song (Hyperion version)",
+          "url": "https://www.last.fm/music/Root/_/Casilda%27s+Song+(Hyperion+version)",
+          "duration": "308",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Casilda's Song (Illegal Orchestra version)",
+          "url": "https://www.last.fm/music/Root/_/Casilda%27s+Song+(Illegal+Orchestra+version)",
+          "duration": "345",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Human",
+          "url": "https://www.last.fm/music/Root/_/Human",
+          "duration": "516",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:42:01.810Z"
+}

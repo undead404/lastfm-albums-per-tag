@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Apocryphal Tales",
+    "artist": "Bal-Sagoth",
+    "url": "https://www.last.fm/music/Bal-Sagoth/Apocryphal+Tales",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44a2a8e161e84350c3c63420a2d53c82.png",
+        "size": ""
+      }
+    ],
+    "listeners": "59",
+    "playcount": "1277",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Intro",
+          "duration": "104",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "Dreaming of the Atlantean Spires",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Dreaming+of+the+Atlantean+Spires",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "By the Blaze of the Fire Jewels",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/By+the+Blaze+of+the+Fire+Jewels",
+          "duration": "304",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "A Shadow on the Mist",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/A+Shadow+on+the+Mist",
+          "duration": "325",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "Hyperborean Requiem",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Hyperborean+Requiem",
+          "duration": "31",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:27:44.477Z"
+}

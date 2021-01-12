@@ -1,0 +1,588 @@
+{
+  "album": {
+    "name": "Alicesoft sound Album Vol.10 戦国ランス",
+    "artist": "Shade",
+    "mbid": "b29b05a1-ef5c-4134-939a-3e8c9acc4fac",
+    "url": "https://www.last.fm/music/Shade/Alicesoft+sound+Album+Vol.10+%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0550f88e307c4cd2a73d71fd00e32a20.png",
+        "size": ""
+      }
+    ],
+    "listeners": "351",
+    "playcount": "35923",
+    "tracks": {
+      "track": [
+        {
+          "name": "Title",
+          "url": "https://www.last.fm/music/Shade/_/Title",
+          "duration": "82",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Sengoku Rance",
+          "url": "https://www.last.fm/music/Shade/_/Sengoku+Rance",
+          "duration": "171",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Turn Top",
+          "url": "https://www.last.fm/music/Shade/_/Turn+Top",
+          "duration": "39",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Sengoku World",
+          "url": "https://www.last.fm/music/Shade/_/Sengoku+World",
+          "duration": "151",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Burtal man's daily life",
+          "url": "https://www.last.fm/music/Shade/_/Burtal+man%27s+daily+life",
+          "duration": "119",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "In the piazza",
+          "url": "https://www.last.fm/music/Shade/_/In+the+piazza",
+          "duration": "170",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Gyorui Banzai!!",
+          "url": "https://www.last.fm/music/Shade/_/Gyorui+Banzai%21%21",
+          "duration": "146",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "A-i-ya-",
+          "url": "https://www.last.fm/music/Shade/_/A-i-ya-",
+          "duration": "72",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "My glourious days",
+          "url": "https://www.last.fm/music/Shade/_/My+glourious+days",
+          "duration": "189",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "My Glourious Days(v2)",
+          "url": "https://www.last.fm/music/Shade/_/My+Glourious+Days(v2)",
+          "duration": "103",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Advance On",
+          "url": "https://www.last.fm/music/Shade/_/Advance+On",
+          "duration": "165",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Drive back the enemy!",
+          "url": "https://www.last.fm/music/Shade/_/Drive+back+the+enemy%21",
+          "duration": "135",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Slapping Fight",
+          "url": "https://www.last.fm/music/Shade/_/Slapping+Fight",
+          "duration": "90",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Dungeon",
+          "url": "https://www.last.fm/music/Shade/_/Dungeon",
+          "duration": "93",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Unrest",
+          "url": "https://www.last.fm/music/Shade/_/Unrest",
+          "duration": "98",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Delayed Silence",
+          "url": "https://www.last.fm/music/Shade/_/Delayed+Silence",
+          "duration": "45",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Religion",
+          "url": "https://www.last.fm/music/Shade/_/Religion",
+          "duration": "76",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Dignity",
+          "url": "https://www.last.fm/music/Shade/_/Dignity",
+          "duration": "162",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Panic!!",
+          "url": "https://www.last.fm/music/Shade/_/Panic%21%21",
+          "duration": "63",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Soul Binder",
+          "url": "https://www.last.fm/music/Shade/_/Soul+Binder",
+          "duration": "56",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Sensitive atmosphere",
+          "url": "https://www.last.fm/music/Shade/_/Sensitive+atmosphere",
+          "duration": "114",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "A calmly wind",
+          "url": "https://www.last.fm/music/Shade/_/A+calmly+wind",
+          "duration": "166",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Lamentation",
+          "url": "https://www.last.fm/music/Shade/_/Lamentation",
+          "duration": "158",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Mars",
+          "url": "https://www.last.fm/music/Shade/_/Mars",
+          "duration": "160",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Sengoku World(v2)",
+          "url": "https://www.last.fm/music/Shade/_/Sengoku+World(v2)",
+          "duration": "179",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Advance On(v2)",
+          "url": "https://www.last.fm/music/Shade/_/Advance+On(v2)",
+          "duration": "160",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Ontlogy",
+          "url": "https://www.last.fm/music/Shade/_/Ontlogy",
+          "duration": "162",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Drivin' to the dead",
+          "url": "https://www.last.fm/music/Shade/_/Drivin%27+to+the+dead",
+          "duration": "151",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Rebirth the edge",
+          "url": "https://www.last.fm/music/Shade/_/Rebirth+the+edge",
+          "duration": "160",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "The terribler",
+          "url": "https://www.last.fm/music/Shade/_/The+terribler",
+          "duration": "127",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Ending",
+          "url": "https://www.last.fm/music/Shade/_/Ending",
+          "duration": "141",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        },
+        {
+          "name": "Theme of Sill -orgole-",
+          "url": "https://www.last.fm/music/Shade/_/Theme+of+Sill+-orgole-",
+          "duration": "77",
+          "@attr": {
+            "rank": "32"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shade",
+            "mbid": "e9f96a85-7b43-4e6d-b580-c2d188a082f8",
+            "url": "https://www.last.fm/music/Shade"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:56:34.208Z"
+}

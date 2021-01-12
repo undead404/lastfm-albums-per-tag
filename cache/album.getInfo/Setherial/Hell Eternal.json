@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Hell Eternal",
+    "artist": "Setherial",
+    "mbid": "cd46b54d-2223-4512-a15f-fe8660dc131e",
+    "url": "https://www.last.fm/music/Setherial/Hell+Eternal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c109e6839e7f44b3c4c62278979e68a8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4544",
+    "playcount": "80499",
+    "tracks": {
+      "track": [
+        {
+          "name": "Towards Thy Realm",
+          "url": "https://www.last.fm/music/Setherial/_/Towards+Thy+Realm",
+          "duration": "327",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "Shadows of the Throne",
+          "url": "https://www.last.fm/music/Setherial/_/Shadows+of+the+Throne",
+          "duration": "359",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "Hell Eternal",
+          "url": "https://www.last.fm/music/Setherial/_/Hell+Eternal",
+          "duration": "339",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "The Aeschma Deava",
+          "url": "https://www.last.fm/music/Setherial/_/The+Aeschma+Deava",
+          "duration": "439",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "The Sign of Wrath Awaked",
+          "url": "https://www.last.fm/music/Setherial/_/The+Sign+of+Wrath+Awaked",
+          "duration": "346",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "The Nightrealm",
+          "url": "https://www.last.fm/music/Setherial/_/The+Nightrealm",
+          "duration": "367",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "Guardians of the Gates of Flame",
+          "url": "https://www.last.fm/music/Setherial/_/Guardians+of+the+Gates+of+Flame",
+          "duration": "263",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "speed",
+          "url": "https://www.last.fm/tag/speed"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:39:23.806Z"
+}

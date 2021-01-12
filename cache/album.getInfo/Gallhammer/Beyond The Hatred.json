@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Beyond The Hatred",
+    "artist": "Gallhammer",
+    "mbid": "80933737-ff96-4ae7-b396-a2c3dab2aafc",
+    "url": "https://www.last.fm/music/Gallhammer/Beyond+The+Hatred",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77791aeead262c65336d769180b0628b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/77791aeead262c65336d769180b0628b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/77791aeead262c65336d769180b0628b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77791aeead262c65336d769180b0628b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77791aeead262c65336d769180b0628b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77791aeead262c65336d769180b0628b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1880",
+    "playcount": "9133",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "insane beautiful sunnyday slaughter",
+          "url": "https://www.last.fm/music/Gallhammer/_/insane+beautiful+sunnyday+slaughter",
+          "duration": "222",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "MAY OUR FATHER DIE",
+          "url": "https://www.last.fm/music/Gallhammer/_/MAY+OUR+FATHER+DIE",
+          "duration": "286",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Endless Nauseous Days",
+          "url": "https://www.last.fm/music/Gallhammer/_/Endless+Nauseous+Days",
+          "duration": "333",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "crust punk",
+          "url": "https://www.last.fm/tag/crust+punk"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:02:56.415Z"
+}

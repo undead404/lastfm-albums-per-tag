@@ -1,0 +1,286 @@
+{
+  "album": {
+    "name": "Manifest",
+    "artist": "Semargl",
+    "mbid": "d7b288ca-3d6f-4c2f-944d-be115fe1c3c0",
+    "url": "https://www.last.fm/music/Semargl/Manifest",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/75759372196b406795d3952e186cf923.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/75759372196b406795d3952e186cf923.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/75759372196b406795d3952e186cf923.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75759372196b406795d3952e186cf923.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75759372196b406795d3952e186cf923.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/75759372196b406795d3952e186cf923.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1867",
+    "playcount": "34040",
+    "tracks": {
+      "track": [
+        {
+          "name": "Disconnection",
+          "url": "https://www.last.fm/music/Semargl/_/Disconnection",
+          "duration": "450",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Provocateur",
+          "url": "https://www.last.fm/music/Semargl/_/Provocateur",
+          "duration": "347",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Holocaust 66,6%",
+          "url": "https://www.last.fm/music/Semargl/_/Holocaust+66,6%25",
+          "duration": "323",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Autokrateia",
+          "url": "https://www.last.fm/music/Semargl/_/Autokrateia",
+          "duration": "416",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "A Lesson \"S\"",
+          "url": "https://www.last.fm/music/Semargl/_/A+Lesson+%22S%22",
+          "duration": "217",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Schema",
+          "url": "https://www.last.fm/music/Semargl/_/Schema",
+          "duration": "305",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Selection",
+          "url": "https://www.last.fm/music/Semargl/_/Selection",
+          "duration": "362",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Discipline",
+          "url": "https://www.last.fm/music/Semargl/_/Discipline",
+          "duration": "377",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Decoding",
+          "url": "https://www.last.fm/music/Semargl/_/Decoding",
+          "duration": "201",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Triumphant",
+          "url": "https://www.last.fm/music/Semargl/_/Triumphant",
+          "duration": "384",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Regressus",
+          "url": "https://www.last.fm/music/Semargl/_/Regressus",
+          "duration": "137",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Plasma",
+          "url": "https://www.last.fm/music/Semargl/_/Plasma",
+          "duration": "468",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "The Manifest of War",
+          "url": "https://www.last.fm/music/Semargl/_/The+Manifest+of+War",
+          "duration": "321",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "black death metal",
+          "url": "https://www.last.fm/tag/black+death+metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:37:22.332Z"
+}

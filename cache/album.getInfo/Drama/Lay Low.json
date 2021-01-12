@@ -1,0 +1,375 @@
+{
+  "album": {
+    "name": "Lay Low",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Lay+Low",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b1b0b72f32dbf6f409d24ebc9d2418e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4361",
+    "playcount": "6526",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Drama/_/Intro",
+          "duration": "10",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Drama",
+          "url": "https://www.last.fm/music/Drama/_/Drama",
+          "duration": "209",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "B.C.",
+          "url": "https://www.last.fm/music/Drama/_/B.C.",
+          "duration": "253",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Bounce",
+          "url": "https://www.last.fm/music/Drama/_/Bounce",
+          "duration": "285",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "All I Want",
+          "url": "https://www.last.fm/music/Drama/_/All+I+Want",
+          "duration": "270",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Just Another Day",
+          "url": "https://www.last.fm/music/Drama/_/Just+Another+Day",
+          "duration": "245",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Black -n- Mild",
+          "url": "https://www.last.fm/music/Drama/_/Black+-n-+Mild",
+          "duration": "295",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Mr. Hennessy",
+          "url": "https://www.last.fm/music/Drama/_/Mr.+Hennessy",
+          "duration": "316",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "In Due, TIme",
+          "url": "https://www.last.fm/music/Drama/_/In+Due,+TIme",
+          "duration": "245",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "U Don't Know Me",
+          "url": "https://www.last.fm/music/Drama/_/U+Don%27t+Know+Me",
+          "duration": "246",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Shake It",
+          "url": "https://www.last.fm/music/Drama/_/Shake+It",
+          "duration": "280",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Alright",
+          "url": "https://www.last.fm/music/Drama/_/Alright",
+          "duration": "313",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Maintain",
+          "url": "https://www.last.fm/music/Drama/_/Maintain",
+          "duration": "287",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Ra-Interlude",
+          "url": "https://www.last.fm/music/Drama/_/Ra-Interlude",
+          "duration": "7",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Racquel",
+          "url": "https://www.last.fm/music/Drama/_/Racquel",
+          "duration": "247",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Tell Me If It's On",
+          "url": "https://www.last.fm/music/Drama/_/Tell+Me+If+It%27s+On",
+          "duration": "282",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Bonus Track 1",
+          "url": "https://www.last.fm/music/Drama/_/Bonus+Track+1",
+          "duration": "291",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Bonus Track 2",
+          "url": "https://www.last.fm/music/Drama/_/Bonus+Track+2",
+          "duration": "277",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Drama/_/Outro",
+          "duration": "128",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:39:35.512Z"
+}

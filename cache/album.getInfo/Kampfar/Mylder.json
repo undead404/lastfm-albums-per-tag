@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Mylder",
+    "artist": "Kampfar",
+    "mbid": "6ec0741c-d048-4a2c-957b-61288f21d1df",
+    "url": "https://www.last.fm/music/Kampfar/Mylder",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5c77b0666cfe4054c0684041bdf8bca4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "586",
+    "playcount": "1365",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mylder",
+          "url": "https://www.last.fm/music/Kampfar/_/Mylder",
+          "duration": "397",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:31:38.474Z"
+}

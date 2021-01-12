@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Kampen",
+    "artist": "Arckanum",
+    "mbid": "e2ef672f-fd26-4254-9cf8-c0668c4c690d",
+    "url": "https://www.last.fm/music/Arckanum/Kampen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ed3c156f7904e16cedddc38bf81b0b5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6988",
+    "playcount": "113928",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro / Kamps Tekn",
+          "url": "https://www.last.fm/music/Arckanum/_/Intro+%2F+Kamps+Tekn",
+          "duration": "627",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Frana / Tronan Yvir þusand Landskaps Mark",
+          "url": "https://www.last.fm/music/Arckanum/_/Frana+%2F+Tronan+Yvir+%C3%BEusand+Landskaps+Mark",
+          "duration": "676",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Pa Gruvstiigher Vandrum",
+          "url": "https://www.last.fm/music/Arckanum/_/Pa+Gruvstiigher+Vandrum",
+          "duration": "410",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Minir Natz Fughlir",
+          "url": "https://www.last.fm/music/Arckanum/_/Minir+Natz+Fughlir",
+          "duration": "398",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Trulfylket. Raþz Ok Os",
+          "url": "https://www.last.fm/music/Arckanum/_/Trulfylket.+Ra%C3%BEz+Ok+Os",
+          "duration": "538",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þe Hæmpndlystnir Fran Dimban",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Ee+H%C3%A6mpndlystnir+Fran+Dimban",
+          "duration": "255",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Nær Ok Fiær",
+          "url": "https://www.last.fm/music/Arckanum/_/N%C3%A6r+Ok+Fi%C3%A6r",
+          "duration": "239",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Skipu Vidit Dunkel",
+          "url": "https://www.last.fm/music/Arckanum/_/Skipu+Vidit+Dunkel",
+          "duration": "337",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þær Vindanir Dvælies / Sangin Kaos (Pt. 1)",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9E%C3%A6r+Vindanir+Dv%C3%A6lies+%2F+Sangin+Kaos+(Pt.+1)",
+          "duration": "608",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Sangin Kaos (Pt. 2)",
+          "url": "https://www.last.fm/music/Arckanum/_/Sangin+Kaos+(Pt.+2)",
+          "duration": "280",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "1998",
+          "url": "https://www.last.fm/tag/1998"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "best of 1998",
+          "url": "https://www.last.fm/tag/best+of+1998"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:27:58.289Z"
+}

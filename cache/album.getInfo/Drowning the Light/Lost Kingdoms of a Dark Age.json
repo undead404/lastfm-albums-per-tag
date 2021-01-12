@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Lost Kingdoms of a Dark Age",
+    "artist": "Drowning the Light",
+    "url": "https://www.last.fm/music/Drowning+the+Light/Lost+Kingdoms+of+a+Dark+Age",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/60e00e774c6246dec68a3042163ff886.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/60e00e774c6246dec68a3042163ff886.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/60e00e774c6246dec68a3042163ff886.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60e00e774c6246dec68a3042163ff886.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60e00e774c6246dec68a3042163ff886.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60e00e774c6246dec68a3042163ff886.png",
+        "size": ""
+      }
+    ],
+    "listeners": "369",
+    "playcount": "3811",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Old Ones Stir Again",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Old+Ones+Stir+Again",
+          "duration": "135",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Death Rides on the Wings of Flies",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Death+Rides+on+the+Wings+of+Flies",
+          "duration": "404",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Crypt of Necromancy (The Key still not found Part II)",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Crypt+of+Necromancy+(The+Key+still+not+found+Part+II)",
+          "duration": "374",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Lost Kingdoms of a Dark Age",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Lost+Kingdoms+of+a+Dark+Age",
+          "duration": "356",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:26:03.030Z"
+}

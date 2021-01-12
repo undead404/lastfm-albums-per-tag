@@ -1,0 +1,137 @@
+{
+  "album": {
+    "name": "Stigma: Pa kant med livet",
+    "artist": "Koldbrann",
+    "url": "https://www.last.fm/music/Koldbrann/Stigma:+Pa+kant+med+livet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/462996b43f7526af36889307e94f2ff3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/462996b43f7526af36889307e94f2ff3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/462996b43f7526af36889307e94f2ff3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/462996b43f7526af36889307e94f2ff3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/462996b43f7526af36889307e94f2ff3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/462996b43f7526af36889307e94f2ff3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4082",
+    "playcount": "25125",
+    "tracks": {
+      "track": [
+        {
+          "name": "Opium Fields Forever",
+          "url": "https://www.last.fm/music/Koldbrann/_/Opium+Fields+Forever",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Intifada",
+          "url": "https://www.last.fm/music/Koldbrann/_/Intifada",
+          "duration": "188",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Fredløs",
+          "url": "https://www.last.fm/music/Koldbrann/_/Fredl%C3%B8s",
+          "duration": "342",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Avmaktens Isolat",
+          "url": "https://www.last.fm/music/Koldbrann/_/Avmaktens+Isolat",
+          "duration": "429",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Bestial Lust (Bathory Cover)",
+          "url": "https://www.last.fm/music/Koldbrann/_/Bestial+Lust+(Bathory+Cover)",
+          "duration": "154",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:21:35.975Z"
+}

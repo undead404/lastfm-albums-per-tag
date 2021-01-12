@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Purest Blue",
+    "artist": "Trident",
+    "mbid": "6e995293-7686-4069-9c79-53669eab875b",
+    "url": "https://www.last.fm/music/Trident/Purest+Blue",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bac4b6b587832348a38f6bdce2de1eed.png",
+        "size": ""
+      }
+    ],
+    "listeners": "601",
+    "playcount": "34128",
+    "tracks": {
+      "track": [
+        {
+          "name": "ブルー・フィールド",
+          "url": "https://www.last.fm/music/Trident/_/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Starry Night",
+          "url": "https://www.last.fm/music/Trident/_/Starry+Night",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Be united",
+          "url": "https://www.last.fm/music/Trident/_/Be+united",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Words",
+          "url": "https://www.last.fm/music/Trident/_/Words",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Purest Blue",
+          "url": "https://www.last.fm/music/Trident/_/Purest+Blue",
+          "duration": "93",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Starlight",
+          "url": "https://www.last.fm/music/Trident/_/Starlight",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "My Admiral",
+          "url": "https://www.last.fm/music/Trident/_/My+Admiral",
+          "duration": "0",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Sweet Erorr",
+          "url": "https://www.last.fm/music/Trident/_/Sweet+Erorr",
+          "duration": "0",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Innocent Blue",
+          "url": "https://www.last.fm/music/Trident/_/Innocent+Blue",
+          "duration": "292",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Blue Sky",
+          "url": "https://www.last.fm/music/Trident/_/Blue+Sky",
+          "duration": "282",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "蒼き空の下で",
+          "url": "https://www.last.fm/music/Trident/_/%E8%92%BC%E3%81%8D%E7%A9%BA%E3%81%AE%E4%B8%8B%E3%81%A7",
+          "duration": "0",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "JPop",
+          "url": "https://www.last.fm/tag/JPop"
+        },
+        {
+          "name": "anime",
+          "url": "https://www.last.fm/tag/anime"
+        },
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:35:36.377Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Consensus",
+    "artist": "Schammasch",
+    "url": "https://www.last.fm/music/Schammasch/Consensus",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "189",
+    "playcount": "627",
+    "tracks": {
+      "track": [
+        {
+          "name": "Consensus",
+          "url": "https://www.last.fm/music/Schammasch/_/Consensus",
+          "duration": "500",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Schammasch",
+            "mbid": "8e255a78-a087-44ba-b861-3bf0eaaee62c",
+            "url": "https://www.last.fm/music/Schammasch"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:24:47.496Z"
+}

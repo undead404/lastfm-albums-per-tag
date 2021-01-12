@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "The Sleeping Gods",
+    "artist": "Enslaved",
+    "mbid": "d0610c80-c0b8-4172-8dcd-d3dcf223fd9a",
+    "url": "https://www.last.fm/music/Enslaved/The+Sleeping+Gods",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a01a9b92be5ae69434219aeac55ce29.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6405",
+    "playcount": "99476",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heimvegen",
+          "url": "https://www.last.fm/music/Enslaved/_/Heimvegen",
+          "duration": "338",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Alu Misyrki",
+          "url": "https://www.last.fm/music/Enslaved/_/Alu+Misyrki",
+          "duration": "302",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Synthesis",
+          "url": "https://www.last.fm/music/Enslaved/_/Synthesis",
+          "duration": "379",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "Nordlys",
+          "url": "https://www.last.fm/music/Enslaved/_/Nordlys",
+          "duration": "345",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        },
+        {
+          "name": "The Sleeping Gods",
+          "url": "https://www.last.fm/music/Enslaved/_/The+Sleeping+Gods",
+          "duration": "344",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "ep",
+          "url": "https://www.last.fm/tag/ep"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:56:32.011Z"
+}

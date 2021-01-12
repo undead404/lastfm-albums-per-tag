@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Endless Nauseous Days",
+    "artist": "Gallhammer",
+    "mbid": "79dc114a-2dfc-4d5a-9c55-b8940e6734e5",
+    "url": "https://www.last.fm/music/Gallhammer/Endless+Nauseous+Days",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/845ec3c44ffb4d37819d8f8115b40b17.png",
+        "size": ""
+      }
+    ],
+    "listeners": "114",
+    "playcount": "742",
+    "tracks": {
+      "track": [
+        {
+          "name": "Endless Nauseous Days",
+          "url": "https://www.last.fm/music/Gallhammer/_/Endless+Nauseous+Days",
+          "duration": "333",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "意識混濁 (live)",
+          "url": "https://www.last.fm/music/Gallhammer/_/%E6%84%8F%E8%AD%98%E6%B7%B7%E6%BF%81+(live)",
+          "duration": "172",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Insane Beautiful Sunnyday Slaughter (live)",
+          "url": "https://www.last.fm/music/Gallhammer/_/Insane+Beautiful+Sunnyday+Slaughter+(live)",
+          "duration": "228",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:03:03.466Z"
+}

@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Catalyst",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Catalyst",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/873b971421f444bbc4358cb2aa1b29ce.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8518",
+    "playcount": "54841",
+    "tracks": {
+      "track": [
+        {
+          "name": "Trip",
+          "url": "https://www.last.fm/music/Ethereal/_/Trip",
+          "duration": "236",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "I Know How To Get This Money",
+          "url": "https://www.last.fm/music/Ethereal/_/I+Know+How+To+Get+This+Money",
+          "duration": "240",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Do It All",
+          "url": "https://www.last.fm/music/Ethereal/_/Do+It+All",
+          "duration": "236",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Switch",
+          "url": "https://www.last.fm/music/Ethereal/_/Switch",
+          "duration": "311",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Fuckin' Hot Freestyle",
+          "url": "https://www.last.fm/music/Ethereal/_/Fuckin%27+Hot+Freestyle",
+          "duration": "254",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Pink",
+          "url": "https://www.last.fm/music/Ethereal/_/Pink",
+          "duration": "236",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "I'm Already Dead",
+          "url": "https://www.last.fm/music/Ethereal/_/I%27m+Already+Dead",
+          "duration": "199",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:32:45.256Z"
+}

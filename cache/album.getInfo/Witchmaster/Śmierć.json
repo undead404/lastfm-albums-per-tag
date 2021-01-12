@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Śmierć",
+    "artist": "Witchmaster",
+    "url": "https://www.last.fm/music/Witchmaster/%C5%9Amier%C4%87",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8822831eb60942a5972cd39378d37ab5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8822831eb60942a5972cd39378d37ab5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8822831eb60942a5972cd39378d37ab5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8822831eb60942a5972cd39378d37ab5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8822831eb60942a5972cd39378d37ab5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8822831eb60942a5972cd39378d37ab5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "89",
+    "playcount": "2520",
+    "tracks": {
+      "track": [
+        {
+          "name": "Death Rite",
+          "url": "https://www.last.fm/music/Witchmaster/_/Death+Rite",
+          "duration": "68",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Witchmaster",
+            "mbid": "70e23747-5443-4644-931a-b896c6fb4e43",
+            "url": "https://www.last.fm/music/Witchmaster"
+          }
+        },
+        {
+          "name": "Revelation of Satan",
+          "url": "https://www.last.fm/music/Witchmaster/_/Revelation+of+Satan",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Witchmaster",
+            "mbid": "70e23747-5443-4644-931a-b896c6fb4e43",
+            "url": "https://www.last.fm/music/Witchmaster"
+          }
+        },
+        {
+          "name": "Father Of Thousand Names",
+          "url": "https://www.last.fm/music/Witchmaster/_/Father+Of+Thousand+Names",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Witchmaster",
+            "mbid": "70e23747-5443-4644-931a-b896c6fb4e43",
+            "url": "https://www.last.fm/music/Witchmaster"
+          }
+        },
+        {
+          "name": "Show Me Your Fear",
+          "url": "https://www.last.fm/music/Witchmaster/_/Show+Me+Your+Fear",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Witchmaster",
+            "mbid": "70e23747-5443-4644-931a-b896c6fb4e43",
+            "url": "https://www.last.fm/music/Witchmaster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:35:55.417Z"
+}

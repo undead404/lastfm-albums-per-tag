@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Durch den Traum",
+    "artist": "Dornenreich",
+    "mbid": "c703c989-bf5e-41a1-8b23-854a10f4bba8",
+    "url": "https://www.last.fm/music/Dornenreich/Durch+den+Traum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64b1b558959a41efa1513a5228c35033.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64b1b558959a41efa1513a5228c35033.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64b1b558959a41efa1513a5228c35033.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64b1b558959a41efa1513a5228c35033.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64b1b558959a41efa1513a5228c35033.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64b1b558959a41efa1513a5228c35033.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8498",
+    "playcount": "247736",
+    "tracks": {
+      "track": [
+        {
+          "name": "Durch den Traum I",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+I",
+          "duration": "69",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch Den Traum II",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+Den+Traum+II",
+          "duration": "295",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum III",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+III",
+          "duration": "783",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum IV",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+IV",
+          "duration": "75",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum V",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+V",
+          "duration": "362",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum VI",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+VI",
+          "duration": "447",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum VII",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+VII",
+          "duration": "358",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Durch den Traum VIII",
+          "url": "https://www.last.fm/music/Dornenreich/_/Durch+den+Traum+VIII",
+          "duration": "316",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "Folk Black Metal",
+          "url": "https://www.last.fm/tag/Folk+Black+Metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:26:35.366Z"
+}

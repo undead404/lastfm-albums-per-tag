@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Dem Feind entgegen",
+    "artist": "Bilskirnir",
+    "mbid": "2edbafbc-274f-4bf1-80f4-542f33df6451",
+    "url": "https://www.last.fm/music/Bilskirnir/Dem+Feind+entgegen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89f7ba100414dc4ab5044d97e36ed3c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "562",
+    "playcount": "6299",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dem Feind Entgegen",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Dem+Feind+Entgegen",
+          "duration": "299",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Hunting At Night",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Hunting+At+Night",
+          "duration": "235",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Wir rufen Deine Wölfe",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Wir+rufen+Deine+W%C3%B6lfe",
+          "duration": "164",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Through The Occult Veil (Graveland Cover)",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Through+The+Occult+Veil+(Graveland+Cover)",
+          "duration": "222",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:19:05.784Z"
+}

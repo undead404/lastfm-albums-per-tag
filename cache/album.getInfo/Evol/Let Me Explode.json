@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Let Me Explode",
+    "artist": "Evol",
+    "url": "https://www.last.fm/music/Evol/Let+Me+Explode",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/050fd45e42c04f1684813c462821bdd1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/050fd45e42c04f1684813c462821bdd1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/050fd45e42c04f1684813c462821bdd1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/050fd45e42c04f1684813c462821bdd1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/050fd45e42c04f1684813c462821bdd1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/050fd45e42c04f1684813c462821bdd1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3917",
+    "playcount": "31919",
+    "tracks": {
+      "track": [
+        {
+          "name": "Let Me Explode",
+          "url": "https://www.last.fm/music/Evol/_/Let+Me+Explode",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "I'm sorry",
+          "url": "https://www.last.fm/music/Evol/_/I%27m+sorry",
+          "duration": "231",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Magnet",
+          "url": "https://www.last.fm/music/Evol/_/Magnet",
+          "duration": "212",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "We are a bit different",
+          "url": "https://www.last.fm/music/Evol/_/We+are+a+bit+different",
+          "duration": "219",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "1.2.3.4.5",
+          "url": "https://www.last.fm/music/Evol/_/1.2.3.4.5",
+          "duration": "235",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:02:02.456Z"
+}

@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Til Endes",
+    "artist": "Khold",
+    "mbid": "b1885796-3653-437e-9af0-b3b003f1ab09",
+    "url": "https://www.last.fm/music/Khold/Til+Endes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0a329bfb4224e66ce6b0b96261e0b8e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6630",
+    "playcount": "67471",
+    "tracks": {
+      "track": [
+        {
+          "name": "Myr",
+          "url": "https://www.last.fm/music/Khold/_/Myr",
+          "duration": "254",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Skogens Øye",
+          "url": "https://www.last.fm/music/Khold/_/Skogens+%C3%98ye",
+          "duration": "255",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Ravnestrupe",
+          "url": "https://www.last.fm/music/Khold/_/Ravnestrupe",
+          "duration": "265",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Dommens Armé",
+          "url": "https://www.last.fm/music/Khold/_/Dommens+Arm%C3%A9",
+          "duration": "203",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Til Endes",
+          "url": "https://www.last.fm/music/Khold/_/Til+Endes",
+          "duration": "227",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Det Dunkle Dyp",
+          "url": "https://www.last.fm/music/Khold/_/Det+Dunkle+Dyp",
+          "duration": "270",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Avund",
+          "url": "https://www.last.fm/music/Khold/_/Avund",
+          "duration": "209",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Hengitt",
+          "url": "https://www.last.fm/music/Khold/_/Hengitt",
+          "duration": "280",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Norway",
+          "url": "https://www.last.fm/tag/Norway"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:38:25.457Z"
+}

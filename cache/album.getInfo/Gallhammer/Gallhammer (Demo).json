@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Gallhammer (Demo)",
+    "artist": "Gallhammer",
+    "url": "https://www.last.fm/music/Gallhammer/Gallhammer+(Demo)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/244e4e8ec07844e4b1faea618e7ed41e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "208",
+    "playcount": "4011",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Crust",
+          "url": "https://www.last.fm/tag/Crust"
+        },
+        {
+          "name": "crust punk",
+          "url": "https://www.last.fm/tag/crust+punk"
+        },
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:01.948Z"
+}

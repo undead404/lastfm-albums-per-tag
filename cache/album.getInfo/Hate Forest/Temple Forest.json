@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Temple Forest",
+    "artist": "Hate Forest",
+    "mbid": "a7ab5446-77c7-4e0a-8e0b-a06e58cb7008",
+    "url": "https://www.last.fm/music/Hate+Forest/Temple+Forest",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b5eecd60025341a2ae3305727d640970.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b5eecd60025341a2ae3305727d640970.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b5eecd60025341a2ae3305727d640970.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5eecd60025341a2ae3305727d640970.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5eecd60025341a2ae3305727d640970.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5eecd60025341a2ae3305727d640970.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1131",
+    "playcount": "25114",
+    "tracks": {
+      "track": [
+        {
+          "name": "Majesty of the Approaching Forest",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Majesty+of+the+Approaching+Forest",
+          "duration": "243",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Snow Covers Faded Gold of Autumn",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Snow+Covers+Faded+Gold+of+Autumn",
+          "duration": "302",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "First Rays of the Rising Sun",
+          "url": "https://www.last.fm/music/Hate+Forest/_/First+Rays+of+the+Rising+Sun",
+          "duration": "230",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Moon",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Moon",
+          "duration": "273",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Spectral and Sad is thy Forest Dance",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Spectral+and+Sad+is+thy+Forest+Dance",
+          "duration": "205",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Cold Early Morning Mist",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Cold+Early+Morning+Mist",
+          "duration": "332",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Winterfall",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Winterfall",
+          "duration": "235",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Sunset and Twilight",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Sunset+and+Twilight",
+          "duration": "151",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "epic",
+          "url": "https://www.last.fm/tag/epic"
+        },
+        {
+          "name": "dungeon synth",
+          "url": "https://www.last.fm/tag/dungeon+synth"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:57.650Z"
+}

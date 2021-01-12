@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Verta, tulta ja kuolemaa",
+    "artist": "Havukruunu",
+    "url": "https://www.last.fm/music/Havukruunu/Verta,+tulta+ja+kuolemaa",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e80f141076f056499a3061a2c2a9eda.png",
+        "size": ""
+      }
+    ],
+    "listeners": "102",
+    "playcount": "473",
+    "tracks": {
+      "track": [
+        {
+          "name": "Verta, Tulta ja Kuolemaa",
+          "url": "https://www.last.fm/music/Havukruunu/_/Verta,+Tulta+ja+Kuolemaa",
+          "duration": "283",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Havukruunu",
+            "mbid": "7f297ac5-95ee-40f2-8854-1fc8117bd4f4",
+            "url": "https://www.last.fm/music/Havukruunu"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:57.539Z"
+}

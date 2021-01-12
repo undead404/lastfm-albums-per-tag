@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Ecosystem",
+    "artist": "Botanist",
+    "url": "https://www.last.fm/music/Botanist/Ecosystem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/265a3479d61ea0ca993448f4247d7fa7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1708",
+    "playcount": "15995",
+    "tracks": {
+      "track": [
+        {
+          "name": "Biomass",
+          "url": "https://www.last.fm/music/Botanist/_/Biomass",
+          "duration": "307",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Alluvial",
+          "url": "https://www.last.fm/music/Botanist/_/Alluvial",
+          "duration": "223",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Harvestman",
+          "url": "https://www.last.fm/music/Botanist/_/Harvestman",
+          "duration": "199",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Sphagnum",
+          "url": "https://www.last.fm/music/Botanist/_/Sphagnum",
+          "duration": "225",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Disturbance",
+          "url": "https://www.last.fm/music/Botanist/_/Disturbance",
+          "duration": "151",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Acclimation",
+          "url": "https://www.last.fm/music/Botanist/_/Acclimation",
+          "duration": "269",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Abiotic",
+          "url": "https://www.last.fm/music/Botanist/_/Abiotic",
+          "duration": "268",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Red Crown",
+          "url": "https://www.last.fm/music/Botanist/_/Red+Crown",
+          "duration": "374",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:00.021Z"
+}

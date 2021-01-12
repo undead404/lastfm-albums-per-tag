@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Aus Dem Vereißten Unterholz...",
+    "artist": "Aaskereia",
+    "url": "https://www.last.fm/music/Aaskereia/Aus+Dem+Verei%C3%9Ften+Unterholz...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5cf803b9a7ea47e1c790fa3a3d63d7b1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "36",
+    "playcount": "172",
+    "tracks": {
+      "track": [
+        {
+          "name": "Winternacht",
+          "url": "https://www.last.fm/music/Aaskereia/_/Winternacht",
+          "duration": "180",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Aus dem vereißten Unterholz verschneiter Wälder",
+          "url": "https://www.last.fm/music/Aaskereia/_/Aus+dem+verei%C3%9Ften+Unterholz+verschneiter+W%C3%A4lder",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        },
+        {
+          "name": "Dunkle Romantik",
+          "url": "https://www.last.fm/music/Aaskereia/_/Dunkle+Romantik",
+          "duration": "204",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aaskereia",
+            "mbid": "3b7a9c3a-b6f4-48f8-b036-e188ffb36752",
+            "url": "https://www.last.fm/music/Aaskereia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:26:38.717Z"
+}

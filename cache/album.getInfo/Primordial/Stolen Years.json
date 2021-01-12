@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Stolen Years",
+    "artist": "Primordial",
+    "url": "https://www.last.fm/music/Primordial/Stolen+Years",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ab1ee6df35746043357dd02902e7132.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ab1ee6df35746043357dd02902e7132.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ab1ee6df35746043357dd02902e7132.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ab1ee6df35746043357dd02902e7132.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ab1ee6df35746043357dd02902e7132.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ab1ee6df35746043357dd02902e7132.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2318",
+    "playcount": "6369",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stolen Years",
+          "url": "https://www.last.fm/music/Primordial/_/Stolen+Years",
+          "duration": "315",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:04:17.424Z"
+}

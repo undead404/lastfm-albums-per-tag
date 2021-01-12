@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Fatherland",
+    "artist": "Ancient Rites",
+    "mbid": "e87b4f0e-6d9b-4ac3-bfa8-d8352c812ad5",
+    "url": "https://www.last.fm/music/Ancient+Rites/Fatherland",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b42f4f2c4f29475db901e81ccbd0acd8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6229",
+    "playcount": "126503",
+    "tracks": {
+      "track": [
+        {
+          "name": "Avondland",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Avondland",
+          "duration": "85",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Mother Europe",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Mother+Europe",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Aris",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Aris",
+          "duration": "331",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Fatherland",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Fatherland",
+          "duration": "493",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Season's Change (Solstice)",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Season%27s+Change+(Solstice)",
+          "duration": "335",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "13th Of October 1307",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/13th+Of+October+1307",
+          "duration": "199",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Dying in a Moment of Splendour",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Dying+in+a+Moment+of+Splendour",
+          "duration": "437",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Rise and Fall (Anno Satana)",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Rise+and+Fall+(Anno+Satana)",
+          "duration": "297",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "The Seducer",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/The+Seducer",
+          "duration": "236",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Cain",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Cain",
+          "duration": "128",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:34:18.917Z"
+}

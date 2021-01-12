@@ -1,0 +1,241 @@
+{
+  "album": {
+    "name": "Marschmusik",
+    "artist": "Eisregen",
+    "url": "https://www.last.fm/music/Eisregen/Marschmusik",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/490198de49193b752a9cb13ea6a5ced8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2239",
+    "playcount": "40151",
+    "tracks": {
+      "track": [
+        {
+          "name": "Marschmusik",
+          "url": "https://www.last.fm/music/Eisregen/_/Marschmusik",
+          "duration": "390",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Blutkreis",
+          "url": "https://www.last.fm/music/Eisregen/_/Blutkreis",
+          "duration": "226",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Bunkertür",
+          "url": "https://www.last.fm/music/Eisregen/_/Bunkert%C3%BCr",
+          "duration": "224",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Leichensack",
+          "url": "https://www.last.fm/music/Eisregen/_/Leichensack",
+          "duration": "221",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Gott der Panzer",
+          "url": "https://www.last.fm/music/Eisregen/_/Gott+der+Panzer",
+          "duration": "327",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Adlerhorst",
+          "url": "https://www.last.fm/music/Eisregen/_/Adlerhorst",
+          "duration": "326",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Fleischbrand",
+          "url": "https://www.last.fm/music/Eisregen/_/Fleischbrand",
+          "duration": "329",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Mein Leben auf deiner Haut",
+          "url": "https://www.last.fm/music/Eisregen/_/Mein+Leben+auf+deiner+Haut",
+          "duration": "298",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Foltergeist",
+          "url": "https://www.last.fm/music/Eisregen/_/Foltergeist",
+          "duration": "222",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Was von dir bleibt",
+          "url": "https://www.last.fm/music/Eisregen/_/Was+von+dir+bleibt",
+          "duration": "274",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Panzerschokolade",
+          "url": "https://www.last.fm/music/Eisregen/_/Panzerschokolade",
+          "duration": "135",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:11:26.480Z"
+}

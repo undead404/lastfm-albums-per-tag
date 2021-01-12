@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Mammal",
+    "artist": "Altar of Plagues",
+    "mbid": "4f712aaa-e282-40d7-bc49-aff6a0ea36e7",
+    "url": "https://www.last.fm/music/Altar+of+Plagues/Mammal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0e6e08dade74caf8e46acbc90d2eb9f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "18811",
+    "playcount": "285413",
+    "tracks": {
+      "track": [
+        {
+          "name": "Neptune Is Dead",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Neptune+Is+Dead",
+          "duration": "1124",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "Feather & Bone",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Feather+&+Bone",
+          "duration": "703",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "When the Sun Drowns in the Ocean",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/When+the+Sun+Drowns+in+the+Ocean",
+          "duration": "498",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "All Life Converges to Some Centre",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/All+Life+Converges+to+Some+Centre",
+          "duration": "795",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "Post-Black Metal",
+          "url": "https://www.last.fm/tag/Post-Black+Metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:32:00.228Z"
+}

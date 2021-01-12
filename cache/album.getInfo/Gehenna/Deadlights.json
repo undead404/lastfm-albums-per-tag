@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Deadlights",
+    "artist": "Gehenna",
+    "mbid": "8d0c2bed-1cf5-499a-a9f4-acd1eaeccc5f",
+    "url": "https://www.last.fm/music/Gehenna/Deadlights",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09212ca4e3a4abb37ab1924c4dac3bdd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1659",
+    "playcount": "12516",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deadlights",
+          "url": "https://www.last.fm/music/Gehenna/_/Deadlights",
+          "duration": "338",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        },
+        {
+          "name": "In Mother's Tomb",
+          "url": "https://www.last.fm/music/Gehenna/_/In+Mother%27s+Tomb",
+          "duration": "370",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        },
+        {
+          "name": "Master Satan",
+          "url": "https://www.last.fm/music/Gehenna/_/Master+Satan",
+          "duration": "150",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gehenna",
+            "mbid": "50aaf1dc-2528-4d34-b4a1-262b9b959751",
+            "url": "https://www.last.fm/music/Gehenna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "1998",
+          "url": "https://www.last.fm/tag/1998"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:48:36.988Z"
+}

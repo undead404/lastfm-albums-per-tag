@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Death",
+    "artist": "Thy Serpent",
+    "mbid": "bca83a51-2a7b-4646-85fc-78c80402f12c",
+    "url": "https://www.last.fm/music/Thy+Serpent/Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df59d72c93e44250b29a0d9bf1423697.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2948",
+    "playcount": "44071",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deathbearer",
+          "url": "https://www.last.fm/music/Thy+Serpent/_/Deathbearer",
+          "duration": "263",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thy Serpent",
+            "mbid": "e2b37790-52dd-49af-baa1-bb0b8dd8eae8",
+            "url": "https://www.last.fm/music/Thy+Serpent"
+          }
+        },
+        {
+          "name": "Wounds of Death",
+          "url": "https://www.last.fm/music/Thy+Serpent/_/Wounds+of+Death",
+          "duration": "439",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thy Serpent",
+            "mbid": "e2b37790-52dd-49af-baa1-bb0b8dd8eae8",
+            "url": "https://www.last.fm/music/Thy+Serpent"
+          }
+        },
+        {
+          "name": "Sleep in Oblivion",
+          "url": "https://www.last.fm/music/Thy+Serpent/_/Sleep+in+Oblivion",
+          "duration": "333",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thy Serpent",
+            "mbid": "e2b37790-52dd-49af-baa1-bb0b8dd8eae8",
+            "url": "https://www.last.fm/music/Thy+Serpent"
+          }
+        },
+        {
+          "name": "Parasites",
+          "url": "https://www.last.fm/music/Thy+Serpent/_/Parasites",
+          "duration": "311",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thy Serpent",
+            "mbid": "e2b37790-52dd-49af-baa1-bb0b8dd8eae8",
+            "url": "https://www.last.fm/music/Thy+Serpent"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Awesome",
+          "url": "https://www.last.fm/tag/Awesome"
+        },
+        {
+          "name": "finnish",
+          "url": "https://www.last.fm/tag/finnish"
+        },
+        {
+          "name": "melodic black death metal",
+          "url": "https://www.last.fm/tag/melodic+black+death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:00:55.323Z"
+}

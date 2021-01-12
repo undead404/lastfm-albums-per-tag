@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Aeonics An Anthology",
+    "artist": "Samael",
+    "url": "https://www.last.fm/music/Samael/Aeonics+An+Anthology",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a0e59fb2cd4ffeafac72bfa8291384.png",
+        "size": ""
+      }
+    ],
+    "listeners": "546",
+    "playcount": "21271",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "alternative metal",
+          "url": "https://www.last.fm/tag/alternative+metal"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:13.014Z"
+}

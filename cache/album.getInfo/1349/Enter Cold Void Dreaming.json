@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Enter Cold Void Dreaming",
+    "artist": "1349",
+    "url": "https://www.last.fm/music/1349/Enter+Cold+Void+Dreaming",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1b475c1037a843700729329c740309c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1b475c1037a843700729329c740309c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1b475c1037a843700729329c740309c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1b475c1037a843700729329c740309c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1b475c1037a843700729329c740309c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1b475c1037a843700729329c740309c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1803",
+    "playcount": "3343",
+    "tracks": {
+      "track": [
+        {
+          "name": "Enter Cold Void Dreaming",
+          "url": "https://www.last.fm/music/1349/_/Enter+Cold+Void+Dreaming",
+          "duration": "238",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:12:29.212Z"
+}

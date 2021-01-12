@@ -1,0 +1,251 @@
+{
+  "album": {
+    "name": "Neuthrone",
+    "artist": "Crionics",
+    "url": "https://www.last.fm/music/Crionics/Neuthrone",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62fa463c493c4aafaf092dbcf33e1bec.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12137",
+    "playcount": "206380",
+    "tracks": {
+      "track": [
+        {
+          "name": "Introduction",
+          "url": "https://www.last.fm/music/Crionics/_/Introduction",
+          "duration": "79",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "New Pantheon",
+          "url": "https://www.last.fm/music/Crionics/_/New+Pantheon",
+          "duration": "216",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Arrival 2033",
+          "url": "https://www.last.fm/music/Crionics/_/Arrival+2033",
+          "duration": "190",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "NeuThronAeon",
+          "url": "https://www.last.fm/music/Crionics/_/NeuThronAeon",
+          "duration": "269",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Superiors",
+          "url": "https://www.last.fm/music/Crionics/_/Superiors",
+          "duration": "246",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Hell Earth",
+          "url": "https://www.last.fm/music/Crionics/_/Hell+Earth",
+          "duration": "177",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Humanmeat Cargo",
+          "url": "https://www.last.fm/music/Crionics/_/Humanmeat+Cargo",
+          "duration": "218",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Outer Empire",
+          "url": "https://www.last.fm/music/Crionics/_/Outer+Empire",
+          "duration": "297",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Frozen Hope",
+          "url": "https://www.last.fm/music/Crionics/_/Frozen+Hope",
+          "duration": "340",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "When The Sun Goes Out...",
+          "url": "https://www.last.fm/music/Crionics/_/When+The+Sun+Goes+Out...",
+          "duration": "292",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        },
+        {
+          "name": "Black Warriors",
+          "url": "https://www.last.fm/music/Crionics/_/Black+Warriors",
+          "duration": "292",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Crionics",
+            "mbid": "86f50588-e7aa-4d76-8785-ad8bb9b3c14a",
+            "url": "https://www.last.fm/music/Crionics"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death",
+          "url": "https://www.last.fm/tag/death"
+        },
+        {
+          "name": "black death metal",
+          "url": "https://www.last.fm/tag/black+death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:35:02.842Z"
+}

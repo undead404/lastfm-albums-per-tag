@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Legends",
+    "artist": "Dawn",
+    "url": "https://www.last.fm/music/Dawn/Legends",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88f9c0f9504c4e9b8be328bd6ff253fd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15093",
+    "playcount": "37191",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "billboard number ones",
+          "url": "https://www.last.fm/tag/billboard+number+ones"
+        },
+        {
+          "name": "60s",
+          "url": "https://www.last.fm/tag/60s"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "CHARLIES",
+          "url": "https://www.last.fm/tag/CHARLIES"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:39:53.238Z"
+}

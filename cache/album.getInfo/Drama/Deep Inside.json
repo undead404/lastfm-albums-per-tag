@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Deep Inside",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Deep+Inside",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41699c9ec50707949a192174e62a3cd4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41699c9ec50707949a192174e62a3cd4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41699c9ec50707949a192174e62a3cd4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41699c9ec50707949a192174e62a3cd4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41699c9ec50707949a192174e62a3cd4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41699c9ec50707949a192174e62a3cd4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2620",
+    "playcount": "7778",
+    "tracks": {
+      "track": [
+        {
+          "name": "Deep Inside",
+          "url": "https://www.last.fm/music/Drama/_/Deep+Inside",
+          "duration": "256",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Deep Inside",
+          "url": "https://www.last.fm/music/Drama/_/Deep+Inside",
+          "duration": "256",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:38.505Z"
+}

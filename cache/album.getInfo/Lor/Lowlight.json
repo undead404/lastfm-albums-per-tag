@@ -1,0 +1,303 @@
+{
+  "album": {
+    "name": "Lowlight",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Lowlight",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0dcb8ece59f3a2f9371cfa8a3d950d6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5028",
+    "playcount": "98230",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bonum",
+          "url": "https://www.last.fm/music/Lor/_/Bonum",
+          "duration": "220",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Windmill",
+          "url": "https://www.last.fm/music/Lor/_/Windmill",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Matches",
+          "url": "https://www.last.fm/music/Lor/_/Matches",
+          "duration": "195",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Cinnamon",
+          "url": "https://www.last.fm/music/Lor/_/Cinnamon",
+          "duration": "280",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "The King",
+          "url": "https://www.last.fm/music/Lor/_/The+King",
+          "duration": "212",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Christmas Morning: Busza's in the Garage",
+          "url": "https://www.last.fm/music/Lor/_/Christmas+Morning:+Busza%27s+in+the+Garage",
+          "duration": "196",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Aquarius",
+          "url": "https://www.last.fm/music/Lor/_/Aquarius",
+          "duration": "198",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Happy Birthday",
+          "url": "https://www.last.fm/music/Lor/_/Happy+Birthday",
+          "duration": "181",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Patty Boo",
+          "url": "https://www.last.fm/music/Lor/_/Patty+Boo",
+          "duration": "371",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Aberdeen",
+          "url": "https://www.last.fm/music/Lor/_/Aberdeen",
+          "duration": "233",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Keaton",
+          "url": "https://www.last.fm/music/Lor/_/Keaton",
+          "duration": "186",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Landscapes",
+          "url": "https://www.last.fm/music/Lor/_/Landscapes",
+          "duration": "178",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Ribbon",
+          "url": "https://www.last.fm/music/Lor/_/Ribbon",
+          "duration": "215",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "The Girl with the Flaxen Hair",
+          "url": "https://www.last.fm/music/Lor/_/The+Girl+with+the+Flaxen+Hair",
+          "duration": "202",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Machinarium",
+          "url": "https://www.last.fm/music/Lor/_/Machinarium",
+          "duration": "226",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:13:39.353Z"
+}

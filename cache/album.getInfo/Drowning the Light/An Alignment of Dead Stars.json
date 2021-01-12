@@ -1,0 +1,303 @@
+{
+  "album": {
+    "name": "An Alignment of Dead Stars",
+    "artist": "Drowning the Light",
+    "mbid": "740fc839-0048-463d-af89-a6c462fec01d",
+    "url": "https://www.last.fm/music/Drowning+the+Light/An+Alignment+of+Dead+Stars",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d63e4f79f7e84b416fc5f6801d6800c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4146",
+    "playcount": "126118",
+    "tracks": {
+      "track": [
+        {
+          "name": "Distant Autumn Rain",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Distant+Autumn+Rain",
+          "duration": "128",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "The Cult of Shadows",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Cult+of+Shadows",
+          "duration": "415",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "An Alignment of Dead Stars",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/An+Alignment+of+Dead+Stars",
+          "duration": "315",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "The Flame",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Flame",
+          "duration": "75",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Sound the Battle Horn",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Sound+the+Battle+Horn",
+          "duration": "348",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Drinking the Sacrament of Eternity (Revenge of the Impaler)",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Drinking+the+Sacrament+of+Eternity+(Revenge+of+the+Impaler)",
+          "duration": "362",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "A Call to Arms",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/A+Call+to+Arms",
+          "duration": "494",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Dragged to an Ocean Grave",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Dragged+to+an+Ocean+Grave",
+          "duration": "358",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Crippled Lies and a Fallen Prophet",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Crippled+Lies+and+a+Fallen+Prophet",
+          "duration": "193",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Gone...",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Gone...",
+          "duration": "299",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Drifting Away in a Sea of Sorrow",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Drifting+Away+in+a+Sea+of+Sorrow",
+          "duration": "112",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "In a Time of Honour",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/In+a+Time+of+Honour",
+          "duration": "485",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "VAMPYRE (The Broken Dirge of Aristocracy)",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/VAMPYRE+(The+Broken+Dirge+of+Aristocracy)",
+          "duration": "430",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Nocturne Batracien",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Nocturne+Batracien",
+          "duration": "126",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "australian black metal",
+          "url": "https://www.last.fm/tag/australian+black+metal"
+        },
+        {
+          "name": "Tour de Garde",
+          "url": "https://www.last.fm/tag/Tour+de+Garde"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:25:42.659Z"
+}

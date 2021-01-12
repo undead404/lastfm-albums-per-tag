@@ -1,0 +1,205 @@
+{
+  "album": {
+    "name": "Cerecloth",
+    "artist": "Naglfar",
+    "url": "https://www.last.fm/music/Naglfar/Cerecloth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99316229b2b04f86bb2680213211db6b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99316229b2b04f86bb2680213211db6b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99316229b2b04f86bb2680213211db6b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99316229b2b04f86bb2680213211db6b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99316229b2b04f86bb2680213211db6b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99316229b2b04f86bb2680213211db6b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9246",
+    "playcount": "80282",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cerecloth",
+          "url": "https://www.last.fm/music/Naglfar/_/Cerecloth",
+          "duration": "245",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Horns",
+          "url": "https://www.last.fm/music/Naglfar/_/Horns",
+          "duration": "278",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Like Poison for the Soul",
+          "url": "https://www.last.fm/music/Naglfar/_/Like+Poison+for+the+Soul",
+          "duration": "391",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Vortex of Negativity",
+          "url": "https://www.last.fm/music/Naglfar/_/Vortex+of+Negativity",
+          "duration": "302",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Cry of the Serafim",
+          "url": "https://www.last.fm/music/Naglfar/_/Cry+of+the+Serafim",
+          "duration": "265",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "The Dagger in Creation",
+          "url": "https://www.last.fm/music/Naglfar/_/The+Dagger+in+Creation",
+          "duration": "307",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "A Sanguine Tide Unleashed",
+          "url": "https://www.last.fm/music/Naglfar/_/A+Sanguine+Tide+Unleashed",
+          "duration": "234",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Necronaut",
+          "url": "https://www.last.fm/music/Naglfar/_/Necronaut",
+          "duration": "209",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Last Breath of Yggdrasil",
+          "url": "https://www.last.fm/music/Naglfar/_/Last+Breath+of+Yggdrasil",
+          "duration": "390",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:19:31.216Z"
+}

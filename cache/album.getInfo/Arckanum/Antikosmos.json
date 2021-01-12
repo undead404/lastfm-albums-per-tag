@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "Antikosmos",
+    "artist": "Arckanum",
+    "mbid": "b92965c2-049e-412b-9502-8192fd1cb5e2",
+    "url": "https://www.last.fm/music/Arckanum/Antikosmos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/920414096caf6985d6f694f3dda0f72b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/920414096caf6985d6f694f3dda0f72b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/920414096caf6985d6f694f3dda0f72b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/920414096caf6985d6f694f3dda0f72b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/920414096caf6985d6f694f3dda0f72b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/920414096caf6985d6f694f3dda0f72b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8255",
+    "playcount": "201009",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svarti",
+          "url": "https://www.last.fm/music/Arckanum/_/Svarti",
+          "duration": "364",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Dauðmellin",
+          "url": "https://www.last.fm/music/Arckanum/_/Dau%C3%B0mellin",
+          "duration": "274",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Røkulfargnýr",
+          "url": "https://www.last.fm/music/Arckanum/_/R%C3%B8kulfargn%C3%BDr",
+          "duration": "305",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Blóta Loka",
+          "url": "https://www.last.fm/music/Arckanum/_/Bl%C3%B3ta+Loka",
+          "duration": "313",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Nákjeptir",
+          "url": "https://www.last.fm/music/Arckanum/_/N%C3%A1kjeptir",
+          "duration": "247",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Eksortna",
+          "url": "https://www.last.fm/music/Arckanum/_/Eksortna",
+          "duration": "88",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Sú Vitran",
+          "url": "https://www.last.fm/music/Arckanum/_/S%C3%BA+Vitran",
+          "duration": "385",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Formála",
+          "url": "https://www.last.fm/music/Arckanum/_/Form%C3%A1la",
+          "duration": "246",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2008",
+          "url": "https://www.last.fm/tag/2008"
+        },
+        {
+          "name": "anti-cosmic",
+          "url": "https://www.last.fm/tag/anti-cosmic"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "best of 2008",
+          "url": "https://www.last.fm/tag/best+of+2008"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Oct 2016, 09:36",
+      "summary": "Recorded at Sunlight Studio and mastered at Necromorbus Studio.\n\nFeatures Set Teitan on guitar and vocals. <a href=\"http://www.last.fm/music/Arckanum/Antikosmos\">Read more on Last.fm</a>.",
+      "content": "Recorded at Sunlight Studio and mastered at Necromorbus Studio.\n\nFeatures Set Teitan on guitar and vocals. <a href=\"http://www.last.fm/music/Arckanum/Antikosmos\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:27:57.633Z"
+}

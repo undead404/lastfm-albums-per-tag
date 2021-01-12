@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Frozen in trenches (Christmas truce)",
+    "artist": "1914",
+    "url": "https://www.last.fm/music/1914/Frozen+in+trenches+(Christmas+truce)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc6e0fac9b4e7a4653947ee21215cb21.png",
+        "size": ""
+      }
+    ],
+    "listeners": "26",
+    "playcount": "51",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frozen in trenches (Christmas truce)",
+          "url": "https://www.last.fm/music/1914/_/Frozen+in+trenches+(Christmas+truce)",
+          "duration": "354",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:33.180Z"
+}

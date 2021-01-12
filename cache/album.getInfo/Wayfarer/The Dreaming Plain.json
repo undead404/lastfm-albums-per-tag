@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Dreaming Plain",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/The+Dreaming+Plain",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "136",
+    "playcount": "278",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Dreaming Plain",
+          "url": "https://www.last.fm/music/Wayfarer/_/The+Dreaming+Plain",
+          "duration": "652",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:51:55.426Z"
+}

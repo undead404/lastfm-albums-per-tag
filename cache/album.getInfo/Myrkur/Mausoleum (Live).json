@@ -1,0 +1,217 @@
+{
+  "album": {
+    "name": "Mausoleum (Live)",
+    "artist": "Myrkur",
+    "url": "https://www.last.fm/music/Myrkur/Mausoleum+(Live)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/505111386626daa2515e781af4be0e83.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/505111386626daa2515e781af4be0e83.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/505111386626daa2515e781af4be0e83.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/505111386626daa2515e781af4be0e83.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/505111386626daa2515e781af4be0e83.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/505111386626daa2515e781af4be0e83.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10715",
+    "playcount": "131530",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vølvens Spådom",
+          "url": "https://www.last.fm/music/Myrkur/_/V%C3%B8lvens+Sp%C3%A5dom",
+          "duration": "97",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Jeg er Guden, I er Tjenerne",
+          "url": "https://www.last.fm/music/Myrkur/_/Jeg+er+Guden,+I+er+Tjenerne",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Skøgen Skulle Dø",
+          "url": "https://www.last.fm/music/Myrkur/_/Sk%C3%B8gen+Skulle+D%C3%B8",
+          "duration": "200",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Byssan lull (Live)",
+          "url": "https://www.last.fm/music/Myrkur/_/Byssan+lull+(Live)",
+          "duration": "159",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Den Lille Piges Død",
+          "url": "https://www.last.fm/music/Myrkur/_/Den+Lille+Piges+D%C3%B8d",
+          "duration": "241",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Frosne vind (Live)",
+          "url": "https://www.last.fm/music/Myrkur/_/Frosne+vind+(Live)",
+          "duration": "110",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Onde Børn (Live)",
+          "url": "https://www.last.fm/music/Myrkur/_/Onde+B%C3%B8rn+(Live)",
+          "duration": "240",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Song To Hall Up High (Live)",
+          "url": "https://www.last.fm/music/Myrkur/_/Song+To+Hall+Up+High+(Live)",
+          "duration": "175",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Dybt i skoven (Live)",
+          "url": "https://www.last.fm/music/Myrkur/_/Dybt+i+skoven+(Live)",
+          "duration": "227",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "choral",
+          "url": "https://www.last.fm/tag/choral"
+        },
+        {
+          "name": "dark folk",
+          "url": "https://www.last.fm/tag/dark+folk"
+        },
+        {
+          "name": "dubstep",
+          "url": "https://www.last.fm/tag/dubstep"
+        },
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "chamber",
+          "url": "https://www.last.fm/tag/chamber"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:51.318Z"
+}

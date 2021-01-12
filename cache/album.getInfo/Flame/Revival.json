@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Revival",
+    "artist": "Flame",
+    "url": "https://www.last.fm/music/Flame/Revival",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b159c5b882b0cd84bdbb6bda291bbef2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "463",
+    "playcount": "2562",
+    "tracks": {
+      "track": [
+        {
+          "name": "Revival (feat. PARADE)",
+          "url": "https://www.last.fm/music/Flame/_/Revival+(feat.+PARADE)",
+          "duration": "240",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Whole 9",
+          "url": "https://www.last.fm/music/Flame/_/Whole+9",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "#Escrow",
+          "url": "https://www.last.fm/music/Flame/_/%23Escrow",
+          "duration": "206",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "BulletProof",
+          "url": "https://www.last.fm/music/Flame/_/BulletProof",
+          "duration": "234",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Amputees",
+          "url": "https://www.last.fm/music/Flame/_/Amputees",
+          "duration": "255",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Don't Fear (feat. V. Rose)",
+          "url": "https://www.last.fm/music/Flame/_/Don%27t+Fear+(feat.+V.+Rose)",
+          "duration": "189",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:37.419Z"
+}

@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Ellem",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Ellem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b35ba3316b6840919b6109bff623f57f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b35ba3316b6840919b6109bff623f57f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b35ba3316b6840919b6109bff623f57f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35ba3316b6840919b6109bff623f57f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35ba3316b6840919b6109bff623f57f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b35ba3316b6840919b6109bff623f57f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "334",
+    "playcount": "2006",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:47.710Z"
+}

@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Okkult",
+    "artist": "Barathrum",
+    "mbid": "840d8fb6-41fd-4dc5-b2d2-72b47fccbef9",
+    "url": "https://www.last.fm/music/Barathrum/Okkult",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2b88b9503b7e0e64c236e0e5bfe4a2e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5571",
+    "playcount": "120692",
+    "tracks": {
+      "track": [
+        {
+          "name": "Magic in Atmosphere",
+          "url": "https://www.last.fm/music/Barathrum/_/Magic+in+Atmosphere",
+          "duration": "80",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "The Darkness Has Landed",
+          "url": "https://www.last.fm/music/Barathrum/_/The+Darkness+Has+Landed",
+          "duration": "159",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Bride of Lucifer",
+          "url": "https://www.last.fm/music/Barathrum/_/Bride+of+Lucifer",
+          "duration": "247",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Virgin Blood Spiller",
+          "url": "https://www.last.fm/music/Barathrum/_/Virgin+Blood+Spiller",
+          "duration": "229",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Halfheart",
+          "url": "https://www.last.fm/music/Barathrum/_/Halfheart",
+          "duration": "232",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "I Am Very Possessed",
+          "url": "https://www.last.fm/music/Barathrum/_/I+Am+Very+Possessed",
+          "duration": "286",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Land of Tears",
+          "url": "https://www.last.fm/music/Barathrum/_/Land+of+Tears",
+          "duration": "220",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Whores of Hades",
+          "url": "https://www.last.fm/music/Barathrum/_/Whores+of+Hades",
+          "duration": "289",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Devilish Sign",
+          "url": "https://www.last.fm/music/Barathrum/_/Devilish+Sign",
+          "duration": "190",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        },
+        {
+          "name": "Fatal Bite",
+          "url": "https://www.last.fm/music/Barathrum/_/Fatal+Bite",
+          "duration": "269",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Barathrum",
+            "mbid": "d7f473aa-ab4e-405f-bc90-c35fc30bbbe1",
+            "url": "https://www.last.fm/music/Barathrum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "real metal",
+          "url": "https://www.last.fm/tag/real+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2000",
+          "url": "https://www.last.fm/tag/2000"
+        },
+        {
+          "name": "finland",
+          "url": "https://www.last.fm/tag/finland"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:19:58.867Z"
+}

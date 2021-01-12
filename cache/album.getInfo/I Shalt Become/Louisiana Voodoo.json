@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Louisiana Voodoo",
+    "artist": "I Shalt Become",
+    "mbid": "d8a19a07-10fb-4ada-80c9-8a2e484f9f02",
+    "url": "https://www.last.fm/music/I+Shalt+Become/Louisiana+Voodoo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0a0360c50cd94bb6b042400b64bd0cb9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "474",
+    "playcount": "9928",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lust",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Lust",
+          "duration": "401",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Strangers",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Strangers",
+          "duration": "187",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Total Perspective Vortex",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Total+Perspective+Vortex",
+          "duration": "430",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Louisiana Voodoo",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Louisiana+Voodoo",
+          "duration": "284",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Drowning",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Drowning",
+          "duration": "191",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Rain",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Rain",
+          "duration": "213",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Riot",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Riot",
+          "duration": "235",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Braquemard",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Braquemard",
+          "duration": "197",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Brief Glimpses Of Death",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Brief+Glimpses+Of+Death",
+          "duration": "300",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Rats In The Walls",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Rats+In+The+Walls",
+          "duration": "1139",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:15:22.422Z"
+}

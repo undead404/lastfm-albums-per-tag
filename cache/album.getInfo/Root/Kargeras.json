@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Kargeras",
+    "artist": "Root",
+    "url": "https://www.last.fm/music/Root/Kargeras",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d83a8914f5e4e77859ad5a55155db8c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "738",
+    "playcount": "14545",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lykorian",
+          "url": "https://www.last.fm/music/Root/_/Lykorian",
+          "duration": "228",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Kargeras (Prologue)",
+          "url": "https://www.last.fm/music/Root/_/Kargeras+(Prologue)",
+          "duration": "70",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Kärgeräs",
+          "url": "https://www.last.fm/music/Root/_/K%C3%A4rger%C3%A4s",
+          "duration": "262",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Prophet's Song",
+          "url": "https://www.last.fm/music/Root/_/Prophet%27s+Song",
+          "duration": "260",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Rulbräh",
+          "url": "https://www.last.fm/music/Root/_/Rulbr%C3%A4h",
+          "duration": "257",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Rodäxx",
+          "url": "https://www.last.fm/music/Root/_/Rod%C3%A4xx",
+          "duration": "462",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Old Man",
+          "url": "https://www.last.fm/music/Root/_/Old+Man",
+          "duration": "252",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Old Woman",
+          "url": "https://www.last.fm/music/Root/_/Old+Woman",
+          "duration": "268",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Equirhodont - Grandios Magus",
+          "url": "https://www.last.fm/music/Root/_/Equirhodont+-+Grandios+Magus",
+          "duration": "316",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Dygon - Monstrosity",
+          "url": "https://www.last.fm/music/Root/_/Dygon+-+Monstrosity",
+          "duration": "243",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Trygan - Sexton",
+          "url": "https://www.last.fm/music/Root/_/Trygan+-+Sexton",
+          "duration": "365",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Dum Vivimus Vivamus",
+          "url": "https://www.last.fm/music/Root/_/Dum+Vivimus+Vivamus",
+          "duration": "105",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Bonus (Demos)",
+          "url": "https://www.last.fm/music/Root/_/Bonus+(Demos)",
+          "duration": "684",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:42:00.801Z"
+}

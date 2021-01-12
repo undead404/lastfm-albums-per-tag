@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Domination Harmony",
+    "artist": "A Pregnant Light",
+    "url": "https://www.last.fm/music/A+Pregnant+Light/Domination+Harmony",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cea026ea00c4776b8ed050ba8ea4d96.png",
+        "size": ""
+      }
+    ],
+    "listeners": "354",
+    "playcount": "3889",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heat Helps These Flowers Grow",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Heat+Helps+These+Flowers+Grow",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Lives In Hole, No Friends",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Lives+In+Hole,+No+Friends",
+          "duration": "184",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "The Pregnant Life",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/The+Pregnant+Life",
+          "duration": "460",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:50:16.884Z"
+}

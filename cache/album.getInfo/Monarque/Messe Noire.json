@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Messe Noire",
+    "artist": "Monarque",
+    "mbid": "518217d6-c9c7-4d00-9f95-82e212e5edf0",
+    "url": "https://www.last.fm/music/Monarque/Messe+Noire",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd9e67f3d1174685a2e35a82f305e9ad.png",
+        "size": ""
+      }
+    ],
+    "listeners": "317",
+    "playcount": "4548",
+    "tracks": {
+      "track": [
+        {
+          "name": "L'Abysse Aux Charognes (Live)",
+          "url": "https://www.last.fm/music/Monarque/_/L%27Abysse+Aux+Charognes+(Live)",
+          "duration": "302",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Vent Du Nord (Live)",
+          "url": "https://www.last.fm/music/Monarque/_/Vent+Du+Nord+(Live)",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Mes Blessures (Live)",
+          "url": "https://www.last.fm/music/Monarque/_/Mes+Blessures+(Live)",
+          "duration": "370",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Le Revenant (Live)",
+          "url": "https://www.last.fm/music/Monarque/_/Le+Revenant+(Live)",
+          "duration": "244",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Vermines",
+          "url": "https://www.last.fm/music/Monarque/_/Vermines",
+          "duration": "355",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:12.053Z"
+}

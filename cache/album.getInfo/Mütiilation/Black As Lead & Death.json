@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Black As Lead & Death",
+    "artist": "Mütiilation",
+    "mbid": "81afb45e-c0a9-46fd-aa41-5c5d66580dcc",
+    "url": "https://www.last.fm/music/M%C3%BCtiilation/Black+As+Lead+&+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31a4405491711ddb803f0242b94e3552.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31a4405491711ddb803f0242b94e3552.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31a4405491711ddb803f0242b94e3552.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31a4405491711ddb803f0242b94e3552.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31a4405491711ddb803f0242b94e3552.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31a4405491711ddb803f0242b94e3552.png",
+        "size": ""
+      }
+    ],
+    "listeners": "190",
+    "playcount": "725",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Eggs of Melancholy",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/The+Eggs+of+Melancholy",
+          "duration": "320",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Black as Lead and Death",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Black+as+Lead+and+Death",
+          "duration": "322",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:06:10.541Z"
+}

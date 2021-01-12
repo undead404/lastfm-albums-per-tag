@@ -1,0 +1,217 @@
+{
+  "album": {
+    "name": "Mystery Of Life",
+    "artist": "Ascension",
+    "url": "https://www.last.fm/music/Ascension/Mystery+Of+Life",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e602fffdb772a87dbafe8ea785a1c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "275",
+    "playcount": "960",
+    "tracks": {
+      "track": [
+        {
+          "name": "On The Wings Of An Angel",
+          "url": "https://www.last.fm/music/Ascension/_/On+The+Wings+Of+An+Angel",
+          "duration": "276",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Mystery Of Life",
+          "url": "https://www.last.fm/music/Ascension/_/Mystery+Of+Life",
+          "duration": "223",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Beauty in All Things",
+          "url": "https://www.last.fm/music/Ascension/_/Beauty+in+All+Things",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Tongues Of Fire",
+          "url": "https://www.last.fm/music/Ascension/_/Tongues+Of+Fire",
+          "duration": "236",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "You Can Move A Mountain",
+          "url": "https://www.last.fm/music/Ascension/_/You+Can+Move+A+Mountain",
+          "duration": "263",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Love Is the Power",
+          "url": "https://www.last.fm/music/Ascension/_/Love+Is+the+Power",
+          "duration": "259",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "One Golden Sun",
+          "url": "https://www.last.fm/music/Ascension/_/One+Golden+Sun",
+          "duration": "247",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "A Leaf On The Breath Of God",
+          "url": "https://www.last.fm/music/Ascension/_/A+Leaf+On+The+Breath+Of+God",
+          "duration": "203",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "A Sacred Place",
+          "url": "https://www.last.fm/music/Ascension/_/A+Sacred+Place",
+          "duration": "244",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "downtempo",
+          "url": "https://www.last.fm/tag/downtempo"
+        },
+        {
+          "name": "new age",
+          "url": "https://www.last.fm/tag/new+age"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:33:31.871Z"
+}

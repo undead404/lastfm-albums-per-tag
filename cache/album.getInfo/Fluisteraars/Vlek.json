@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Vlek",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/Vlek",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bd6035f9cd4bf02a2b21a728249b6a2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "810",
+    "playcount": "3259",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vlek",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Vlek",
+          "duration": "422",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:16.374Z"
+}

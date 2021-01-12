@@ -1,0 +1,148 @@
+{
+  "album": {
+    "name": "Gaerea",
+    "artist": "GAEREA",
+    "url": "https://www.last.fm/music/GAEREA/Gaerea",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9911bf5ec0b29f8a0a7d36a43660d111.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1348",
+    "playcount": "15151",
+    "tracks": {
+      "track": [
+        {
+          "name": "Santificato",
+          "url": "https://www.last.fm/music/GAEREA/_/Santificato",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Final Call",
+          "url": "https://www.last.fm/music/GAEREA/_/Final+Call",
+          "duration": "385",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Pray To Your False God",
+          "url": "https://www.last.fm/music/GAEREA/_/Pray+To+Your+False+God",
+          "duration": "350",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Through Time",
+          "url": "https://www.last.fm/music/GAEREA/_/Through+Time",
+          "duration": "391",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Void Of Numbness",
+          "url": "https://www.last.fm/music/GAEREA/_/Void+Of+Numbness",
+          "duration": "309",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Endless Lapse",
+          "url": "https://www.last.fm/music/GAEREA/_/Endless+Lapse",
+          "duration": "329",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "8.00/10.00",
+          "url": "https://www.last.fm/tag/8.00%2F10.00"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:29:59.656Z"
+}

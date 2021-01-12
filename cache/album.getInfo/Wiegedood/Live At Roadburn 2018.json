@@ -1,0 +1,139 @@
+{
+  "album": {
+    "name": "Live At Roadburn 2018",
+    "artist": "Wiegedood",
+    "url": "https://www.last.fm/music/Wiegedood/Live+At+Roadburn+2018",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76b4805f1270f79203a7f02eb9364a1e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "96",
+    "playcount": "1240",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svanesang",
+          "url": "https://www.last.fm/music/Wiegedood/_/Svanesang",
+          "duration": "780",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        },
+        {
+          "name": "Ontzieling",
+          "url": "https://www.last.fm/music/Wiegedood/_/Ontzieling",
+          "duration": "452",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        },
+        {
+          "name": "De Doden Hebben Het Goed III",
+          "url": "https://www.last.fm/music/Wiegedood/_/De+Doden+Hebben+Het+Goed+III",
+          "duration": "734",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        },
+        {
+          "name": "Onder Gaan",
+          "url": "https://www.last.fm/music/Wiegedood/_/Onder+Gaan",
+          "duration": "690",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        },
+        {
+          "name": "Cataract",
+          "url": "https://www.last.fm/music/Wiegedood/_/Cataract",
+          "duration": "670",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        },
+        {
+          "name": "Parool",
+          "url": "https://www.last.fm/music/Wiegedood/_/Parool",
+          "duration": "414",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wiegedood",
+            "url": "https://www.last.fm/music/Wiegedood"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:17:12.813Z"
+}

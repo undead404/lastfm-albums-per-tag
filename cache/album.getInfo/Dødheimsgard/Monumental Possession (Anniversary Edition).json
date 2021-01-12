@@ -1,0 +1,307 @@
+{
+  "album": {
+    "name": "Monumental Possession (Anniversary Edition)",
+    "artist": "Dødheimsgard",
+    "url": "https://www.last.fm/music/D%C3%B8dheimsgard/Monumental+Possession+(Anniversary+Edition)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d9fa1fa38e2ecb887a65dff8c4db9a3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "870",
+    "playcount": "7976",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Intro",
+          "duration": "59",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Utopia Running Scarlet",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Utopia+Running+Scarlet",
+          "duration": "203",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "The Crystal Specter",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/The+Crystal+Specter",
+          "duration": "230",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Bluebell Heart",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Bluebell+Heart",
+          "duration": "256",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Monumental Possession",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Monumental+Possession",
+          "duration": "344",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Fluency",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Fluency",
+          "duration": "217",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Angel Death",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Angel+Death",
+          "duration": "234",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Lost In Faces",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Lost+In+Faces",
+          "duration": "296",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "The Ultimate Reflection",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/The+Ultimate+Reflection",
+          "duration": "363",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Fluency (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Fluency+(Live+-+Rehearsal+1995)",
+          "duration": "214",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Angel Death (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Angel+Death+(Live+-+Rehearsal+1995)",
+          "duration": "241",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Unearthed (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Unearthed+(Live+-+Rehearsal+1995)",
+          "duration": "254",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Utopia Running Scarlet (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Utopia+Running+Scarlet+(Live+-+Rehearsal+1995)",
+          "duration": "233",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Lost in Faces (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Lost+in+Faces+(Live+-+Rehearsal+1995)",
+          "duration": "320",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "The Crystal Specter (Live - Rehearsal 1995)",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/The+Crystal+Specter+(Live+-+Rehearsal+1995)",
+          "duration": "166",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:47:31.355Z"
+}

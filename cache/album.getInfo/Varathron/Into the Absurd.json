@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Into the Absurd",
+    "artist": "Varathron",
+    "url": "https://www.last.fm/music/Varathron/Into+the+Absurd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfcb85aa0bb05bd4cf8fc8637a68c5d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "123",
+    "playcount": "240",
+    "tracks": {
+      "track": [
+        {
+          "name": "Into the Absurd",
+          "url": "https://www.last.fm/music/Varathron/_/Into+the+Absurd",
+          "duration": "236",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:09.080Z"
+}

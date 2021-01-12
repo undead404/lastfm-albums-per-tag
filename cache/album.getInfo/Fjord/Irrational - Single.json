@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Irrational - Single",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Irrational+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "15",
+    "playcount": "41",
+    "tracks": {
+      "track": [
+        {
+          "name": "Irrational",
+          "url": "https://www.last.fm/music/Fjord/_/Irrational",
+          "duration": "216",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:01.406Z"
+}

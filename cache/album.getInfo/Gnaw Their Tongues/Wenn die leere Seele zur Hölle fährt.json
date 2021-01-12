@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "Wenn die leere Seele zur Hölle fährt",
+    "artist": "Gnaw Their Tongues",
+    "url": "https://www.last.fm/music/Gnaw+Their+Tongues/Wenn+die+leere+Seele+zur+H%C3%B6lle+f%C3%A4hrt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11b7cf48c26d7d48110a9506d217b7b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "157",
+    "playcount": "1008",
+    "tracks": {
+      "track": [
+        {
+          "name": "De Sleur Van De Dood",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/De+Sleur+Van+De+Dood",
+          "duration": "340",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Wenn Die Leere Seele Zur Hölle Fährt",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Wenn+Die+Leere+Seele+Zur+H%C3%B6lle+F%C3%A4hrt",
+          "duration": "303",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Thieves with Swollen Tongues",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Thieves+with+Swollen+Tongues",
+          "duration": "256",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "death",
+          "url": "https://www.last.fm/tag/death"
+        },
+        {
+          "name": "netherlands",
+          "url": "https://www.last.fm/tag/netherlands"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:51:02.436Z"
+}

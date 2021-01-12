@@ -1,0 +1,75 @@
+{
+  "album": {
+    "name": "Cesta podzemnými sálami Kovovlada",
+    "artist": "Malokarpatan",
+    "url": "https://www.last.fm/music/Malokarpatan/Cesta+podzemn%C3%BDmi+s%C3%A1lami+Kovovlada",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6041df04d8675a6290b40466413667a3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6041df04d8675a6290b40466413667a3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6041df04d8675a6290b40466413667a3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6041df04d8675a6290b40466413667a3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6041df04d8675a6290b40466413667a3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6041df04d8675a6290b40466413667a3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "259",
+    "playcount": "1384",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cesta podzemnými sálami Kovovlada I",
+          "url": "https://www.last.fm/music/Malokarpatan/_/Cesta+podzemn%C3%BDmi+s%C3%A1lami+Kovovlada+I",
+          "duration": "287",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Malokarpatan",
+            "url": "https://www.last.fm/music/Malokarpatan"
+          }
+        },
+        {
+          "name": "Cesta podzemnými sálami Kovovlada II",
+          "url": "https://www.last.fm/music/Malokarpatan/_/Cesta+podzemn%C3%BDmi+s%C3%A1lami+Kovovlada+II",
+          "duration": "344",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Malokarpatan",
+            "url": "https://www.last.fm/music/Malokarpatan"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:33:22.557Z"
+}

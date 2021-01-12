@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "I Met An Angel (On Christmas Day)",
+    "artist": "Auryn",
+    "mbid": "558f9a6f-c979-4425-b36c-d874468393c4",
+    "url": "https://www.last.fm/music/Auryn/I+Met+An+Angel+(On+Christmas+Day)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7ec58981eb34c9f98d47439dd51bbd4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "68",
+    "playcount": "175",
+    "tracks": {
+      "track": [
+        {
+          "name": "I met an Angel - On Christmas Day",
+          "url": "https://www.last.fm/music/Auryn/_/I+met+an+Angel+-+On+Christmas+Day",
+          "duration": "193",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:33.327Z"
+}

@@ -1,0 +1,273 @@
+{
+  "album": {
+    "name": "Slow Forever",
+    "artist": "Cobalt",
+    "url": "https://www.last.fm/music/Cobalt/Slow+Forever",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/074ef8d4925358222a535e9139cb00b0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/074ef8d4925358222a535e9139cb00b0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/074ef8d4925358222a535e9139cb00b0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/074ef8d4925358222a535e9139cb00b0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/074ef8d4925358222a535e9139cb00b0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/074ef8d4925358222a535e9139cb00b0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15262",
+    "playcount": "229712",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hunt The Buffalo",
+          "url": "https://www.last.fm/music/Cobalt/_/Hunt+The+Buffalo",
+          "duration": "528",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Animal Law",
+          "url": "https://www.last.fm/music/Cobalt/_/Animal+Law",
+          "duration": "127",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Ruiner",
+          "url": "https://www.last.fm/music/Cobalt/_/Ruiner",
+          "duration": "393",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Beast Whip",
+          "url": "https://www.last.fm/music/Cobalt/_/Beast+Whip",
+          "duration": "553",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "King Rust",
+          "url": "https://www.last.fm/music/Cobalt/_/King+Rust",
+          "duration": "674",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Breath",
+          "url": "https://www.last.fm/music/Cobalt/_/Breath",
+          "duration": "145",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Cold Breaker",
+          "url": "https://www.last.fm/music/Cobalt/_/Cold+Breaker",
+          "duration": "404",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Elephant Graveyard",
+          "url": "https://www.last.fm/music/Cobalt/_/Elephant+Graveyard",
+          "duration": "471",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Final Will",
+          "url": "https://www.last.fm/music/Cobalt/_/Final+Will",
+          "duration": "676",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Iconoclast",
+          "url": "https://www.last.fm/music/Cobalt/_/Iconoclast",
+          "duration": "150",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Slow Forever",
+          "url": "https://www.last.fm/music/Cobalt/_/Slow+Forever",
+          "duration": "575",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Siege",
+          "url": "https://www.last.fm/music/Cobalt/_/Siege",
+          "duration": "338",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "slow",
+          "url": "https://www.last.fm/tag/slow"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 May 2016, 23:56",
+      "summary": "Fourth full-length album of the Greeley, Colorado-based black metal band Cobalt. It is their first album since the departure of Phil McSorley and the addition of Charlie Fell. Recorded, mixed and mastered at Flatline Audio, Denver, June-September 2015.\n\nTrack listing:\n\nCD 1: Slow\n1. Hunt the Buffalo - 8:48\n2. Animal Law - 2:08\n3. Ruiner - 6:33\n4. Beast Whip - 9:14\n5. King Rust - 11:15\n6. Breath - 2:25\n7. Cold Breaker - 6:45\n\nCD 2: Forever\n1. Elephant Graveyard - 7:52 <a href=\"http://www.last.fm/music/Cobalt/Slow+Forever\">Read more on Last.fm</a>.",
+      "content": "Fourth full-length album of the Greeley, Colorado-based black metal band Cobalt. It is their first album since the departure of Phil McSorley and the addition of Charlie Fell. Recorded, mixed and mastered at Flatline Audio, Denver, June-September 2015.\n\nTrack listing:\n\nCD 1: Slow\n1. Hunt the Buffalo - 8:48\n2. Animal Law - 2:08\n3. Ruiner - 6:33\n4. Beast Whip - 9:14\n5. King Rust - 11:15\n6. Breath - 2:25\n7. Cold Breaker - 6:45\n\nCD 2: Forever\n1. Elephant Graveyard - 7:52\n2. Final Will - 11:16\n3. Iconoclast - 2:31\n4. Slow Forever - 9:36\n5. Siege - 5:38\n\nTotal length: 84:00\n\nThe 2LP edition omits \"Siege\", which is evidently considered a bonus track, from the running order. Tracks 1-3 of disc 1 are on side A; tracks 4-5 of disc 1 are on side B; tracks 6-7 of disc 1 and track 1 of disc 2 are on side C; and tracks 2-4 of disc 2 are on side D. The vinyl edition runs for 78:22. <a href=\"http://www.last.fm/music/Cobalt/Slow+Forever\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:20:31.199Z"
+}

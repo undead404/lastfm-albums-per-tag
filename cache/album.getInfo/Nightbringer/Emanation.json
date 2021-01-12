@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Emanation",
+    "artist": "Nightbringer",
+    "mbid": "d7a41aee-cdf6-471b-b639-9915d925385f",
+    "url": "https://www.last.fm/music/Nightbringer/Emanation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f80f6525cb78f48ec2e4588f2860f038.png",
+        "size": ""
+      }
+    ],
+    "listeners": "452",
+    "playcount": "6064",
+    "tracks": {
+      "track": [
+        {
+          "name": "Oblivion's Descent",
+          "url": "https://www.last.fm/music/Nightbringer/_/Oblivion%27s+Descent",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Scorn Of The Enlightened",
+          "url": "https://www.last.fm/music/Nightbringer/_/Scorn+Of+The+Enlightened",
+          "duration": "480",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Womb Of Nyx",
+          "url": "https://www.last.fm/music/Nightbringer/_/Womb+Of+Nyx",
+          "duration": "447",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Feast Of The Manes",
+          "url": "https://www.last.fm/music/Nightbringer/_/Feast+Of+The+Manes",
+          "duration": "415",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Throat Of Ouroboros",
+          "url": "https://www.last.fm/music/Nightbringer/_/Throat+Of+Ouroboros",
+          "duration": "620",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "The Nascent Gates Of Twilight And Dawn",
+          "url": "https://www.last.fm/music/Nightbringer/_/The+Nascent+Gates+Of+Twilight+And+Dawn",
+          "duration": "432",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:35:51.996Z"
+}

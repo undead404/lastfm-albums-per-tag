@@ -1,0 +1,90 @@
+{
+  "album": {
+    "name": "Hägringar",
+    "artist": "Grift",
+    "url": "https://www.last.fm/music/Grift/H%C3%A4gringar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03704af5989e7a3d2ecf9429bed21b34.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3091",
+    "playcount": "10896",
+    "tracks": {
+      "track": [
+        {
+          "name": "Källan",
+          "url": "https://www.last.fm/music/Grift/_/K%C3%A4llan",
+          "duration": "550",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Cirkeln",
+          "url": "https://www.last.fm/music/Grift/_/Cirkeln",
+          "duration": "548",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:07:50.358Z"
+}

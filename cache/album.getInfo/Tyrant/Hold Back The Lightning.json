@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Hold Back The Lightning",
+    "artist": "Tyrant",
+    "url": "https://www.last.fm/music/Tyrant/Hold+Back+The+Lightning",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40fea63610726efb303536cc62f9d440.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40fea63610726efb303536cc62f9d440.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40fea63610726efb303536cc62f9d440.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40fea63610726efb303536cc62f9d440.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40fea63610726efb303536cc62f9d440.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40fea63610726efb303536cc62f9d440.png",
+        "size": ""
+      }
+    ],
+    "listeners": "42",
+    "playcount": "475",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hold Back the Lightning",
+          "url": "https://www.last.fm/music/Tyrant/_/Hold+Back+the+Lightning",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        },
+        {
+          "name": "Eyes of a Stranger",
+          "url": "https://www.last.fm/music/Tyrant/_/Eyes+of+a+Stranger",
+          "duration": "238",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tyrant",
+            "mbid": "e2dc46c1-138f-4ae9-97d4-eb793c07a900",
+            "url": "https://www.last.fm/music/Tyrant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:09:52.984Z"
+}

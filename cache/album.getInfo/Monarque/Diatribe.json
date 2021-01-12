@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Diatribe",
+    "artist": "Monarque",
+    "url": "https://www.last.fm/music/Monarque/Diatribe",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0abbbecc62275e19c165e4b0505994f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17",
+    "playcount": "58",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nous, Prophetes De I'Interdit",
+          "url": "https://www.last.fm/music/Monarque/_/Nous,+Prophetes+De+I%27Interdit",
+          "duration": "81",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Eloge De La Malveillance (Gloire Au Chaos)",
+          "url": "https://www.last.fm/music/Monarque/_/Eloge+De+La+Malveillance+(Gloire+Au+Chaos)",
+          "duration": "500",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        },
+        {
+          "name": "Anti: Un Portail Funeste (Anti-Humain)",
+          "url": "https://www.last.fm/music/Monarque/_/Anti:+Un+Portail+Funeste+(Anti-Humain)",
+          "duration": "540",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Monarque",
+            "mbid": "9d6b37f9-3a5c-4316-947c-eaa94d30212f",
+            "url": "https://www.last.fm/music/Monarque"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:33.423Z"
+}

@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Thy Abhorrent Emerging",
+    "artist": "Evilfeast",
+    "mbid": "2dfd18b6-e3a4-42d0-bc33-a6bf87cb22a4",
+    "url": "https://www.last.fm/music/Evilfeast/Thy+Abhorrent+Emerging",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ca38f541a3b441efb5d9e14655052143.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ca38f541a3b441efb5d9e14655052143.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ca38f541a3b441efb5d9e14655052143.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca38f541a3b441efb5d9e14655052143.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca38f541a3b441efb5d9e14655052143.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca38f541a3b441efb5d9e14655052143.png",
+        "size": ""
+      }
+    ],
+    "listeners": "404",
+    "playcount": "4849",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inner Dark Spheres",
+          "url": "https://www.last.fm/music/Evilfeast/_/Inner+Dark+Spheres",
+          "duration": "634",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "Moribund Chanting",
+          "url": "https://www.last.fm/music/Evilfeast/_/Moribund+Chanting",
+          "duration": "496",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "Entering the Forest of Old Wisdom",
+          "url": "https://www.last.fm/music/Evilfeast/_/Entering+the+Forest+of+Old+Wisdom",
+          "duration": "1042",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:04.178Z"
+}

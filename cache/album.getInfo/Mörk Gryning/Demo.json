@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Mörk Gryning",
+    "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/Demo",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "54",
+    "playcount": "339",
+    "tracks": {
+      "track": [
+        {
+          "name": "When Moonshine is the only Light",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/When+Moonshine+is+the+only+Light",
+          "duration": "284",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:15:06.461Z"
+}

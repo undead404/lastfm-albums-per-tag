@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Magia gwiezdnej entropii",
+    "artist": "Plaga",
+    "mbid": "a4f90cfa-3a41-450d-99bc-0c2f412c73f5",
+    "url": "https://www.last.fm/music/Plaga/Magia+gwiezdnej+entropii",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0727cf8a24a0de534374df4b605684dd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0727cf8a24a0de534374df4b605684dd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0727cf8a24a0de534374df4b605684dd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0727cf8a24a0de534374df4b605684dd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0727cf8a24a0de534374df4b605684dd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0727cf8a24a0de534374df4b605684dd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6624",
+    "playcount": "211364",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro: Left Hand Prayers",
+          "url": "https://www.last.fm/music/Plaga/_/Intro:+Left+Hand+Prayers",
+          "duration": "104",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Trąby zagłady, część II",
+          "url": "https://www.last.fm/music/Plaga/_/Tr%C4%85by+zag%C5%82ady,+cz%C4%99%C5%9B%C4%87+II",
+          "duration": "452",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Śmierć Cieplna Wszechświata",
+          "url": "https://www.last.fm/music/Plaga/_/%C5%9Amier%C4%87+Cieplna+Wszech%C5%9Bwiata",
+          "duration": "641",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Slaying The Spiritless Abel",
+          "url": "https://www.last.fm/music/Plaga/_/Slaying+The+Spiritless+Abel",
+          "duration": "468",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Magia Gwiezdnej Entropii",
+          "url": "https://www.last.fm/music/Plaga/_/Magia+Gwiezdnej+Entropii",
+          "duration": "458",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        },
+        {
+          "name": "polish black metal",
+          "url": "https://www.last.fm/tag/polish+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:19:51.156Z"
+}

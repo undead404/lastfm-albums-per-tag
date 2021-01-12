@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "ii",
+    "artist": "Bosse-de-Nage",
+    "mbid": "55fd547e-3bf1-4174-b19b-b49f148b5d83",
+    "url": "https://www.last.fm/music/Bosse-de-Nage/ii",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c861a8a1dfdf4c7a8afdd9ba28ae735d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3209",
+    "playcount": "37719",
+    "tracks": {
+      "track": [
+        {
+          "name": "Volume II Chapter I",
+          "url": "https://www.last.fm/music/Bosse-de-Nage/_/Volume+II+Chapter+I",
+          "duration": "490",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bosse-de-Nage",
+            "mbid": "8d6dc9d4-3b11-49a1-aa2b-9430615642c2",
+            "url": "https://www.last.fm/music/Bosse-de-Nage"
+          }
+        },
+        {
+          "name": "Marie in a Cage",
+          "url": "https://www.last.fm/music/Bosse-de-Nage/_/Marie+in+a+Cage",
+          "duration": "455",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bosse-de-Nage",
+            "mbid": "8d6dc9d4-3b11-49a1-aa2b-9430615642c2",
+            "url": "https://www.last.fm/music/Bosse-de-Nage"
+          }
+        },
+        {
+          "name": "The Lampless Hours",
+          "url": "https://www.last.fm/music/Bosse-de-Nage/_/The+Lampless+Hours",
+          "duration": "359",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bosse-de-Nage",
+            "mbid": "8d6dc9d4-3b11-49a1-aa2b-9430615642c2",
+            "url": "https://www.last.fm/music/Bosse-de-Nage"
+          }
+        },
+        {
+          "name": "The Death Posture",
+          "url": "https://www.last.fm/music/Bosse-de-Nage/_/The+Death+Posture",
+          "duration": "563",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bosse-de-Nage",
+            "mbid": "8d6dc9d4-3b11-49a1-aa2b-9430615642c2",
+            "url": "https://www.last.fm/music/Bosse-de-Nage"
+          }
+        },
+        {
+          "name": "Why Am I So Lovely? Because My Master Washes Me.",
+          "url": "https://www.last.fm/music/Bosse-de-Nage/_/Why+Am+I+So+Lovely%3F+Because+My+Master+Washes+Me.",
+          "duration": "676",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bosse-de-Nage",
+            "mbid": "8d6dc9d4-3b11-49a1-aa2b-9430615642c2",
+            "url": "https://www.last.fm/music/Bosse-de-Nage"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        },
+        {
+          "name": "Post-Metal",
+          "url": "https://www.last.fm/tag/Post-Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:52:36.369Z"
+}

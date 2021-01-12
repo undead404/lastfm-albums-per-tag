@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Electronegative",
+    "artist": "Nightfall",
+    "mbid": "a2796c52-2f33-4ab1-a733-038b5f7a782a",
+    "url": "https://www.last.fm/music/Nightfall/Electronegative",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3ae577af120debb3dc147ff00217643.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3ae577af120debb3dc147ff00217643.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3ae577af120debb3dc147ff00217643.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3ae577af120debb3dc147ff00217643.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3ae577af120debb3dc147ff00217643.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3ae577af120debb3dc147ff00217643.png",
+        "size": ""
+      }
+    ],
+    "listeners": "363",
+    "playcount": "2816",
+    "tracks": {
+      "track": [
+        {
+          "name": "Diva",
+          "url": "https://www.last.fm/music/Nightfall/_/Diva",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "The Sunless Smile",
+          "url": "https://www.last.fm/music/Nightfall/_/The+Sunless+Smile",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Dead Don't Need Revenge",
+          "url": "https://www.last.fm/music/Nightfall/_/Dead+Don%27t+Need+Revenge",
+          "duration": "303",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Everything",
+          "url": "https://www.last.fm/music/Nightfall/_/Everything",
+          "duration": "227",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Gothic Metal",
+          "url": "https://www.last.fm/tag/Gothic+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:48:07.949Z"
+}

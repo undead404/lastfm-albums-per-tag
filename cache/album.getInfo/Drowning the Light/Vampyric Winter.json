@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Vampyric Winter",
+    "artist": "Drowning the Light",
+    "url": "https://www.last.fm/music/Drowning+the+Light/Vampyric+Winter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34f6d18cc52e4e6d8a4faec9d5d7b6eb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "877",
+    "playcount": "7872",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Candles Burning Out",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Black+Candles+Burning+Out",
+          "duration": "68",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Vampyric Winter",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Vampyric+Winter",
+          "duration": "295",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Last Sunset of a Dying Autumn",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Last+Sunset+of+a+Dying+Autumn",
+          "duration": "270",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Frozen Stare",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Frozen+Stare",
+          "duration": "87",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:25:54.537Z"
+}

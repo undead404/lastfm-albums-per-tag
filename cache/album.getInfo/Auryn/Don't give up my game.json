@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Don't give up my game",
+    "artist": "Auryn",
+    "mbid": "8cd2ffa0-e015-4bed-846f-1d70ecd7d30b",
+    "url": "https://www.last.fm/music/Auryn/Don%27t+give+up+my+game",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0a840ab640c48198fa414c225e0373a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0a840ab640c48198fa414c225e0373a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0a840ab640c48198fa414c225e0373a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a840ab640c48198fa414c225e0373a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a840ab640c48198fa414c225e0373a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0a840ab640c48198fa414c225e0373a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4396",
+    "playcount": "18900",
+    "tracks": {
+      "track": [
+        {
+          "name": "Don't give up my game",
+          "url": "https://www.last.fm/music/Auryn/_/Don%27t+give+up+my+game",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:10.191Z"
+}

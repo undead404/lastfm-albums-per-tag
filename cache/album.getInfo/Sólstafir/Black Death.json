@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Black Death",
+    "artist": "Sólstafir",
+    "mbid": "df83b5c7-d684-4d78-941c-995505cf09a5",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/Black+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e24e460306146eb86e211402465603e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e24e460306146eb86e211402465603e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e24e460306146eb86e211402465603e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e24e460306146eb86e211402465603e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e24e460306146eb86e211402465603e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e24e460306146eb86e211402465603e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "720",
+    "playcount": "4475",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Death: The Ritual",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Black+Death:+The+Ritual",
+          "duration": "322",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Myrksvefn",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Myrksvefn",
+          "duration": "237",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "13:13",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/13:13",
+          "duration": "270",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:02:04.117Z"
+}

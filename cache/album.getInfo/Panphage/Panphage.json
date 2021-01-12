@@ -1,0 +1,123 @@
+{
+  "album": {
+    "name": "Panphage",
+    "artist": "Panphage",
+    "url": "https://www.last.fm/music/Panphage/Panphage",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b61ccff935a44deb7198291cef9c70e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "24",
+    "playcount": "375",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Panphage/_/Intro",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Elva stigar skymtas",
+          "url": "https://www.last.fm/music/Panphage/_/Elva+stigar+skymtas",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Av röta besatt",
+          "url": "https://www.last.fm/music/Panphage/_/Av+r%C3%B6ta+besatt",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Akhera Goiti-Akhera Beiti",
+          "url": "https://www.last.fm/music/Panphage/_/Akhera+Goiti-Akhera+Beiti",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Pan Panphage",
+          "url": "https://www.last.fm/music/Panphage/_/Pan+Panphage",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:06:29.533Z"
+}

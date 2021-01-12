@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "Pans Skygge",
+    "artist": "Vredehammer",
+    "mbid": "ecd5f83a-44a5-470c-a777-c25337a09eb6",
+    "url": "https://www.last.fm/music/Vredehammer/Pans+Skygge",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/877627840277462898634f9833f8cba6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/877627840277462898634f9833f8cba6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/877627840277462898634f9833f8cba6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/877627840277462898634f9833f8cba6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/877627840277462898634f9833f8cba6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/877627840277462898634f9833f8cba6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "394",
+    "playcount": "3076",
+    "tracks": {
+      "track": [
+        {
+          "name": "Oktober",
+          "url": "https://www.last.fm/music/Vredehammer/_/Oktober",
+          "duration": "139",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Misantrop",
+          "url": "https://www.last.fm/music/Vredehammer/_/Misantrop",
+          "duration": "360",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Forlist",
+          "url": "https://www.last.fm/music/Vredehammer/_/Forlist",
+          "duration": "267",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Betrakteren",
+          "url": "https://www.last.fm/music/Vredehammer/_/Betrakteren",
+          "duration": "313",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Farvann",
+          "url": "https://www.last.fm/music/Vredehammer/_/Farvann",
+          "duration": "191",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2011",
+          "url": "https://www.last.fm/tag/best+of+2011"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:31:01.290Z"
+}

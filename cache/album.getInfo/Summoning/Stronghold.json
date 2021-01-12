@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Stronghold",
+    "artist": "Summoning",
+    "mbid": "228f0a8f-01a2-3d80-a04c-f19848360e0b",
+    "url": "https://www.last.fm/music/Summoning/Stronghold",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc846d97c6544158c1592cae9a2fedc8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "50600",
+    "playcount": "1986160",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rhûn",
+          "url": "https://www.last.fm/music/Summoning/_/Rh%C3%BBn",
+          "duration": "205",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Long Lost to Where No Pathway Goes",
+          "url": "https://www.last.fm/music/Summoning/_/Long+Lost+to+Where+No+Pathway+Goes",
+          "duration": "443",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Glory Disappears",
+          "url": "https://www.last.fm/music/Summoning/_/The+Glory+Disappears",
+          "duration": "469",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Like Some Snow-white Marble Eyes",
+          "url": "https://www.last.fm/music/Summoning/_/Like+Some+Snow-white+Marble+Eyes",
+          "duration": "439",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Where Hope and Daylight Die",
+          "url": "https://www.last.fm/music/Summoning/_/Where+Hope+and+Daylight+Die",
+          "duration": "388",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Rotting Horse on the Deadly Ground",
+          "url": "https://www.last.fm/music/Summoning/_/The+Rotting+Horse+on+the+Deadly+Ground",
+          "duration": "505",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Shadow Lies Frozen on the Hills",
+          "url": "https://www.last.fm/music/Summoning/_/The+Shadow+Lies+Frozen+on+the+Hills",
+          "duration": "421",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Loud Music of the Sky",
+          "url": "https://www.last.fm/music/Summoning/_/The+Loud+Music+of+the+Sky",
+          "duration": "407",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "A Distant Flame Before the Sun",
+          "url": "https://www.last.fm/music/Summoning/_/A+Distant+Flame+Before+the+Sun",
+          "duration": "583",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "1999",
+          "url": "https://www.last.fm/tag/1999"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Aug 2013, 02:56",
+      "summary": "Stronghold is the fourth full length album by Summoning. This album marked a change in the sound of Summoning as it was much more \"guitar orientated with more compact keyboard-melodies\". \"Where Hope and Daylight Die\" features Tania Borsky, Protector's ex-girlfriend and a former member of Die Verbannten Kinder Evas, on lead vocals.\n\nThis album is the first by Summoning to feature audio-clips; the clips used on this album were from the movies Braveheart and Legend. <a href=\"http://www.last.fm/music/Summoning/Stronghold\">Read more on Last.fm</a>.",
+      "content": "Stronghold is the fourth full length album by Summoning. This album marked a change in the sound of Summoning as it was much more \"guitar orientated with more compact keyboard-melodies\". \"Where Hope and Daylight Die\" features Tania Borsky, Protector's ex-girlfriend and a former member of Die Verbannten Kinder Evas, on lead vocals.\n\nThis album is the first by Summoning to feature audio-clips; the clips used on this album were from the movies Braveheart and Legend. <a href=\"http://www.last.fm/music/Summoning/Stronghold\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:22.664Z"
+}

@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Gudsforladt",
+    "artist": "Nortt",
+    "mbid": "2e65786e-dc3f-400a-a2b7-4a6ba27b191a",
+    "url": "https://www.last.fm/music/Nortt/Gudsforladt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2c31e41cad5f240c994fca23ce35fef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "14496",
+    "playcount": "411128",
+    "tracks": {
+      "track": [
+        {
+          "name": "Graven",
+          "url": "https://www.last.fm/music/Nortt/_/Graven",
+          "duration": "161",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Døden",
+          "url": "https://www.last.fm/music/Nortt/_/D%C3%B8den",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Glemt",
+          "url": "https://www.last.fm/music/Nortt/_/Glemt",
+          "duration": "457",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Gravfred",
+          "url": "https://www.last.fm/music/Nortt/_/Gravfred",
+          "duration": "592",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Hinsides",
+          "url": "https://www.last.fm/music/Nortt/_/Hinsides",
+          "duration": "338",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Hedengangen",
+          "url": "https://www.last.fm/music/Nortt/_/Hedengangen",
+          "duration": "286",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Død og borte",
+          "url": "https://www.last.fm/music/Nortt/_/D%C3%B8d+og+borte",
+          "duration": "353",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Nattetale",
+          "url": "https://www.last.fm/music/Nortt/_/Nattetale",
+          "duration": "334",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "De dødes kor",
+          "url": "https://www.last.fm/music/Nortt/_/De+d%C3%B8des+kor",
+          "duration": "436",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Dystert sind",
+          "url": "https://www.last.fm/music/Nortt/_/Dystert+sind",
+          "duration": "259",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Evig hvile",
+          "url": "https://www.last.fm/music/Nortt/_/Evig+hvile",
+          "duration": "562",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Doom",
+          "url": "https://www.last.fm/tag/Doom"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Jul 2010, 07:35",
+      "summary": "Label: Sombre Records\nRelease Date: 2003\nLP limited to 350 copies.\nCD version which was released by Diehard Bloodline in 2004 has a bonus track\nnamed \"Evig Hvile\" (7:26). It is limited to 1000 copies in a CD book format. <a href=\"http://www.last.fm/music/Nortt/Gudsforladt\">Read more on Last.fm</a>.",
+      "content": "Label: Sombre Records\nRelease Date: 2003\nLP limited to 350 copies.\nCD version which was released by Diehard Bloodline in 2004 has a bonus track\nnamed \"Evig Hvile\" (7:26). It is limited to 1000 copies in a CD book format. <a href=\"http://www.last.fm/music/Nortt/Gudsforladt\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:04:54.043Z"
+}

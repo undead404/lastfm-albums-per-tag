@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Sol",
+    "artist": "Altar of Plagues",
+    "mbid": "c1015291-3f6e-4427-b29c-cc5f41bfdb27",
+    "url": "https://www.last.fm/music/Altar+of+Plagues/Sol",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb2ac7255bfcc76912397fd0c2e5f45b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6332",
+    "playcount": "77304",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Intro",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "The Titan Skies",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/The+Titan+Skies",
+          "duration": "343",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "Twisted Structures Against The Sun",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Twisted+Structures+Against+The+Sun",
+          "duration": "702",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "With Fire In Our Veins We Drown In Light",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/With+Fire+In+Our+Veins+We+Drown+In+Light",
+          "duration": "855",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "the best",
+          "url": "https://www.last.fm/tag/the+best"
+        },
+        {
+          "name": "Post-Black Metal",
+          "url": "https://www.last.fm/tag/Post-Black+Metal"
+        },
+        {
+          "name": "sucks",
+          "url": "https://www.last.fm/tag/sucks"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:32:01.757Z"
+}

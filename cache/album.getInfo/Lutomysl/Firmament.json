@@ -1,0 +1,80 @@
+{
+  "album": {
+    "name": "Firmament",
+    "artist": "Lutomysl",
+    "url": "https://www.last.fm/music/Lutomysl/Firmament",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224e420b3cfd4d6bcdba05b7e27ab800.png",
+        "size": ""
+      }
+    ],
+    "listeners": "48",
+    "playcount": "254",
+    "tracks": {
+      "track": [
+        {
+          "name": "Firmament",
+          "url": "https://www.last.fm/music/Lutomysl/_/Firmament",
+          "duration": "283",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Weakness",
+          "url": "https://www.last.fm/music/Lutomysl/_/Weakness",
+          "duration": "343",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "27 Jan 2014, 22:07",
+      "summary": "Released 27 January 2014.\nComposed & performed by Lutomysl. \nSession drums by Yuriy S. \nRecorded in January—March of 2012 in Beasts studio. <a href=\"http://www.last.fm/music/Lutomysl/Firmament\">Read more on Last.fm</a>.",
+      "content": "Released 27 January 2014.\nComposed & performed by Lutomysl. \nSession drums by Yuriy S. \nRecorded in January—March of 2012 in Beasts studio. <a href=\"http://www.last.fm/music/Lutomysl/Firmament\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T15:06:29.295Z"
+}

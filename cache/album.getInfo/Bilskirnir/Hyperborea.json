@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Hyperborea",
+    "artist": "Bilskirnir",
+    "mbid": "f3ed2ff8-97fe-4c00-8f37-c519cf0045c3",
+    "url": "https://www.last.fm/music/Bilskirnir/Hyperborea",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b7db919759cff1185e6166d61af5480.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b7db919759cff1185e6166d61af5480.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b7db919759cff1185e6166d61af5480.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b7db919759cff1185e6166d61af5480.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b7db919759cff1185e6166d61af5480.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b7db919759cff1185e6166d61af5480.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1181",
+    "playcount": "12825",
+    "tracks": {
+      "track": [
+        {
+          "name": "As Snow Covered the Hyperborean Soil",
+          "url": "https://www.last.fm/music/Bilskirnir/_/As+Snow+Covered+the+Hyperborean+Soil",
+          "duration": "459",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Nordic White Desert",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Nordic+White+Desert",
+          "duration": "342",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Autumn Fires",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Autumn+Fires",
+          "duration": "348",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "germany",
+          "url": "https://www.last.fm/tag/germany"
+        },
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        },
+        {
+          "name": "the pagan front",
+          "url": "https://www.last.fm/tag/the+pagan+front"
+        },
+        {
+          "name": "mmpps",
+          "url": "https://www.last.fm/tag/mmpps"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:19:03.371Z"
+}

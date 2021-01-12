@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "The Genocidal Deliverance",
+    "artist": "Gnaw Their Tongues",
+    "mbid": "ea20cbd5-f63f-4e80-850b-d1a2457237d2",
+    "url": "https://www.last.fm/music/Gnaw+Their+Tongues/The+Genocidal+Deliverance",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1bdb8936c3e4d8cb23d438d95bb2357.png",
+        "size": ""
+      }
+    ],
+    "listeners": "278",
+    "playcount": "1282",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Genocidal Deliverance",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/The+Genocidal+Deliverance",
+          "duration": "315",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Dead Bird Prophecies",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Dead+Bird+Prophecies",
+          "duration": "274",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "death",
+          "url": "https://www.last.fm/tag/death"
+        },
+        {
+          "name": "netherlands",
+          "url": "https://www.last.fm/tag/netherlands"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:50:54.184Z"
+}

@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "X - Varg Utan Flock",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/X+-+Varg+Utan+Flock",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd410b9cd45d550ad819c397776e7cb0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3402",
+    "playcount": "48341",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svart Ostoppbar Eld",
+          "url": "https://www.last.fm/music/Shining/_/Svart+Ostoppbar+Eld",
+          "duration": "431",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Gyllene Portarnas Bro",
+          "url": "https://www.last.fm/music/Shining/_/Gyllene+Portarnas+Bro",
+          "duration": "399",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Jag Är Din Fiende",
+          "url": "https://www.last.fm/music/Shining/_/Jag+%C3%84r+Din+Fiende",
+          "duration": "425",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Han Som Lurar Inom",
+          "url": "https://www.last.fm/music/Shining/_/Han+Som+Lurar+Inom",
+          "duration": "483",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Tolvtusenfyrtioett",
+          "url": "https://www.last.fm/music/Shining/_/Tolvtusenfyrtioett",
+          "duration": "172",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Mot Aokigahara",
+          "url": "https://www.last.fm/music/Shining/_/Mot+Aokigahara",
+          "duration": "573",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "Suicidal Black Metal",
+          "url": "https://www.last.fm/tag/Suicidal+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:35.637Z"
+}

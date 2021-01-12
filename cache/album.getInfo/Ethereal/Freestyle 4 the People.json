@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Freestyle 4 the People",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Freestyle+4+the+People",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/53993fce22e3d6388d99e00d47fa1978.png",
+        "size": ""
+      }
+    ],
+    "listeners": "155",
+    "playcount": "496",
+    "tracks": {
+      "track": [
+        {
+          "name": "Freestyle 4 The People",
+          "url": "https://www.last.fm/music/Ethereal/_/Freestyle+4+The+People",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:11.190Z"
+}

@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Anthems of the Night",
+    "artist": "Nightfall",
+    "mbid": "5a5d00d5-d8e8-4a0c-933b-150ea304e24b",
+    "url": "https://www.last.fm/music/Nightfall/Anthems+of+the+Night",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c121393c9a7d4bec99d0fbcb6c1d4902.png",
+        "size": ""
+      }
+    ],
+    "listeners": "196",
+    "playcount": "1783",
+    "tracks": {
+      "track": [
+        {
+          "name": "Diva",
+          "url": "https://www.last.fm/music/Nightfall/_/Diva",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "My Own Troy",
+          "url": "https://www.last.fm/music/Nightfall/_/My+Own+Troy",
+          "duration": "246",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Armada",
+          "url": "https://www.last.fm/music/Nightfall/_/Armada",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "As Your God is Failing Once Again",
+          "url": "https://www.last.fm/music/Nightfall/_/As+Your+God+is+Failing+Once+Again",
+          "duration": "308",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Picture Me",
+          "url": "https://www.last.fm/music/Nightfall/_/Picture+Me",
+          "duration": "250",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:12.499Z"
+}

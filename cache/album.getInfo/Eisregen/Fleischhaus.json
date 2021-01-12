@@ -1,0 +1,80 @@
+{
+  "album": {
+    "name": "Fleischhaus",
+    "artist": "Eisregen",
+    "mbid": "4a8b1ac5-5351-4dfc-bf46-4da7bb4ae24c",
+    "url": "https://www.last.fm/music/Eisregen/Fleischhaus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/402f19218dbe4509a96e5035c0dc2349.png",
+        "size": ""
+      }
+    ],
+    "listeners": "624",
+    "playcount": "3456",
+    "tracks": {
+      "track": [
+        {
+          "name": "Das Fleischhaus",
+          "url": "https://www.last.fm/music/Eisregen/_/Das+Fleischhaus",
+          "duration": "322",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Nichts Währet Ewiglich...",
+          "url": "https://www.last.fm/music/Eisregen/_/Nichts+W%C3%A4hret+Ewiglich...",
+          "duration": "333",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:11:34.400Z"
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Theory:0",
+    "artist": "Ad Hominem",
+    "mbid": "4cd72330-e8be-4988-9068-d86b9b38a597",
+    "url": "https://www.last.fm/music/Ad+Hominem/Theory:0",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e76791bb74ca415c96e7f81351ec344e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "96",
+    "playcount": "1795",
+    "tracks": {
+      "track": [
+        {
+          "name": "Theory:0",
+          "url": "https://www.last.fm/music/Ad+Hominem/_/Theory:0",
+          "duration": "253",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Hominem",
+            "mbid": "30de8bdd-2cf9-47ff-a401-44b56a3ef96f",
+            "url": "https://www.last.fm/music/Ad+Hominem"
+          }
+        },
+        {
+          "name": "Execute them all",
+          "url": "https://www.last.fm/music/Ad+Hominem/_/Execute+them+all",
+          "duration": "199",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Hominem",
+            "mbid": "30de8bdd-2cf9-47ff-a401-44b56a3ef96f",
+            "url": "https://www.last.fm/music/Ad+Hominem"
+          }
+        },
+        {
+          "name": "Of wolf and the devil",
+          "url": "https://www.last.fm/music/Ad+Hominem/_/Of+wolf+and+the+devil",
+          "duration": "370",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Hominem",
+            "mbid": "30de8bdd-2cf9-47ff-a401-44b56a3ef96f",
+            "url": "https://www.last.fm/music/Ad+Hominem"
+          }
+        },
+        {
+          "name": "Achtung! (New Version)",
+          "url": "https://www.last.fm/music/Ad+Hominem/_/Achtung%21+(New+Version)",
+          "duration": "251",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Hominem",
+            "mbid": "30de8bdd-2cf9-47ff-a401-44b56a3ef96f",
+            "url": "https://www.last.fm/music/Ad+Hominem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:58:26.072Z"
+}

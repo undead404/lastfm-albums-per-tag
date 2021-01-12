@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Glorification Under the Latin Moon",
+    "artist": "Varathron",
+    "url": "https://www.last.fm/music/Varathron/Glorification+Under+the+Latin+Moon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa3bf547cd6f255174f45a048d4f8750.png",
+        "size": ""
+      }
+    ],
+    "listeners": "288",
+    "playcount": "2264",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cassiopeia's Ode (live)",
+          "url": "https://www.last.fm/music/Varathron/_/Cassiopeia%27s+Ode+(live)",
+          "duration": "385",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "Son of the Moon (Live)",
+          "url": "https://www.last.fm/music/Varathron/_/Son+of+the+Moon+(Live)",
+          "duration": "413",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "Unholy Funeral (live)",
+          "url": "https://www.last.fm/music/Varathron/_/Unholy+Funeral+(live)",
+          "duration": "213",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "The Tressrising Of Nyarlathotep (Live)",
+          "url": "https://www.last.fm/music/Varathron/_/The+Tressrising+Of+Nyarlathotep+(Live)",
+          "duration": "531",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:03.964Z"
+}

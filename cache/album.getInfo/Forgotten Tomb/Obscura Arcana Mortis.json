@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Obscura Arcana Mortis",
+    "artist": "Forgotten Tomb",
+    "mbid": "560b31e4-713d-464f-b4ea-8fbd41417eb3",
+    "url": "https://www.last.fm/music/Forgotten+Tomb/Obscura+Arcana+Mortis",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef0f3b55e3e64832aa6ebdab138d6f71.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4494",
+    "playcount": "54986",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nightfrost",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Nightfrost",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Nefarious Nights",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Nefarious+Nights",
+          "duration": "270",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Forgotten Tomb",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Forgotten+Tomb",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Obscura Arcana Mortis",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Obscura+Arcana+Mortis",
+          "duration": "304",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "XXX (Outro)",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/XXX+(Outro)",
+          "duration": "176",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Forgotten Tomb MMIII - Live 2004",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Forgotten+Tomb+MMIII+-+Live+2004",
+          "duration": "414",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "italian black metal",
+          "url": "https://www.last.fm/tag/italian+black+metal"
+        },
+        {
+          "name": "best of 2000",
+          "url": "https://www.last.fm/tag/best+of+2000"
+        },
+        {
+          "name": "albums i own on vinyl",
+          "url": "https://www.last.fm/tag/albums+i+own+on+vinyl"
+        },
+        {
+          "name": "known albums",
+          "url": "https://www.last.fm/tag/known+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:35:06.404Z"
+}

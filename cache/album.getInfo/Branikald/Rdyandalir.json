@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Rdyandalir",
+    "artist": "Branikald",
+    "mbid": "f82c435c-44fc-41e2-89cd-9f82f0b2c566",
+    "url": "https://www.last.fm/music/Branikald/Rdyandalir",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b996ef46dda24b57a515e5fd05004f2c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2195",
+    "playcount": "25050",
+    "tracks": {
+      "track": [
+        {
+          "name": "Microcosm of the Spirit",
+          "url": "https://www.last.fm/music/Branikald/_/Microcosm+of+the+Spirit",
+          "duration": "687",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "SpiritSense",
+          "url": "https://www.last.fm/music/Branikald/_/SpiritSense",
+          "duration": "778",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "By the Timeless Nightly Dusk",
+          "url": "https://www.last.fm/music/Branikald/_/By+the+Timeless+Nightly+Dusk",
+          "duration": "497",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Rdyandalir",
+          "url": "https://www.last.fm/music/Branikald/_/Rdyandalir",
+          "duration": "697",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Russian Black Metal",
+          "url": "https://www.last.fm/tag/Russian+Black+Metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "Totec Radio",
+          "url": "https://www.last.fm/tag/Totec+Radio"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:40:38.710Z"
+}

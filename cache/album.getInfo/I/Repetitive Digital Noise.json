@@ -1,0 +1,251 @@
+{
+  "album": {
+    "name": "Repetitive Digital Noise",
+    "artist": "I",
+    "url": "https://www.last.fm/music/I/Repetitive+Digital+Noise",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7a543de9161a734c932325ae53e4664.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7a543de9161a734c932325ae53e4664.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7a543de9161a734c932325ae53e4664.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7a543de9161a734c932325ae53e4664.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7a543de9161a734c932325ae53e4664.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7a543de9161a734c932325ae53e4664.png",
+        "size": ""
+      }
+    ],
+    "listeners": "34",
+    "playcount": "299",
+    "tracks": {
+      "track": [
+        {
+          "name": "Warm Sunday",
+          "url": "https://www.last.fm/music/I/_/Warm+Sunday",
+          "duration": "412",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "subversive",
+          "url": "https://www.last.fm/music/I/_/subversive",
+          "duration": "627",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "spacey",
+          "url": "https://www.last.fm/music/I/_/spacey",
+          "duration": "148",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "A Friend of Mine is Beta-tester",
+          "url": "https://www.last.fm/music/I/_/A+Friend+of+Mine+is+Beta-tester",
+          "duration": "436",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "ain't no triplet",
+          "url": "https://www.last.fm/music/I/_/ain%27t+no+triplet",
+          "duration": "315",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "Percussion Overdose",
+          "url": "https://www.last.fm/music/I/_/Percussion+Overdose",
+          "duration": "63",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "L.T.B.C.Y.B.",
+          "url": "https://www.last.fm/music/I/_/L.T.B.C.Y.B.",
+          "duration": "321",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "23rd Autumn",
+          "url": "https://www.last.fm/music/I/_/23rd+Autumn",
+          "duration": "532",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "gat",
+          "url": "https://www.last.fm/music/I/_/gat",
+          "duration": "350",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "Y. U.?",
+          "url": "https://www.last.fm/music/I/_/Y.+U.%3F",
+          "duration": "356",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "Give It to 'Em (Information)",
+          "url": "https://www.last.fm/music/I/_/Give+It+to+%27Em+(Information)",
+          "duration": "363",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "techno",
+          "url": "https://www.last.fm/tag/techno"
+        },
+        {
+          "name": "Acid",
+          "url": "https://www.last.fm/tag/Acid"
+        },
+        {
+          "name": "deutsch",
+          "url": "https://www.last.fm/tag/deutsch"
+        },
+        {
+          "name": "Pod Communication",
+          "url": "https://www.last.fm/tag/Pod+Communication"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:06:48.251Z"
+}

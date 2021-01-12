@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Age of Sail",
+    "artist": "Sarke",
+    "url": "https://www.last.fm/music/Sarke/Age+of+Sail",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a0e2802af28b33571ec5524da3de8e5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1071",
+    "playcount": "1808",
+    "tracks": {
+      "track": [
+        {
+          "name": "Age of Sail",
+          "url": "https://www.last.fm/music/Sarke/_/Age+of+Sail",
+          "duration": "279",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:37:26.192Z"
+}

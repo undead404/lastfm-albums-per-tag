@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Myrkur",
+    "artist": "Myrkur",
+    "mbid": "e617e91f-2693-487b-a841-f41f219ce644",
+    "url": "https://www.last.fm/music/Myrkur/Myrkur",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f61de0c7e745b3072ba92fdeb1626d16.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17870",
+    "playcount": "229713",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ravnens Banner",
+          "url": "https://www.last.fm/music/Myrkur/_/Ravnens+Banner",
+          "duration": "248",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Frosne Vind",
+          "url": "https://www.last.fm/music/Myrkur/_/Frosne+Vind",
+          "duration": "110",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Må Du Brænde i Helvede",
+          "url": "https://www.last.fm/music/Myrkur/_/M%C3%A5+Du+Br%C3%A6nde+i+Helvede",
+          "duration": "243",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Latvian Fegurð",
+          "url": "https://www.last.fm/music/Myrkur/_/Latvian+Fegur%C3%B0",
+          "duration": "259",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Dybt i Skoven",
+          "url": "https://www.last.fm/music/Myrkur/_/Dybt+i+Skoven",
+          "duration": "190",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Nattens Barn",
+          "url": "https://www.last.fm/music/Myrkur/_/Nattens+Barn",
+          "duration": "355",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        },
+        {
+          "name": "Ulvesangen",
+          "url": "https://www.last.fm/music/Myrkur/_/Ulvesangen",
+          "duration": "46",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:49.752Z"
+}

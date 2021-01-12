@@ -1,0 +1,51 @@
+{
+  "album": {
+    "name": "Experiments In Mass Appeal",
+    "artist": "Frost",
+    "url": "https://www.last.fm/music/Frost/Experiments+In+Mass+Appeal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d59e585729346dba85e6a991e9722cc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d59e585729346dba85e6a991e9722cc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d59e585729346dba85e6a991e9722cc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d59e585729346dba85e6a991e9722cc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d59e585729346dba85e6a991e9722cc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d59e585729346dba85e6a991e9722cc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4249",
+    "playcount": "93105",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "mistagged",
+          "url": "https://www.last.fm/tag/mistagged"
+        },
+        {
+          "name": "Would like to buy",
+          "url": "https://www.last.fm/tag/Would+like+to+buy"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:38:53.922Z"
+}

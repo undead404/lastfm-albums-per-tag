@@ -1,0 +1,349 @@
+{
+  "album": {
+    "name": "The Best of Drama & Creation",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/The+Best+of+Drama+&+Creation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ffff0fd5a4e4ed2a41d1556bcfc0050.png",
+        "size": ""
+      }
+    ],
+    "listeners": "165",
+    "playcount": "707",
+    "tracks": {
+      "track": [
+        {
+          "name": "Daydreamer (Breaking Away)",
+          "url": "https://www.last.fm/music/Drama/_/Daydreamer+(Breaking+Away)",
+          "duration": "251",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "I'll Recover Soon",
+          "url": "https://www.last.fm/music/Drama/_/I%27ll+Recover+Soon",
+          "duration": "173",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Shady Lady",
+          "url": "https://www.last.fm/music/Drama/_/Shady+Lady",
+          "duration": "204",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Living On The Fault Line",
+          "url": "https://www.last.fm/music/Drama/_/Living+On+The+Fault+Line",
+          "duration": "215",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Desire",
+          "url": "https://www.last.fm/music/Drama/_/Desire",
+          "duration": "202",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "High Time",
+          "url": "https://www.last.fm/music/Drama/_/High+Time",
+          "duration": "168",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Don't Stop",
+          "url": "https://www.last.fm/music/Drama/_/Don%27t+Stop",
+          "duration": "122",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Some Kind Of Wonderful",
+          "url": "https://www.last.fm/music/Drama/_/Some+Kind+Of+Wonderful",
+          "duration": "278",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Graduation Day",
+          "url": "https://www.last.fm/music/Drama/_/Graduation+Day",
+          "duration": "181",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Hey Girl",
+          "url": "https://www.last.fm/music/Drama/_/Hey+Girl",
+          "duration": "170",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Don't Tell Her On A Saturday",
+          "url": "https://www.last.fm/music/Drama/_/Don%27t+Tell+Her+On+A+Saturday",
+          "duration": "133",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Hold On To Me",
+          "url": "https://www.last.fm/music/Drama/_/Hold+On+To+Me",
+          "duration": "190",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Alina",
+          "url": "https://www.last.fm/music/Drama/_/Alina",
+          "duration": "183",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Friend Of Mine",
+          "url": "https://www.last.fm/music/Drama/_/Friend+Of+Mine",
+          "duration": "247",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Magic",
+          "url": "https://www.last.fm/music/Drama/_/Magic",
+          "duration": "222",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "The Clattering Rain",
+          "url": "https://www.last.fm/music/Drama/_/The+Clattering+Rain",
+          "duration": "232",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Why",
+          "url": "https://www.last.fm/music/Drama/_/Why",
+          "duration": "247",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "When We're Together",
+          "url": "https://www.last.fm/music/Drama/_/When+We%27re+Together",
+          "duration": "232",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:56.024Z"
+}

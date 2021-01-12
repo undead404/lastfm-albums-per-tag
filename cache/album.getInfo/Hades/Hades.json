@@ -1,0 +1,303 @@
+{
+  "album": {
+    "name": "Hades",
+    "artist": "Hades",
+    "mbid": "ac09e61a-cf3c-4463-b751-eb5d45d0b611",
+    "url": "https://www.last.fm/music/Hades/Hades",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/50289b446e26217f0d8cf8d929925f22.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/50289b446e26217f0d8cf8d929925f22.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/50289b446e26217f0d8cf8d929925f22.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50289b446e26217f0d8cf8d929925f22.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50289b446e26217f0d8cf8d929925f22.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/50289b446e26217f0d8cf8d929925f22.png",
+        "size": ""
+      }
+    ],
+    "listeners": "349",
+    "playcount": "4523",
+    "tracks": {
+      "track": [
+        {
+          "name": "En las Puertas del Hades",
+          "url": "https://www.last.fm/music/Hades/_/En+las+Puertas+del+Hades",
+          "duration": "91",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "hades",
+          "url": "https://www.last.fm/music/Hades/_/hades",
+          "duration": "296",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Prisionero",
+          "url": "https://www.last.fm/music/Hades/_/Prisionero",
+          "duration": "310",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Esa Mirada",
+          "url": "https://www.last.fm/music/Hades/_/Esa+Mirada",
+          "duration": "215",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "factor Rh",
+          "url": "https://www.last.fm/music/Hades/_/factor+Rh",
+          "duration": "342",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "American Slaves",
+          "url": "https://www.last.fm/music/Hades/_/American+Slaves",
+          "duration": "397",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "El Gran Ausente",
+          "url": "https://www.last.fm/music/Hades/_/El+Gran+Ausente",
+          "duration": "338",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "El Duende",
+          "url": "https://www.last.fm/music/Hades/_/El+Duende",
+          "duration": "211",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Quiero que estes aquí",
+          "url": "https://www.last.fm/music/Hades/_/Quiero+que+estes+aqu%C3%AD",
+          "duration": "371",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Muchos Que Contar",
+          "url": "https://www.last.fm/music/Hades/_/Muchos+Que+Contar",
+          "duration": "224",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Sin Pensar",
+          "url": "https://www.last.fm/music/Hades/_/Sin+Pensar",
+          "duration": "259",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Cual Será Tu Destino",
+          "url": "https://www.last.fm/music/Hades/_/Cual+Ser%C3%A1+Tu+Destino",
+          "duration": "268",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Voces en la Niebla",
+          "url": "https://www.last.fm/music/Hades/_/Voces+en+la+Niebla",
+          "duration": "245",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Habitando el Hades",
+          "url": "https://www.last.fm/music/Hades/_/Habitando+el+Hades",
+          "duration": "271",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "Colombia",
+          "url": "https://www.last.fm/tag/Colombia"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:54:39.533Z"
+}

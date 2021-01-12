@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Original Songs From the Early Years",
+    "artist": "Voices",
+    "url": "https://www.last.fm/music/Voices/Original+Songs+From+the+Early+Years",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bfb84198e09965352e86632cb200dc41.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bfb84198e09965352e86632cb200dc41.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bfb84198e09965352e86632cb200dc41.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfb84198e09965352e86632cb200dc41.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfb84198e09965352e86632cb200dc41.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfb84198e09965352e86632cb200dc41.png",
+        "size": ""
+      }
+    ],
+    "listeners": "72",
+    "playcount": "97",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Want Peace",
+          "url": "https://www.last.fm/music/Voices/_/I+Want+Peace",
+          "duration": "163",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Basta",
+          "url": "https://www.last.fm/music/Voices/_/Basta",
+          "duration": "159",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "All God's Children Need a Place to Rest",
+          "url": "https://www.last.fm/music/Voices/_/All+God%27s+Children+Need+a+Place+to+Rest",
+          "duration": "194",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "The Healing Song",
+          "url": "https://www.last.fm/music/Voices/_/The+Healing+Song",
+          "duration": "186",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Sit and Wonder",
+          "url": "https://www.last.fm/music/Voices/_/Sit+and+Wonder",
+          "duration": "193",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "No Accident",
+          "url": "https://www.last.fm/music/Voices/_/No+Accident",
+          "duration": "232",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Just Say No",
+          "url": "https://www.last.fm/music/Voices/_/Just+Say+No",
+          "duration": "219",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Heirloom",
+          "url": "https://www.last.fm/music/Voices/_/Heirloom",
+          "duration": "136",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "One Piece At a Time",
+          "url": "https://www.last.fm/music/Voices/_/One+Piece+At+a+Time",
+          "duration": "205",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "The Gaze of God",
+          "url": "https://www.last.fm/music/Voices/_/The+Gaze+of+God",
+          "duration": "143",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:54:32.226Z"
+}

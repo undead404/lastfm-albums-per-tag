@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Poison",
+    "artist": "I Shalt Become",
+    "mbid": "03433a8f-e300-476c-852b-2c0d734480af",
+    "url": "https://www.last.fm/music/I+Shalt+Become/Poison",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fde34ffa21d9438aa61d7bdab09ab6b1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2386",
+    "playcount": "37706",
+    "tracks": {
+      "track": [
+        {
+          "name": "Like a Lamb to the Slaughter...",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Like+a+Lamb+to+the+Slaughter...",
+          "duration": "178",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Black Swan Events",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Black+Swan+Events",
+          "duration": "349",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Harlow's Vertical Chamber Apparatus",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Harlow%27s+Vertical+Chamber+Apparatus",
+          "duration": "276",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "No Quarter at the Somme",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/No+Quarter+at+the+Somme",
+          "duration": "246",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Ghosts",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Ghosts",
+          "duration": "378",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Leaving Watership Down",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Leaving+Watership+Down",
+          "duration": "484",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Swarming of the Locusts",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Swarming+of+the+Locusts",
+          "duration": "178",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Doubt",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Doubt",
+          "duration": "371",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Finest Cut Of The Scalpel",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Finest+Cut+Of+The+Scalpel",
+          "duration": "415",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Absolve Me",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Absolve+Me",
+          "duration": "432",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "USBM",
+          "url": "https://www.last.fm/tag/USBM"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:15:20.931Z"
+}

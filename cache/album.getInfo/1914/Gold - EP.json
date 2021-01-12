@@ -1,0 +1,123 @@
+{
+  "album": {
+    "name": "Gold - EP",
+    "artist": "1914",
+    "url": "https://www.last.fm/music/1914/Gold+-+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "4",
+    "playcount": "11",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sorrow",
+          "url": "https://www.last.fm/music/1914/_/Sorrow",
+          "duration": "378",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        },
+        {
+          "name": "Blackness Stained",
+          "url": "https://www.last.fm/music/1914/_/Blackness+Stained",
+          "duration": "282",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        },
+        {
+          "name": "See Through Your Smile",
+          "url": "https://www.last.fm/music/1914/_/See+Through+Your+Smile",
+          "duration": "208",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        },
+        {
+          "name": "Naked Eye Sores",
+          "url": "https://www.last.fm/music/1914/_/Naked+Eye+Sores",
+          "duration": "285",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        },
+        {
+          "name": "Smell of the Real World",
+          "url": "https://www.last.fm/music/1914/_/Smell+of+the+Real+World",
+          "duration": "164",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:42.229Z"
+}

@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "fjord",
+    "artist": "Fjord",
+    "mbid": "e3386a34-9f16-42fd-85f9-8d0f50c0c0fc",
+    "url": "https://www.last.fm/music/Fjord/fjord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d20615d425ff2243cda387a4e4bd502d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "334",
+    "playcount": "2793",
+    "tracks": {
+      "track": [
+        {
+          "name": "39",
+          "url": "https://www.last.fm/music/Fjord/_/39",
+          "duration": "43",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "ZIRRARA",
+          "url": "https://www.last.fm/music/Fjord/_/ZIRRARA",
+          "duration": "244",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Borreroaren justizia",
+          "url": "https://www.last.fm/music/Fjord/_/Borreroaren+justizia",
+          "duration": "175",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Azahar usaineko lurrean",
+          "url": "https://www.last.fm/music/Fjord/_/Azahar+usaineko+lurrean",
+          "duration": "236",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "SAIHETSI",
+          "url": "https://www.last.fm/music/Fjord/_/SAIHETSI",
+          "duration": "219",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Don't give you away",
+          "url": "https://www.last.fm/music/Fjord/_/Don%27t+give+you+away",
+          "duration": "205",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "ZIKIN",
+          "url": "https://www.last.fm/music/Fjord/_/ZIKIN",
+          "duration": "148",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "SENTITU IZAN DUT",
+          "url": "https://www.last.fm/music/Fjord/_/SENTITU+IZAN+DUT",
+          "duration": "273",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "PEKATUAK EZABATZEN",
+          "url": "https://www.last.fm/music/Fjord/_/PEKATUAK+EZABATZEN",
+          "duration": "246",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "SINISTU",
+          "url": "https://www.last.fm/music/Fjord/_/SINISTU",
+          "duration": "181",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "The need too tell…",
+          "url": "https://www.last.fm/music/Fjord/_/The+need+too+tell%E2%80%A6",
+          "duration": "238",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:47.055Z"
+}

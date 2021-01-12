@@ -1,0 +1,171 @@
+{
+  "album": {
+    "name": "Sólverv",
+    "artist": "Vreid",
+    "url": "https://www.last.fm/music/Vreid/S%C3%B3lverv",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d97fd8d11bb0d209c10fdd85182860f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7434",
+    "playcount": "64228",
+    "tracks": {
+      "track": [
+        {
+          "name": "Haust",
+          "url": "https://www.last.fm/music/Vreid/_/Haust",
+          "duration": "387",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Sólverv",
+          "url": "https://www.last.fm/music/Vreid/_/S%C3%B3lverv",
+          "duration": "361",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Geitaskadl",
+          "url": "https://www.last.fm/music/Vreid/_/Geitaskadl",
+          "duration": "506",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Ætti sitt Fjedl",
+          "url": "https://www.last.fm/music/Vreid/_/%C3%86tti+sitt+Fjedl",
+          "duration": "421",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Når Byane Brenn",
+          "url": "https://www.last.fm/music/Vreid/_/N%C3%A5r+Byane+Brenn",
+          "duration": "438",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Storm frå Vest",
+          "url": "https://www.last.fm/music/Vreid/_/Storm+fr%C3%A5+Vest",
+          "duration": "318",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Fridom med daudens klang",
+          "url": "https://www.last.fm/music/Vreid/_/Fridom+med+daudens+klang",
+          "duration": "550",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best albums 2015",
+          "url": "https://www.last.fm/tag/best+albums+2015"
+        },
+        {
+          "name": "best albums of the 2010s",
+          "url": "https://www.last.fm/tag/best+albums+of+the+2010s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:38:34.951Z"
+}

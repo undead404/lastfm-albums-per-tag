@@ -1,0 +1,460 @@
+{
+  "album": {
+    "name": "Bad Habits (Deluxe)",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/Bad+Habits+(Deluxe)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f2701901266d70488d03b0c706ef06bf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f2701901266d70488d03b0c706ef06bf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f2701901266d70488d03b0c706ef06bf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2701901266d70488d03b0c706ef06bf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2701901266d70488d03b0c706ef06bf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f2701901266d70488d03b0c706ef06bf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "88182",
+    "playcount": "1356668",
+    "tracks": {
+      "track": [
+        {
+          "name": "To My Grave",
+          "url": "https://www.last.fm/music/NAV/_/To+My+Grave",
+          "duration": "160",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "I'm Ready",
+          "url": "https://www.last.fm/music/NAV/_/I%27m+Ready",
+          "duration": "174",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Taking Chances",
+          "url": "https://www.last.fm/music/NAV/_/Taking+Chances",
+          "duration": "186",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Tap (feat. Meek Mill)",
+          "url": "https://www.last.fm/music/NAV/_/Tap+(feat.+Meek+Mill)",
+          "duration": "148",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Tension",
+          "url": "https://www.last.fm/music/NAV/_/Tension",
+          "duration": "185",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Price On My Head (feat. The Weeknd)",
+          "url": "https://www.last.fm/music/NAV/_/Price+On+My+Head+(feat.+The+Weeknd)",
+          "duration": "217",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Ralo",
+          "url": "https://www.last.fm/music/NAV/_/Ralo",
+          "duration": "184",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Tussin (feat. Young Thug)",
+          "url": "https://www.last.fm/music/NAV/_/Tussin+(feat.+Young+Thug)",
+          "duration": "179",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Snap",
+          "url": "https://www.last.fm/music/NAV/_/Snap",
+          "duration": "169",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Hold Your Breath (feat. Gunna)",
+          "url": "https://www.last.fm/music/NAV/_/Hold+Your+Breath+(feat.+Gunna)",
+          "duration": "170",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Why You Crying Mama",
+          "url": "https://www.last.fm/music/NAV/_/Why+You+Crying+Mama",
+          "duration": "253",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Time Piece (feat. Lil Durk)",
+          "url": "https://www.last.fm/music/NAV/_/Time+Piece+(feat.+Lil+Durk)",
+          "duration": "206",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Dior Runners",
+          "url": "https://www.last.fm/music/NAV/_/Dior+Runners",
+          "duration": "166",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Vicodin",
+          "url": "https://www.last.fm/music/NAV/_/Vicodin",
+          "duration": "131",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Stuck With Me",
+          "url": "https://www.last.fm/music/NAV/_/Stuck+With+Me",
+          "duration": "170",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Know Me",
+          "url": "https://www.last.fm/music/NAV/_/Know+Me",
+          "duration": "155",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Amazing (feat. Future)",
+          "url": "https://www.last.fm/music/NAV/_/Amazing+(feat.+Future)",
+          "duration": "138",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Habits",
+          "url": "https://www.last.fm/music/NAV/_/Habits",
+          "duration": "204",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Rack In My Sleep (feat. 88GLAM)",
+          "url": "https://www.last.fm/music/NAV/_/Rack+In+My+Sleep+(feat.+88GLAM)",
+          "duration": "160",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Go To Hell",
+          "url": "https://www.last.fm/music/NAV/_/Go+To+Hell",
+          "duration": "128",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "8 To A 4",
+          "url": "https://www.last.fm/music/NAV/_/8+To+A+4",
+          "duration": "165",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Never Know",
+          "url": "https://www.last.fm/music/NAV/_/Never+Know",
+          "duration": "241",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "OK (feat. Lil Durk)",
+          "url": "https://www.last.fm/music/NAV/_/OK+(feat.+Lil+Durk)",
+          "duration": "169",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Athlete",
+          "url": "https://www.last.fm/music/NAV/_/Athlete",
+          "duration": "181",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nav",
+          "url": "https://www.last.fm/tag/nav"
+        },
+        {
+          "name": "Anthony Fantano Not Good",
+          "url": "https://www.last.fm/tag/Anthony+Fantano+Not+Good"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:02.044Z"
+}

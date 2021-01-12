@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Tour 2009 EP",
+    "artist": "Abigail Williams",
+    "url": "https://www.last.fm/music/Abigail+Williams/Tour+2009+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3682aadcd7241cc973e4cca5558ad26.png",
+        "size": ""
+      }
+    ],
+    "listeners": "321",
+    "playcount": "1753",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Am (God) - Demo",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/I+Am+(God)+-+Demo",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "In Death Comes The Great Silence - Demo",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/In+Death+Comes+The+Great+Silence+-+Demo",
+          "duration": "397",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Waiting For The Rain - Instrumental",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Waiting+For+The+Rain+-+Instrumental",
+          "duration": "93",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Infernal Divide - Demo",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Infernal+Divide+-+Demo",
+          "duration": "316",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Floods - Demo",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Floods+-+Demo",
+          "duration": "374",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:38:09.872Z"
+}

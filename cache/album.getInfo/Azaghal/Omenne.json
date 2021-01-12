@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Omenne",
+    "artist": "Azaghal",
+    "url": "https://www.last.fm/music/Azaghal/Omenne",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93204ff718a74a97b1bfbf2d0d9228d1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "150",
+    "playcount": "800",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:28:47.092Z"
+}

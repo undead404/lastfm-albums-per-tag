@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Sinmara",
+    "url": "https://www.last.fm/music/Sinmara/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cad70303affd4ab4a4ad94a0451a8950.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5",
+    "playcount": "91",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Sludge",
+          "url": "https://www.last.fm/tag/Sludge"
+        },
+        {
+          "name": "post metal",
+          "url": "https://www.last.fm/tag/post+metal"
+        },
+        {
+          "name": "hipster black metal",
+          "url": "https://www.last.fm/tag/hipster+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:28:35.893Z"
+}

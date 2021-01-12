@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Son of the Northstar",
+    "artist": "Ildjarn",
+    "mbid": "2b955d76-5ef5-4522-b4fb-fa12b98aa2b4",
+    "url": "https://www.last.fm/music/Ildjarn/Son+of+the+Northstar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3077cff6e3954181c1cd196afd1b32b1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "813",
+    "playcount": "10409",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kronet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Kronet",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Fjerde dag",
+          "url": "https://www.last.fm/music/Ildjarn/_/Fjerde+dag",
+          "duration": "313",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Minnesjord",
+          "url": "https://www.last.fm/music/Ildjarn/_/Minnesjord",
+          "duration": "54",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Mot kveld",
+          "url": "https://www.last.fm/music/Ildjarn/_/Mot+kveld",
+          "duration": "158",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Hafsval",
+          "url": "https://www.last.fm/music/Ildjarn/_/Hafsval",
+          "duration": "114",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:00:59.414Z"
+}

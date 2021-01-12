@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "OBSCURITATEM ADVOCO AMPLECTERE ME (REMASTERED)",
+    "artist": "Abruptum",
+    "url": "https://www.last.fm/music/Abruptum/OBSCURITATEM+ADVOCO+AMPLECTERE+ME+(REMASTERED)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b7b83ff2010ce97f30bfcd7a07fd8d9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "529",
+    "playcount": "1209",
+    "tracks": {
+      "track": [
+        {
+          "name": "Obscuritatem Advoco Amplectere Me - Part I",
+          "url": "https://www.last.fm/music/Abruptum/_/Obscuritatem+Advoco+Amplectere+Me+-+Part+I",
+          "duration": "1531",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Obscuritatem Advoco Amplectere Me (Part II)",
+          "url": "https://www.last.fm/music/Abruptum/_/Obscuritatem+Advoco+Amplectere+Me+(Part+II)",
+          "duration": "1529",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:35:10.138Z"
+}

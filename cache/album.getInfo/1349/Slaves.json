@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Slaves",
+    "artist": "1349",
+    "url": "https://www.last.fm/music/1349/Slaves",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14269e073db44dd4cd87a2865c062111.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14269e073db44dd4cd87a2865c062111.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14269e073db44dd4cd87a2865c062111.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14269e073db44dd4cd87a2865c062111.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14269e073db44dd4cd87a2865c062111.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14269e073db44dd4cd87a2865c062111.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1435",
+    "playcount": "3324",
+    "tracks": {
+      "track": [
+        {
+          "name": "Slaves",
+          "url": "https://www.last.fm/music/1349/_/Slaves",
+          "duration": "293",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "cold",
+          "url": "https://www.last.fm/tag/cold"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:30.368Z"
+}

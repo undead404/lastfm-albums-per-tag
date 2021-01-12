@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "I Fullmånens Dystra Sken",
+    "artist": "Sorhin",
+    "mbid": "de06816f-eee7-4ef1-88c7-84820c312c44",
+    "url": "https://www.last.fm/music/Sorhin/I+Fullm%C3%A5nens+Dystra+Sken",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65ba217c99371a8de09d0838c811ff8f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "113",
+    "playcount": "1108",
+    "tracks": {
+      "track": [
+        {
+          "name": "i fullmånens dystra sken",
+          "url": "https://www.last.fm/music/Sorhin/_/i+fullm%C3%A5nens+dystra+sken",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Den Mörke Härskaren (Svart Lyser Tronen)",
+          "url": "https://www.last.fm/music/Sorhin/_/Den+M%C3%B6rke+H%C3%A4rskaren+(Svart+Lyser+Tronen)",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Ett Fornnordiskt Rike",
+          "url": "https://www.last.fm/music/Sorhin/_/Ett+Fornnordiskt+Rike",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:57:01.990Z"
+}

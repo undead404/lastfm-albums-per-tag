@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Cadejos - Single",
+    "artist": "Mamaleek",
+    "url": "https://www.last.fm/music/Mamaleek/Cadejos+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc9c9c6e937d642be6ba673fee78014.png",
+        "size": ""
+      }
+    ],
+    "listeners": "37",
+    "playcount": "324",
+    "tracks": {
+      "track": [
+        {
+          "name": "Katsina",
+          "url": "https://www.last.fm/music/Mamaleek/_/Katsina",
+          "duration": "183",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Cadejo Negro",
+          "url": "https://www.last.fm/music/Mamaleek/_/Cadejo+Negro",
+          "duration": "327",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        },
+        {
+          "name": "Cadego Blanco",
+          "url": "https://www.last.fm/music/Mamaleek/_/Cadego+Blanco",
+          "duration": "259",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mamaleek",
+            "mbid": "a01ad19a-dfa9-410b-ba22-e8d0cb466c43",
+            "url": "https://www.last.fm/music/Mamaleek"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:43:00.933Z"
+}

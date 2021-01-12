@@ -1,0 +1,265 @@
+{
+  "album": {
+    "name": "Un Lac De Larmes Et De Sang",
+    "artist": "Furia",
+    "mbid": "7de3905a-d7cf-43f4-9a47-41b5d25b389e",
+    "url": "https://www.last.fm/music/Furia/Un+Lac+De+Larmes+Et+De+Sang",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30b33621f1b747628bfe9af6aa3e4cd8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "543",
+    "playcount": "11622",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ferme Les Yeux...",
+          "url": "https://www.last.fm/music/Furia/_/Ferme+Les+Yeux...",
+          "duration": "98",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Un Lac De Larmes Et De Sang",
+          "url": "https://www.last.fm/music/Furia/_/Un+Lac+De+Larmes+Et+De+Sang",
+          "duration": "287",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Elmira, L'image D'un Destin",
+          "url": "https://www.last.fm/music/Furia/_/Elmira,+L%27image+D%27un+Destin",
+          "duration": "244",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Les Révélations D'un Temp Passé",
+          "url": "https://www.last.fm/music/Furia/_/Les+R%C3%A9v%C3%A9lations+D%27un+Temp+Pass%C3%A9",
+          "duration": "262",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Auto-psy D'un Damné",
+          "url": "https://www.last.fm/music/Furia/_/Auto-psy+D%27un+Damn%C3%A9",
+          "duration": "250",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Mécanique De L'infamie",
+          "url": "https://www.last.fm/music/Furia/_/M%C3%A9canique+De+L%27infamie",
+          "duration": "92",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Le Jugement D'une Conscience",
+          "url": "https://www.last.fm/music/Furia/_/Le+Jugement+D%27une+Conscience",
+          "duration": "263",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Les Deux Mondes...",
+          "url": "https://www.last.fm/music/Furia/_/Les+Deux+Mondes...",
+          "duration": "253",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Mental En Perdition",
+          "url": "https://www.last.fm/music/Furia/_/Mental+En+Perdition",
+          "duration": "78",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Mémoires D'outre-Tombe",
+          "url": "https://www.last.fm/music/Furia/_/M%C3%A9moires+D%27outre-Tombe",
+          "duration": "225",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Gaïlen...",
+          "url": "https://www.last.fm/music/Furia/_/Ga%C3%AFlen...",
+          "duration": "257",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "... l'oratoire de la folie",
+          "url": "https://www.last.fm/music/Furia/_/...+l%27oratoire+de+la+folie",
+          "duration": "286",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "La Mort de l'Âme",
+          "url": "https://www.last.fm/music/Furia/_/La+Mort+de+l%27%C3%82me",
+          "duration": "145",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:25:46.104Z"
+}

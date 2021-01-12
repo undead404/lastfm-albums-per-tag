@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Pestilence Shall Come",
+    "artist": "Advent Sorrow",
+    "url": "https://www.last.fm/music/Advent+Sorrow/Pestilence+Shall+Come",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c2a0da5fc069a9903d5d6c3054b0ba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5091",
+    "playcount": "19629",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pestilence Shall Come",
+          "url": "https://www.last.fm/music/Advent+Sorrow/_/Pestilence+Shall+Come",
+          "duration": "352",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Advent Sorrow",
+            "mbid": "bc5a782a-659d-4597-bacd-8305b88c2a89",
+            "url": "https://www.last.fm/music/Advent+Sorrow"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:23:51.270Z"
+}

@@ -1,0 +1,239 @@
+{
+  "album": {
+    "name": "The Ark Work",
+    "artist": "Liturgy",
+    "url": "https://www.last.fm/music/Liturgy/The+Ark+Work",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2213cce820714080c000c7b74d258199.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2213cce820714080c000c7b74d258199.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2213cce820714080c000c7b74d258199.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2213cce820714080c000c7b74d258199.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2213cce820714080c000c7b74d258199.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2213cce820714080c000c7b74d258199.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17641",
+    "playcount": "326713",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fanfare",
+          "url": "https://www.last.fm/music/Liturgy/_/Fanfare",
+          "duration": "141",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Follow",
+          "url": "https://www.last.fm/music/Liturgy/_/Follow",
+          "duration": "210",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Kel Valhaal",
+          "url": "https://www.last.fm/music/Liturgy/_/Kel+Valhaal",
+          "duration": "430",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Follow II",
+          "url": "https://www.last.fm/music/Liturgy/_/Follow+II",
+          "duration": "449",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Quetzalcoatl",
+          "url": "https://www.last.fm/music/Liturgy/_/Quetzalcoatl",
+          "duration": "287",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Father Vorizen",
+          "url": "https://www.last.fm/music/Liturgy/_/Father+Vorizen",
+          "duration": "358",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Haelegen",
+          "url": "https://www.last.fm/music/Liturgy/_/Haelegen",
+          "duration": "242",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Reign Array",
+          "url": "https://www.last.fm/music/Liturgy/_/Reign+Array",
+          "duration": "695",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Vitriol",
+          "url": "https://www.last.fm/music/Liturgy/_/Vitriol",
+          "duration": "321",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Total War",
+          "url": "https://www.last.fm/music/Liturgy/_/Total+War",
+          "duration": "305",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "transcendental black metal",
+          "url": "https://www.last.fm/tag/transcendental+black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "Experimental Rock",
+          "url": "https://www.last.fm/tag/Experimental+Rock"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Dec 2019, 03:40",
+      "summary": "Liturgy is a Brooklyn-based, self-styled “Transcendental Black Metal” band whose yearning, energetic music exists in an uncanny space between avant rock, black metal, fine art and shamanic ritual. Led by songwriter and conceptual architect Hunter Hunt-Hendrix, who is joined by guitarist Bernard Gann, bassist Tyler Dusenbury and drummer Greg Fox, the band exists as a 21st century total work of art (gesamtkunstwerk): activating divine potencies <a href=\"http://www.last.fm/music/Liturgy/The+Ark+Work\">Read more on Last.fm</a>.",
+      "content": "Liturgy is a Brooklyn-based, self-styled “Transcendental Black Metal” band whose yearning, energetic music exists in an uncanny space between avant rock, black metal, fine art and shamanic ritual. Led by songwriter and conceptual architect Hunter Hunt-Hendrix, who is joined by guitarist Bernard Gann, bassist Tyler Dusenbury and drummer Greg Fox, the band exists as a 21st century total work of art (gesamtkunstwerk): activating divine potencies by means of music and culture even as it underscores the contradictions inherent in such a project during the internet era.  Their third full length, The Ark Work, is a quantum leap forward, a radical change in sound that paradoxically sounds more like Liturgy than ever.\n\nThe album hums and churns with Hunt-Hendrix’s inventive arrangements - drenched with glockenspiels, bagpipes, strings, ritual chanting, and MIDI horns. It supplements its metal energy with motifs from unlikely, disparate genres; cross-fertilizing hardstyle beats, occult-oriented rap, and the glitched re-sampling of IDM and with structures from Medieval sacred music, Romantic classical music, and minimalism. The result is a rich, seething cyber-fantasia that is improbably listenable, conveying the disarming, authentic emotion that is Liturgy’s hallmark - a blend of startling invention, high caliber musicianship, raw energy, and profound, cosmic sadness. \n\nLiturgy began as the solo project of Hunter Hunt-Hendrix, who remains their sole songwriter.  After a few self-released cassettes, the project began in earnest with the release of the Immortal Life EP (2008) and the crystallization of the aims to adapt black metal’s typical genre markers – including blast beat drumming and rapid tremolo picking – along new, life affirming lines of artistic development, and to treat a rock band as a real-time visionary performance/art/life project. The band expanded to its current quartet for the recording of Renihilation (2009). Their fervid and cohesive live presence, in particular Fox’s unorthodox and dynamic drumming, quickly earned them a following both in the global metal underground and the Brooklyn art punk scene. Controversy erupted, along with interest from the wider world, around the companion piece to Renihilation: the text Transcendental Black Metal: A Vision of Apocalyptic Humanism, which Hunt-Hendrix delivered at the now-legendary Hideous Gnosis Black Metal Theory symposium that year. \n\nWith the release of 2011’s Aesthethica, the friction between Liturgy’s multiple worlds sparked and caught fire. Liturgy crossed over to perform to huge crowds at major festivals and at art institutions, including MoMA, where Hunt-Hendrix delivered his manifesto next to a Joseph Beuys sculpture. Aesthethica was listed as Spin’s top metal album of the year and featured on two different New York Times lists for top 10 albums of 2011 while the band graced the cover of Metal Hammer’s Subterranea magazine.  For the next two years the live band functioned as a duo while Hunt-Hendrix began the long process of composing what would become The Ark Work.  In 2014, Fox and Dusenbury returned to record the album along with Hunt-Hendrix and Gann, adding their dynamic energy to the mix.  The result is the first true sonic realization of Transcendental Black Metal: a musically cohesive alchemical fusion, an artistically reflexive work of theandery, and a mind-bending album that is as original as it is beautiful. <a href=\"http://www.last.fm/music/Liturgy/The+Ark+Work\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:23:11.339Z"
+}

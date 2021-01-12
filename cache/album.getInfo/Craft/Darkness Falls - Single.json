@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Darkness Falls - Single",
+    "artist": "Craft",
+    "url": "https://www.last.fm/music/Craft/Darkness+Falls+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aac59c5f46a8aeb0732b854428e6da77.png",
+        "size": ""
+      }
+    ],
+    "listeners": "27",
+    "playcount": "36",
+    "tracks": {
+      "track": [
+        {
+          "name": "Darkness Falls",
+          "url": "https://www.last.fm/music/Craft/_/Darkness+Falls",
+          "duration": "290",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:25.798Z"
+}

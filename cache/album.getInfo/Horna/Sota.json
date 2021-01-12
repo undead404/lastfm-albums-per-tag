@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Sota",
+    "artist": "Horna",
+    "mbid": "31f14b05-2fab-4802-8d3b-8063cd486f44",
+    "url": "https://www.last.fm/music/Horna/Sota",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8409768fe7254b63a54a769cfe58033f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8409768fe7254b63a54a769cfe58033f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8409768fe7254b63a54a769cfe58033f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8409768fe7254b63a54a769cfe58033f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8409768fe7254b63a54a769cfe58033f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8409768fe7254b63a54a769cfe58033f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1079",
+    "playcount": "6919",
+    "tracks": {
+      "track": [
+        {
+          "name": "Yhdeksän yö",
+          "url": "https://www.last.fm/music/Horna/_/Yhdeks%C3%A4n+y%C3%B6",
+          "duration": "468",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horna",
+            "mbid": "4fa62d5a-89aa-4a5e-b383-b29396eb5c94",
+            "url": "https://www.last.fm/music/Horna"
+          }
+        },
+        {
+          "name": "Haudankylmyyden maille",
+          "url": "https://www.last.fm/music/Horna/_/Haudankylmyyden+maille",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horna",
+            "mbid": "4fa62d5a-89aa-4a5e-b383-b29396eb5c94",
+            "url": "https://www.last.fm/music/Horna"
+          }
+        },
+        {
+          "name": "Sota",
+          "url": "https://www.last.fm/music/Horna/_/Sota",
+          "duration": "165",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Horna",
+            "mbid": "4fa62d5a-89aa-4a5e-b383-b29396eb5c94",
+            "url": "https://www.last.fm/music/Horna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:23:49.497Z"
+}

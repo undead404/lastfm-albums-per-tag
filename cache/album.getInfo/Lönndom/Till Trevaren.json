@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Till Trevaren",
+    "artist": "Lönndom",
+    "mbid": "1a190afc-2aad-4061-a3ad-fc1ad3a67f53",
+    "url": "https://www.last.fm/music/L%C3%B6nndom/Till+Trevaren",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/362cc04963fc4828c8e3dd5f38b82ac1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "653",
+    "playcount": "10908",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Intro",
+          "duration": "123",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "I Fallet",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/I+Fallet",
+          "duration": "353",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "En Stillastående Vandring",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/En+Stillast%C3%A5ende+Vandring",
+          "duration": "303",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Bårgå",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/B%C3%A5rg%C3%A5",
+          "duration": "226",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Outro",
+          "duration": "63",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:58:06.059Z"
+}

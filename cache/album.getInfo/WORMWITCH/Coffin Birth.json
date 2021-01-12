@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Coffin Birth",
+    "artist": "WORMWITCH",
+    "url": "https://www.last.fm/music/WORMWITCH/Coffin+Birth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65fd7c3938c53d2349e416bfd1d32e7b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "130",
+    "tracks": {
+      "track": [
+        {
+          "name": "Coffin Birth",
+          "url": "https://www.last.fm/music/WORMWITCH/_/Coffin+Birth",
+          "duration": "270",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "WORMWITCH",
+            "url": "https://www.last.fm/music/WORMWITCH"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:55:12.242Z"
+}

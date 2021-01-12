@@ -1,0 +1,219 @@
+{
+  "album": {
+    "name": "Hamptjärn",
+    "artist": "Woods of Infinity",
+    "mbid": "9f849cb1-7104-4abb-b665-9e0552792b14",
+    "url": "https://www.last.fm/music/Woods+of+Infinity/Hamptj%C3%A4rn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2ce3adef0592d400cf5186e7a314b43.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2604",
+    "playcount": "74212",
+    "tracks": {
+      "track": [
+        {
+          "name": "Elvira",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Elvira",
+          "duration": "457",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Väsendet",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/V%C3%A4sendet",
+          "duration": "269",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Iakttagen",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Iakttagen",
+          "duration": "366",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Likgiltig",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Likgiltig",
+          "duration": "123",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Avgrund",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Avgrund",
+          "duration": "224",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Stilla",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Stilla",
+          "duration": "347",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Första augusti",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/F%C3%B6rsta+augusti",
+          "duration": "374",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Ending Existence",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Ending+Existence",
+          "duration": "272",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "World of Lost Innocense",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/World+of+Lost+Innocense",
+          "duration": "246",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Älskog på Olika Villkor",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/%C3%84lskog+p%C3%A5+Olika+Villkor",
+          "duration": "565",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:11:16.033Z"
+}

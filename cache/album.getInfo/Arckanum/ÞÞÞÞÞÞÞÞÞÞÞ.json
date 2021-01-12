@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "ÞÞÞÞÞÞÞÞÞÞÞ",
+    "artist": "Arckanum",
+    "mbid": "2a9e9124-f415-45b6-be67-745282973b8a",
+    "url": "https://www.last.fm/music/Arckanum/%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64ef565d3d544d6f919eb320ebf6f655.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17355",
+    "playcount": "514432",
+    "tracks": {
+      "track": [
+        {
+          "name": "Þórhati",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9E%C3%B3rhati",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þann Svartís",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eann+Svart%C3%ADs",
+          "duration": "246",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þyrpas Ulfar",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eyrpas+Ulfar",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þursvitnir",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eursvitnir",
+          "duration": "351",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þyrstr",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eyrstr",
+          "duration": "94",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þjóbaugvittr",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Ej%C3%B3baugvittr",
+          "duration": "285",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þjazagaldr",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Ejazagaldr",
+          "duration": "294",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þá Kómu Niflstormum",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9E%C3%A1+K%C3%B3mu+Niflstormum",
+          "duration": "467",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þrúðkyn",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Er%C3%BA%C3%B0kyn",
+          "duration": "269",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þríandi",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Er%C3%ADandi",
+          "duration": "255",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Þyteitr",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eyteitr",
+          "duration": "167",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Sep 2009, 07:29",
+      "summary": "Full-length, Debemur Morti Productions\nMay 29th, 2009\n\nCD:\nReleased as a 6-panel digifile CD, first batch comes as a black polycarbonate\nedition CD.\n\n12\" gatefold LP:\n1st press 500 copies, reverseboard jacket with spot uv gloss: 250 white , 250 white with red splatter\n2nd press 500 copies, regular jacket: black vinyl\n\nRecorded at Stage One Studio in February of 2009. <a href=\"http://www.last.fm/music/Arckanum/%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E\">Read more on Last.fm</a>.",
+      "content": "Full-length, Debemur Morti Productions\nMay 29th, 2009\n\nCD:\nReleased as a 6-panel digifile CD, first batch comes as a black polycarbonate\nedition CD.\n\n12\" gatefold LP:\n1st press 500 copies, reverseboard jacket with spot uv gloss: 250 white , 250 white with red splatter\n2nd press 500 copies, regular jacket: black vinyl\n\nRecorded at Stage One Studio in February of 2009. <a href=\"http://www.last.fm/music/Arckanum/%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E%C3%9E\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:27:56.047Z"
+}

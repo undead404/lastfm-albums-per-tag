@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Heidegger",
+    "artist": "Judas Iscariot",
+    "mbid": "0de9b249-805f-478b-b314-9031127c68e5",
+    "url": "https://www.last.fm/music/Judas+Iscariot/Heidegger",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4417db6a5acc08ebed20cbde1c07cab.png",
+        "size": ""
+      }
+    ],
+    "listeners": "224",
+    "playcount": "1528",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Intro",
+          "duration": "112",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Wrath",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Wrath",
+          "duration": "179",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Reign",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Reign",
+          "duration": "200",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:46:36.538Z"
+}

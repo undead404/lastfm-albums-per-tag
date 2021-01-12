@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Split",
+    "artist": "Akitsa",
+    "url": "https://www.last.fm/music/Akitsa/Split",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b23ecfee01d049eebcc04a0b941e6f23.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1128",
+    "playcount": "9676",
+    "tracks": {
+      "track": [
+        {
+          "name": "Terre éternelle",
+          "url": "https://www.last.fm/music/Akitsa/_/Terre+%C3%A9ternelle",
+          "duration": "893",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Goétie",
+          "url": "https://www.last.fm/music/Akitsa/_/Go%C3%A9tie",
+          "duration": "334",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Fossil",
+          "url": "https://www.last.fm/music/Akitsa/_/Fossil",
+          "duration": "1809",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:03:28.513Z"
+}

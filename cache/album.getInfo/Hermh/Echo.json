@@ -1,0 +1,193 @@
+{
+  "album": {
+    "name": "Echo",
+    "artist": "Hermh",
+    "mbid": "3a4f9947-194d-41df-8cb6-4616e597c1fd",
+    "url": "https://www.last.fm/music/Hermh/Echo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e2823db27de45fbafdeafc9deb8bd85.png",
+        "size": ""
+      }
+    ],
+    "listeners": "283",
+    "playcount": "4135",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fallen Ancient Babyloon",
+          "url": "https://www.last.fm/music/Hermh/_/Fallen+Ancient+Babyloon",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Neverending War",
+          "url": "https://www.last.fm/music/Hermh/_/Neverending+War",
+          "duration": "381",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "The Burning Bush",
+          "url": "https://www.last.fm/music/Hermh/_/The+Burning+Bush",
+          "duration": "374",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Troubled Outlines",
+          "url": "https://www.last.fm/music/Hermh/_/Troubled+Outlines",
+          "duration": "482",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Crying Crowns of Trees",
+          "url": "https://www.last.fm/music/Hermh/_/Crying+Crowns+of+Trees",
+          "duration": "463",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Hermh",
+          "url": "https://www.last.fm/music/Hermh/_/Hermh",
+          "duration": "384",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Years of Dying",
+          "url": "https://www.last.fm/music/Hermh/_/Years+of+Dying",
+          "duration": "249",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        },
+        {
+          "name": "Wolfish Flower",
+          "url": "https://www.last.fm/music/Hermh/_/Wolfish+Flower",
+          "duration": "174",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hermh",
+            "mbid": "a892e140-0f48-477b-bdbc-bb5bf1adcb3e",
+            "url": "https://www.last.fm/music/Hermh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "polish",
+          "url": "https://www.last.fm/tag/polish"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "polish black metal",
+          "url": "https://www.last.fm/tag/polish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:28:57.206Z"
+}

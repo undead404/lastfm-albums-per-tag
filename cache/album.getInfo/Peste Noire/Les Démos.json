@@ -1,0 +1,367 @@
+{
+  "album": {
+    "name": "Les Démos",
+    "artist": "Peste Noire",
+    "mbid": "556acf8f-f698-49ed-b424-ddd87ea19021",
+    "url": "https://www.last.fm/music/Peste+Noire/Les+D%C3%A9mos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/62765a78d678469783ee3899b675e7c4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/62765a78d678469783ee3899b675e7c4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/62765a78d678469783ee3899b675e7c4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62765a78d678469783ee3899b675e7c4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62765a78d678469783ee3899b675e7c4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62765a78d678469783ee3899b675e7c4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1209",
+    "playcount": "38365",
+    "tracks": {
+      "track": [
+        {
+          "name": "Royaume d'occident",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Royaume+d%27occident",
+          "duration": "191",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Les Camps de la Mort",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Les+Camps+de+la+Mort",
+          "duration": "87",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Gisant Dans la Putréfaction",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Gisant+Dans+la+Putr%C3%A9faction",
+          "duration": "229",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "A. Supremacy",
+          "url": "https://www.last.fm/music/Peste+Noire/_/A.+Supremacy",
+          "duration": "189",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Gisant Dans la Putréfaction",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Gisant+Dans+la+Putr%C3%A9faction",
+          "duration": "229",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "A. Supremacy",
+          "url": "https://www.last.fm/music/Peste+Noire/_/A.+Supremacy",
+          "duration": "189",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Intro",
+          "duration": "99",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Le Mort Joyeux",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Le+Mort+Joyeux",
+          "duration": "280",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Prélude",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Pr%C3%A9lude",
+          "duration": "59",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "666 Millions D'esclaves Et De Déchets",
+          "url": "https://www.last.fm/music/Peste+Noire/_/666+Millions+D%27esclaves+Et+De+D%C3%A9chets",
+          "duration": "454",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Spleen",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Spleen",
+          "duration": "347",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "J'éjaculerai sur vos Décombres Fumants",
+          "url": "https://www.last.fm/music/Peste+Noire/_/J%27%C3%A9jaculerai+sur+vos+D%C3%A9combres+Fumants",
+          "duration": "368",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Retour De Flamme",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Retour+De+Flamme",
+          "duration": "276",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Hôpital",
+          "url": "https://www.last.fm/music/Peste+Noire/_/H%C3%B4pital",
+          "duration": "142",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Sérénade De Verlaine",
+          "url": "https://www.last.fm/music/Peste+Noire/_/S%C3%A9r%C3%A9nade+De+Verlaine",
+          "duration": "274",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Phalènes et Pestilence",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Phal%C3%A8nes+et+Pestilence",
+          "duration": "961",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Dueil Angoisseus",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Dueil+Angoisseus",
+          "duration": "663",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "L'hymne en l'honneur de la peste",
+          "url": "https://www.last.fm/music/Peste+Noire/_/L%27hymne+en+l%27honneur+de+la+peste",
+          "duration": "441",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Phalènes Et Pestilence - Salvatrice Averse",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Phal%C3%A8nes+Et+Pestilence+-+Salvatrice+Averse",
+          "duration": "706",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:13:52.813Z"
+}

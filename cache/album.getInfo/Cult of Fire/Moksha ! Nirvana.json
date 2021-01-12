@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Moksha / Nirvana",
+    "artist": "Cult of Fire",
+    "url": "https://www.last.fm/music/Cult+of+Fire/Moksha+%2F+Nirvana",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/721755860c58b95a64da0ffac6676a57.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/721755860c58b95a64da0ffac6676a57.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/721755860c58b95a64da0ffac6676a57.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/721755860c58b95a64da0ffac6676a57.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/721755860c58b95a64da0ffac6676a57.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/721755860c58b95a64da0ffac6676a57.png",
+        "size": ""
+      }
+    ],
+    "listeners": "39",
+    "playcount": "501",
+    "tracks": {
+      "track": [
+        {
+          "name": "Zrození výjimečného",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Zrozen%C3%AD+v%C3%BDjime%C4%8Dn%C3%A9ho",
+          "duration": "574",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Město Mrtvých",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/M%C4%9Bsto+Mrtv%C3%BDch",
+          "duration": "352",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "(ne)Čistý",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/(ne)%C4%8Cist%C3%BD",
+          "duration": "400",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Har Har Mahadev",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Har+Har+Mahadev",
+          "duration": "373",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Mokša",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Mok%C5%A1a",
+          "duration": "359",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Buddha 1",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Buddha+1",
+          "duration": "542",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Buddha 2",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Buddha+2",
+          "duration": "378",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Buddha 3",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Buddha+3",
+          "duration": "364",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Buddha 4",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Buddha+4",
+          "duration": "366",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "Buddha 5",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/Buddha+5",
+          "duration": "347",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:09:11.036Z"
+}

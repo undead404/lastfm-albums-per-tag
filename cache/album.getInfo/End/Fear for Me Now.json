@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Fear for Me Now",
+    "artist": "End",
+    "url": "https://www.last.fm/music/End/Fear+for+Me+Now",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb465645547e7905f88d97702be3cdab.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb465645547e7905f88d97702be3cdab.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb465645547e7905f88d97702be3cdab.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb465645547e7905f88d97702be3cdab.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb465645547e7905f88d97702be3cdab.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb465645547e7905f88d97702be3cdab.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1998",
+    "playcount": "9448",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fear for Me Now",
+          "url": "https://www.last.fm/music/End/_/Fear+for+Me+Now",
+          "duration": "120",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Covet Not",
+          "url": "https://www.last.fm/music/End/_/Covet+Not",
+          "duration": "183",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Pariah",
+          "url": "https://www.last.fm/music/End/_/Pariah",
+          "duration": "209",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:28:00.816Z"
+}

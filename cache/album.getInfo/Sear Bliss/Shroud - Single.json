@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Shroud - Single",
+    "artist": "Sear Bliss",
+    "url": "https://www.last.fm/music/Sear+Bliss/Shroud+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fce9384fc256d1aeced4645cdd3682d4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "16",
+    "playcount": "22",
+    "tracks": {
+      "track": [
+        {
+          "name": "Shroud",
+          "url": "https://www.last.fm/music/Sear+Bliss/_/Shroud",
+          "duration": "427",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sear Bliss",
+            "mbid": "839b029c-e20e-4ebd-997f-9696c3d63a9a",
+            "url": "https://www.last.fm/music/Sear+Bliss"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:34:09.461Z"
+}

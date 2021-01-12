@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Under the Black Sun",
+    "artist": "Judas Iscariot",
+    "mbid": "73d3d82e-85ae-3c93-b1c2-9f8edc8136dc",
+    "url": "https://www.last.fm/music/Judas+Iscariot/Under+the+Black+Sun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/debec0738e5848129b98fcf1804b23ef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/debec0738e5848129b98fcf1804b23ef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/debec0738e5848129b98fcf1804b23ef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debec0738e5848129b98fcf1804b23ef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debec0738e5848129b98fcf1804b23ef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/debec0738e5848129b98fcf1804b23ef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1418",
+    "playcount": "14646",
+    "tracks": {
+      "track": [
+        {
+          "name": "Babylon in Ruin",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Babylon+in+Ruin",
+          "duration": "407",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "The Black Clouds Roll Under the Parapet of the Sky",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/The+Black+Clouds+Roll+Under+the+Parapet+of+the+Sky",
+          "duration": "372",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "The Heavens Drop with Human Gore",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/The+Heavens+Drop+with+Human+Gore",
+          "duration": "349",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Spill The Blood Of The Lamb",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Spill+The+Blood+Of+The+Lamb",
+          "duration": "238",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Karmageddon (Nargaroth cover)",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Karmageddon+(Nargaroth+cover)",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Black Eternal Winds (Unreleased Bonus Studio Track)",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Black+Eternal+Winds+(Unreleased+Bonus+Studio+Track)",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:46:24.670Z"
+}

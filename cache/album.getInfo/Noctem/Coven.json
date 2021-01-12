@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Coven",
+    "artist": "Noctem",
+    "url": "https://www.last.fm/music/Noctem/Coven",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c427b4f8c4a657a2d2bc36aba16ee294.png",
+        "size": ""
+      }
+    ],
+    "listeners": "355",
+    "playcount": "569",
+    "tracks": {
+      "track": [
+        {
+          "name": "Coven",
+          "url": "https://www.last.fm/music/Noctem/_/Coven",
+          "duration": "287",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Noctem",
+            "mbid": "096f4a0c-d7e4-4bbe-8617-92c938566e2b",
+            "url": "https://www.last.fm/music/Noctem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:01:30.737Z"
+}

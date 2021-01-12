@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Grimoire",
+    "artist": "Gloomy Grim",
+    "url": "https://www.last.fm/music/Gloomy+Grim/Grimoire",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6f544e4c3eee79b807255b9bfa6e893.png",
+        "size": ""
+      }
+    ],
+    "listeners": "14",
+    "playcount": "164",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rise of the Great Beast",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Rise+of+the+Great+Beast",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "The Mist",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/The+Mist",
+          "duration": "310",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Beyond the Hate",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Beyond+the+Hate",
+          "duration": "287",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "Trapped in Eternal Darkness",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/Trapped+in+Eternal+Darkness",
+          "duration": "245",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:47:39.184Z"
+}

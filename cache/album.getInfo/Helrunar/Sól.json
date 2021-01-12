@@ -1,0 +1,304 @@
+{
+  "album": {
+    "name": "Sól",
+    "artist": "Helrunar",
+    "mbid": "891b7fa9-478e-43e6-b232-82806972876b",
+    "url": "https://www.last.fm/music/Helrunar/S%C3%B3l",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b307ce596614496fa6d1c55093e194f4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b307ce596614496fa6d1c55093e194f4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b307ce596614496fa6d1c55093e194f4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b307ce596614496fa6d1c55093e194f4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b307ce596614496fa6d1c55093e194f4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b307ce596614496fa6d1c55093e194f4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2666",
+    "playcount": "62657",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gefrierpunkt",
+          "url": "https://www.last.fm/music/Helrunar/_/Gefrierpunkt",
+          "duration": "56",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Kollapsar",
+          "url": "https://www.last.fm/music/Helrunar/_/Kollapsar",
+          "duration": "457",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Unter dem Gletscher",
+          "url": "https://www.last.fm/music/Helrunar/_/Unter+dem+Gletscher",
+          "duration": "505",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Nebelspinne",
+          "url": "https://www.last.fm/music/Helrunar/_/Nebelspinne",
+          "duration": "503",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Praeludium Eclipsis",
+          "url": "https://www.last.fm/music/Helrunar/_/Praeludium+Eclipsis",
+          "duration": "192",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Tiefer als der Tag",
+          "url": "https://www.last.fm/music/Helrunar/_/Tiefer+als+der+Tag",
+          "duration": "507",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Nur Fragmente...",
+          "url": "https://www.last.fm/music/Helrunar/_/Nur+Fragmente...",
+          "duration": "132",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Ende 1.3",
+          "url": "https://www.last.fm/music/Helrunar/_/Ende+1.3",
+          "duration": "313",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Europa nach dem Eis",
+          "url": "https://www.last.fm/music/Helrunar/_/Europa+nach+dem+Eis",
+          "duration": "126",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Aschevolk",
+          "url": "https://www.last.fm/music/Helrunar/_/Aschevolk",
+          "duration": "591",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Die Mühle",
+          "url": "https://www.last.fm/music/Helrunar/_/Die+M%C3%BChle",
+          "duration": "349",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Rattenkönig",
+          "url": "https://www.last.fm/music/Helrunar/_/Rattenk%C3%B6nig",
+          "duration": "651",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Moorgänger",
+          "url": "https://www.last.fm/music/Helrunar/_/Moorg%C3%A4nger",
+          "duration": "387",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Lichtmess",
+          "url": "https://www.last.fm/music/Helrunar/_/Lichtmess",
+          "duration": "124",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Sól",
+          "url": "https://www.last.fm/music/Helrunar/_/S%C3%B3l",
+          "duration": "655",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:25.536Z"
+}

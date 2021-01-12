@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Omen",
+    "artist": "Antestor",
+    "mbid": "0fbbf1ae-c3db-4e1f-9dd3-d0c527bc44d6",
+    "url": "https://www.last.fm/music/Antestor/Omen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf05966f478549faa953e84165e8f890.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf05966f478549faa953e84165e8f890.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf05966f478549faa953e84165e8f890.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf05966f478549faa953e84165e8f890.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf05966f478549faa953e84165e8f890.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf05966f478549faa953e84165e8f890.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2106",
+    "playcount": "46523",
+    "tracks": {
+      "track": [
+        {
+          "name": "Treacherous Domain",
+          "url": "https://www.last.fm/music/Antestor/_/Treacherous+Domain",
+          "duration": "333",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Unchained",
+          "url": "https://www.last.fm/music/Antestor/_/Unchained",
+          "duration": "236",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "In Solitude",
+          "url": "https://www.last.fm/music/Antestor/_/In+Solitude",
+          "duration": "274",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "The Kindling",
+          "url": "https://www.last.fm/music/Antestor/_/The+Kindling",
+          "duration": "325",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Remnants",
+          "url": "https://www.last.fm/music/Antestor/_/Remnants",
+          "duration": "361",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "All Towers Must Fall",
+          "url": "https://www.last.fm/music/Antestor/_/All+Towers+Must+Fall",
+          "duration": "408",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Torn Apart",
+          "url": "https://www.last.fm/music/Antestor/_/Torn+Apart",
+          "duration": "258",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Tilflukt",
+          "url": "https://www.last.fm/music/Antestor/_/Tilflukt",
+          "duration": "222",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Benighted",
+          "url": "https://www.last.fm/music/Antestor/_/Benighted",
+          "duration": "291",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        },
+        {
+          "name": "Mørkets Grøde",
+          "url": "https://www.last.fm/music/Antestor/_/M%C3%B8rkets+Gr%C3%B8de",
+          "duration": "359",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antestor",
+            "mbid": "fc27a448-babb-4b95-911f-e5a285d72b4e",
+            "url": "https://www.last.fm/music/Antestor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "UnBlack Metal",
+          "url": "https://www.last.fm/tag/UnBlack+Metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Dec 2012, 22:15",
+      "summary": "Released in 2012 on Bombworks Records, Omen is Antestor's fourth full-length album.  They have also released a demo, two EPs, and a compilation album.  The album was recorded by Antestor in Isolation Room Studios from August 2011 until July 2012.  It was mixed and mastered by Erik Tordsson at Solid Mix Studios.  The band managed to accomplish this without a budget.  The album artwork is by Zdzislaw Beksinski, and the album design was conceived by Vegar Bakken.  Band photography was done by Ina Anett Husom Larsen. <a href=\"http://www.last.fm/music/Antestor/Omen\">Read more on Last.fm</a>.",
+      "content": "Released in 2012 on Bombworks Records, Omen is Antestor's fourth full-length album.  They have also released a demo, two EPs, and a compilation album.  The album was recorded by Antestor in Isolation Room Studios from August 2011 until July 2012.  It was mixed and mastered by Erik Tordsson at Solid Mix Studios.  The band managed to accomplish this without a budget.  The album artwork is by Zdzislaw Beksinski, and the album design was conceived by Vegar Bakken.  Band photography was done by Ina Anett Husom Larsen.\n\nThe personnel for Omen is as follows:\n\nRonny Hansen - Vocals\nLars Stokstad - Guitars, backing vocals\nRobert Bordevik - Lead guitars, backing vocals\nNickolas Main Henriksen - Keyboards\nJo Henning Børven -  Drums\nErik Normann Aanonsen - Electric bass, acoustic guitar, double bass, Ebow\nThor Georg Buer - Guitars\n\nAccording to the album jacket, \"No Trolls were harmed during the recording of this album.\" <a href=\"http://www.last.fm/music/Antestor/Omen\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:23:00.484Z"
+}

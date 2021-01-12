@@ -1,0 +1,176 @@
+{
+  "album": {
+    "name": "I Iść Dalej",
+    "artist": "Gruzja",
+    "url": "https://www.last.fm/music/Gruzja/I+I%C5%9B%C4%87+Dalej",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bb4de0adf5d5d48845934a503390c380.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bb4de0adf5d5d48845934a503390c380.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bb4de0adf5d5d48845934a503390c380.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb4de0adf5d5d48845934a503390c380.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb4de0adf5d5d48845934a503390c380.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb4de0adf5d5d48845934a503390c380.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1494",
+    "playcount": "41899",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gruzini",
+          "url": "https://www.last.fm/music/Gruzja/_/Gruzini",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Moja Ratyzbona",
+          "url": "https://www.last.fm/music/Gruzja/_/Moja+Ratyzbona",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Opuść mnie",
+          "url": "https://www.last.fm/music/Gruzja/_/Opu%C5%9B%C4%87+mnie",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Manam",
+          "url": "https://www.last.fm/music/Gruzja/_/Manam",
+          "duration": "290",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Jego głos",
+          "url": "https://www.last.fm/music/Gruzja/_/Jego+g%C5%82os",
+          "duration": "188",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Ilu nas było?",
+          "url": "https://www.last.fm/music/Gruzja/_/Ilu+nas+by%C5%82o%3F",
+          "duration": "280",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        },
+        {
+          "name": "Iść dalej",
+          "url": "https://www.last.fm/music/Gruzja/_/I%C5%9B%C4%87+dalej",
+          "duration": "260",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gruzja",
+            "url": "https://www.last.fm/music/Gruzja"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dziewczyny",
+          "url": "https://www.last.fm/tag/dziewczyny"
+        },
+        {
+          "name": "diabel",
+          "url": "https://www.last.fm/tag/diabel"
+        },
+        {
+          "name": "przeciw galeriom handlowym",
+          "url": "https://www.last.fm/tag/przeciw+galeriom+handlowym"
+        },
+        {
+          "name": "przeciw estetyzacji",
+          "url": "https://www.last.fm/tag/przeciw+estetyzacji"
+        },
+        {
+          "name": "bocznice kolejowe",
+          "url": "https://www.last.fm/tag/bocznice+kolejowe"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:51:13.692Z"
+}

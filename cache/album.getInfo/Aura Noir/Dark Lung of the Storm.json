@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Dark Lung of the Storm",
+    "artist": "Aura Noir",
+    "url": "https://www.last.fm/music/Aura+Noir/Dark+Lung+of+the+Storm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/684e0bb19472bdba1e8e1a98891bb9b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "906",
+    "playcount": "1661",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dark Lung Of The Storm",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Dark+Lung+Of+The+Storm",
+          "duration": "206",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:04.728Z"
+}

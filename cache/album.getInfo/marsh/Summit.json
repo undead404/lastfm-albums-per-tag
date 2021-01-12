@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Summit",
+    "artist": "marsh",
+    "url": "https://www.last.fm/music/marsh/Summit",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "50",
+    "playcount": "253",
+    "tracks": {
+      "track": [
+        {
+          "name": "Summit",
+          "url": "https://www.last.fm/music/marsh/_/Summit",
+          "duration": "324",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Summit - Extended Mix",
+          "url": "https://www.last.fm/music/marsh/_/Summit+-+Extended+Mix",
+          "duration": "324",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:46:54.176Z"
+}

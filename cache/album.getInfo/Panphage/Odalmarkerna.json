@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Odalmarkerna",
+    "artist": "Panphage",
+    "url": "https://www.last.fm/music/Panphage/Odalmarkerna",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79f9faad7c92a34fe515352eb76e88d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "427",
+    "playcount": "764",
+    "tracks": {
+      "track": [
+        {
+          "name": "Odalmarkerna",
+          "url": "https://www.last.fm/music/Panphage/_/Odalmarkerna",
+          "duration": "371",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:06:20.078Z"
+}

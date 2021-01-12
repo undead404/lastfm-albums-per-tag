@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Satan's Fist",
+    "artist": "Bestial Warlust",
+    "mbid": "0721017e-6184-4899-aef5-71e421d16fc3",
+    "url": "https://www.last.fm/music/Bestial+Warlust/Satan%27s+Fist",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0a46e7c3c6763126e37f7b1168e074f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "190",
+    "playcount": "2703",
+    "tracks": {
+      "track": [
+        {
+          "name": "Satan's Fist",
+          "url": "https://www.last.fm/music/Bestial+Warlust/_/Satan%27s+Fist",
+          "duration": "276",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bestial Warlust",
+            "mbid": "bc35cb86-0b22-4872-93dd-c11dd7953a6c",
+            "url": "https://www.last.fm/music/Bestial+Warlust"
+          }
+        },
+        {
+          "name": "Left for Vultures",
+          "url": "https://www.last.fm/music/Bestial+Warlust/_/Left+for+Vultures",
+          "duration": "255",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bestial Warlust",
+            "mbid": "bc35cb86-0b22-4872-93dd-c11dd7953a6c",
+            "url": "https://www.last.fm/music/Bestial+Warlust"
+          }
+        },
+        {
+          "name": "Hell's Militia",
+          "url": "https://www.last.fm/music/Bestial+Warlust/_/Hell%27s+Militia",
+          "duration": "163",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bestial Warlust",
+            "mbid": "bc35cb86-0b22-4872-93dd-c11dd7953a6c",
+            "url": "https://www.last.fm/music/Bestial+Warlust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "australia",
+          "url": "https://www.last.fm/tag/australia"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:39:29.965Z"
+}

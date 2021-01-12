@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "The Shadow's Madame",
+    "artist": "Cadaveria",
+    "url": "https://www.last.fm/music/Cadaveria/The+Shadow%27s+Madame",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97e37dde2c4c336c64b376c1f29031b7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1961",
+    "playcount": "10057",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "vampire",
+          "url": "https://www.last.fm/tag/vampire"
+        },
+        {
+          "name": "Gothic",
+          "url": "https://www.last.fm/tag/Gothic"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:30:43.289Z"
+}

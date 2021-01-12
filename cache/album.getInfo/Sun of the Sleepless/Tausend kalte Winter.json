@@ -1,0 +1,91 @@
+{
+  "album": {
+    "name": "Tausend kalte Winter",
+    "artist": "Sun of the Sleepless",
+    "mbid": "12323015-94b9-4dd8-8ec4-7b902a1796c7",
+    "url": "https://www.last.fm/music/Sun+of+the+Sleepless/Tausend+kalte+Winter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a02a09dba1e45da819118d38635be83.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a02a09dba1e45da819118d38635be83.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a02a09dba1e45da819118d38635be83.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a02a09dba1e45da819118d38635be83.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a02a09dba1e45da819118d38635be83.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a02a09dba1e45da819118d38635be83.png",
+        "size": ""
+      }
+    ],
+    "listeners": "999",
+    "playcount": "10037",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tausend kalte Winter",
+          "url": "https://www.last.fm/music/Sun+of+the+Sleepless/_/Tausend+kalte+Winter",
+          "duration": "382",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sun of the Sleepless",
+            "mbid": "9e9b1c25-9546-412b-afce-d8ab96122e87",
+            "url": "https://www.last.fm/music/Sun+of+the+Sleepless"
+          }
+        },
+        {
+          "name": "Spring 99",
+          "url": "https://www.last.fm/music/Sun+of+the+Sleepless/_/Spring+99",
+          "duration": "353",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sun of the Sleepless",
+            "mbid": "9e9b1c25-9546-412b-afce-d8ab96122e87",
+            "url": "https://www.last.fm/music/Sun+of+the+Sleepless"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2000",
+          "url": "https://www.last.fm/tag/2000"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "best of 2000",
+          "url": "https://www.last.fm/tag/best+of+2000"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:06:50.977Z"
+}

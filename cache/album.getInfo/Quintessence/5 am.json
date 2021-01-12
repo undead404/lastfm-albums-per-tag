@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "5 am",
+    "artist": "Quintessence",
+    "mbid": "91a539b9-dfb7-4136-aae0-ee1f048758f3",
+    "url": "https://www.last.fm/music/Quintessence/5+am",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/68a1c5700e72414090cd26567453938d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/68a1c5700e72414090cd26567453938d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/68a1c5700e72414090cd26567453938d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68a1c5700e72414090cd26567453938d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68a1c5700e72414090cd26567453938d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68a1c5700e72414090cd26567453938d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4261",
+    "playcount": "55908",
+    "tracks": {
+      "track": [
+        {
+          "name": "30th Hour",
+          "url": "https://www.last.fm/music/Quintessence/_/30th+Hour",
+          "duration": "435",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Delirious",
+          "url": "https://www.last.fm/music/Quintessence/_/Delirious",
+          "duration": "294",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "You Don't Care",
+          "url": "https://www.last.fm/music/Quintessence/_/You+Don%27t+Care",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Burn On With a Bitter Flame",
+          "url": "https://www.last.fm/music/Quintessence/_/Burn+On+With+a+Bitter+Flame",
+          "duration": "276",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Game Over",
+          "url": "https://www.last.fm/music/Quintessence/_/Game+Over",
+          "duration": "349",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "All the Wrong Places",
+          "url": "https://www.last.fm/music/Quintessence/_/All+the+Wrong+Places",
+          "duration": "225",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Speciality",
+          "url": "https://www.last.fm/music/Quintessence/_/Speciality",
+          "duration": "232",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Think We Should",
+          "url": "https://www.last.fm/music/Quintessence/_/Think+We+Should",
+          "duration": "256",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Broken",
+          "url": "https://www.last.fm/music/Quintessence/_/Broken",
+          "duration": "257",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Friday",
+          "url": "https://www.last.fm/music/Quintessence/_/Friday",
+          "duration": "325",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Dig Deeper",
+          "url": "https://www.last.fm/music/Quintessence/_/Dig+Deeper",
+          "duration": "271",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "5 Am",
+          "url": "https://www.last.fm/music/Quintessence/_/5+Am",
+          "duration": "387",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nu-jazz",
+          "url": "https://www.last.fm/tag/nu-jazz"
+        },
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "jazz",
+          "url": "https://www.last.fm/tag/jazz"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:52:04.510Z"
+}

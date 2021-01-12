@@ -1,0 +1,185 @@
+{
+  "album": {
+    "name": "Sang Nordique",
+    "artist": "Akitsa",
+    "mbid": "fe2fc9e6-fb17-427e-b719-95e7adf905b4",
+    "url": "https://www.last.fm/music/Akitsa/Sang+Nordique",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059f90d3f17443b3c3aac856f1a8417c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3040",
+    "playcount": "49871",
+    "tracks": {
+      "track": [
+        {
+          "name": "Introduction",
+          "url": "https://www.last.fm/music/Akitsa/_/Introduction",
+          "duration": "156",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Riposte",
+          "url": "https://www.last.fm/music/Akitsa/_/Riposte",
+          "duration": "259",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Frontière",
+          "url": "https://www.last.fm/music/Akitsa/_/Fronti%C3%A8re",
+          "duration": "317",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Sang Nordique",
+          "url": "https://www.last.fm/music/Akitsa/_/Sang+Nordique",
+          "duration": "393",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Au Combat",
+          "url": "https://www.last.fm/music/Akitsa/_/Au+Combat",
+          "duration": "416",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Vers La Victoire",
+          "url": "https://www.last.fm/music/Akitsa/_/Vers+La+Victoire",
+          "duration": "145",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "La Nature De Mon Pays",
+          "url": "https://www.last.fm/music/Akitsa/_/La+Nature+De+Mon+Pays",
+          "duration": "349",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Fin",
+          "url": "https://www.last.fm/music/Akitsa/_/Fin",
+          "duration": "626",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:24.343Z"
+}

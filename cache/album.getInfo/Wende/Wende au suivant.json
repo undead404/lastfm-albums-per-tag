@@ -1,0 +1,180 @@
+{
+  "album": {
+    "name": "Wende au suivant",
+    "artist": "Wende",
+    "mbid": "02fd57f6-5975-4d54-9d6f-fa0ddb4e75aa",
+    "url": "https://www.last.fm/music/Wende/Wende+au+suivant",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "15",
+    "playcount": "85",
+    "tracks": {
+      "track": [
+        {
+          "name": "La vie en rose",
+          "url": "https://www.last.fm/music/Wende/_/La+vie+en+rose",
+          "duration": "216",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Au Suivant",
+          "url": "https://www.last.fm/music/Wende/_/Au+Suivant",
+          "duration": "205",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Quelque chose va arriver",
+          "url": "https://www.last.fm/music/Wende/_/Quelque+chose+va+arriver",
+          "duration": "187",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Quand Tu Dors",
+          "url": "https://www.last.fm/music/Wende/_/Quand+Tu+Dors",
+          "duration": "251",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Le mal de vivre",
+          "url": "https://www.last.fm/music/Wende/_/Le+mal+de+vivre",
+          "duration": "342",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Je suis là",
+          "url": "https://www.last.fm/music/Wende/_/Je+suis+l%C3%A0",
+          "duration": "144",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Avec le temps",
+          "url": "https://www.last.fm/music/Wende/_/Avec+le+temps",
+          "duration": "207",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Fiësta",
+          "url": "https://www.last.fm/music/Wende/_/Fi%C3%ABsta",
+          "duration": "97",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:34:39.705Z"
+}

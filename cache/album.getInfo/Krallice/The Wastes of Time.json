@@ -1,0 +1,490 @@
+{
+  "album": {
+    "name": "The Wastes of Time",
+    "artist": "Krallice",
+    "url": "https://www.last.fm/music/Krallice/The+Wastes+of+Time",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3857e10a21f8b3c2fc4be967c220a7a6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "97",
+    "playcount": "2210",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wretched Wisdom",
+          "url": "https://www.last.fm/music/Krallice/_/Wretched+Wisdom",
+          "duration": "615",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Cnestorial",
+          "url": "https://www.last.fm/music/Krallice/_/Cnestorial",
+          "duration": "643",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Molec Codices",
+          "url": "https://www.last.fm/music/Krallice/_/Molec+Codices",
+          "duration": "575",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Timehusk",
+          "url": "https://www.last.fm/music/Krallice/_/Timehusk",
+          "duration": "366",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Energy Chasms",
+          "url": "https://www.last.fm/music/Krallice/_/Energy+Chasms",
+          "duration": "586",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Forgiveness in Rot",
+          "url": "https://www.last.fm/music/Krallice/_/Forgiveness+in+Rot",
+          "duration": "921",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Dimensional Bleedthrough",
+          "url": "https://www.last.fm/music/Krallice/_/Dimensional+Bleedthrough",
+          "duration": "670",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Autochthon",
+          "url": "https://www.last.fm/music/Krallice/_/Autochthon",
+          "duration": "570",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Aridity",
+          "url": "https://www.last.fm/music/Krallice/_/Aridity",
+          "duration": "891",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "The Mountain",
+          "url": "https://www.last.fm/music/Krallice/_/The+Mountain",
+          "duration": "194",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Intraum",
+          "url": "https://www.last.fm/music/Krallice/_/Intraum",
+          "duration": "696",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "[Untitled]",
+          "url": "https://www.last.fm/music/Krallice/_/%5BUntitled%5D",
+          "duration": "488",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Monolith of Possession",
+          "url": "https://www.last.fm/music/Krallice/_/Monolith+of+Possession",
+          "duration": "1124",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "[Untitled]",
+          "url": "https://www.last.fm/music/Krallice/_/%5BUntitled%5D",
+          "duration": "488",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Inhume",
+          "url": "https://www.last.fm/music/Krallice/_/Inhume",
+          "duration": "413",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "The Clearing",
+          "url": "https://www.last.fm/music/Krallice/_/The+Clearing",
+          "duration": "725",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Diotima",
+          "url": "https://www.last.fm/music/Krallice/_/Diotima",
+          "duration": "747",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Litany of Regrets",
+          "url": "https://www.last.fm/music/Krallice/_/Litany+of+Regrets",
+          "duration": "818",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Telluric Rings",
+          "url": "https://www.last.fm/music/Krallice/_/Telluric+Rings",
+          "duration": "728",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "Dust and Light",
+          "url": "https://www.last.fm/music/Krallice/_/Dust+and+Light",
+          "duration": "575",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIII",
+          "duration": "499",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIIII",
+          "duration": "672",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIIIII",
+          "duration": "733",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIIIIII",
+          "duration": "626",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIIIIIII",
+          "duration": "106",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        },
+        {
+          "name": "IIIIIIIIIIII",
+          "url": "https://www.last.fm/music/Krallice/_/IIIIIIIIIIII",
+          "duration": "1001",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:01:32.743Z"
+}

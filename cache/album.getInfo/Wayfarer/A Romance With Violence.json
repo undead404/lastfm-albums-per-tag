@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "A Romance With Violence",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/A+Romance+With+Violence",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f850bf5fd7b66752a509a944e1071eb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4845",
+    "playcount": "58393",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Curtain Pulls Back",
+          "url": "https://www.last.fm/music/Wayfarer/_/The+Curtain+Pulls+Back",
+          "duration": "72",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "The Crimson Rider (Gallows Frontier, Act I)",
+          "url": "https://www.last.fm/music/Wayfarer/_/The+Crimson+Rider+(Gallows+Frontier,+Act+I)",
+          "duration": "640",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "The Iron Horse (Gallows Frontier, Act II)",
+          "url": "https://www.last.fm/music/Wayfarer/_/The+Iron+Horse+(Gallows+Frontier,+Act+II)",
+          "duration": "388",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Fire & Gold",
+          "url": "https://www.last.fm/music/Wayfarer/_/Fire+&+Gold",
+          "duration": "259",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Masquerade Of The Gunslingers",
+          "url": "https://www.last.fm/music/Wayfarer/_/Masquerade+Of+The+Gunslingers",
+          "duration": "601",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Intermission",
+          "url": "https://www.last.fm/music/Wayfarer/_/Intermission",
+          "duration": "121",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Vaudeville",
+          "url": "https://www.last.fm/music/Wayfarer/_/Vaudeville",
+          "duration": "617",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:51:40.758Z"
+}

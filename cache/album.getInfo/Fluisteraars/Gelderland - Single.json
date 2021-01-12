@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Gelderland - Single",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/Gelderland+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "36",
+    "playcount": "66",
+    "tracks": {
+      "track": [
+        {
+          "name": "Zijsselt",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Zijsselt",
+          "duration": "282",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Stuk",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Stuk",
+          "duration": "293",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:22.377Z"
+}

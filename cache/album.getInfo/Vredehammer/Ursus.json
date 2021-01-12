@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Ursus",
+    "artist": "Vredehammer",
+    "url": "https://www.last.fm/music/Vredehammer/Ursus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7709488098504a79caedc9526d5240de.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7709488098504a79caedc9526d5240de.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7709488098504a79caedc9526d5240de.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7709488098504a79caedc9526d5240de.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7709488098504a79caedc9526d5240de.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7709488098504a79caedc9526d5240de.png",
+        "size": ""
+      }
+    ],
+    "listeners": "225",
+    "playcount": "519",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ursus",
+          "url": "https://www.last.fm/music/Vredehammer/_/Ursus",
+          "duration": "288",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:31:05.731Z"
+}

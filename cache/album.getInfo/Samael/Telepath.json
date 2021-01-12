@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Telepath",
+    "artist": "Samael",
+    "mbid": "fe818e77-0344-482a-b51a-6b14d0586d36",
+    "url": "https://www.last.fm/music/Samael/Telepath",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5241e4fa5f383c6dd5969c9161308a65.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5690",
+    "playcount": "59705",
+    "tracks": {
+      "track": [
+        {
+          "name": "Telepath",
+          "url": "https://www.last.fm/music/Samael/_/Telepath",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Inch'Allah",
+          "url": "https://www.last.fm/music/Samael/_/Inch%27Allah",
+          "duration": "210",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Telepathic",
+          "url": "https://www.last.fm/music/Samael/_/Telepathic",
+          "duration": "215",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Inch'allah (Instrumental)",
+          "url": "https://www.last.fm/music/Samael/_/Inch%27allah+(Instrumental)",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Telepathic (instrumental)",
+          "url": "https://www.last.fm/music/Samael/_/Telepathic+(instrumental)",
+          "duration": "259",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:59:53.955Z"
+}

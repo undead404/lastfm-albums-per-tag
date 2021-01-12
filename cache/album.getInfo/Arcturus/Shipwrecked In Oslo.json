@@ -1,0 +1,337 @@
+{
+  "album": {
+    "name": "Shipwrecked In Oslo",
+    "artist": "Arcturus",
+    "mbid": "64a83714-9d1c-49ba-9850-39d99504e7f8",
+    "url": "https://www.last.fm/music/Arcturus/Shipwrecked+In+Oslo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67d11274ba0105d3d150ddaf82bc1c7f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2501",
+    "playcount": "59504",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ad Absurdum",
+          "url": "https://www.last.fm/music/Arcturus/_/Ad+Absurdum",
+          "duration": "408",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Nightmare Heaven",
+          "url": "https://www.last.fm/music/Arcturus/_/Nightmare+Heaven",
+          "duration": "365",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Shipwrecked Frontier Pioneer",
+          "url": "https://www.last.fm/music/Arcturus/_/Shipwrecked+Frontier+Pioneer",
+          "duration": "610",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Alone",
+          "url": "https://www.last.fm/music/Arcturus/_/Alone",
+          "duration": "282",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Deception Genesis",
+          "url": "https://www.last.fm/music/Arcturus/_/Deception+Genesis",
+          "duration": "392",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "The Chaos Path",
+          "url": "https://www.last.fm/music/Arcturus/_/The+Chaos+Path",
+          "duration": "333",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Tore Guitar Solo",
+          "url": "https://www.last.fm/music/Arcturus/_/Tore+Guitar+Solo",
+          "duration": "132",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Deamon Painter",
+          "url": "https://www.last.fm/music/Arcturus/_/Deamon+Painter",
+          "duration": "333",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Nocturnal Vision Revisited",
+          "url": "https://www.last.fm/music/Arcturus/_/Nocturnal+Vision+Revisited",
+          "duration": "316",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Painting My Horror",
+          "url": "https://www.last.fm/music/Arcturus/_/Painting+My+Horror",
+          "duration": "359",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Steinar Keyboard Solo",
+          "url": "https://www.last.fm/music/Arcturus/_/Steinar+Keyboard+Solo",
+          "duration": "123",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Hufsa",
+          "url": "https://www.last.fm/music/Arcturus/_/Hufsa",
+          "duration": "307",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Master of Disguise",
+          "url": "https://www.last.fm/music/Arcturus/_/Master+of+Disguise",
+          "duration": "403",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "White Noise Monster",
+          "url": "https://www.last.fm/music/Arcturus/_/White+Noise+Monster",
+          "duration": "235",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Reflections",
+          "url": "https://www.last.fm/music/Arcturus/_/Reflections",
+          "duration": "244",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        },
+        {
+          "name": "Raudt Og Svart",
+          "url": "https://www.last.fm/music/Arcturus/_/Raudt+Og+Svart",
+          "duration": "368",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arcturus",
+            "mbid": "fed71c9e-5a75-4b3a-951c-b87d776e9b51",
+            "url": "https://www.last.fm/music/Arcturus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        },
+        {
+          "name": "Avant-garde Metal",
+          "url": "https://www.last.fm/tag/Avant-garde+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:06:42.119Z"
+}

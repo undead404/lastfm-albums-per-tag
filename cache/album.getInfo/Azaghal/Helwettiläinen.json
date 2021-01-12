@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Helwettiläinen",
+    "artist": "Azaghal",
+    "mbid": "e0607d9c-b8f2-4feb-897c-d11ad0b2cf87",
+    "url": "https://www.last.fm/music/Azaghal/Helwettil%C3%A4inen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e03d8cdccb104d1488cbff845dc10e2b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "169",
+    "playcount": "680",
+    "tracks": {
+      "track": [
+        {
+          "name": "Helwettiläinen",
+          "url": "https://www.last.fm/music/Azaghal/_/Helwettil%C3%A4inen",
+          "duration": "504",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "Ihmissusi",
+          "url": "https://www.last.fm/music/Azaghal/_/Ihmissusi",
+          "duration": "494",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:28:46.579Z"
+}

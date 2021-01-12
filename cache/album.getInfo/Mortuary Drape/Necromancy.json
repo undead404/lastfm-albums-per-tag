@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Necromancy",
+    "artist": "Mortuary Drape",
+    "url": "https://www.last.fm/music/Mortuary+Drape/Necromancy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e202d4dda3e45d1a5f2293c7bf49872.png",
+        "size": ""
+      }
+    ],
+    "listeners": "533",
+    "playcount": "5510",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Intro",
+          "duration": "100",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Primordial",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Primordial",
+          "duration": "177",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "into the catacomba",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/into+the+catacomba",
+          "duration": "432",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Presences",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Presences",
+          "duration": "228",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Vengeance from Beyond",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Vengeance+from+Beyond",
+          "duration": "246",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Obsessed by Necromancy",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Obsessed+by+Necromancy",
+          "duration": "298",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Evil Death",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Evil+Death",
+          "duration": "178",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:36:56.757Z"
+}

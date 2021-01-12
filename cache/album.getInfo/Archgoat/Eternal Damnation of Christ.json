@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Eternal Damnation of Christ",
+    "artist": "Archgoat",
+    "url": "https://www.last.fm/music/Archgoat/Eternal+Damnation+of+Christ",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/07484fdda7fc7f893c1d55ace27ee5bc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2682",
+    "playcount": "12810",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Mass Mysticism",
+          "url": "https://www.last.fm/music/Archgoat/_/Black+Mass+Mysticism",
+          "duration": "344",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Eternal Damnation of Christ",
+          "url": "https://www.last.fm/music/Archgoat/_/Eternal+Damnation+of+Christ",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:30:27.902Z"
+}

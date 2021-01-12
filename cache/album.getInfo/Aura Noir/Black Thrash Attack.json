@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Black Thrash Attack",
+    "artist": "Aura Noir",
+    "mbid": "cf916671-2644-4fcc-af1c-a89c9516c6ab",
+    "url": "https://www.last.fm/music/Aura+Noir/Black+Thrash+Attack",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5fedf4469fac9731ffce550bf184267c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5fedf4469fac9731ffce550bf184267c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5fedf4469fac9731ffce550bf184267c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fedf4469fac9731ffce550bf184267c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fedf4469fac9731ffce550bf184267c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fedf4469fac9731ffce550bf184267c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "16484",
+    "playcount": "379814",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sons Of Hades",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Sons+Of+Hades",
+          "duration": "211",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Conqueror",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Conqueror",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Caged Wrath",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Caged+Wrath",
+          "duration": "326",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Wretched Face of Evil",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Wretched+Face+of+Evil",
+          "duration": "251",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Black Thrash Attack",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Black+Thrash+Attack",
+          "duration": "311",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "The Pest",
+          "url": "https://www.last.fm/music/Aura+Noir/_/The+Pest",
+          "duration": "192",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "The One Who Smite",
+          "url": "https://www.last.fm/music/Aura+Noir/_/The+One+Who+Smite",
+          "duration": "256",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Eternally Your Shadow",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Eternally+Your+Shadow",
+          "duration": "219",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Destructor",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Destructor",
+          "duration": "282",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Fighting for Hell",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Fighting+for+Hell",
+          "duration": "230",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        },
+        {
+          "name": "Heaven's On Fire",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Heaven%27s+On+Fire",
+          "duration": "207",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "blackened thrash metal",
+          "url": "https://www.last.fm/tag/blackened+thrash+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:57.212Z"
+}

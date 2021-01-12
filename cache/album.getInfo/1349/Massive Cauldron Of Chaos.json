@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Massive Cauldron Of Chaos",
+    "artist": "1349",
+    "mbid": "58ad2f12-5d27-4659-89c6-deeb079f437f",
+    "url": "https://www.last.fm/music/1349/Massive+Cauldron+Of+Chaos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25008f8931c24554c57d5e81877d2f52.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25008f8931c24554c57d5e81877d2f52.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25008f8931c24554c57d5e81877d2f52.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25008f8931c24554c57d5e81877d2f52.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25008f8931c24554c57d5e81877d2f52.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25008f8931c24554c57d5e81877d2f52.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13169",
+    "playcount": "199808",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cauldron",
+          "url": "https://www.last.fm/music/1349/_/Cauldron",
+          "duration": "264",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Slaves",
+          "url": "https://www.last.fm/music/1349/_/Slaves",
+          "duration": "293",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Exorcism",
+          "url": "https://www.last.fm/music/1349/_/Exorcism",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Postmortem",
+          "url": "https://www.last.fm/music/1349/_/Postmortem",
+          "duration": "276",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Mengele's",
+          "url": "https://www.last.fm/music/1349/_/Mengele%27s",
+          "duration": "358",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Golem",
+          "url": "https://www.last.fm/music/1349/_/Golem",
+          "duration": "99",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Chained",
+          "url": "https://www.last.fm/music/1349/_/Chained",
+          "duration": "291",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Godslayer",
+          "url": "https://www.last.fm/music/1349/_/Godslayer",
+          "duration": "361",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "check out - new albums",
+          "url": "https://www.last.fm/tag/check+out+-+new+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:24.782Z"
+}

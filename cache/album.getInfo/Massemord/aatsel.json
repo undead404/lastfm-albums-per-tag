@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "aatsel",
+    "artist": "Massemord",
+    "url": "https://www.last.fm/music/Massemord/aatsel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1550ad332ff4772869e742c0b1be21b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "476",
+    "playcount": "7966",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inferno",
+          "url": "https://www.last.fm/music/Massemord/_/Inferno",
+          "duration": "283",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Ghost",
+          "url": "https://www.last.fm/music/Massemord/_/Ghost",
+          "duration": "368",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Darkness",
+          "url": "https://www.last.fm/music/Massemord/_/Darkness",
+          "duration": "153",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Solitude",
+          "url": "https://www.last.fm/music/Massemord/_/Solitude",
+          "duration": "457",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Winter",
+          "url": "https://www.last.fm/music/Massemord/_/Winter",
+          "duration": "406",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Demon",
+          "url": "https://www.last.fm/music/Massemord/_/Demon",
+          "duration": "402",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:31.777Z"
+}

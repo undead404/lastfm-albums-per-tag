@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Trollstorm over Nidingjuv",
+    "artist": "Troll",
+    "mbid": "bd1887ee-1a1f-4aa6-a7f8-f45fa9e98b99",
+    "url": "https://www.last.fm/music/Troll/Trollstorm+over+Nidingjuv",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/427a5af18ac54f7daea8737c42d581d0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2315",
+    "playcount": "24987",
+    "tracks": {
+      "track": [
+        {
+          "name": "Naar natten endelig er her",
+          "url": "https://www.last.fm/music/Troll/_/Naar+natten+endelig+er+her",
+          "duration": "277",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Trollstorm over Nidingjuv",
+          "url": "https://www.last.fm/music/Troll/_/Trollstorm+over+Nidingjuv",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Over daudens kolde mark",
+          "url": "https://www.last.fm/music/Troll/_/Over+daudens+kolde+mark",
+          "duration": "233",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "I et hedensk land",
+          "url": "https://www.last.fm/music/Troll/_/I+et+hedensk+land",
+          "duration": "257",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Troll Metal",
+          "url": "https://www.last.fm/tag/Troll+Metal"
+        },
+        {
+          "name": "cute",
+          "url": "https://www.last.fm/tag/cute"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "girls",
+          "url": "https://www.last.fm/tag/girls"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:13:36.104Z"
+}

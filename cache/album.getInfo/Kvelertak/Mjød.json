@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Mjød",
+    "artist": "Kvelertak",
+    "url": "https://www.last.fm/music/Kvelertak/Mj%C3%B8d",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b7eb825927b4a45a0802af979e04c39.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4613",
+    "playcount": "10305",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mjød",
+          "url": "https://www.last.fm/music/Kvelertak/_/Mj%C3%B8d",
+          "duration": "151",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:59:23.867Z"
+}

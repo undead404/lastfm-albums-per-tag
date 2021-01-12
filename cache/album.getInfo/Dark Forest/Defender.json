@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Defender",
+    "artist": "Dark Forest",
+    "url": "https://www.last.fm/music/Dark+Forest/Defender",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5ccac6f2bd94c02bf05893782999ef3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "103",
+    "playcount": "1602",
+    "tracks": {
+      "track": [
+        {
+          "name": "Defender",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Defender",
+          "duration": "272",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "I vow to Thee, my country",
+          "url": "https://www.last.fm/music/Dark+Forest/_/I+vow+to+Thee,+my+country",
+          "duration": "66",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "The Wizard Of Alderley Edge",
+          "url": "https://www.last.fm/music/Dark+Forest/_/The+Wizard+Of+Alderley+Edge",
+          "duration": "242",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:19:57.086Z"
+}

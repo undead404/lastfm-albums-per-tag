@@ -1,0 +1,320 @@
+{
+  "album": {
+    "name": "Werwolfthron",
+    "artist": "Absurd",
+    "mbid": "c480bca0-4038-4abf-a94a-c2a6847ad57a",
+    "url": "https://www.last.fm/music/Absurd/Werwolfthron",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b18d88f004f628909b12d313fbe1059.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b18d88f004f628909b12d313fbe1059.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b18d88f004f628909b12d313fbe1059.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b18d88f004f628909b12d313fbe1059.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b18d88f004f628909b12d313fbe1059.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b18d88f004f628909b12d313fbe1059.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6003",
+    "playcount": "207946",
+    "tracks": {
+      "track": [
+        {
+          "name": "Totentanz",
+          "url": "https://www.last.fm/music/Absurd/_/Totentanz",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Über die Gräber Hinweg",
+          "url": "https://www.last.fm/music/Absurd/_/%C3%9Cber+die+Gr%C3%A4ber+Hinweg",
+          "duration": "171",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Schwarzmond",
+          "url": "https://www.last.fm/music/Absurd/_/Schwarzmond",
+          "duration": "151",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Asatr'U",
+          "url": "https://www.last.fm/music/Absurd/_/Asatr%27U",
+          "duration": "191",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Pavane",
+          "url": "https://www.last.fm/music/Absurd/_/Pavane",
+          "duration": "82",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Die Kathedrale",
+          "url": "https://www.last.fm/music/Absurd/_/Die+Kathedrale",
+          "duration": "193",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "The Crucified",
+          "url": "https://www.last.fm/music/Absurd/_/The+Crucified",
+          "duration": "34",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "We Don't Believe in God (YHVH)",
+          "url": "https://www.last.fm/music/Absurd/_/We+Don%27t+Believe+in+God+(YHVH)",
+          "duration": "147",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Die Ruhe Vor dem Sturm",
+          "url": "https://www.last.fm/music/Absurd/_/Die+Ruhe+Vor+dem+Sturm",
+          "duration": "105",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Die Rückkehr des Werwolfes",
+          "url": "https://www.last.fm/music/Absurd/_/Die+R%C3%BCckkehr+des+Werwolfes",
+          "duration": "231",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Vernichtung",
+          "url": "https://www.last.fm/music/Absurd/_/Vernichtung",
+          "duration": "73",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Helge Hundingstöter",
+          "url": "https://www.last.fm/music/Absurd/_/Helge+Hundingst%C3%B6ter",
+          "duration": "75",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Ein Traum",
+          "url": "https://www.last.fm/music/Absurd/_/Ein+Traum",
+          "duration": "121",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Heaven in Blood",
+          "url": "https://www.last.fm/music/Absurd/_/Heaven+in+Blood",
+          "duration": "119",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Palästinalied",
+          "url": "https://www.last.fm/music/Absurd/_/Pal%C3%A4stinalied",
+          "duration": "164",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "absurd",
+          "url": "https://www.last.fm/tag/absurd"
+        },
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:15.140Z"
+}

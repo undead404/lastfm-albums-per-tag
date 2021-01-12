@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Goat - Creative Alienation",
+    "artist": "Clandestine Blaze",
+    "mbid": "c5d98b7e-7453-4f42-863c-006077171976",
+    "url": "https://www.last.fm/music/Clandestine+Blaze/Goat+-+Creative+Alienation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04b06a63e54fc47f90653476f72dbc8b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "201",
+    "playcount": "1817",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Intro",
+          "duration": "16",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Praising the Self",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Praising+the+Self",
+          "duration": "456",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Doll of Darkness",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Doll+of+Darkness",
+          "duration": "315",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Goat - Creative Alienation",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Goat+-+Creative+Alienation",
+          "duration": "466",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Fist of the Northern Destroyer",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Fist+of+the+Northern+Destroyer",
+          "duration": "310",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:38:07.846Z"
+}

@@ -1,0 +1,299 @@
+{
+  "album": {
+    "name": "Into The Drape / All The witches Dance",
+    "artist": "Mortuary Drape",
+    "mbid": "5b8f2e15-ad57-4dc0-84fb-2aa0946208d3",
+    "url": "https://www.last.fm/music/Mortuary+Drape/Into+The+Drape+%2F+All+The+witches+Dance",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/03bd864735004f90adfe8ea609f9afca.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/03bd864735004f90adfe8ea609f9afca.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/03bd864735004f90adfe8ea609f9afca.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03bd864735004f90adfe8ea609f9afca.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03bd864735004f90adfe8ea609f9afca.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/03bd864735004f90adfe8ea609f9afca.png",
+        "size": ""
+      }
+    ],
+    "listeners": "102",
+    "playcount": "3535",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mother / Crepuscolar Whisper",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Mother+%2F+Crepuscolar+Whisper",
+          "duration": "372",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Moon",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Moon",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Zombie",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Zombie",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Vengeance from Beyond",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Vengeance+from+Beyond",
+          "duration": "246",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "My Soul (Intro) / Primordial",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/My+Soul+(Intro)+%2F+Primordial",
+          "duration": "572",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Astral Bewitchment",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Astral+Bewitchment",
+          "duration": "348",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Funeral Chant",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Funeral+Chant",
+          "duration": "313",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Larve",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Larve",
+          "duration": "323",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Tregenda (Dance in Shroud)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Tregenda+(Dance+in+Shroud)",
+          "duration": "444",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "13th Way",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/13th+Way",
+          "duration": "232",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Intro (Chain)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Intro+(Chain)",
+          "duration": "86",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Medium Mortem",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Medium+Mortem",
+          "duration": "252",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Occult Abyss",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Occult+Abyss",
+          "duration": "418",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Mortuary Drape (Live Germany '96)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Mortuary+Drape+(Live+Germany+%2796)",
+          "duration": "199",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:37:02.255Z"
+}

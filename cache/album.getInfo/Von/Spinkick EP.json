@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Spinkick EP",
+    "artist": "Von",
+    "url": "https://www.last.fm/music/Von/Spinkick+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e8f0f04b9f4467aa00b4286b0e4ae0e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "101",
+    "playcount": "255",
+    "tracks": {
+      "track": [
+        {
+          "name": "Datliquor (Original Mix)",
+          "url": "https://www.last.fm/music/Von/_/Datliquor+(Original+Mix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Von",
+            "mbid": "69708043-6595-4e95-9b78-a8822a04a3bd",
+            "url": "https://www.last.fm/music/Von"
+          }
+        },
+        {
+          "name": "Sharkweek (Original Mix)",
+          "url": "https://www.last.fm/music/Von/_/Sharkweek+(Original+Mix)",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Von",
+            "mbid": "69708043-6595-4e95-9b78-a8822a04a3bd",
+            "url": "https://www.last.fm/music/Von"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:53:43.427Z"
+}

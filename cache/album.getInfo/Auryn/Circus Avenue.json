@@ -1,0 +1,264 @@
+{
+  "album": {
+    "name": "Circus Avenue",
+    "artist": "Auryn",
+    "url": "https://www.last.fm/music/Auryn/Circus+Avenue",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b694f01371b54abbca5a5237626a442f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b694f01371b54abbca5a5237626a442f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b694f01371b54abbca5a5237626a442f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b694f01371b54abbca5a5237626a442f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b694f01371b54abbca5a5237626a442f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b694f01371b54abbca5a5237626a442f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4035",
+    "playcount": "26354",
+    "tracks": {
+      "track": [
+        {
+          "name": "When we were young",
+          "url": "https://www.last.fm/music/Auryn/_/When+we+were+young",
+          "duration": "231",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Puppeteer",
+          "url": "https://www.last.fm/music/Auryn/_/Puppeteer",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Saturday I'm In Love",
+          "url": "https://www.last.fm/music/Auryn/_/Saturday+I%27m+In+Love",
+          "duration": "228",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "If This Was My Last Song",
+          "url": "https://www.last.fm/music/Auryn/_/If+This+Was+My+Last+Song",
+          "duration": "218",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Stay",
+          "url": "https://www.last.fm/music/Auryn/_/Stay",
+          "duration": "218",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Just a Little Bit",
+          "url": "https://www.last.fm/music/Auryn/_/Just+a+Little+Bit",
+          "duration": "184",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Incredible",
+          "url": "https://www.last.fm/music/Auryn/_/Incredible",
+          "duration": "231",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Get ya flowers",
+          "url": "https://www.last.fm/music/Auryn/_/Get+ya+flowers",
+          "duration": "185",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Pillow talk",
+          "url": "https://www.last.fm/music/Auryn/_/Pillow+talk",
+          "duration": "227",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Grow old with me",
+          "url": "https://www.last.fm/music/Auryn/_/Grow+old+with+me",
+          "duration": "185",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "El niño frente a mí",
+          "url": "https://www.last.fm/music/Auryn/_/El+ni%C3%B1o+frente+a+m%C3%AD",
+          "duration": "196",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Vuelvo a ser mortal - Antihéroe",
+          "url": "https://www.last.fm/music/Auryn/_/Vuelvo+a+ser+mortal+-+Antih%C3%A9roe",
+          "duration": "264",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        },
+        {
+          "name": "Circus Avenue - Digital Booklet",
+          "url": "https://www.last.fm/music/Auryn/_/Circus+Avenue+-+Digital+Booklet",
+          "duration": "0",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:11.136Z"
+}

@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "The Door Is Paint On a Rock",
+    "artist": "Spektr",
+    "url": "https://www.last.fm/music/Spektr/The+Door+Is+Paint+On+a+Rock",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd202dd12f4b4c75cc55bd4b45324820.png",
+        "size": ""
+      }
+    ],
+    "listeners": "65",
+    "playcount": "447",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vice Versa",
+          "url": "https://www.last.fm/music/Spektr/_/Vice+Versa",
+          "duration": "130",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "The Interventionists",
+          "url": "https://www.last.fm/music/Spektr/_/The+Interventionists",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "The Infirm",
+          "url": "https://www.last.fm/music/Spektr/_/The+Infirm",
+          "duration": "167",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Rubber Souls for Sale",
+          "url": "https://www.last.fm/music/Spektr/_/Rubber+Souls+for+Sale",
+          "duration": "221",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:10:18.325Z"
+}

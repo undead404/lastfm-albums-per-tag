@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Crust",
+    "artist": "Sarcófago",
+    "url": "https://www.last.fm/music/Sarc%C3%B3fago/Crust",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61cd2cc3e32a4e229fdb4feeb759c22f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2389",
+    "playcount": "22149",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sonic Images Of The New Millennium Decay",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Sonic+Images+Of+The+New+Millennium+Decay",
+          "duration": "115",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Day Of The Dead",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Day+Of+The+Dead",
+          "duration": "220",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Fombm",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Fombm",
+          "duration": "174",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Crust",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Crust",
+          "duration": "191",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2000",
+          "url": "https://www.last.fm/tag/2000"
+        },
+        {
+          "name": "EPs i own",
+          "url": "https://www.last.fm/tag/EPs+i+own"
+        },
+        {
+          "name": "blackdeathgrind",
+          "url": "https://www.last.fm/tag/blackdeathgrind"
+        },
+        {
+          "name": "brutal deathrash",
+          "url": "https://www.last.fm/tag/brutal+deathrash"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:28:57.690Z"
+}

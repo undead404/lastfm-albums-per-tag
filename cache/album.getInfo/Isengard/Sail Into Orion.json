@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Sail Into Orion",
+    "artist": "Isengard",
+    "mbid": "8ba40fde-3ed4-4685-be77-8123a7e165aa",
+    "url": "https://www.last.fm/music/Isengard/Sail+Into+Orion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f56ecc81e72aee82d0d31b19f442f63.png",
+        "size": ""
+      }
+    ],
+    "listeners": "253",
+    "playcount": "840",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sail Into Orion",
+          "url": "https://www.last.fm/music/Isengard/_/Sail+Into+Orion",
+          "duration": "294",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isengard",
+            "mbid": "dc86a1a9-4329-4e76-9062-567399ed10d7",
+            "url": "https://www.last.fm/music/Isengard"
+          }
+        },
+        {
+          "name": "Heart Of a Lion",
+          "url": "https://www.last.fm/music/Isengard/_/Heart+Of+a+Lion",
+          "duration": "218",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isengard",
+            "mbid": "dc86a1a9-4329-4e76-9062-567399ed10d7",
+            "url": "https://www.last.fm/music/Isengard"
+          }
+        },
+        {
+          "name": "Farewell",
+          "url": "https://www.last.fm/music/Isengard/_/Farewell",
+          "duration": "302",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isengard",
+            "mbid": "dc86a1a9-4329-4e76-9062-567399ed10d7",
+            "url": "https://www.last.fm/music/Isengard"
+          }
+        },
+        {
+          "name": "Sail Into Orion - Instrumental",
+          "url": "https://www.last.fm/music/Isengard/_/Sail+Into+Orion+-+Instrumental",
+          "duration": "294",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isengard",
+            "mbid": "dc86a1a9-4329-4e76-9062-567399ed10d7",
+            "url": "https://www.last.fm/music/Isengard"
+          }
+        },
+        {
+          "name": "Heart of a Lion - Instrumental",
+          "url": "https://www.last.fm/music/Isengard/_/Heart+of+a+Lion+-+Instrumental",
+          "duration": "218",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isengard",
+            "mbid": "dc86a1a9-4329-4e76-9062-567399ed10d7",
+            "url": "https://www.last.fm/music/Isengard"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:45:23.129Z"
+}

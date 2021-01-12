@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Fex Urbis Lex Orbis",
+    "artist": "Ludicra",
+    "mbid": "82fb2196-3fb2-4132-9f42-f43a63893183",
+    "url": "https://www.last.fm/music/Ludicra/Fex+Urbis+Lex+Orbis",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cc0c28ddd014f87cffdcf77b9e6cb84.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4575",
+    "playcount": "41800",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dead City",
+          "url": "https://www.last.fm/music/Ludicra/_/Dead+City",
+          "duration": "373",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "In Fever",
+          "url": "https://www.last.fm/music/Ludicra/_/In+Fever",
+          "duration": "288",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Veils",
+          "url": "https://www.last.fm/music/Ludicra/_/Veils",
+          "duration": "473",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Only a Moment",
+          "url": "https://www.last.fm/music/Ludicra/_/Only+a+Moment",
+          "duration": "519",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Collapse",
+          "url": "https://www.last.fm/music/Ludicra/_/Collapse",
+          "duration": "716",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "best of 2006",
+          "url": "https://www.last.fm/tag/best+of+2006"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:56:06.076Z"
+}

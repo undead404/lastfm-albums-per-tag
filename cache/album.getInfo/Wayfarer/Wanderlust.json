@@ -1,0 +1,51 @@
+{
+  "album": {
+    "name": "Wanderlust",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/Wanderlust",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60b3e1f799be41d388f705d93511cbb1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "216",
+    "playcount": "4216",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "Progressive Metalcore",
+          "url": "https://www.last.fm/tag/Progressive+Metalcore"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:51:49.931Z"
+}

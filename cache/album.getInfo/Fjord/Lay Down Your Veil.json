@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Lay Down Your Veil",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Lay+Down+Your+Veil",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1036",
+    "playcount": "2464",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lay Down Your Veil",
+          "url": "https://www.last.fm/music/Fjord/_/Lay+Down+Your+Veil",
+          "duration": "196",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:43.796Z"
+}

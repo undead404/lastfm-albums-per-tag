@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Ótta",
+    "artist": "Sólstafir",
+    "mbid": "c05d597d-083c-4b49-a8d1-7782f030435b",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/%C3%93tta",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cedc101034af6648f61b19ed94e44a12.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cedc101034af6648f61b19ed94e44a12.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cedc101034af6648f61b19ed94e44a12.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cedc101034af6648f61b19ed94e44a12.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cedc101034af6648f61b19ed94e44a12.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cedc101034af6648f61b19ed94e44a12.png",
+        "size": ""
+      }
+    ],
+    "listeners": "35699",
+    "playcount": "815795",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lágnætti",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/L%C3%A1gn%C3%A6tti",
+          "duration": "524",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Ótta",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/%C3%93tta",
+          "duration": "578",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Rismál",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Rism%C3%A1l",
+          "duration": "264",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Dagmál",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Dagm%C3%A1l",
+          "duration": "339",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Miðdegi",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Mi%C3%B0degi",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Nón",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/N%C3%B3n",
+          "duration": "467",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Miðaftann",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Mi%C3%B0aftann",
+          "duration": "339",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Náttmál",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/N%C3%A1ttm%C3%A1l",
+          "duration": "711",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "art rock",
+          "url": "https://www.last.fm/tag/art+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:46.478Z"
+}

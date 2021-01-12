@@ -1,0 +1,234 @@
+{
+  "album": {
+    "name": "Unbound",
+    "artist": "Sargeist",
+    "url": "https://www.last.fm/music/Sargeist/Unbound",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f8a56d3aad0875bc343eabf3fa165c5d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4986",
+    "playcount": "93951",
+    "tracks": {
+      "track": [
+        {
+          "name": "Psychosis Incarnate",
+          "url": "https://www.last.fm/music/Sargeist/_/Psychosis+Incarnate",
+          "duration": "248",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "To Wander the Night's Eternal Path",
+          "url": "https://www.last.fm/music/Sargeist/_/To+Wander+the+Night%27s+Eternal+Path",
+          "duration": "254",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "The Bosom of Wisdom and Madness",
+          "url": "https://www.last.fm/music/Sargeist/_/The+Bosom+of+Wisdom+and+Madness",
+          "duration": "312",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Death's Empath",
+          "url": "https://www.last.fm/music/Sargeist/_/Death%27s+Empath",
+          "duration": "197",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Hunting Eyes",
+          "url": "https://www.last.fm/music/Sargeist/_/Hunting+Eyes",
+          "duration": "369",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Her Mouth is an Open Grave",
+          "url": "https://www.last.fm/music/Sargeist/_/Her+Mouth+is+an+Open+Grave",
+          "duration": "347",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Unbound",
+          "url": "https://www.last.fm/music/Sargeist/_/Unbound",
+          "duration": "327",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Blessing of the Fire-Bearer",
+          "url": "https://www.last.fm/music/Sargeist/_/Blessing+of+the+Fire-Bearer",
+          "duration": "301",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Wake of the Compassionate",
+          "url": "https://www.last.fm/music/Sargeist/_/Wake+of+the+Compassionate",
+          "duration": "268",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        },
+        {
+          "name": "Grail of the Pilgrim",
+          "url": "https://www.last.fm/music/Sargeist/_/Grail+of+the+Pilgrim",
+          "duration": "211",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sargeist",
+            "mbid": "044bc98e-e870-4100-afef-b8f2f66d8d86",
+            "url": "https://www.last.fm/music/Sargeist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "finland",
+          "url": "https://www.last.fm/tag/finland"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:30:59.566Z"
+}

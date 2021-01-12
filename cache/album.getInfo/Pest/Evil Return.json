@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Evil Return",
+    "artist": "Pest",
+    "mbid": "733391a1-2281-4369-91e1-f8f6bfe36902",
+    "url": "https://www.last.fm/music/Pest/Evil+Return",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52b0b1ae426ce1747070628e3bfc90ff.png",
+        "size": ""
+      }
+    ],
+    "listeners": "169",
+    "playcount": "859",
+    "tracks": {
+      "track": [
+        {
+          "name": "Damnation Until Death",
+          "url": "https://www.last.fm/music/Pest/_/Damnation+Until+Death",
+          "duration": "300",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Evil Return",
+          "url": "https://www.last.fm/music/Pest/_/Evil+Return",
+          "duration": "305",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:59:03.789Z"
+}

@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Blue Destiny",
+    "artist": "Trident",
+    "url": "https://www.last.fm/music/Trident/Blue+Destiny",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b8ef2f44d44b183fc9ad437bded2b2c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "345",
+    "playcount": "10003",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blue Destiny",
+          "url": "https://www.last.fm/music/Trident/_/Blue+Destiny",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Blue Rain",
+          "url": "https://www.last.fm/music/Trident/_/Blue+Rain",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Crystal Way",
+          "url": "https://www.last.fm/music/Trident/_/Crystal+Way",
+          "duration": "268",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Blazing nova",
+          "url": "https://www.last.fm/music/Trident/_/Blazing+nova",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "Nothing to fear",
+          "url": "https://www.last.fm/music/Trident/_/Nothing+to+fear",
+          "duration": "279",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        },
+        {
+          "name": "変わらない場所",
+          "url": "https://www.last.fm/music/Trident/_/%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E5%A0%B4%E6%89%80",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:35:44.159Z"
+}

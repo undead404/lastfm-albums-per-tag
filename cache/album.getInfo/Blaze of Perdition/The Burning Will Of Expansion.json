@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "The Burning Will Of Expansion",
+    "artist": "Blaze of Perdition",
+    "mbid": "0ba61ac1-4e1b-4aed-af54-35b07be32545",
+    "url": "https://www.last.fm/music/Blaze+of+Perdition/The+Burning+Will+Of+Expansion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0b96b1d26034013a609937a32337c80.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0b96b1d26034013a609937a32337c80.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0b96b1d26034013a609937a32337c80.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0b96b1d26034013a609937a32337c80.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0b96b1d26034013a609937a32337c80.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0b96b1d26034013a609937a32337c80.png",
+        "size": ""
+      }
+    ],
+    "listeners": "756",
+    "playcount": "7127",
+    "tracks": {
+      "track": [
+        {
+          "name": "Into the Nothingness Divine",
+          "url": "https://www.last.fm/music/Blaze+of+Perdition/_/Into+the+Nothingness+Divine",
+          "duration": "265",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blaze of Perdition",
+            "mbid": "df34da48-65fa-4b4b-b344-784f1874b1dd",
+            "url": "https://www.last.fm/music/Blaze+of+Perdition"
+          }
+        },
+        {
+          "name": "Zatracenia Blask",
+          "url": "https://www.last.fm/music/Blaze+of+Perdition/_/Zatracenia+Blask",
+          "duration": "305",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blaze of Perdition",
+            "mbid": "df34da48-65fa-4b4b-b344-784f1874b1dd",
+            "url": "https://www.last.fm/music/Blaze+of+Perdition"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:41:31.869Z"
+}

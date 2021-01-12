@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Medieval Prophecy",
+    "artist": "Samael",
+    "mbid": "f2c9bc74-2a6b-4f9f-bba3-a77e62fb3be4",
+    "url": "https://www.last.fm/music/Samael/Medieval+Prophecy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b3df3903084dad8f763415ffd08a02.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2861",
+    "playcount": "22391",
+    "tracks": {
+      "track": [
+        {
+          "name": "Into the Pentagram",
+          "url": "https://www.last.fm/music/Samael/_/Into+the+Pentagram",
+          "duration": "510",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "The Dark (extensive version)",
+          "url": "https://www.last.fm/music/Samael/_/The+Dark+(extensive+version)",
+          "duration": "334",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "The Third of the Storms",
+          "url": "https://www.last.fm/music/Samael/_/The+Third+of+the+Storms",
+          "duration": "170",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:59:59.360Z"
+}

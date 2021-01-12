@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Pamit",
+    "artist": "Tulus",
+    "url": "https://www.last.fm/music/Tulus/Pamit",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b302da52a40fbf2c00d537090407f51f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b302da52a40fbf2c00d537090407f51f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b302da52a40fbf2c00d537090407f51f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b302da52a40fbf2c00d537090407f51f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b302da52a40fbf2c00d537090407f51f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b302da52a40fbf2c00d537090407f51f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2556",
+    "playcount": "14268",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pamit",
+          "url": "https://www.last.fm/music/Tulus/_/Pamit",
+          "duration": "233",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:33:06.337Z"
+}

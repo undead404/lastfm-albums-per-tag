@@ -1,0 +1,141 @@
+{
+  "album": {
+    "name": "XII",
+    "artist": "Hexis",
+    "url": "https://www.last.fm/music/Hexis/XII",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e5ce963f1489dd64e1d7aface84a38f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1115",
+    "playcount": "8679",
+    "tracks": {
+      "track": [
+        {
+          "name": "Derelictus",
+          "url": "https://www.last.fm/music/Hexis/_/Derelictus",
+          "duration": "61",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "Nefarius",
+          "url": "https://www.last.fm/music/Hexis/_/Nefarius",
+          "duration": "267",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "FAMELICUS",
+          "url": "https://www.last.fm/music/Hexis/_/FAMELICUS",
+          "duration": "230",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "MISERIA",
+          "url": "https://www.last.fm/music/Hexis/_/MISERIA",
+          "duration": "125",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        },
+        {
+          "name": "SACRIFICIUM",
+          "url": "https://www.last.fm/music/Hexis/_/SACRIFICIUM",
+          "duration": "277",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hexis",
+            "mbid": "5120381f-f792-4269-aee8-38d4ec17f7ef",
+            "url": "https://www.last.fm/music/Hexis"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:04:10.551Z"
+}

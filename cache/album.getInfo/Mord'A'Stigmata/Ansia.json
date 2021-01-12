@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Ansia",
+    "artist": "Mord'A'Stigmata",
+    "mbid": "7b5b2091-4984-49df-b4f9-5a268b8b78d2",
+    "url": "https://www.last.fm/music/Mord%27A%27Stigmata/Ansia",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cab811ab79347ba9d8e658e673ee01a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2133",
+    "playcount": "33369",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inkaust",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Inkaust",
+          "duration": "834",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Shattered Vertebrae of the Zodiac",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Shattered+Vertebrae+of+the+Zodiac",
+          "duration": "616",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Pregressed",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Pregressed",
+          "duration": "748",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Praefatio Pro Defunctis",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Praefatio+Pro+Defunctis",
+          "duration": "488",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Ansia",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Ansia",
+          "duration": "147",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Sludge",
+          "url": "https://www.last.fm/tag/Sludge"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:09:38.160Z"
+}

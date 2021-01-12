@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Forgotten Memories",
+    "artist": "Massemord",
+    "url": "https://www.last.fm/music/Massemord/Forgotten+Memories",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9523c0bd402b9d7b5d5403e173d5a6df.png",
+        "size": ""
+      }
+    ],
+    "listeners": "14",
+    "playcount": "170",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Night",
+          "url": "https://www.last.fm/music/Massemord/_/The+Night",
+          "duration": "302",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Soul in Agony",
+          "url": "https://www.last.fm/music/Massemord/_/Soul+in+Agony",
+          "duration": "382",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "The Hatelord",
+          "url": "https://www.last.fm/music/Massemord/_/The+Hatelord",
+          "duration": "133",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Black Metal Mafia",
+          "url": "https://www.last.fm/music/Massemord/_/Black+Metal+Mafia",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Diabolical Order",
+          "url": "https://www.last.fm/music/Massemord/_/Diabolical+Order",
+          "duration": "306",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "I Break Your Skull in Two",
+          "url": "https://www.last.fm/music/Massemord/_/I+Break+Your+Skull+in+Two",
+          "duration": "307",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:50.944Z"
+}

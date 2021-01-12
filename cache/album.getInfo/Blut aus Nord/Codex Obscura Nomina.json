@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Codex Obscura Nomina",
+    "artist": "Blut aus Nord",
+    "url": "https://www.last.fm/music/Blut+aus+Nord/Codex+Obscura+Nomina",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6264db85395ff86e596e40713d562ba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6264db85395ff86e596e40713d562ba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6264db85395ff86e596e40713d562ba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6264db85395ff86e596e40713d562ba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6264db85395ff86e596e40713d562ba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6264db85395ff86e596e40713d562ba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6199",
+    "playcount": "37438",
+    "tracks": {
+      "track": [
+        {
+          "name": "Evanescent Hallucinations",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Evanescent+Hallucinations",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Resonnance(s)",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Resonnance(s)",
+          "duration": "275",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "The Parallel Echöes",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Parallel+Ech%C3%B6es",
+          "duration": "280",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Infra-Voices Ensemble",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Infra-Voices+Ensemble",
+          "duration": "341",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Threshold of the Miraculous",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Threshold+of+the+Miraculous",
+          "duration": "1293",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "blackened trip-hop",
+          "url": "https://www.last.fm/tag/blackened+trip-hop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:07:45.098Z"
+}

@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Nattetale",
+    "artist": "Nortt",
+    "mbid": "512af4f7-b9d7-41ec-8dde-bf8614b48ef4",
+    "url": "https://www.last.fm/music/Nortt/Nattetale",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9939da79388b4ca8a059c1a4c32a4f7d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1982",
+    "playcount": "20315",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dystert sind",
+          "url": "https://www.last.fm/music/Nortt/_/Dystert+sind",
+          "duration": "259",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Den Sidste Nat",
+          "url": "https://www.last.fm/music/Nortt/_/Den+Sidste+Nat",
+          "duration": "424",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Intet Lys I Livet",
+          "url": "https://www.last.fm/music/Nortt/_/Intet+Lys+I+Livet",
+          "duration": "339",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "I Mørket",
+          "url": "https://www.last.fm/music/Nortt/_/I+M%C3%B8rket",
+          "duration": "340",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "Black Doom Metal",
+          "url": "https://www.last.fm/tag/Black+Doom+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:55.582Z"
+}

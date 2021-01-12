@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "The Rise Of Lucifer",
+    "artist": "Cultes des Ghoules",
+    "url": "https://www.last.fm/music/Cultes+des+Ghoules/The+Rise+Of+Lucifer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abb1691885aa8e973fd32372e0b697c0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "846",
+    "playcount": "7116",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Rise Of Lucifer",
+          "url": "https://www.last.fm/music/Cultes+des+Ghoules/_/The+Rise+Of+Lucifer",
+          "duration": "896",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cultes des Ghoules",
+            "mbid": "fe57569a-1f81-4c02-9719-ed1e2fc6bc91",
+            "url": "https://www.last.fm/music/Cultes+des+Ghoules"
+          }
+        },
+        {
+          "name": "Family Of Dog (The Feast Of Ghouls)",
+          "url": "https://www.last.fm/music/Cultes+des+Ghoules/_/Family+Of+Dog+(The+Feast+Of+Ghouls)",
+          "duration": "369",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cultes des Ghoules",
+            "mbid": "fe57569a-1f81-4c02-9719-ed1e2fc6bc91",
+            "url": "https://www.last.fm/music/Cultes+des+Ghoules"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:57:24.791Z"
+}

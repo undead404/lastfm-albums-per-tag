@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Mdłości / Further Down the Nest",
+    "artist": "Mgła",
+    "url": "https://www.last.fm/music/Mg%C5%82a/Md%C5%82o%C5%9Bci+%2F+Further+Down+the+Nest",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5514a4a82bec4e9ba7a710f93772a79d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "284",
+    "playcount": "7153",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mdłości I",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Md%C5%82o%C5%9Bci+I",
+          "duration": "393",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Mdłości II",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Md%C5%82o%C5%9Bci+II",
+          "duration": "251",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Further Down The Nest I",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Further+Down+The+Nest+I",
+          "duration": "306",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Further Down The Nest II",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Further+Down+The+Nest+II",
+          "duration": "381",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "polish",
+          "url": "https://www.last.fm/tag/polish"
+        },
+        {
+          "name": "poland",
+          "url": "https://www.last.fm/tag/poland"
+        },
+        {
+          "name": "polish black metal",
+          "url": "https://www.last.fm/tag/polish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:05:24.217Z"
+}

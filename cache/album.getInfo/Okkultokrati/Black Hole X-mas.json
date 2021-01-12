@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Black Hole X-mas",
+    "artist": "Okkultokrati",
+    "url": "https://www.last.fm/music/Okkultokrati/Black+Hole+X-mas",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a45548c759349b9c9c714ec9a5681f5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "245",
+    "playcount": "584",
+    "tracks": {
+      "track": [
+        {
+          "name": "No christmas",
+          "url": "https://www.last.fm/music/Okkultokrati/_/No+christmas",
+          "duration": "185",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "All I Want for Christmas is Glue",
+          "url": "https://www.last.fm/music/Okkultokrati/_/All+I+Want+for+Christmas+is+Glue",
+          "duration": "232",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:43:21.581Z"
+}

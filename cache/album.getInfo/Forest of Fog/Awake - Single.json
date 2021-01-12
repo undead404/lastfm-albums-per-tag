@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Awake - Single",
+    "artist": "Forest of Fog",
+    "url": "https://www.last.fm/music/Forest+of+Fog/Awake+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "4",
+    "playcount": "23",
+    "tracks": {
+      "track": [
+        {
+          "name": "Awake",
+          "url": "https://www.last.fm/music/Forest+of+Fog/_/Awake",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest of Fog",
+            "mbid": "ae654974-94a7-435d-b527-77cf3a1a7cf5",
+            "url": "https://www.last.fm/music/Forest+of+Fog"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:10:57.752Z"
+}

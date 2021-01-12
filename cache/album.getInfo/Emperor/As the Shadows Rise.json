@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "As the Shadows Rise",
+    "artist": "Emperor",
+    "mbid": "48c00029-4659-3141-a0a7-ee1479f3ac0e",
+    "url": "https://www.last.fm/music/Emperor/As+the+Shadows+Rise",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c05a4740461699b295a0958116d605b8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c05a4740461699b295a0958116d605b8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c05a4740461699b295a0958116d605b8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c05a4740461699b295a0958116d605b8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c05a4740461699b295a0958116d605b8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c05a4740461699b295a0958116d605b8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2079",
+    "playcount": "19983",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ancient Queen",
+          "url": "https://www.last.fm/music/Emperor/_/Ancient+Queen",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Lord of the Storms",
+          "url": "https://www.last.fm/music/Emperor/_/Lord+of+the+Storms",
+          "duration": "128",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Witches Sabbath",
+          "url": "https://www.last.fm/music/Emperor/_/Witches+Sabbath",
+          "duration": "340",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "satanic",
+          "url": "https://www.last.fm/tag/satanic"
+        },
+        {
+          "name": "1994",
+          "url": "https://www.last.fm/tag/1994"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:58:39.299Z"
+}

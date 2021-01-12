@@ -1,0 +1,200 @@
+{
+  "album": {
+    "name": "Antiliv",
+    "artist": "Tsjuder",
+    "url": "https://www.last.fm/music/Tsjuder/Antiliv",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dce0f8fbd36f4dc3e5237ab9fb4a8937.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8135",
+    "playcount": "119212",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kaos",
+          "url": "https://www.last.fm/music/Tsjuder/_/Kaos",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Krater",
+          "url": "https://www.last.fm/music/Tsjuder/_/Krater",
+          "duration": "439",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Norge",
+          "url": "https://www.last.fm/music/Tsjuder/_/Norge",
+          "duration": "296",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Djevelens Mesterverk",
+          "url": "https://www.last.fm/music/Tsjuder/_/Djevelens+Mesterverk",
+          "duration": "268",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Demonic Supremacy",
+          "url": "https://www.last.fm/music/Tsjuder/_/Demonic+Supremacy",
+          "duration": "389",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Slumber with the Worm",
+          "url": "https://www.last.fm/music/Tsjuder/_/Slumber+with+the+Worm",
+          "duration": "357",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Ved Ferdens Ende",
+          "url": "https://www.last.fm/music/Tsjuder/_/Ved+Ferdens+Ende",
+          "duration": "331",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Antiliv",
+          "url": "https://www.last.fm/music/Tsjuder/_/Antiliv",
+          "duration": "483",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "best of 2015",
+          "url": "https://www.last.fm/tag/best+of+2015"
+        },
+        {
+          "name": "best albums of the 2010s",
+          "url": "https://www.last.fm/tag/best+albums+of+the+2010s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:32:36.208Z"
+}

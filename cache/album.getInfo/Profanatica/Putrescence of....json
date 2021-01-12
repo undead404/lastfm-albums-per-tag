@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Putrescence of...",
+    "artist": "Profanatica",
+    "url": "https://www.last.fm/music/Profanatica/Putrescence+of...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/54ae3163b7125fc24c724d4a2c3da9c3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "83",
+    "playcount": "626",
+    "tracks": {
+      "track": [
+        {
+          "name": "Raping of Angels",
+          "url": "https://www.last.fm/music/Profanatica/_/Raping+of+Angels",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanatica",
+            "mbid": "9c55a73f-bbc2-4e50-8b5b-6aca01296694",
+            "url": "https://www.last.fm/music/Profanatica"
+          }
+        },
+        {
+          "name": "Final Hour of Christ",
+          "url": "https://www.last.fm/music/Profanatica/_/Final+Hour+of+Christ",
+          "duration": "149",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanatica",
+            "mbid": "9c55a73f-bbc2-4e50-8b5b-6aca01296694",
+            "url": "https://www.last.fm/music/Profanatica"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:58:30.108Z"
+}

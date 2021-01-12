@@ -1,0 +1,244 @@
+{
+  "album": {
+    "name": "Enthroned Is the Night",
+    "artist": "Demoncy",
+    "mbid": "3458e1b3-77c3-40d2-84c2-5df4acf6b5d4",
+    "url": "https://www.last.fm/music/Demoncy/Enthroned+Is+the+Night",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/46ca80cf49b14929c9d5755293dfad5b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1822",
+    "playcount": "48078",
+    "tracks": {
+      "track": [
+        {
+          "name": "Midnight Veil",
+          "url": "https://www.last.fm/music/Demoncy/_/Midnight+Veil",
+          "duration": "112",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Winds of Plague",
+          "url": "https://www.last.fm/music/Demoncy/_/Winds+of+Plague",
+          "duration": "190",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Opening the Lunar Bloodgate",
+          "url": "https://www.last.fm/music/Demoncy/_/Opening+the+Lunar+Bloodgate",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Unclean Spirits",
+          "url": "https://www.last.fm/music/Demoncy/_/Unclean+Spirits",
+          "duration": "250",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Into the Twilight Mists",
+          "url": "https://www.last.fm/music/Demoncy/_/Into+the+Twilight+Mists",
+          "duration": "235",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "The Temple of Shadows",
+          "url": "https://www.last.fm/music/Demoncy/_/The+Temple+of+Shadows",
+          "duration": "162",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Enthroned Is the Night",
+          "url": "https://www.last.fm/music/Demoncy/_/Enthroned+Is+the+Night",
+          "duration": "245",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "The Arcane Aristocracy",
+          "url": "https://www.last.fm/music/Demoncy/_/The+Arcane+Aristocracy",
+          "duration": "286",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Black Vengeance of the Ancient Hordes",
+          "url": "https://www.last.fm/music/Demoncy/_/Black+Vengeance+of+the+Ancient+Hordes",
+          "duration": "225",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "City of Millennia",
+          "url": "https://www.last.fm/music/Demoncy/_/City+of+Millennia",
+          "duration": "302",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        },
+        {
+          "name": "Nocturne",
+          "url": "https://www.last.fm/music/Demoncy/_/Nocturne",
+          "duration": "161",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        },
+        {
+          "name": "Demoncy",
+          "url": "https://www.last.fm/tag/Demoncy"
+        },
+        {
+          "name": "enthroned is the night",
+          "url": "https://www.last.fm/tag/enthroned+is+the+night"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:22:15.727Z"
+}

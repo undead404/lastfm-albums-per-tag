@@ -1,0 +1,196 @@
+{
+  "album": {
+    "name": "Heat Death",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Heat+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4671c7b2cead4209c254cf0214e814aa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "275",
+    "playcount": "3960",
+    "tracks": {
+      "track": [
+        {
+          "name": "Forteana",
+          "url": "https://www.last.fm/music/Ethereal/_/Forteana",
+          "duration": "384",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Sky Burial",
+          "url": "https://www.last.fm/music/Ethereal/_/Sky+Burial",
+          "duration": "166",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Vailixi",
+          "url": "https://www.last.fm/music/Ethereal/_/Vailixi",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Oozaru",
+          "url": "https://www.last.fm/music/Ethereal/_/Oozaru",
+          "duration": "166",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Redlights",
+          "url": "https://www.last.fm/music/Ethereal/_/Redlights",
+          "duration": "469",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Vàimanika",
+          "url": "https://www.last.fm/music/Ethereal/_/V%C3%A0imanika",
+          "duration": "262",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Cold",
+          "url": "https://www.last.fm/music/Ethereal/_/Cold",
+          "duration": "336",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Daikinis",
+          "url": "https://www.last.fm/music/Ethereal/_/Daikinis",
+          "duration": "282",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Forever",
+          "url": "https://www.last.fm/music/Ethereal/_/Forever",
+          "duration": "179",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:02.413Z"
+}

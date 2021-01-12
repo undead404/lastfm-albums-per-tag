@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "The Urilia Text",
+    "artist": "Summoning",
+    "url": "https://www.last.fm/music/Summoning/The+Urilia+Text",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79033f6ee4164174bb53d00a329f6a80.png",
+        "size": ""
+      }
+    ],
+    "listeners": "260",
+    "playcount": "1416",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "terrible",
+          "url": "https://www.last.fm/tag/terrible"
+        },
+        {
+          "name": "1994",
+          "url": "https://www.last.fm/tag/1994"
+        },
+        {
+          "name": "split",
+          "url": "https://www.last.fm/tag/split"
+        },
+        {
+          "name": "bad production",
+          "url": "https://www.last.fm/tag/bad+production"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:54:39.558Z"
+}

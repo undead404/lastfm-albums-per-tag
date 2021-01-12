@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Jupiter",
+    "artist": "Hammer",
+    "url": "https://www.last.fm/music/Hammer/Jupiter",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "350",
+    "playcount": "1152",
+    "tracks": {
+      "track": [
+        {
+          "name": "Jupiter (Synths)",
+          "url": "https://www.last.fm/music/Hammer/_/Jupiter+(Synths)",
+          "duration": "416",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Jupiter (Beats)",
+          "url": "https://www.last.fm/music/Hammer/_/Jupiter+(Beats)",
+          "duration": "415",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "L'orange",
+          "url": "https://www.last.fm/music/Hammer/_/L%27orange",
+          "duration": "419",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "L'Orange (Bawrut Remix)",
+          "url": "https://www.last.fm/music/Hammer/_/L%27Orange+(Bawrut+Remix)",
+          "duration": "427",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Jupiter (Margot Remix)",
+          "url": "https://www.last.fm/music/Hammer/_/Jupiter+(Margot+Remix)",
+          "duration": "303",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:51:45.229Z"
+}

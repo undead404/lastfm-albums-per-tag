@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Introitus",
+    "artist": "Circle of Ouroborus",
+    "mbid": "04790cd2-9521-4ee7-961e-f24bbf0102dd",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/Introitus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dff54afbee1e41b691e328742910d644.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dff54afbee1e41b691e328742910d644.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dff54afbee1e41b691e328742910d644.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dff54afbee1e41b691e328742910d644.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dff54afbee1e41b691e328742910d644.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dff54afbee1e41b691e328742910d644.png",
+        "size": ""
+      }
+    ],
+    "listeners": "441",
+    "playcount": "4586",
+    "tracks": {
+      "track": [
+        {
+          "name": "Via Aestas.",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Via+Aestas.",
+          "duration": "233",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Dawn Of The Void",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Dawn+Of+The+Void",
+          "duration": "286",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Circle Of One",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Circle+Of+One",
+          "duration": "350",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Timbre Noir",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Timbre+Noir",
+          "duration": "87",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Luciferian Will",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Luciferian+Will",
+          "duration": "346",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Under The Uniper",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Under+The+Uniper",
+          "duration": "200",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Dimension Grotesque",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Dimension+Grotesque",
+          "duration": "223",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:10.979Z"
+}

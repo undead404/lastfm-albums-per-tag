@@ -1,0 +1,47 @@
+{
+  "album": {
+    "name": "I DREAM",
+    "artist": "I",
+    "url": "https://www.last.fm/music/I/I+DREAM",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72c4841aeef9b9c82ebd25491234ca96.png",
+        "size": ""
+      }
+    ],
+    "listeners": "540",
+    "playcount": "7150",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:06:25.534Z"
+}

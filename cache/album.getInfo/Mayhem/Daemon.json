@@ -1,0 +1,230 @@
+{
+  "album": {
+    "name": "Daemon",
+    "artist": "Mayhem",
+    "url": "https://www.last.fm/music/Mayhem/Daemon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28de126cd2ec869b57f21f0635ef7b2d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3417",
+    "playcount": "103961",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Dying False King",
+          "url": "https://www.last.fm/music/Mayhem/_/The+Dying+False+King",
+          "duration": "227",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Agenda Ignis",
+          "url": "https://www.last.fm/music/Mayhem/_/Agenda+Ignis",
+          "duration": "275",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Bad Blood",
+          "url": "https://www.last.fm/music/Mayhem/_/Bad+Blood",
+          "duration": "298",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Malum",
+          "url": "https://www.last.fm/music/Mayhem/_/Malum",
+          "duration": "306",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Falsified and Hated",
+          "url": "https://www.last.fm/music/Mayhem/_/Falsified+and+Hated",
+          "duration": "348",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Aeon Daemonium",
+          "url": "https://www.last.fm/music/Mayhem/_/Aeon+Daemonium",
+          "duration": "363",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Worthless Abominations Destroyed",
+          "url": "https://www.last.fm/music/Mayhem/_/Worthless+Abominations+Destroyed",
+          "duration": "228",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Daemon Spawn",
+          "url": "https://www.last.fm/music/Mayhem/_/Daemon+Spawn",
+          "duration": "363",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Of Worms and Ruins",
+          "url": "https://www.last.fm/music/Mayhem/_/Of+Worms+and+Ruins",
+          "duration": "228",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Invoke the Oath",
+          "url": "https://www.last.fm/music/Mayhem/_/Invoke+the+Oath",
+          "duration": "334",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "self-plagiarism",
+          "url": "https://www.last.fm/tag/self-plagiarism"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:53:08.999Z"
+}

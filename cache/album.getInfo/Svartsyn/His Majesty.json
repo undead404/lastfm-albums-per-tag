@@ -1,0 +1,159 @@
+{
+  "album": {
+    "name": "...His Majesty",
+    "artist": "Svartsyn",
+    "mbid": "39e9653b-4778-4bc6-93de-69e13f980597",
+    "url": "https://www.last.fm/music/Svartsyn/...His+Majesty",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9b1b0a6cbe7606f3009f29ea537c8873.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1970",
+    "playcount": "30998",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apocalyptic Prophecy",
+          "url": "https://www.last.fm/music/Svartsyn/_/Apocalyptic+Prophecy",
+          "duration": "273",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        },
+        {
+          "name": "Dungeons",
+          "url": "https://www.last.fm/music/Svartsyn/_/Dungeons",
+          "duration": "355",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        },
+        {
+          "name": "Tunnels of his Majesty",
+          "url": "https://www.last.fm/music/Svartsyn/_/Tunnels+of+his+Majesty",
+          "duration": "315",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        },
+        {
+          "name": "It Breathes",
+          "url": "https://www.last.fm/music/Svartsyn/_/It+Breathes",
+          "duration": "303",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        },
+        {
+          "name": "Nekromantic Flesh",
+          "url": "https://www.last.fm/music/Svartsyn/_/Nekromantic+Flesh",
+          "duration": "292",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        },
+        {
+          "name": "I'm Cleopatra's Hiller",
+          "url": "https://www.last.fm/music/Svartsyn/_/I%27m+Cleopatra%27s+Hiller",
+          "duration": "328",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartsyn",
+            "mbid": "ea2af655-c7d4-4949-96c4-9baf5703509e",
+            "url": "https://www.last.fm/music/Svartsyn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:22:10.862Z"
+}

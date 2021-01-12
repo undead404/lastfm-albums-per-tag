@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Наследие",
+    "artist": "Astrofaes",
+    "mbid": "504334d0-ef44-473c-ac74-973550c46029",
+    "url": "https://www.last.fm/music/Astrofaes/%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/37d41a82668c550da95aef5054d51385.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/37d41a82668c550da95aef5054d51385.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/37d41a82668c550da95aef5054d51385.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37d41a82668c550da95aef5054d51385.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37d41a82668c550da95aef5054d51385.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37d41a82668c550da95aef5054d51385.png",
+        "size": ""
+      }
+    ],
+    "listeners": "177",
+    "playcount": "1911",
+    "tracks": {
+      "track": [
+        {
+          "name": "Дух, рождённый свободой",
+          "url": "https://www.last.fm/music/Astrofaes/_/%D0%94%D1%83%D1%85,+%D1%80%D0%BE%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BE%D0%B9",
+          "duration": "500",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Забытое имя",
+          "url": "https://www.last.fm/music/Astrofaes/_/%D0%97%D0%B0%D0%B1%D1%8B%D1%82%D0%BE%D0%B5+%D0%B8%D0%BC%D1%8F",
+          "duration": "289",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Тени предков",
+          "url": "https://www.last.fm/music/Astrofaes/_/%D0%A2%D0%B5%D0%BD%D0%B8+%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2",
+          "duration": "364",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Пробуждение",
+          "url": "https://www.last.fm/music/Astrofaes/_/%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5",
+          "duration": "399",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Сквозь время памяти",
+          "url": "https://www.last.fm/music/Astrofaes/_/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D1%8C+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8",
+          "duration": "502",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:41:43.780Z"
+}

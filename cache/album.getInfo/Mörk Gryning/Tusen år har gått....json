@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Tusen år har gått...",
+    "artist": "Mörk Gryning",
+    "mbid": "c2286c7b-2957-4aa4-a289-0135e98002f9",
+    "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/Tusen+%C3%A5r+har+g%C3%A5tt...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bbf25378b9956061fd6dafa16fde59d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5469",
+    "playcount": "123118",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dagon",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Dagon",
+          "duration": "59",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Journey",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Journey",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Tusen år har gått",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Tusen+%C3%A5r+har+g%C3%A5tt",
+          "duration": "214",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Omringningen",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Omringningen",
+          "duration": "260",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Armageddon Has Come to Pass...",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Armageddon+Has+Come+to+Pass...",
+          "duration": "104",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Unleash the Beast",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Unleash+the+Beast",
+          "duration": "262",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "The Final Battle",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/The+Final+Battle",
+          "duration": "294",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Mörkrets gryning",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/M%C3%B6rkrets+gryning",
+          "duration": "238",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Min sista färd (En visa om döden)",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Min+sista+f%C3%A4rd+(En+visa+om+d%C3%B6den)",
+          "duration": "340",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "best of 1995",
+          "url": "https://www.last.fm/tag/best+of+1995"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jun 2011, 15:45",
+      "summary": "Correct tag is Tusen år har gått... <a href=\"http://www.last.fm/music/M%C3%B6rk+Gryning/Tusen+%C3%A5r+har+g%C3%A5tt...\">Read more on Last.fm</a>.",
+      "content": "Correct tag is Tusen år har gått... <a href=\"http://www.last.fm/music/M%C3%B6rk+Gryning/Tusen+%C3%A5r+har+g%C3%A5tt...\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:14:51.281Z"
+}

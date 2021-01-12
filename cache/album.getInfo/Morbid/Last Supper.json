@@ -1,0 +1,47 @@
+{
+  "album": {
+    "name": "Last Supper",
+    "artist": "Morbid",
+    "url": "https://www.last.fm/music/Morbid/Last+Supper",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99695168345a4ea2811a1c12877658f4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99695168345a4ea2811a1c12877658f4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99695168345a4ea2811a1c12877658f4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99695168345a4ea2811a1c12877658f4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99695168345a4ea2811a1c12877658f4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99695168345a4ea2811a1c12877658f4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "569",
+    "playcount": "4688",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:46:01.303Z"
+}

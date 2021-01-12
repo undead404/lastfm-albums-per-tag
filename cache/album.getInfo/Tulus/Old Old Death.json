@@ -1,0 +1,222 @@
+{
+  "album": {
+    "name": "Old Old Death",
+    "artist": "Tulus",
+    "url": "https://www.last.fm/music/Tulus/Old+Old+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c82bf68f686a262b166913aed059c894.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c82bf68f686a262b166913aed059c894.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c82bf68f686a262b166913aed059c894.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c82bf68f686a262b166913aed059c894.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c82bf68f686a262b166913aed059c894.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c82bf68f686a262b166913aed059c894.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1851",
+    "playcount": "16877",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hel",
+          "url": "https://www.last.fm/music/Tulus/_/Hel",
+          "duration": "172",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Jord",
+          "url": "https://www.last.fm/music/Tulus/_/Jord",
+          "duration": "151",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "I Havet hos Rån",
+          "url": "https://www.last.fm/music/Tulus/_/I+Havet+hos+R%C3%A5n",
+          "duration": "166",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Flukt",
+          "url": "https://www.last.fm/music/Tulus/_/Flukt",
+          "duration": "194",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Folkefall",
+          "url": "https://www.last.fm/music/Tulus/_/Folkefall",
+          "duration": "197",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "I Hinmannens Hånd",
+          "url": "https://www.last.fm/music/Tulus/_/I+Hinmannens+H%C3%A5nd",
+          "duration": "256",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Grunn Grav",
+          "url": "https://www.last.fm/music/Tulus/_/Grunn+Grav",
+          "duration": "166",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Ild til Mørkning",
+          "url": "https://www.last.fm/music/Tulus/_/Ild+til+M%C3%B8rkning",
+          "duration": "164",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "Villkjeft",
+          "url": "https://www.last.fm/music/Tulus/_/Villkjeft",
+          "duration": "125",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        },
+        {
+          "name": "In Memoriam",
+          "url": "https://www.last.fm/music/Tulus/_/In+Memoriam",
+          "duration": "279",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:33:08.330Z"
+}

@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Telstar",
+    "artist": "Ad Infinitum",
+    "mbid": "49b38b4d-2ab5-4e64-bad8-0dd6869094eb",
+    "url": "https://www.last.fm/music/Ad+Infinitum/Telstar",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/52cd91da3e684bce99f5e9d49555d4a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "113",
+    "playcount": "453",
+    "tracks": {
+      "track": [
+        {
+          "name": "Telstar",
+          "url": "https://www.last.fm/music/Ad+Infinitum/_/Telstar",
+          "duration": "194",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Infinitum",
+            "mbid": "c8833923-20fc-4c3b-a77b-888e5b3d1deb",
+            "url": "https://www.last.fm/music/Ad+Infinitum"
+          }
+        },
+        {
+          "name": "Telstar in a Piano Bar",
+          "url": "https://www.last.fm/music/Ad+Infinitum/_/Telstar+in+a+Piano+Bar",
+          "duration": "305",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Infinitum",
+            "mbid": "c8833923-20fc-4c3b-a77b-888e5b3d1deb",
+            "url": "https://www.last.fm/music/Ad+Infinitum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:20:30.055Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "God of Love - Single",
+    "artist": "Liturgy",
+    "url": "https://www.last.fm/music/Liturgy/God+of+Love+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c66c1404e02e210bd053d2c217e6961.png",
+        "size": ""
+      }
+    ],
+    "listeners": "133",
+    "playcount": "261",
+    "tracks": {
+      "track": [
+        {
+          "name": "God of Love",
+          "url": "https://www.last.fm/music/Liturgy/_/God+of+Love",
+          "duration": "489",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:23:24.064Z"
+}

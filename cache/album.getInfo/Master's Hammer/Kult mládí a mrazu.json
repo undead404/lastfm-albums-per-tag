@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Kult mládí a mrazu",
+    "artist": "Master's Hammer",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Kult+ml%C3%A1d%C3%AD+a+mrazu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32dadf32453bb545e258b6606fbe35bb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "35",
+    "playcount": "177",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kult mládí",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kult+ml%C3%A1d%C3%AD",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Kult Mrazu",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kult+Mrazu",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:24:08.529Z"
+}

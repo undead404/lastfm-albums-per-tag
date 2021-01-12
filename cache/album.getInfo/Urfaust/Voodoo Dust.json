@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "Voodoo Dust",
+    "artist": "Urfaust",
+    "url": "https://www.last.fm/music/Urfaust/Voodoo+Dust",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb89f90de5cfc9a9a783ac101364cd5b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15516",
+    "playcount": "78653",
+    "tracks": {
+      "track": [
+        {
+          "name": "Voodoo Dust",
+          "url": "https://www.last.fm/music/Urfaust/_/Voodoo+Dust",
+          "duration": "514",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urfaust",
+            "mbid": "5631d5cd-ab06-4baa-b92d-ef76669ddb05",
+            "url": "https://www.last.fm/music/Urfaust"
+          }
+        },
+        {
+          "name": "Kalabhairava",
+          "url": "https://www.last.fm/music/Urfaust/_/Kalabhairava",
+          "duration": "576",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urfaust",
+            "mbid": "5631d5cd-ab06-4baa-b92d-ef76669ddb05",
+            "url": "https://www.last.fm/music/Urfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        },
+        {
+          "name": "creamed my pants",
+          "url": "https://www.last.fm/tag/creamed+my+pants"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:00.493Z"
+}

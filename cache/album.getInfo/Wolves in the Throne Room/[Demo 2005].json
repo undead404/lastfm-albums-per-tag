@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "[Demo 2005]",
+    "artist": "Wolves in the Throne Room",
+    "mbid": "36a5d734-03cd-4e91-bbf4-03192e61c6df",
+    "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/%5BDemo+2005%5D",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f215c0d2aa8b4568c5bc4b16b0b22547.png",
+        "size": ""
+      }
+    ],
+    "listeners": "87",
+    "playcount": "509",
+    "tracks": {
+      "track": [
+        {
+          "name": "Queen of the Borrowed Light",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Queen+of+the+Borrowed+Light",
+          "duration": "780",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "Dagger Of Amethyst Crystal",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Dagger+Of+Amethyst+Crystal",
+          "duration": "743",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "(A Shimmering Radiance) Diadem of Twelve Stars",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/(A+Shimmering+Radiance)+Diadem+of+Twelve+Stars",
+          "duration": "1553",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:09:46.511Z"
+}

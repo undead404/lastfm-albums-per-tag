@@ -1,0 +1,52 @@
+{
+  "album": {
+    "name": "Satan’s Rock 'n' Roll",
+    "artist": "Chapel",
+    "mbid": "f4922172-1e44-4f4a-a4d1-edbfabd282ac",
+    "url": "https://www.last.fm/music/Chapel/Satan%E2%80%99s+Rock+%27n%27+Roll",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6942ec58348d470ac70dcc592437ae0b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "64",
+    "playcount": "473",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:41:09.179Z"
+}

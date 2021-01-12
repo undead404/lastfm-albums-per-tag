@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Baldr ok Íss",
+    "artist": "Helrunar",
+    "mbid": "6dbd1be1-9636-4ce5-a030-9bde8bb6d0ea",
+    "url": "https://www.last.fm/music/Helrunar/Baldr+ok+%C3%8Dss",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5856898fd7bf479abaa8b6edd93a409b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3063",
+    "playcount": "85013",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dickichtgott",
+          "url": "https://www.last.fm/music/Helrunar/_/Dickichtgott",
+          "duration": "143",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Loka Lögsaga",
+          "url": "https://www.last.fm/music/Helrunar/_/Loka+L%C3%B6gsaga",
+          "duration": "336",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Schwarzer Frost",
+          "url": "https://www.last.fm/music/Helrunar/_/Schwarzer+Frost",
+          "duration": "361",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Baldr",
+          "url": "https://www.last.fm/music/Helrunar/_/Baldr",
+          "duration": "450",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Íss",
+          "url": "https://www.last.fm/music/Helrunar/_/%C3%8Dss",
+          "duration": "208",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Winter",
+          "url": "https://www.last.fm/music/Helrunar/_/Winter",
+          "duration": "135",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Glámr",
+          "url": "https://www.last.fm/music/Helrunar/_/Gl%C3%A1mr",
+          "duration": "412",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Hunta And Boga",
+          "url": "https://www.last.fm/music/Helrunar/_/Hunta+And+Boga",
+          "duration": "298",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Til Jarðar",
+          "url": "https://www.last.fm/music/Helrunar/_/Til+Jar%C3%B0ar",
+          "duration": "392",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        },
+        {
+          "name": "Baldrs Draumar",
+          "url": "https://www.last.fm/music/Helrunar/_/Baldrs+Draumar",
+          "duration": "284",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:24.548Z"
+}

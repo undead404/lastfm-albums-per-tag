@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Rehearsal '94",
+    "artist": "Kvist",
+    "url": "https://www.last.fm/music/Kvist/Rehearsal+%2794",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0da47821ec734640845a92eb6ab3b557.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0da47821ec734640845a92eb6ab3b557.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0da47821ec734640845a92eb6ab3b557.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0da47821ec734640845a92eb6ab3b557.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0da47821ec734640845a92eb6ab3b557.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0da47821ec734640845a92eb6ab3b557.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17",
+    "playcount": "55",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mørk, Skjebnesvanger Og Erotisk Lokkende",
+          "url": "https://www.last.fm/music/Kvist/_/M%C3%B8rk,+Skjebnesvanger+Og+Erotisk+Lokkende",
+          "duration": "252",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Svartedal",
+          "url": "https://www.last.fm/music/Kvist/_/Svartedal",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:36:16.449Z"
+}

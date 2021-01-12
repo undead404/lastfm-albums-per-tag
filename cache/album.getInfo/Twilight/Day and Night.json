@@ -1,0 +1,189 @@
+{
+  "album": {
+    "name": "Day and Night",
+    "artist": "Twilight",
+    "mbid": "bb9c7a2b-32ae-4d03-ba5a-864bd43b81a2",
+    "url": "https://www.last.fm/music/Twilight/Day+and+Night",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57cefa84570b4cef837f1f6aff37473c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "95",
+    "playcount": "968",
+    "tracks": {
+      "track": [
+        {
+          "name": "Day And Night",
+          "url": "https://www.last.fm/music/Twilight/_/Day+And+Night",
+          "duration": "515",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Country Waltz",
+          "url": "https://www.last.fm/music/Twilight/_/Country+Waltz",
+          "duration": "359",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Leaving In The Morning",
+          "url": "https://www.last.fm/music/Twilight/_/Leaving+In+The+Morning",
+          "duration": "361",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Rock 'n' Roll Chillun",
+          "url": "https://www.last.fm/music/Twilight/_/Rock+%27n%27+Roll+Chillun",
+          "duration": "288",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Stranger In Your Town",
+          "url": "https://www.last.fm/music/Twilight/_/Stranger+In+Your+Town",
+          "duration": "443",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "White Queen Boogie",
+          "url": "https://www.last.fm/music/Twilight/_/White+Queen+Boogie",
+          "duration": "246",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Last Night In Verona",
+          "url": "https://www.last.fm/music/Twilight/_/Last+Night+In+Verona",
+          "duration": "159",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Ships Sailing On Sea",
+          "url": "https://www.last.fm/music/Twilight/_/Ships+Sailing+On+Sea",
+          "duration": "328",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "Progressive rock",
+          "url": "https://www.last.fm/tag/Progressive+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:48:23.434Z"
+}

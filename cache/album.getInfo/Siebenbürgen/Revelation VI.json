@@ -1,0 +1,286 @@
+{
+  "album": {
+    "name": "Revelation VI",
+    "artist": "Siebenbürgen",
+    "mbid": "6f8f4ce1-002a-4b89-9dd0-88a6ddc5e9ff",
+    "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/Revelation+VI",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c59796b16b04bd4984f43da59b1b7ae.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4877",
+    "playcount": "128191",
+    "tracks": {
+      "track": [
+        {
+          "name": "Awaken",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Awaken",
+          "duration": "126",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Rebirth of the Nameless",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Rebirth+of+the+Nameless",
+          "duration": "230",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Infernaliia",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Infernaliia",
+          "duration": "281",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Revelation VI",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Revelation+VI",
+          "duration": "320",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Grimheim",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Grimheim",
+          "duration": "319",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "After The Wolf (Do Dead Men Follow)",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/After+The+Wolf+(Do+Dead+Men+Follow)",
+          "duration": "384",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "S.I.N.",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/S.I.N.",
+          "duration": "266",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "The Oaken Throne",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/The+Oaken+Throne",
+          "duration": "217",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "The Soulless",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/The+Soulless",
+          "duration": "267",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Enter Omega",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Enter+Omega",
+          "duration": "189",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "In Sanctum",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/In+Sanctum",
+          "duration": "295",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "Fire Leaps High",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/Fire+Leaps+High",
+          "duration": "277",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        },
+        {
+          "name": "At The End Of Twilight",
+          "url": "https://www.last.fm/music/Siebenb%C3%BCrgen/_/At+The+End+Of+Twilight",
+          "duration": "241",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Siebenbürgen",
+            "mbid": "319325d7-2bda-4e57-8d0b-b6211b30dd7d",
+            "url": "https://www.last.fm/music/Siebenb%C3%BCrgen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "vampiric black metal",
+          "url": "https://www.last.fm/tag/vampiric+black+metal"
+        },
+        {
+          "name": "sodo fav",
+          "url": "https://www.last.fm/tag/sodo+fav"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:35:17.137Z"
+}

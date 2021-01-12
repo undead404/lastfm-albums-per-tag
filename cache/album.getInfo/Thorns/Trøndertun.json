@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Trøndertun",
+    "artist": "Thorns",
+    "mbid": "48c1a834-743e-46dd-afb0-22f7568f8d9a",
+    "url": "https://www.last.fm/music/Thorns/Tr%C3%B8ndertun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e91fffa8d92749d989b921b812717d91.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e91fffa8d92749d989b921b812717d91.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e91fffa8d92749d989b921b812717d91.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e91fffa8d92749d989b921b812717d91.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e91fffa8d92749d989b921b812717d91.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e91fffa8d92749d989b921b812717d91.png",
+        "size": ""
+      }
+    ],
+    "listeners": "502",
+    "playcount": "2937",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ærie Descends",
+          "url": "https://www.last.fm/music/Thorns/_/%C3%86rie+Descends",
+          "duration": "301",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thorns",
+            "mbid": "53c9cab4-0ff5-4683-85c3-c7ced062da71",
+            "url": "https://www.last.fm/music/Thorns"
+          }
+        },
+        {
+          "name": "Funeral Marches to the Grave",
+          "url": "https://www.last.fm/music/Thorns/_/Funeral+Marches+to+the+Grave",
+          "duration": "318",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thorns",
+            "mbid": "53c9cab4-0ff5-4683-85c3-c7ced062da71",
+            "url": "https://www.last.fm/music/Thorns"
+          }
+        },
+        {
+          "name": "Eli er stygg",
+          "url": "https://www.last.fm/music/Thorns/_/Eli+er+stygg",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thorns",
+            "mbid": "53c9cab4-0ff5-4683-85c3-c7ced062da71",
+            "url": "https://www.last.fm/music/Thorns"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:00:38.089Z"
+}

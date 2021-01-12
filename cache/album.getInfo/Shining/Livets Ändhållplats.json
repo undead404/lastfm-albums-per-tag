@@ -1,0 +1,158 @@
+{
+  "album": {
+    "name": "Livets Ändhållplats",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/Livets+%C3%84ndh%C3%A5llplats",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13a3c8328581944f6a745c02ac139715.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13a3c8328581944f6a745c02ac139715.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13a3c8328581944f6a745c02ac139715.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13a3c8328581944f6a745c02ac139715.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13a3c8328581944f6a745c02ac139715.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13a3c8328581944f6a745c02ac139715.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4767",
+    "playcount": "52034",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ett liv utan mening",
+          "url": "https://www.last.fm/music/Shining/_/Ett+liv+utan+mening",
+          "duration": "456",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Att med kniv göra sig illa",
+          "url": "https://www.last.fm/music/Shining/_/Att+med+kniv+g%C3%B6ra+sig+illa",
+          "duration": "129",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "ännu ett steg närmare total utfrysning",
+          "url": "https://www.last.fm/music/Shining/_/%C3%A4nnu+ett+steg+n%C3%A4rmare+total+utfrysning",
+          "duration": "621",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Död",
+          "url": "https://www.last.fm/music/Shining/_/D%C3%B6d",
+          "duration": "459",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Svart (Ur Dagerman's Perspektiv)",
+          "url": "https://www.last.fm/music/Shining/_/Svart+(Ur+Dagerman%27s+Perspektiv)",
+          "duration": "434",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Livets ändhållplats",
+          "url": "https://www.last.fm/music/Shining/_/Livets+%C3%A4ndh%C3%A5llplats",
+          "duration": "560",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2001",
+          "url": "https://www.last.fm/tag/best+of+2001"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:30.970Z"
+}

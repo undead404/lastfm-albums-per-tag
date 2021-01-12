@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "The Age of Nero",
+    "artist": "Satyricon",
+    "mbid": "82ba157c-ecd9-4d15-b886-5db6fcbe6b46",
+    "url": "https://www.last.fm/music/Satyricon/The+Age+of+Nero",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18da033d7bc846d7c63cee62b5b11db4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "59306",
+    "playcount": "1838423",
+    "tracks": {
+      "track": [
+        {
+          "name": "Commando",
+          "url": "https://www.last.fm/music/Satyricon/_/Commando",
+          "duration": "269",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "The Wolfpack",
+          "url": "https://www.last.fm/music/Satyricon/_/The+Wolfpack",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Black Crow on a Tombstone",
+          "url": "https://www.last.fm/music/Satyricon/_/Black+Crow+on+a+Tombstone",
+          "duration": "232",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Die By My Hand",
+          "url": "https://www.last.fm/music/Satyricon/_/Die+By+My+Hand",
+          "duration": "427",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "My Skin Is Cold",
+          "url": "https://www.last.fm/music/Satyricon/_/My+Skin+Is+Cold",
+          "duration": "306",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "The Sign of the Trident",
+          "url": "https://www.last.fm/music/Satyricon/_/The+Sign+of+the+Trident",
+          "duration": "418",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Last Man Standing",
+          "url": "https://www.last.fm/music/Satyricon/_/Last+Man+Standing",
+          "duration": "220",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Den Siste",
+          "url": "https://www.last.fm/music/Satyricon/_/Den+Siste",
+          "duration": "444",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "2008",
+          "url": "https://www.last.fm/tag/2008"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "10 Jul 2009, 07:07",
+      "summary": "Satyricon's 7th studio album, again featuring the unofficial 3rd member of the band, Snorre Ruch of Thorns, was released in 2008.\n\nSome fans criticised the album for developing further away from the band's early Black Metal style.\n\n1 Commando\n2 The Wolfpack\n3 Black Crow On A Tombstone\n4 Die By My Hand\n5 My Skin Is Cold\n6 The Sign Of The Trident\n7 Last Man Standing\n8 Den Siste <a href=\"http://www.last.fm/music/Satyricon/The+Age+of+Nero\">Read more on Last.fm</a>.",
+      "content": "Satyricon's 7th studio album, again featuring the unofficial 3rd member of the band, Snorre Ruch of Thorns, was released in 2008.\n\nSome fans criticised the album for developing further away from the band's early Black Metal style.\n\n1 Commando\n2 The Wolfpack\n3 Black Crow On A Tombstone\n4 Die By My Hand\n5 My Skin Is Cold\n6 The Sign Of The Trident\n7 Last Man Standing\n8 Den Siste <a href=\"http://www.last.fm/music/Satyricon/The+Age+of+Nero\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:52:29.528Z"
+}

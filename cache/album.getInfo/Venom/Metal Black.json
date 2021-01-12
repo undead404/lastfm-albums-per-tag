@@ -1,0 +1,303 @@
+{
+  "album": {
+    "name": "Metal Black",
+    "artist": "Venom",
+    "mbid": "465297e6-1612-4cc7-9566-e39d876db3f9",
+    "url": "https://www.last.fm/music/Venom/Metal+Black",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/241f95348bd64e32ae04ba7fa3a923a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "40767",
+    "playcount": "507338",
+    "tracks": {
+      "track": [
+        {
+          "name": "Antechrist",
+          "url": "https://www.last.fm/music/Venom/_/Antechrist",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Burn In Hell",
+          "url": "https://www.last.fm/music/Venom/_/Burn+In+Hell",
+          "duration": "177",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "House of Pain",
+          "url": "https://www.last.fm/music/Venom/_/House+of+Pain",
+          "duration": "305",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Death & Dying",
+          "url": "https://www.last.fm/music/Venom/_/Death+&+Dying",
+          "duration": "232",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Rege Satanas",
+          "url": "https://www.last.fm/music/Venom/_/Rege+Satanas",
+          "duration": "225",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Darkest Realm",
+          "url": "https://www.last.fm/music/Venom/_/Darkest+Realm",
+          "duration": "192",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "A Good Day to Die",
+          "url": "https://www.last.fm/music/Venom/_/A+Good+Day+to+Die",
+          "duration": "221",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Assassin",
+          "url": "https://www.last.fm/music/Venom/_/Assassin",
+          "duration": "285",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Lucifer Rising",
+          "url": "https://www.last.fm/music/Venom/_/Lucifer+Rising",
+          "duration": "263",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Blessed Dead",
+          "url": "https://www.last.fm/music/Venom/_/Blessed+Dead",
+          "duration": "283",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Hours of Darkness",
+          "url": "https://www.last.fm/music/Venom/_/Hours+of+Darkness",
+          "duration": "255",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Sleep When I'm Dead",
+          "url": "https://www.last.fm/music/Venom/_/Sleep+When+I%27m+Dead",
+          "duration": "233",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Maleficarum",
+          "url": "https://www.last.fm/music/Venom/_/Maleficarum",
+          "duration": "364",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Metal Black",
+          "url": "https://www.last.fm/music/Venom/_/Metal+Black",
+          "duration": "191",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:58:51.177Z"
+}

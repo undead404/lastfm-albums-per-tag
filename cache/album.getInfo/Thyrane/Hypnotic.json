@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Hypnotic",
+    "artist": "Thyrane",
+    "mbid": "ae28b61a-4b3e-43ed-80bf-f957250cf2be",
+    "url": "https://www.last.fm/music/Thyrane/Hypnotic",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4ff3b61447ea42acb2cf11628e369dbe.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3505",
+    "playcount": "87239",
+    "tracks": {
+      "track": [
+        {
+          "name": "Human Weed",
+          "url": "https://www.last.fm/music/Thyrane/_/Human+Weed",
+          "duration": "352",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Firework",
+          "url": "https://www.last.fm/music/Thyrane/_/Firework",
+          "duration": "337",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Glamorama Demystified",
+          "url": "https://www.last.fm/music/Thyrane/_/Glamorama+Demystified",
+          "duration": "394",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Dance in the Air",
+          "url": "https://www.last.fm/music/Thyrane/_/Dance+in+the+Air",
+          "duration": "272",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Armaya",
+          "url": "https://www.last.fm/music/Thyrane/_/Armaya",
+          "duration": "99",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "The Symptomatic",
+          "url": "https://www.last.fm/music/Thyrane/_/The+Symptomatic",
+          "duration": "326",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Phantasmal Paranoia",
+          "url": "https://www.last.fm/music/Thyrane/_/Phantasmal+Paranoia",
+          "duration": "268",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Sickening",
+          "url": "https://www.last.fm/music/Thyrane/_/Sickening",
+          "duration": "258",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Of Suns And Flames",
+          "url": "https://www.last.fm/music/Thyrane/_/Of+Suns+And+Flames",
+          "duration": "306",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        },
+        {
+          "name": "Heretic Hunt",
+          "url": "https://www.last.fm/music/Thyrane/_/Heretic+Hunt",
+          "duration": "428",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thyrane",
+            "mbid": "1727b96c-125a-4d88-9bda-126dd27957cd",
+            "url": "https://www.last.fm/music/Thyrane"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2002",
+          "url": "https://www.last.fm/tag/2002"
+        },
+        {
+          "name": "Electronic Black Metal",
+          "url": "https://www.last.fm/tag/Electronic+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:40:06.871Z"
+}

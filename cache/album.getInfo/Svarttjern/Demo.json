@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Svarttjern",
+    "url": "https://www.last.fm/music/Svarttjern/Demo",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "11",
+    "playcount": "50",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ære fra det indre",
+          "url": "https://www.last.fm/music/Svarttjern/_/%C3%86re+fra+det+indre",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Finally the World Shall Shape",
+          "url": "https://www.last.fm/music/Svarttjern/_/Finally+the+World+Shall+Shape",
+          "duration": "217",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Upon Human Ending",
+          "url": "https://www.last.fm/music/Svarttjern/_/Upon+Human+Ending",
+          "duration": "228",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:56.584Z"
+}

@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Messe des Morts",
+    "artist": "Beherit",
+    "mbid": "bcb752e4-de5a-4237-b598-df75b5c85080",
+    "url": "https://www.last.fm/music/Beherit/Messe+des+Morts",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8191daab26347fa31272893a8e2f40fb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8191daab26347fa31272893a8e2f40fb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8191daab26347fa31272893a8e2f40fb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8191daab26347fa31272893a8e2f40fb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8191daab26347fa31272893a8e2f40fb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8191daab26347fa31272893a8e2f40fb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1552",
+    "playcount": "16972",
+    "tracks": {
+      "track": [
+        {
+          "name": "Beherit",
+          "url": "https://www.last.fm/music/Beherit/_/Beherit",
+          "duration": "207",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Satanic Chaos",
+          "url": "https://www.last.fm/music/Beherit/_/Satanic+Chaos",
+          "duration": "164",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Seventh Blasphemy",
+          "url": "https://www.last.fm/music/Beherit/_/Seventh+Blasphemy",
+          "duration": "165",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Messe Des Morts",
+          "url": "https://www.last.fm/music/Beherit/_/Messe+Des+Morts",
+          "duration": "177",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:20:01.942Z"
+}

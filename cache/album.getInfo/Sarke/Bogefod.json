@@ -1,0 +1,205 @@
+{
+  "album": {
+    "name": "Bogefod",
+    "artist": "Sarke",
+    "url": "https://www.last.fm/music/Sarke/Bogefod",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21c5065b5d7ab35c7756e6369f10c1c3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3008",
+    "playcount": "34893",
+    "tracks": {
+      "track": [
+        {
+          "name": "Taken",
+          "url": "https://www.last.fm/music/Sarke/_/Taken",
+          "duration": "196",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Blood Of Men",
+          "url": "https://www.last.fm/music/Sarke/_/Blood+Of+Men",
+          "duration": "194",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Barrow Of Torolv",
+          "url": "https://www.last.fm/music/Sarke/_/Barrow+Of+Torolv",
+          "duration": "306",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Alternation",
+          "url": "https://www.last.fm/music/Sarke/_/Alternation",
+          "duration": "197",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "The Wicked's Transient Sleep",
+          "url": "https://www.last.fm/music/Sarke/_/The+Wicked%27s+Transient+Sleep",
+          "duration": "220",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Burn",
+          "url": "https://www.last.fm/music/Sarke/_/Burn",
+          "duration": "243",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Dawning",
+          "url": "https://www.last.fm/music/Sarke/_/Dawning",
+          "duration": "209",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Evil Heir",
+          "url": "https://www.last.fm/music/Sarke/_/Evil+Heir",
+          "duration": "261",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Sunken",
+          "url": "https://www.last.fm/music/Sarke/_/Sunken",
+          "duration": "231",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:37:22.339Z"
+}

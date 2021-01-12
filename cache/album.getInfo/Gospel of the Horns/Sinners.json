@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Sinners",
+    "artist": "Gospel of the Horns",
+    "url": "https://www.last.fm/music/Gospel+of+the+Horns/Sinners",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8604c758ace241958fef81255635c3a2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8604c758ace241958fef81255635c3a2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8604c758ace241958fef81255635c3a2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8604c758ace241958fef81255635c3a2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8604c758ace241958fef81255635c3a2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8604c758ace241958fef81255635c3a2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "84",
+    "playcount": "725",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gospel Of The Horns",
+          "url": "https://www.last.fm/music/Gospel+of+the+Horns/_/Gospel+Of+The+Horns",
+          "duration": "313",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gospel of the Horns",
+            "mbid": "8d8a7f46-eae7-4730-bb69-0cf24705e140",
+            "url": "https://www.last.fm/music/Gospel+of+the+Horns"
+          }
+        },
+        {
+          "name": "Powers of Darkness",
+          "url": "https://www.last.fm/music/Gospel+of+the+Horns/_/Powers+of+Darkness",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gospel of the Horns",
+            "mbid": "8d8a7f46-eae7-4730-bb69-0cf24705e140",
+            "url": "https://www.last.fm/music/Gospel+of+the+Horns"
+          }
+        },
+        {
+          "name": "Desolation Descending",
+          "url": "https://www.last.fm/music/Gospel+of+the+Horns/_/Desolation+Descending",
+          "duration": "229",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gospel of the Horns",
+            "mbid": "8d8a7f46-eae7-4730-bb69-0cf24705e140",
+            "url": "https://www.last.fm/music/Gospel+of+the+Horns"
+          }
+        },
+        {
+          "name": "Sinners",
+          "url": "https://www.last.fm/music/Gospel+of+the+Horns/_/Sinners",
+          "duration": "389",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gospel of the Horns",
+            "mbid": "8d8a7f46-eae7-4730-bb69-0cf24705e140",
+            "url": "https://www.last.fm/music/Gospel+of+the+Horns"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:44:23.268Z"
+}

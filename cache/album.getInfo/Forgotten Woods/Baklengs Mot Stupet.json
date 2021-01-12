@@ -1,0 +1,410 @@
+{
+  "album": {
+    "name": "Baklengs Mot Stupet",
+    "artist": "Forgotten Woods",
+    "mbid": "377f3c22-b978-4796-8d7b-8925633a98bf",
+    "url": "https://www.last.fm/music/Forgotten+Woods/Baklengs+Mot+Stupet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbb86e28e1352b4e326f4201859f2873.png",
+        "size": ""
+      }
+    ],
+    "listeners": "100",
+    "playcount": "1195",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eclipsed",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Eclipsed",
+          "duration": "386",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "As the Wolves Gather",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/As+the+Wolves+Gather",
+          "duration": "629",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "In My Darkest Visions",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/In+My+Darkest+Visions",
+          "duration": "524",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Winter",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Winter",
+          "duration": "48",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Grip of Frost",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Grip+of+Frost",
+          "duration": "354",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Dimension of the Blackest Dark",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Dimension+of+the+Blackest+Dark",
+          "duration": "432",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Svartedauden",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Svartedauden",
+          "duration": "109",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Through Dark and Forgotten Valleys",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Through+Dark+and+Forgotten+Valleys",
+          "duration": "540",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Sjel Av Natten",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Sjel+Av+Natten",
+          "duration": "670",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "En Natt Med Storm Og Ravners Skrik",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/En+Natt+Med+Storm+Og+Ravners+Skrik",
+          "duration": "634",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Hvor Vinteren Rår",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Hvor+Vinteren+R%C3%A5r",
+          "duration": "442",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Jomfrulysets Fall",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Jomfrulysets+Fall",
+          "duration": "403",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Inherent Emptiness",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Inherent+Emptiness",
+          "duration": "786",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Your Crystal Fragments",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Your+Crystal+Fragments",
+          "duration": "445",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Blå Melankoli",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Bl%C3%A5+Melankoli",
+          "duration": "784",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Overmotets Pris",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Overmotets+Pris",
+          "duration": "734",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "My Scars Hold Your Dreams",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/My+Scars+Hold+Your+Dreams",
+          "duration": "789",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "The Starlit Waters / I, The Mountain",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/The+Starlit+Waters+%2F+I,+The+Mountain",
+          "duration": "1105",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "With Swans I'll Share My Thirst",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/With+Swans+I%27ll+Share+My+Thirst",
+          "duration": "279",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "Den Ansiktsløse",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/Den+Ansiktsl%C3%B8se",
+          "duration": "745",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        },
+        {
+          "name": "The Velvet Room",
+          "url": "https://www.last.fm/music/Forgotten+Woods/_/The+Velvet+Room",
+          "duration": "667",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Woods",
+            "mbid": "db1b28f3-9dc5-4a07-ab0d-18c23e2b2cdf",
+            "url": "https://www.last.fm/music/Forgotten+Woods"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:07:19.196Z"
+}

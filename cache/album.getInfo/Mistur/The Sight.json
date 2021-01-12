@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Sight",
+    "artist": "Mistur",
+    "url": "https://www.last.fm/music/Mistur/The+Sight",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b08f33bde1f667ab7437293350f95fa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "158",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Sight",
+          "url": "https://www.last.fm/music/Mistur/_/The+Sight",
+          "duration": "659",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:52:14.745Z"
+}

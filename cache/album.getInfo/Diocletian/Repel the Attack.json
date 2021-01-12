@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Repel the Attack",
+    "artist": "Diocletian",
+    "url": "https://www.last.fm/music/Diocletian/Repel+the+Attack",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e53d4f0f2de8d0473124815625c75c7e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "373",
+    "playcount": "755",
+    "tracks": {
+      "track": [
+        {
+          "name": "Repel The Attack",
+          "url": "https://www.last.fm/music/Diocletian/_/Repel+The+Attack",
+          "duration": "175",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:44:28.252Z"
+}

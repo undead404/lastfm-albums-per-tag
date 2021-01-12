@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "With burning tongues",
+    "artist": "Ascension",
+    "mbid": "dfcf888b-ee2b-4f40-8b81-35191e1e42ae",
+    "url": "https://www.last.fm/music/Ascension/With+burning+tongues",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1017c69dfb0ab421df8cc75fc5a50bfd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1809",
+    "playcount": "42710",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sin Harvest",
+          "url": "https://www.last.fm/music/Ascension/_/Sin+Harvest",
+          "duration": "703",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "With Burning Tongues",
+          "url": "https://www.last.fm/music/Ascension/_/With+Burning+Tongues",
+          "duration": "477",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Grey Queen",
+          "url": "https://www.last.fm/music/Ascension/_/Grey+Queen",
+          "duration": "392",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "Coldblooded Grace",
+          "url": "https://www.last.fm/music/Ascension/_/Coldblooded+Grace",
+          "duration": "610",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "The Serpents Gate",
+          "url": "https://www.last.fm/music/Ascension/_/The+Serpents+Gate",
+          "duration": "550",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        },
+        {
+          "name": "Orthodox Black Metal",
+          "url": "https://www.last.fm/tag/Orthodox+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:33:19.558Z"
+}

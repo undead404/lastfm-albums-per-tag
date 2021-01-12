@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Spider in the Web",
+    "artist": "Dark Fortress",
+    "url": "https://www.last.fm/music/Dark+Fortress/The+Spider+in+the+Web",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33ff7e9fa7816620a156d02b3a664162.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1174",
+    "playcount": "2127",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Spider in the Web",
+          "url": "https://www.last.fm/music/Dark+Fortress/_/The+Spider+in+the+Web",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Fortress",
+            "mbid": "5074ddf4-3d57-49d9-a0b8-c36afe60a475",
+            "url": "https://www.last.fm/music/Dark+Fortress"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:22:49.709Z"
+}

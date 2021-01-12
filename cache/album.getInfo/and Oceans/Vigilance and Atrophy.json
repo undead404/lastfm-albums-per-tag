@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Vigilance and Atrophy",
+    "artist": "...and Oceans",
+    "url": "https://www.last.fm/music/...and+Oceans/Vigilance+and+Atrophy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8d91b192a5608840165c0b6fa3d3463.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1071",
+    "playcount": "2264",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vigilance and Atrophy",
+          "url": "https://www.last.fm/music/...and+Oceans/_/Vigilance+and+Atrophy",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "...and Oceans",
+            "mbid": "284460fc-c58a-4214-b81c-299a66bbd786",
+            "url": "https://www.last.fm/music/...and+Oceans"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:21:07.445Z"
+}

@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "In the Garden of Hyacinths",
+    "artist": "Obsequiae",
+    "url": "https://www.last.fm/music/Obsequiae/In+the+Garden+of+Hyacinths",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/801222740bb0d2d58b124014c3de6211.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/801222740bb0d2d58b124014c3de6211.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/801222740bb0d2d58b124014c3de6211.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801222740bb0d2d58b124014c3de6211.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801222740bb0d2d58b124014c3de6211.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801222740bb0d2d58b124014c3de6211.png",
+        "size": ""
+      }
+    ],
+    "listeners": "564",
+    "playcount": "1330",
+    "tracks": {
+      "track": [
+        {
+          "name": "In the Garden of Hyacinths",
+          "url": "https://www.last.fm/music/Obsequiae/_/In+the+Garden+of+Hyacinths",
+          "duration": "257",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:43:57.057Z"
+}

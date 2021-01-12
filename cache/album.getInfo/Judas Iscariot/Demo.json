@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Judas Iscariot",
+    "mbid": "afdd4674-8e3e-424f-92f5-f75b85d87bdd",
+    "url": "https://www.last.fm/music/Judas+Iscariot/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71cb913c01774614a0f4eda8d3592e48.png",
+        "size": ""
+      }
+    ],
+    "listeners": "829",
+    "playcount": "8282",
+    "tracks": {
+      "track": [
+        {
+          "name": "Babylon in Ruin",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Babylon+in+Ruin",
+          "duration": "407",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Unholy Victory",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Unholy+Victory",
+          "duration": "220",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "In Den Qualen der Hölle",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/In+Den+Qualen+der+H%C3%B6lle",
+          "duration": "178",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "The Cold Earth",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/The+Cold+Earth",
+          "duration": "378",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:46:27.123Z"
+}

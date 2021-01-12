@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Flames of Sacrifice",
+    "artist": "Drowning the Light",
+    "url": "https://www.last.fm/music/Drowning+the+Light/Flames+of+Sacrifice",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e17ca273c9254ce68c3544bf334c72b7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "617",
+    "playcount": "9060",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blood on the Altar of Time",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Blood+on+the+Altar+of+Time",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "The Dead of Winter",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Dead+of+Winter",
+          "duration": "158",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Flames of Sacrifice",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Flames+of+Sacrifice",
+          "duration": "199",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "The Pathway to Oblivion",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Pathway+to+Oblivion",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Last Sunset of a Dying Autumn Part II",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Last+Sunset+of+a+Dying+Autumn+Part+II",
+          "duration": "233",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:25:58.521Z"
+}

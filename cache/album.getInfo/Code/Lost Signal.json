@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Lost Signal",
+    "artist": "Code",
+    "url": "https://www.last.fm/music/Code/Lost+Signal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc9eed4556e0f35fd66c6b0c6fc9a891.png",
+        "size": ""
+      }
+    ],
+    "listeners": "798",
+    "playcount": "5319",
+    "tracks": {
+      "track": [
+        {
+          "name": "on blinding larks",
+          "url": "https://www.last.fm/music/Code/_/on+blinding+larks",
+          "duration": "202",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "cocoon",
+          "url": "https://www.last.fm/music/Code/_/cocoon",
+          "duration": "197",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "affliction",
+          "url": "https://www.last.fm/music/Code/_/affliction",
+          "duration": "208",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "The Rattle Of Black Teeth",
+          "url": "https://www.last.fm/music/Code/_/The+Rattle+Of+Black+Teeth",
+          "duration": "263",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "The Lazarus Cord",
+          "url": "https://www.last.fm/music/Code/_/The+Lazarus+Cord",
+          "duration": "366",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Brass Dogs",
+          "url": "https://www.last.fm/music/Code/_/Brass+Dogs",
+          "duration": "523",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "best of 2017",
+          "url": "https://www.last.fm/tag/best+of+2017"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:43:25.388Z"
+}

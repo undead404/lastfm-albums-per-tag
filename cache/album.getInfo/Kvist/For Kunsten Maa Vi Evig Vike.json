@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "For Kunsten Maa Vi Evig Vike",
+    "artist": "Kvist",
+    "mbid": "cb4f0856-9a19-4bd3-805a-585873013c16",
+    "url": "https://www.last.fm/music/Kvist/For+Kunsten+Maa+Vi+Evig+Vike",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8c9aea21986cad0f1a3b6c7e09eb1bf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12591",
+    "playcount": "229019",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ars Manifestia",
+          "url": "https://www.last.fm/music/Kvist/_/Ars+Manifestia",
+          "duration": "316",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Forbannet Være Jorden Jeg Går På",
+          "url": "https://www.last.fm/music/Kvist/_/Forbannet+V%C3%A6re+Jorden+Jeg+G%C3%A5r+P%C3%A5",
+          "duration": "351",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Stupet",
+          "url": "https://www.last.fm/music/Kvist/_/Stupet",
+          "duration": "423",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Svartedal",
+          "url": "https://www.last.fm/music/Kvist/_/Svartedal",
+          "duration": "222",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Min lekam er meg blott en byrde",
+          "url": "https://www.last.fm/music/Kvist/_/Min+lekam+er+meg+blott+en+byrde",
+          "duration": "599",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Vettenetter",
+          "url": "https://www.last.fm/music/Kvist/_/Vettenetter",
+          "duration": "364",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "1996",
+          "url": "https://www.last.fm/tag/1996"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:36:09.761Z"
+}

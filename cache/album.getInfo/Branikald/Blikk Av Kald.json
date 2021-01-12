@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Blikk Av Kald",
+    "artist": "Branikald",
+    "mbid": "95cb5998-6a9f-4101-8be3-8a225809277e",
+    "url": "https://www.last.fm/music/Branikald/Blikk+Av+Kald",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0567d2c981a4682c642276a061b66c4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0567d2c981a4682c642276a061b66c4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0567d2c981a4682c642276a061b66c4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0567d2c981a4682c642276a061b66c4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0567d2c981a4682c642276a061b66c4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0567d2c981a4682c642276a061b66c4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "219",
+    "playcount": "7456",
+    "tracks": {
+      "track": [
+        {
+          "name": "Upon The Waves Of Inspiration",
+          "url": "https://www.last.fm/music/Branikald/_/Upon+The+Waves+Of+Inspiration",
+          "duration": "852",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Steel of Strained Strings Inspiration",
+          "url": "https://www.last.fm/music/Branikald/_/Steel+of+Strained+Strings+Inspiration",
+          "duration": "520",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Wild Slektning Of Sails",
+          "url": "https://www.last.fm/music/Branikald/_/Wild+Slektning+Of+Sails",
+          "duration": "495",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "...Where the End of the Night",
+          "url": "https://www.last.fm/music/Branikald/_/...Where+the+End+of+the+Night",
+          "duration": "541",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Stemme Av Kald",
+          "url": "https://www.last.fm/music/Branikald/_/Stemme+Av+Kald",
+          "duration": "446",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Blikk Av Kald",
+          "url": "https://www.last.fm/music/Branikald/_/Blikk+Av+Kald",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "blazebirth hall",
+          "url": "https://www.last.fm/tag/blazebirth+hall"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:40:54.300Z"
+}

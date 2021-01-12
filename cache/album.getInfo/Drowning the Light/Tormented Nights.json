@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Tormented Nights",
+    "artist": "Drowning the Light",
+    "url": "https://www.last.fm/music/Drowning+the+Light/Tormented+Nights",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce428cc129b54d85aac2d33e253db1ac.png",
+        "size": ""
+      }
+    ],
+    "listeners": "272",
+    "playcount": "707",
+    "tracks": {
+      "track": [
+        {
+          "name": "To Fear Neither Noose Nor Fire",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/To+Fear+Neither+Noose+Nor+Fire",
+          "duration": "211",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Dawn of the False Prophet",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Dawn+of+the+False+Prophet",
+          "duration": "104",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Tormented Nights (Restless Visions)",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Tormented+Nights+(Restless+Visions)",
+          "duration": "226",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:26:08.355Z"
+}

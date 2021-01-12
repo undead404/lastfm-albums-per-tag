@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Khagan",
+    "artist": "Darkestrah",
+    "mbid": "e6fc9b88-bfca-4a9a-9ad6-b23e6d5f3751",
+    "url": "https://www.last.fm/music/Darkestrah/Khagan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/099c1b8dc7da4a5c948cd9f0ee4f00a3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1548",
+    "playcount": "15698",
+    "tracks": {
+      "track": [
+        {
+          "name": "Saga of Temudgin",
+          "url": "https://www.last.fm/music/Darkestrah/_/Saga+of+Temudgin",
+          "duration": "567",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Onon River",
+          "url": "https://www.last.fm/music/Darkestrah/_/Onon+River",
+          "duration": "178",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        },
+        {
+          "name": "Khagan",
+          "url": "https://www.last.fm/music/Darkestrah/_/Khagan",
+          "duration": "655",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        },
+        {
+          "name": "kyrgyz",
+          "url": "https://www.last.fm/tag/kyrgyz"
+        },
+        {
+          "name": "best of 2011",
+          "url": "https://www.last.fm/tag/best+of+2011"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:16:43.482Z"
+}

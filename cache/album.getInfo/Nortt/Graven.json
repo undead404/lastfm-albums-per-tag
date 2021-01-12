@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Graven",
+    "artist": "Nortt",
+    "mbid": "628b7ebe-2f82-3672-93be-b4b0cd8bc53b",
+    "url": "https://www.last.fm/music/Nortt/Graven",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5f9112b5a0e2b3e3fd5f5849e252b04c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6351",
+    "playcount": "90642",
+    "tracks": {
+      "track": [
+        {
+          "name": "Graven (Intro)",
+          "url": "https://www.last.fm/music/Nortt/_/Graven+(Intro)",
+          "duration": "108",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Gravfred",
+          "url": "https://www.last.fm/music/Nortt/_/Gravfred",
+          "duration": "592",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Sørgesalmen",
+          "url": "https://www.last.fm/music/Nortt/_/S%C3%B8rgesalmen",
+          "duration": "591",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Sidste Vers",
+          "url": "https://www.last.fm/music/Nortt/_/Sidste+Vers",
+          "duration": "632",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "De dødes kor",
+          "url": "https://www.last.fm/music/Nortt/_/De+d%C3%B8des+kor",
+          "duration": "436",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Graven (Outro)",
+          "url": "https://www.last.fm/music/Nortt/_/Graven+(Outro)",
+          "duration": "112",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "funeral doom",
+          "url": "https://www.last.fm/tag/funeral+doom"
+        },
+        {
+          "name": "Suicidal Black Metal",
+          "url": "https://www.last.fm/tag/Suicidal+Black+Metal"
+        },
+        {
+          "name": "Doom",
+          "url": "https://www.last.fm/tag/Doom"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:54.520Z"
+}

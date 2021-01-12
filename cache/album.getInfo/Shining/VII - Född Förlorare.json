@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "VII - Född Förlorare",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/VII+-+F%C3%B6dd+F%C3%B6rlorare",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac4f004a8ee14589b91f642ae0aa6497.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10896",
+    "playcount": "179844",
+    "tracks": {
+      "track": [
+        {
+          "name": "Förtvivlan, min arvedel",
+          "url": "https://www.last.fm/music/Shining/_/F%C3%B6rtvivlan,+min+arvedel",
+          "duration": "391",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Tiden läker inga sår",
+          "url": "https://www.last.fm/music/Shining/_/Tiden+l%C3%A4ker+inga+s%C3%A5r",
+          "duration": "490",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Människa o'avskyvärda människa",
+          "url": "https://www.last.fm/music/Shining/_/M%C3%A4nniska+o%27avskyv%C3%A4rda+m%C3%A4nniska",
+          "duration": "402",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "Tillsammans är vi allt",
+          "url": "https://www.last.fm/music/Shining/_/Tillsammans+%C3%A4r+vi+allt",
+          "duration": "562",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "I nattens timma",
+          "url": "https://www.last.fm/music/Shining/_/I+nattens+timma",
+          "duration": "245",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        },
+        {
+          "name": "FFF",
+          "url": "https://www.last.fm/music/Shining/_/FFF",
+          "duration": "421",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:22.541Z"
+}

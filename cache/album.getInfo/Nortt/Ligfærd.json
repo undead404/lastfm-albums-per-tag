@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Ligfærd",
+    "artist": "Nortt",
+    "mbid": "77956299-d265-4039-9df5-f0d66854e598",
+    "url": "https://www.last.fm/music/Nortt/Ligf%C3%A6rd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64338bfff7074603f6357e3713d229ab.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64338bfff7074603f6357e3713d229ab.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64338bfff7074603f6357e3713d229ab.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64338bfff7074603f6357e3713d229ab.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64338bfff7074603f6357e3713d229ab.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64338bfff7074603f6357e3713d229ab.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5995",
+    "playcount": "104792",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gudsforladt",
+          "url": "https://www.last.fm/music/Nortt/_/Gudsforladt",
+          "duration": "244",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Ligprædike",
+          "url": "https://www.last.fm/music/Nortt/_/Ligpr%C3%A6dike",
+          "duration": "517",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Vanhellig",
+          "url": "https://www.last.fm/music/Nortt/_/Vanhellig",
+          "duration": "487",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Tilforn tid",
+          "url": "https://www.last.fm/music/Nortt/_/Tilforn+tid",
+          "duration": "725",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Dødsrune",
+          "url": "https://www.last.fm/music/Nortt/_/D%C3%B8dsrune",
+          "duration": "513",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Ligfærd",
+          "url": "https://www.last.fm/music/Nortt/_/Ligf%C3%A6rd",
+          "duration": "237",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "slow",
+          "url": "https://www.last.fm/tag/slow"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:55.029Z"
+}

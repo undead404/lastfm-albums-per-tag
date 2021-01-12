@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Arising Realm",
+    "artist": "Ragnarok",
+    "mbid": "9e842682-a3e2-4e3d-b1b2-d268f8b0e0c2",
+    "url": "https://www.last.fm/music/Ragnarok/Arising+Realm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5f8715be5b11b53ab5f21fb30bef8b9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11030",
+    "playcount": "197203",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Ragnarok/_/Intro",
+          "duration": "113",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "God Is Wasted",
+          "url": "https://www.last.fm/music/Ragnarok/_/God+Is+Wasted",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Searching for My Dark Desire",
+          "url": "https://www.last.fm/music/Ragnarok/_/Searching+for+My+Dark+Desire",
+          "duration": "289",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "En verden av stein",
+          "url": "https://www.last.fm/music/Ragnarok/_/En+verden+av+stein",
+          "duration": "240",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Time Before Birth of Light",
+          "url": "https://www.last.fm/music/Ragnarok/_/Time+Before+Birth+of+Light",
+          "duration": "330",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "My Hate Is His Spirit",
+          "url": "https://www.last.fm/music/Ragnarok/_/My+Hate+Is+His+Spirit",
+          "duration": "182",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "My Refuge in Darkness",
+          "url": "https://www.last.fm/music/Ragnarok/_/My+Refuge+in+Darkness",
+          "duration": "298",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "The Reflection From the Star World Above",
+          "url": "https://www.last.fm/music/Ragnarok/_/The+Reflection+From+the+Star+World+Above",
+          "duration": "260",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "The Fall of Christianity",
+          "url": "https://www.last.fm/music/Ragnarok/_/The+Fall+of+Christianity",
+          "duration": "158",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "The Predicted Future",
+          "url": "https://www.last.fm/music/Ragnarok/_/The+Predicted+Future",
+          "duration": "432",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "For the World I Am Blinded",
+          "url": "https://www.last.fm/music/Ragnarok/_/For+the+World+I+Am+Blinded",
+          "duration": "276",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Ragnarok/_/Outro",
+          "duration": "126",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Masterpiece",
+          "url": "https://www.last.fm/tag/Masterpiece"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "fucking brilliant",
+          "url": "https://www.last.fm/tag/fucking+brilliant"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Dec 2008, 06:54",
+      "summary": "Thyme (Vocals)\nRym (Guitars)\nJerv (Bass)\nJontho (Drums)\n\nRecorded at X-Ray studios (1997).\nEngineered and mixed by Pål Espen Johannesen.\nKeyboards by Shagrath of Dimmu Borgir and Pål Espen Johannesen.\nMastered at Strype Audio in Oslo by Tom Kvålsvoll. <a href=\"http://www.last.fm/music/Ragnarok/Arising+Realm\">Read more on Last.fm</a>.",
+      "content": "Thyme (Vocals)\nRym (Guitars)\nJerv (Bass)\nJontho (Drums)\n\nRecorded at X-Ray studios (1997).\nEngineered and mixed by Pål Espen Johannesen.\nKeyboards by Shagrath of Dimmu Borgir and Pål Espen Johannesen.\nMastered at Strype Audio in Oslo by Tom Kvålsvoll. <a href=\"http://www.last.fm/music/Ragnarok/Arising+Realm\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:00:28.404Z"
+}

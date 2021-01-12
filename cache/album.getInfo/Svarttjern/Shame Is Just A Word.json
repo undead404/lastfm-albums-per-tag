@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Shame Is Just A Word",
+    "artist": "Svarttjern",
+    "url": "https://www.last.fm/music/Svarttjern/Shame+Is+Just+A+Word",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6578dd8e3caf7d8c82985301515dad7a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4296",
+    "playcount": "25262",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prince of Disgust",
+          "url": "https://www.last.fm/music/Svarttjern/_/Prince+of+Disgust",
+          "duration": "252",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Ment til å tjene",
+          "url": "https://www.last.fm/music/Svarttjern/_/Ment+til+%C3%A5+tjene",
+          "duration": "253",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Melodies of Lust",
+          "url": "https://www.last.fm/music/Svarttjern/_/Melodies+of+Lust",
+          "duration": "369",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Ta dets drakt",
+          "url": "https://www.last.fm/music/Svarttjern/_/Ta+dets+drakt",
+          "duration": "240",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Frost Embalmed Abyss",
+          "url": "https://www.last.fm/music/Svarttjern/_/Frost+Embalmed+Abyss",
+          "duration": "282",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Ravish Me",
+          "url": "https://www.last.fm/music/Svarttjern/_/Ravish+Me",
+          "duration": "210",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Bonded by Blood",
+          "url": "https://www.last.fm/music/Svarttjern/_/Bonded+by+Blood",
+          "duration": "227",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Shame Is Just a Word",
+          "url": "https://www.last.fm/music/Svarttjern/_/Shame+Is+Just+a+Word",
+          "duration": "252",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:41:44.049Z"
+}

@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Under the Sign of the Sword",
+    "artist": "Stormlord",
+    "mbid": "ad7282f4-486b-4cba-bd0e-4cf25f369a8d",
+    "url": "https://www.last.fm/music/Stormlord/Under+the+Sign+of+the+Sword",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3baf26c839d6d58d0d87e3b125b55249.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1595",
+    "playcount": "8101",
+    "tracks": {
+      "track": [
+        {
+          "name": "Under The Sign Of The Sword",
+          "url": "https://www.last.fm/music/Stormlord/_/Under+The+Sign+Of+The+Sword",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Riding The Sunset",
+          "url": "https://www.last.fm/music/Stormlord/_/Riding+The+Sunset",
+          "duration": "308",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "The Scarlet Kingdom",
+          "url": "https://www.last.fm/music/Stormlord/_/The+Scarlet+Kingdom",
+          "duration": "188",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "1997",
+          "url": "https://www.last.fm/tag/1997"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:27.374Z"
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "A Sorcery Written in Blood",
+    "artist": "Gorgoroth",
+    "mbid": "be7fe10b-1bf8-4591-86e8-f25e186d8b61",
+    "url": "https://www.last.fm/music/Gorgoroth/A+Sorcery+Written+in+Blood",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3efa49bee04e316ba2f54d0c08bbffe4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7532",
+    "playcount": "68664",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gathered at Blåkulla",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Gathered+at+Bl%C3%A5kulla",
+          "duration": "81",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "Sexual Bloodgargling",
+          "url": "https://www.last.fm/music/Gorgoroth/_/Sexual+Bloodgargling",
+          "duration": "234",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        },
+        {
+          "name": "(Under) The Pagan Megalith",
+          "url": "https://www.last.fm/music/Gorgoroth/_/(Under)+The+Pagan+Megalith",
+          "duration": "233",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gorgoroth",
+            "mbid": "a1d69fd9-0096-4a60-b277-de34e5a77fca",
+            "url": "https://www.last.fm/music/Gorgoroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:51.827Z"
+}

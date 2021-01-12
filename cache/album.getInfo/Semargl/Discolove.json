@@ -1,0 +1,66 @@
+{
+  "album": {
+    "name": "Discolove",
+    "artist": "Semargl",
+    "mbid": "64d9411a-abe1-43bf-a3f3-96fc54a57a0e",
+    "url": "https://www.last.fm/music/Semargl/Discolove",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/593469e69ff1ae04824b25bfe72f0c70.png",
+        "size": ""
+      }
+    ],
+    "listeners": "296",
+    "playcount": "2598",
+    "tracks": {
+      "track": [
+        {
+          "name": "Discolove",
+          "url": "https://www.last.fm/music/Semargl/_/Discolove",
+          "duration": "280",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dance metal",
+          "url": "https://www.last.fm/tag/dance+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:37:25.019Z"
+}

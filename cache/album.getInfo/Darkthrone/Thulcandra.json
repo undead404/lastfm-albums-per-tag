@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Thulcandra",
+    "artist": "Darkthrone",
+    "mbid": "d4846ba3-0c0b-42c2-b9c8-d8c918623088",
+    "url": "https://www.last.fm/music/Darkthrone/Thulcandra",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4393f5cfbb054defa93926b72459af85.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4393f5cfbb054defa93926b72459af85.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4393f5cfbb054defa93926b72459af85.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4393f5cfbb054defa93926b72459af85.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4393f5cfbb054defa93926b72459af85.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4393f5cfbb054defa93926b72459af85.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4191",
+    "playcount": "24776",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eon",
+          "url": "https://www.last.fm/music/Darkthrone/_/Eon",
+          "duration": "220",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Thulcandra",
+          "url": "https://www.last.fm/music/Darkthrone/_/Thulcandra",
+          "duration": "347",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Archipelago",
+          "url": "https://www.last.fm/music/Darkthrone/_/Archipelago",
+          "duration": "293",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "true norwegian death metal",
+          "url": "https://www.last.fm/tag/true+norwegian+death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:51:43.944Z"
+}

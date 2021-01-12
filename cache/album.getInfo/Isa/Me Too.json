@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Me Too",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Me+Too",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a30d0b99470fcc153cf0478c3905295.png",
+        "size": ""
+      }
+    ],
+    "listeners": "185",
+    "playcount": "663",
+    "tracks": {
+      "track": [
+        {
+          "name": "Me Too",
+          "url": "https://www.last.fm/music/Isa/_/Me+Too",
+          "duration": "154",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:32.102Z"
+}

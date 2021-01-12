@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Nasleep",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/Nasleep",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e32eeeb1dec4eee67b1d654dc81daca0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "654",
+    "playcount": "2479",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nasleep",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Nasleep",
+          "duration": "464",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:17.833Z"
+}

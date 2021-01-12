@@ -1,0 +1,209 @@
+{
+  "album": {
+    "name": "The Curse",
+    "artist": "Hate Forest",
+    "mbid": "23e2953f-17c7-4e25-8ef1-8c6014aa58e4",
+    "url": "https://www.last.fm/music/Hate+Forest/The+Curse",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79938212ed684c06b58d26a0053a76af.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79938212ed684c06b58d26a0053a76af.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79938212ed684c06b58d26a0053a76af.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79938212ed684c06b58d26a0053a76af.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79938212ed684c06b58d26a0053a76af.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79938212ed684c06b58d26a0053a76af.png",
+        "size": ""
+      }
+    ],
+    "listeners": "957",
+    "playcount": "16610",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inmost Winter",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Inmost+Winter",
+          "duration": "360",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "To the Thickets and Swamps",
+          "url": "https://www.last.fm/music/Hate+Forest/_/To+the+Thickets+and+Swamps",
+          "duration": "236",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Black Forest",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Black+Forest",
+          "duration": "280",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "The Most Ancient Ones",
+          "url": "https://www.last.fm/music/Hate+Forest/_/The+Most+Ancient+Ones",
+          "duration": "249",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "The Elders",
+          "url": "https://www.last.fm/music/Hate+Forest/_/The+Elders",
+          "duration": "290",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Darkness",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Darkness",
+          "duration": "362",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "The Night Of Winter Sollstice",
+          "url": "https://www.last.fm/music/Hate+Forest/_/The+Night+Of+Winter+Sollstice",
+          "duration": "348",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "The Curse",
+          "url": "https://www.last.fm/music/Hate+Forest/_/The+Curse",
+          "duration": "353",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "valkyriex powerr",
+          "url": "https://www.last.fm/tag/valkyriex+powerr"
+        },
+        {
+          "name": "valkyriex power",
+          "url": "https://www.last.fm/tag/valkyriex+power"
+        },
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:03:00.451Z"
+}

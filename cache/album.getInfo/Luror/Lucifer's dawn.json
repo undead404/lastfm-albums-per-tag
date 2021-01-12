@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Lucifer's dawn",
+    "artist": "Luror",
+    "mbid": "c2e152c2-ed24-4bc4-ad6d-7302aa42ec28",
+    "url": "https://www.last.fm/music/Luror/Lucifer%27s+dawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80341e82e7e44c6cb2beea2dcb3e60d6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "451",
+    "playcount": "3279",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bloodlust",
+          "url": "https://www.last.fm/music/Luror/_/Bloodlust",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Luror",
+            "mbid": "6a45e23c-d376-4c1c-8508-9e5ac2356820",
+            "url": "https://www.last.fm/music/Luror"
+          }
+        },
+        {
+          "name": "Lucifer's Dawn",
+          "url": "https://www.last.fm/music/Luror/_/Lucifer%27s+Dawn",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Luror",
+            "mbid": "6a45e23c-d376-4c1c-8508-9e5ac2356820",
+            "url": "https://www.last.fm/music/Luror"
+          }
+        },
+        {
+          "name": "Through an Atmosphere of Death, Part 2 (Der zweite Anfall)",
+          "url": "https://www.last.fm/music/Luror/_/Through+an+Atmosphere+of+Death,+Part+2+(Der+zweite+Anfall)",
+          "duration": "403",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Luror",
+            "mbid": "6a45e23c-d376-4c1c-8508-9e5ac2356820",
+            "url": "https://www.last.fm/music/Luror"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:21:43.644Z"
+}

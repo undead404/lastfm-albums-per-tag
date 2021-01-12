@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Hundre År Gammal",
+    "artist": "Khold",
+    "mbid": "fc707ba8-ffa4-420e-b3d0-03cda4f7fe51",
+    "url": "https://www.last.fm/music/Khold/Hundre+%C3%85r+Gammal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0aebeeffee904e3cb662b779e0911074.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0aebeeffee904e3cb662b779e0911074.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0aebeeffee904e3cb662b779e0911074.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0aebeeffee904e3cb662b779e0911074.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0aebeeffee904e3cb662b779e0911074.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0aebeeffee904e3cb662b779e0911074.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6993",
+    "playcount": "112145",
+    "tracks": {
+      "track": [
+        {
+          "name": "Der Kulden Rår",
+          "url": "https://www.last.fm/music/Khold/_/Der+Kulden+R%C3%A5r",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Kor",
+          "url": "https://www.last.fm/music/Khold/_/Kor",
+          "duration": "211",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Hundre år gammal",
+          "url": "https://www.last.fm/music/Khold/_/Hundre+%C3%A5r+gammal",
+          "duration": "209",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Troløs",
+          "url": "https://www.last.fm/music/Khold/_/Trol%C3%B8s",
+          "duration": "159",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Forrykt",
+          "url": "https://www.last.fm/music/Khold/_/Forrykt",
+          "duration": "176",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Rekviem",
+          "url": "https://www.last.fm/music/Khold/_/Rekviem",
+          "duration": "274",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Villfaren",
+          "url": "https://www.last.fm/music/Khold/_/Villfaren",
+          "duration": "122",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Sann Ditt Svik",
+          "url": "https://www.last.fm/music/Khold/_/Sann+Ditt+Svik",
+          "duration": "216",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Mester og Trell",
+          "url": "https://www.last.fm/music/Khold/_/Mester+og+Trell",
+          "duration": "194",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Straff",
+          "url": "https://www.last.fm/music/Khold/_/Straff",
+          "duration": "197",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        },
+        {
+          "name": "Bønn",
+          "url": "https://www.last.fm/music/Khold/_/B%C3%B8nn",
+          "duration": "215",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Khold",
+            "mbid": "7f9ccb94-8113-4fc0-8009-eac7805cfd23",
+            "url": "https://www.last.fm/music/Khold"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "best of 2008",
+          "url": "https://www.last.fm/tag/best+of+2008"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:38:24.280Z"
+}

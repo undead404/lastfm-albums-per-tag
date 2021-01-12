@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Oath Violator",
+    "artist": "Revenge",
+    "url": "https://www.last.fm/music/Revenge/Oath+Violator",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "393",
+    "playcount": "791",
+    "tracks": {
+      "track": [
+        {
+          "name": "Oath Violator",
+          "url": "https://www.last.fm/music/Revenge/_/Oath+Violator",
+          "duration": "222",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:55:08.630Z"
+}

@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "1349",
+    "artist": "1349",
+    "mbid": "3b7437ea-708b-42f5-be1c-0369feb74c4e",
+    "url": "https://www.last.fm/music/1349/1349",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/961fea231bb84abfa70f98f1e4805823.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/961fea231bb84abfa70f98f1e4805823.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/961fea231bb84abfa70f98f1e4805823.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961fea231bb84abfa70f98f1e4805823.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961fea231bb84abfa70f98f1e4805823.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961fea231bb84abfa70f98f1e4805823.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15303",
+    "playcount": "104523",
+    "tracks": {
+      "track": [
+        {
+          "name": "End of all",
+          "url": "https://www.last.fm/music/1349/_/End+of+all",
+          "duration": "350",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Antichrist Warzone",
+          "url": "https://www.last.fm/music/1349/_/Antichrist+Warzone",
+          "duration": "263",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "Chaos Within",
+          "url": "https://www.last.fm/music/1349/_/Chaos+Within",
+          "duration": "248",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        },
+        {
+          "name": "The Usurper (Live)",
+          "url": "https://www.last.fm/music/1349/_/The+Usurper+(Live)",
+          "duration": "207",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1349",
+            "mbid": "2aa07e57-bd8a-4fa0-ba5a-72e8f7c3e63e",
+            "url": "https://www.last.fm/music/1349"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "true black metal",
+          "url": "https://www.last.fm/tag/true+black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "raw",
+          "url": "https://www.last.fm/tag/raw"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:24.303Z"
+}

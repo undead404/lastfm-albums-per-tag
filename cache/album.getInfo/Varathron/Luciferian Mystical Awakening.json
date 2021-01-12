@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Luciferian Mystical Awakening",
+    "artist": "Varathron",
+    "url": "https://www.last.fm/music/Varathron/Luciferian+Mystical+Awakening",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe748592fbd375120aaf18c5beee2bb6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "83",
+    "playcount": "173",
+    "tracks": {
+      "track": [
+        {
+          "name": "Luciferian Mystical Awakening",
+          "url": "https://www.last.fm/music/Varathron/_/Luciferian+Mystical+Awakening",
+          "duration": "384",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:10.554Z"
+}

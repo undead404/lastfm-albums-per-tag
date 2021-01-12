@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Origin of the Alimonies",
+    "artist": "Liturgy",
+    "url": "https://www.last.fm/music/Liturgy/Origin+of+the+Alimonies",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ef7fc8a643932349021b1f042b81f06.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9346",
+    "playcount": "93902",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apparition of the Eternal Church",
+          "url": "https://www.last.fm/music/Liturgy/_/Apparition+of+the+Eternal+Church",
+          "duration": "842",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "Classical",
+          "url": "https://www.last.fm/tag/Classical"
+        },
+        {
+          "name": "Experimental Rock",
+          "url": "https://www.last.fm/tag/Experimental+Rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:23:12.340Z"
+}

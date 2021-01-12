@@ -1,0 +1,321 @@
+{
+  "album": {
+    "name": "Embittered Darkness / Isle de Morts",
+    "artist": "Striborg",
+    "mbid": "d2456e31-1a57-44ec-a856-cfc51eab910b",
+    "url": "https://www.last.fm/music/Striborg/Embittered+Darkness+%2F+Isle+de+Morts",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8873319c8b884a31864e26e0ca42f8e7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1595",
+    "playcount": "21287",
+    "tracks": {
+      "track": [
+        {
+          "name": "Protagonist of Misanthropic Virtues",
+          "url": "https://www.last.fm/music/Striborg/_/Protagonist+of+Misanthropic+Virtues",
+          "duration": "170",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Wrapped In A Cocoon Out Of Harm's Way",
+          "url": "https://www.last.fm/music/Striborg/_/Wrapped+In+A+Cocoon+Out+Of+Harm%27s+Way",
+          "duration": "655",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Race of Apathy",
+          "url": "https://www.last.fm/music/Striborg/_/Race+of+Apathy",
+          "duration": "209",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "In the Eerie Pre-Dawn Silence of the Cold",
+          "url": "https://www.last.fm/music/Striborg/_/In+the+Eerie+Pre-Dawn+Silence+of+the+Cold",
+          "duration": "210",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Embittered Darkness",
+          "url": "https://www.last.fm/music/Striborg/_/Embittered+Darkness",
+          "duration": "640",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Digging a Ditch to Die In",
+          "url": "https://www.last.fm/music/Striborg/_/Digging+a+Ditch+to+Die+In",
+          "duration": "544",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Striborg/_/Intro",
+          "duration": "100",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Through the Veils of Darkness",
+          "url": "https://www.last.fm/music/Striborg/_/Through+the+Veils+of+Darkness",
+          "duration": "162",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Descending from the Blackened Sky",
+          "url": "https://www.last.fm/music/Striborg/_/Descending+from+the+Blackened+Sky",
+          "duration": "221",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Holding the Throne of Night",
+          "url": "https://www.last.fm/music/Striborg/_/Holding+the+Throne+of+Night",
+          "duration": "238",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Day for my Kingdom to Rule",
+          "url": "https://www.last.fm/music/Striborg/_/The+Day+for+my+Kingdom+to+Rule",
+          "duration": "312",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Cold Slumber that Awaits Me",
+          "url": "https://www.last.fm/music/Striborg/_/The+Cold+Slumber+that+Awaits+Me",
+          "duration": "191",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Return Of The Dark Lord",
+          "url": "https://www.last.fm/music/Striborg/_/Return+Of+The+Dark+Lord",
+          "duration": "221",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Landscapes Of Mist Cast Across The Steel Of Cold",
+          "url": "https://www.last.fm/music/Striborg/_/Landscapes+Of+Mist+Cast+Across+The+Steel+Of+Cold",
+          "duration": "204",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "In Darkness...",
+          "url": "https://www.last.fm/music/Striborg/_/In+Darkness...",
+          "duration": "208",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Mist",
+          "url": "https://www.last.fm/music/Striborg/_/Mist",
+          "duration": "170",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:43:47.596Z"
+}

@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Funeralight...",
+    "artist": "Impiety",
+    "url": "https://www.last.fm/music/Impiety/Funeralight...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e31aca01fae240b8a2ef215062733cea.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e31aca01fae240b8a2ef215062733cea.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e31aca01fae240b8a2ef215062733cea.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31aca01fae240b8a2ef215062733cea.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31aca01fae240b8a2ef215062733cea.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e31aca01fae240b8a2ef215062733cea.png",
+        "size": ""
+      }
+    ],
+    "listeners": "62",
+    "playcount": "395",
+    "tracks": {
+      "track": [
+        {
+          "name": "Funeralight...",
+          "url": "https://www.last.fm/music/Impiety/_/Funeralight...",
+          "duration": "53",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impiety",
+            "mbid": "dd40f031-23fa-4bd3-8f16-ebfc4bb978fb",
+            "url": "https://www.last.fm/music/Impiety"
+          }
+        },
+        {
+          "name": "Sodomythical Frostgoats",
+          "url": "https://www.last.fm/music/Impiety/_/Sodomythical+Frostgoats",
+          "duration": "254",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impiety",
+            "mbid": "dd40f031-23fa-4bd3-8f16-ebfc4bb978fb",
+            "url": "https://www.last.fm/music/Impiety"
+          }
+        },
+        {
+          "name": "Serpentspells",
+          "url": "https://www.last.fm/music/Impiety/_/Serpentspells",
+          "duration": "230",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impiety",
+            "mbid": "dd40f031-23fa-4bd3-8f16-ebfc4bb978fb",
+            "url": "https://www.last.fm/music/Impiety"
+          }
+        },
+        {
+          "name": "Socerique Baphostrom",
+          "url": "https://www.last.fm/music/Impiety/_/Socerique+Baphostrom",
+          "duration": "246",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impiety",
+            "mbid": "dd40f031-23fa-4bd3-8f16-ebfc4bb978fb",
+            "url": "https://www.last.fm/music/Impiety"
+          }
+        },
+        {
+          "name": "Dragonoath Diabolus",
+          "url": "https://www.last.fm/music/Impiety/_/Dragonoath+Diabolus",
+          "duration": "294",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impiety",
+            "mbid": "dd40f031-23fa-4bd3-8f16-ebfc4bb978fb",
+            "url": "https://www.last.fm/music/Impiety"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:09:07.910Z"
+}

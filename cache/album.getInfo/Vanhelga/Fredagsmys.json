@@ -1,0 +1,230 @@
+{
+  "album": {
+    "name": "Fredagsmys",
+    "artist": "Vanhelga",
+    "url": "https://www.last.fm/music/Vanhelga/Fredagsmys",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04dcce7883ed3b86f366d1253e765e66.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2299",
+    "playcount": "48378",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sömnparalys",
+          "url": "https://www.last.fm/music/Vanhelga/_/S%C3%B6mnparalys",
+          "duration": "349",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Psykotisk Självinsikt",
+          "url": "https://www.last.fm/music/Vanhelga/_/Psykotisk+Sj%C3%A4lvinsikt",
+          "duration": "296",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Varde Mörker",
+          "url": "https://www.last.fm/music/Vanhelga/_/Varde+M%C3%B6rker",
+          "duration": "341",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Ensam Mot Alla",
+          "url": "https://www.last.fm/music/Vanhelga/_/Ensam+Mot+Alla",
+          "duration": "315",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Förpassad Till Misär",
+          "url": "https://www.last.fm/music/Vanhelga/_/F%C3%B6rpassad+Till+Mis%C3%A4r",
+          "duration": "206",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Två Blir Ett",
+          "url": "https://www.last.fm/music/Vanhelga/_/Tv%C3%A5+Blir+Ett",
+          "duration": "196",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Keep The Window Closed",
+          "url": "https://www.last.fm/music/Vanhelga/_/Keep+The+Window+Closed",
+          "duration": "350",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "RIP (Relationship In Pieces)",
+          "url": "https://www.last.fm/music/Vanhelga/_/RIP+(Relationship+In+Pieces)",
+          "duration": "340",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Feels Like Breathing In Sulfur",
+          "url": "https://www.last.fm/music/Vanhelga/_/Feels+Like+Breathing+In+Sulfur",
+          "duration": "357",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "You Are Temporary",
+          "url": "https://www.last.fm/music/Vanhelga/_/You+Are+Temporary",
+          "duration": "366",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Fredagsmys",
+          "url": "https://www.last.fm/music/Vanhelga/_/Fredagsmys",
+          "duration": "238",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:51:05.744Z"
+}

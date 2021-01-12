@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Sky River - EP",
+    "artist": "Celestia",
+    "url": "https://www.last.fm/music/Celestia/Sky+River+-+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28a19053572d4044b4a3246212362a2f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28a19053572d4044b4a3246212362a2f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28a19053572d4044b4a3246212362a2f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28a19053572d4044b4a3246212362a2f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28a19053572d4044b4a3246212362a2f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28a19053572d4044b4a3246212362a2f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "46",
+    "playcount": "178",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Celestia/_/Intro",
+          "duration": "32",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Sky River",
+          "url": "https://www.last.fm/music/Celestia/_/Sky+River",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Qqn",
+          "url": "https://www.last.fm/music/Celestia/_/Qqn",
+          "duration": "246",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "100 Light Years",
+          "url": "https://www.last.fm/music/Celestia/_/100+Light+Years",
+          "duration": "200",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "All Mirrors",
+          "url": "https://www.last.fm/music/Celestia/_/All+Mirrors",
+          "duration": "197",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Celestia/_/Outro",
+          "duration": "107",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:06:02.622Z"
+}

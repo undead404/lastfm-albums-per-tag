@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Thunderbolt",
+    "artist": "Thunderbolt",
+    "url": "https://www.last.fm/music/Thunderbolt/Thunderbolt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44e8956aa7de4dcc890008042a4cdfaa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "89",
+    "playcount": "366",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:05:21.382Z"
+}

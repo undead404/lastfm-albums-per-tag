@@ -1,0 +1,364 @@
+{
+  "album": {
+    "name": "Infernal Eternal",
+    "artist": "Marduk",
+    "mbid": "3b272142-76ee-48da-82b5-f4b221156205",
+    "url": "https://www.last.fm/music/Marduk/Infernal+Eternal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d414b9e75183d7834d7524293a9d590a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d414b9e75183d7834d7524293a9d590a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d414b9e75183d7834d7524293a9d590a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d414b9e75183d7834d7524293a9d590a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d414b9e75183d7834d7524293a9d590a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d414b9e75183d7834d7524293a9d590a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4850",
+    "playcount": "111869",
+    "tracks": {
+      "track": [
+        {
+          "name": "Panzer Division Marduk",
+          "url": "https://www.last.fm/music/Marduk/_/Panzer+Division+Marduk",
+          "duration": "145",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Burn My Coffin",
+          "url": "https://www.last.fm/music/Marduk/_/Burn+My+Coffin",
+          "duration": "315",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Baptism By Fire",
+          "url": "https://www.last.fm/music/Marduk/_/Baptism+By+Fire",
+          "duration": "230",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "The Sun Turns Black As Night",
+          "url": "https://www.last.fm/music/Marduk/_/The+Sun+Turns+Black+As+Night",
+          "duration": "186",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Of Hell's Fire",
+          "url": "https://www.last.fm/music/Marduk/_/Of+Hell%27s+Fire",
+          "duration": "322",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "502",
+          "url": "https://www.last.fm/music/Marduk/_/502",
+          "duration": "194",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Materialized in Stone",
+          "url": "https://www.last.fm/music/Marduk/_/Materialized+in+Stone",
+          "duration": "310",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Beast of Prey",
+          "url": "https://www.last.fm/music/Marduk/_/Beast+of+Prey",
+          "duration": "247",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Those of the Unlight",
+          "url": "https://www.last.fm/music/Marduk/_/Those+of+the+Unlight",
+          "duration": "283",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Sulphur Souls",
+          "url": "https://www.last.fm/music/Marduk/_/Sulphur+Souls",
+          "duration": "340",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Dreams of Blood and Iron",
+          "url": "https://www.last.fm/music/Marduk/_/Dreams+of+Blood+and+Iron",
+          "duration": "379",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Fistfucking God's Planet",
+          "url": "https://www.last.fm/music/Marduk/_/Fistfucking+God%27s+Planet",
+          "duration": "267",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "On Darkened Wings",
+          "url": "https://www.last.fm/music/Marduk/_/On+Darkened+Wings",
+          "duration": "253",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Into the Crypts of Rays",
+          "url": "https://www.last.fm/music/Marduk/_/Into+the+Crypts+of+Rays",
+          "duration": "249",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Still Fucking Dead",
+          "url": "https://www.last.fm/music/Marduk/_/Still+Fucking+Dead",
+          "duration": "197",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Slay the Nazarene",
+          "url": "https://www.last.fm/music/Marduk/_/Slay+the+Nazarene",
+          "duration": "228",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Departure From The Mortals",
+          "url": "https://www.last.fm/music/Marduk/_/Departure+From+The+Mortals",
+          "duration": "202",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Legion",
+          "url": "https://www.last.fm/music/Marduk/_/Legion",
+          "duration": "355",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Sep 2008, 21:06",
+      "summary": "Infernal Eternal is the second live album by Swedish black metal band Marduk. It was recorded in France during the World Panzer Battle tour and released on November 14, 2000 by Regain Records. <a href=\"http://www.last.fm/music/Marduk/Infernal+Eternal\">Read more on Last.fm</a>.",
+      "content": "Infernal Eternal is the second live album by Swedish black metal band Marduk. It was recorded in France during the World Panzer Battle tour and released on November 14, 2000 by Regain Records. <a href=\"http://www.last.fm/music/Marduk/Infernal+Eternal\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:55:01.602Z"
+}

@@ -1,0 +1,69 @@
+{
+  "album": {
+    "name": "Spiritus Nihilismus",
+    "artist": "Urfaust",
+    "url": "https://www.last.fm/music/Urfaust/Spiritus+Nihilismus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44c6d1c7e80d4745a965163ac56bcc8d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2218",
+    "playcount": "5465",
+    "tracks": {
+      "track": [
+        {
+          "name": "Spiritus Nihilus",
+          "url": "https://www.last.fm/music/Urfaust/_/Spiritus+Nihilus",
+          "duration": "316",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urfaust",
+            "mbid": "5631d5cd-ab06-4baa-b92d-ef76669ddb05",
+            "url": "https://www.last.fm/music/Urfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "atmospheric",
+          "url": "https://www.last.fm/tag/atmospheric"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:09.351Z"
+}

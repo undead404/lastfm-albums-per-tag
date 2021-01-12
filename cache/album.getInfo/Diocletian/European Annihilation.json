@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "European Annihilation",
+    "artist": "Diocletian",
+    "mbid": "61f7a9fe-4d4d-4f9c-bf19-8d6019a07ad7",
+    "url": "https://www.last.fm/music/Diocletian/European+Annihilation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3268f846956b413094ee4766dd5448fd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3268f846956b413094ee4766dd5448fd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3268f846956b413094ee4766dd5448fd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3268f846956b413094ee4766dd5448fd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3268f846956b413094ee4766dd5448fd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3268f846956b413094ee4766dd5448fd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "380",
+    "playcount": "5368",
+    "tracks": {
+      "track": [
+        {
+          "name": "Antichrist Hammerfist",
+          "url": "https://www.last.fm/music/Diocletian/_/Antichrist+Hammerfist",
+          "duration": "181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Warmachine",
+          "url": "https://www.last.fm/music/Diocletian/_/Warmachine",
+          "duration": "190",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Deathstrike Overkill",
+          "url": "https://www.last.fm/music/Diocletian/_/Deathstrike+Overkill",
+          "duration": "220",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "After the bomb",
+          "url": "https://www.last.fm/music/Diocletian/_/After+the+bomb",
+          "duration": "113",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:44:27.184Z"
+}

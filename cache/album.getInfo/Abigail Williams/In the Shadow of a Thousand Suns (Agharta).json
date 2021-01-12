@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "In the Shadow of a Thousand Suns (Agharta)",
+    "artist": "Abigail Williams",
+    "url": "https://www.last.fm/music/Abigail+Williams/In+the+Shadow+of+a+Thousand+Suns+(Agharta)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06653fc2b87d42bfaa5b0c2e2af93d58.png",
+        "size": ""
+      }
+    ],
+    "listeners": "181",
+    "playcount": "1381",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Am (God)",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/I+Am+(God)",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "In Death Comes the Great Silence",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/In+Death+Comes+the+Great+Silence",
+          "duration": "393",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Waiting For The Rain",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Waiting+For+The+Rain",
+          "duration": "93",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Infernal Divide",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Infernal+Divide",
+          "duration": "306",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Floods (Demo)",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Floods+(Demo)",
+          "duration": "374",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:38:10.823Z"
+}

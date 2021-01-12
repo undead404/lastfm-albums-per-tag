@@ -1,0 +1,185 @@
+{
+  "album": {
+    "name": "III",
+    "artist": "End",
+    "mbid": "8eaf1a8e-3f06-4cc2-a961-7372ff3a6fb5",
+    "url": "https://www.last.fm/music/End/III",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/520d121574764dd99fb27e91a86d6e68.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/520d121574764dd99fb27e91a86d6e68.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/520d121574764dd99fb27e91a86d6e68.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/520d121574764dd99fb27e91a86d6e68.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/520d121574764dd99fb27e91a86d6e68.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/520d121574764dd99fb27e91a86d6e68.png",
+        "size": ""
+      }
+    ],
+    "listeners": "503",
+    "playcount": "7557",
+    "tracks": {
+      "track": [
+        {
+          "name": "Catastrophe",
+          "url": "https://www.last.fm/music/End/_/Catastrophe",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Self-eating Mass",
+          "url": "https://www.last.fm/music/End/_/Self-eating+Mass",
+          "duration": "434",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Still In Flesh",
+          "url": "https://www.last.fm/music/End/_/Still+In+Flesh",
+          "duration": "359",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "In the Womb of Sick",
+          "url": "https://www.last.fm/music/End/_/In+the+Womb+of+Sick",
+          "duration": "454",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Lavish Gloom",
+          "url": "https://www.last.fm/music/End/_/Lavish+Gloom",
+          "duration": "375",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Ugly And Bygone",
+          "url": "https://www.last.fm/music/End/_/Ugly+And+Bygone",
+          "duration": "409",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "The Largest Hearse",
+          "url": "https://www.last.fm/music/End/_/The+Largest+Hearse",
+          "duration": "237",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Megalomania",
+          "url": "https://www.last.fm/music/End/_/Megalomania",
+          "duration": "353",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:28:07.617Z"
+}

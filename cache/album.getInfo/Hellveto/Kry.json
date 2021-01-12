@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Kry",
+    "artist": "Hellveto",
+    "mbid": "0e374f59-fe47-4cb5-bea2-c6fe2deed6b5",
+    "url": "https://www.last.fm/music/Hellveto/Kry",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6ef361032d34a7283f70a2dae53d499.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1371",
+    "playcount": "22635",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kry",
+          "url": "https://www.last.fm/music/Hellveto/_/Kry",
+          "duration": "1449",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Głód",
+          "url": "https://www.last.fm/music/Hellveto/_/G%C5%82%C3%B3d",
+          "duration": "473",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Powiedz Mi...",
+          "url": "https://www.last.fm/music/Hellveto/_/Powiedz+Mi...",
+          "duration": "266",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Kraina Mgieł",
+          "url": "https://www.last.fm/music/Hellveto/_/Kraina+Mgie%C5%82",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Rzucone na Wiatr",
+          "url": "https://www.last.fm/music/Hellveto/_/Rzucone+na+Wiatr",
+          "duration": "325",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Smak Zniewolenia",
+          "url": "https://www.last.fm/music/Hellveto/_/Smak+Zniewolenia",
+          "duration": "266",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:21:38.852Z"
+}

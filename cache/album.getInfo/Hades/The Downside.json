@@ -1,0 +1,278 @@
+{
+  "album": {
+    "name": "The Downside",
+    "artist": "Hades",
+    "mbid": "a3b2ad3f-4070-45e2-bd26-35dbb75b5219",
+    "url": "https://www.last.fm/music/Hades/The+Downside",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f80572525aa4af0a878263471036805.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f80572525aa4af0a878263471036805.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f80572525aa4af0a878263471036805.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f80572525aa4af0a878263471036805.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f80572525aa4af0a878263471036805.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f80572525aa4af0a878263471036805.png",
+        "size": ""
+      }
+    ],
+    "listeners": "489",
+    "playcount": "4157",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ground Zero N.Y.C.",
+          "url": "https://www.last.fm/music/Hades/_/Ground+Zero+N.Y.C.",
+          "duration": "254",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Align the Planets",
+          "url": "https://www.last.fm/music/Hades/_/Align+the+Planets",
+          "duration": "242",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Bitter",
+          "url": "https://www.last.fm/music/Hades/_/Bitter",
+          "duration": "192",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Hoax",
+          "url": "https://www.last.fm/music/Hades/_/Hoax",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Pay the Price",
+          "url": "https://www.last.fm/music/Hades/_/Pay+the+Price",
+          "duration": "132",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Hail to the Thief",
+          "url": "https://www.last.fm/music/Hades/_/Hail+to+the+Thief",
+          "duration": "182",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Shove It",
+          "url": "https://www.last.fm/music/Hades/_/Shove+It",
+          "duration": "198",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "It's A Wonderful Lie",
+          "url": "https://www.last.fm/music/Hades/_/It%27s+A+Wonderful+Lie",
+          "duration": "249",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Become Dust",
+          "url": "https://www.last.fm/music/Hades/_/Become+Dust",
+          "duration": "227",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Responsible",
+          "url": "https://www.last.fm/music/Hades/_/Responsible",
+          "duration": "267",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "The Me That Might Have Been",
+          "url": "https://www.last.fm/music/Hades/_/The+Me+That+Might+Have+Been",
+          "duration": "212",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "Ground Zero (Reprise)",
+          "url": "https://www.last.fm/music/Hades/_/Ground+Zero+(Reprise)",
+          "duration": "83",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        },
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Hades/_/%5Buntitled%5D",
+          "duration": "130",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hades",
+            "mbid": "f4daf57d-275c-4b97-98d0-5fa7e356802b",
+            "url": "https://www.last.fm/music/Hades"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Hades",
+          "url": "https://www.last.fm/tag/Hades"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:54:35.627Z"
+}

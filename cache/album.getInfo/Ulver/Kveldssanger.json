@@ -1,0 +1,291 @@
+{
+  "album": {
+    "name": "Kveldssanger",
+    "artist": "Ulver",
+    "mbid": "cd7a8fc4-9ef2-4f9f-b47f-2d6c3ac421ea",
+    "url": "https://www.last.fm/music/Ulver/Kveldssanger",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6f3071be2f834907e211218f32d2783d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6f3071be2f834907e211218f32d2783d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6f3071be2f834907e211218f32d2783d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f3071be2f834907e211218f32d2783d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f3071be2f834907e211218f32d2783d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f3071be2f834907e211218f32d2783d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "64439",
+    "playcount": "2469810",
+    "tracks": {
+      "track": [
+        {
+          "name": "Østenfor sol og vestenfor maane",
+          "url": "https://www.last.fm/music/Ulver/_/%C3%98stenfor+sol+og+vestenfor+maane",
+          "duration": "206",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Ord",
+          "url": "https://www.last.fm/music/Ulver/_/Ord",
+          "duration": "18",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Høyfjeldsbilde",
+          "url": "https://www.last.fm/music/Ulver/_/H%C3%B8yfjeldsbilde",
+          "duration": "135",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Nattleite",
+          "url": "https://www.last.fm/music/Ulver/_/Nattleite",
+          "duration": "131",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Kveldssang",
+          "url": "https://www.last.fm/music/Ulver/_/Kveldssang",
+          "duration": "92",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Naturmystikk",
+          "url": "https://www.last.fm/music/Ulver/_/Naturmystikk",
+          "duration": "176",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Al Capella",
+          "url": "https://www.last.fm/music/Ulver/_/Al+Capella",
+          "duration": "86",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Hiertets vee",
+          "url": "https://www.last.fm/music/Ulver/_/Hiertets+vee",
+          "duration": "235",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Kledt i nattens farger",
+          "url": "https://www.last.fm/music/Ulver/_/Kledt+i+nattens+farger",
+          "duration": "171",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Halling",
+          "url": "https://www.last.fm/music/Ulver/_/Halling",
+          "duration": "128",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Utreise",
+          "url": "https://www.last.fm/music/Ulver/_/Utreise",
+          "duration": "177",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Søfn-ør paa alfers lund",
+          "url": "https://www.last.fm/music/Ulver/_/S%C3%B8fn-%C3%B8r+paa+alfers+lund",
+          "duration": "158",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Ulvsblakk",
+          "url": "https://www.last.fm/music/Ulver/_/Ulvsblakk",
+          "duration": "416",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "neofolk",
+          "url": "https://www.last.fm/tag/neofolk"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "medieval",
+          "url": "https://www.last.fm/tag/medieval"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Sep 2008, 11:11",
+      "summary": "Kveldssanger (translated as \"Twilight Songs\") is the second studio album by Norwegian band Ulver, issued in March, 1996 via Head Not Found. The album was recorded at Endless Lydstudio, Christiania, Kingdom of Norway in the summer and autumn of 1995, with Kristian Romsøe as engineer and co-producer. Part of their \"black metal trilogy\", Kveldssanger takes the sound of the acoustic passages on the black metal releases and expands on it. <a href=\"http://www.last.fm/music/Ulver/Kveldssanger\">Read more on Last.fm</a>.",
+      "content": "Kveldssanger (translated as \"Twilight Songs\") is the second studio album by Norwegian band Ulver, issued in March, 1996 via Head Not Found. The album was recorded at Endless Lydstudio, Christiania, Kingdom of Norway in the summer and autumn of 1995, with Kristian Romsøe as engineer and co-producer. Part of their \"black metal trilogy\", Kveldssanger takes the sound of the acoustic passages on the black metal releases and expands on it. <a href=\"http://www.last.fm/music/Ulver/Kveldssanger\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:49:55.158Z"
+}

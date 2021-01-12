@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Obeisance",
+    "artist": "Imperial Triumphant",
+    "mbid": "a3b78f3e-9a83-4048-85e4-dcdd2da9805c",
+    "url": "https://www.last.fm/music/Imperial+Triumphant/Obeisance",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbfe414cf1154c29a3e8b96e49c2b5b7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "465",
+    "playcount": "5970",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stormgod",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Stormgod",
+          "duration": "272",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        },
+        {
+          "name": "Summons to War",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Summons+to+War",
+          "duration": "229",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        },
+        {
+          "name": "Torches of Nero",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Torches+of+Nero",
+          "duration": "182",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        },
+        {
+          "name": "To Novgorod",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/To+Novgorod",
+          "duration": "206",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        },
+        {
+          "name": "Christian Holocaust",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Christian+Holocaust",
+          "duration": "259",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        },
+        {
+          "name": "Raiders",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/Raiders",
+          "duration": "330",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "USA",
+          "url": "https://www.last.fm/tag/USA"
+        },
+        {
+          "name": "american",
+          "url": "https://www.last.fm/tag/american"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:45:45.278Z"
+}

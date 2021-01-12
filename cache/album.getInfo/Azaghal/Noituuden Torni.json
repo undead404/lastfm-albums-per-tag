@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Noituuden Torni",
+    "artist": "Azaghal",
+    "mbid": "7f5c4a49-5a35-4aeb-b86e-4478066adf34",
+    "url": "https://www.last.fm/music/Azaghal/Noituuden+Torni",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e6e390010a04a42a28fa0566e4252cd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "116",
+    "playcount": "1242",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tuonelan Porteilla",
+          "url": "https://www.last.fm/music/Azaghal/_/Tuonelan+Porteilla",
+          "duration": "222",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "Saatanan Valtakunta",
+          "url": "https://www.last.fm/music/Azaghal/_/Saatanan+Valtakunta",
+          "duration": "275",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "... Ja Pohjoistuulet Kuljettivat Nimiämme",
+          "url": "https://www.last.fm/music/Azaghal/_/...+Ja+Pohjoistuulet+Kuljettivat+Nimi%C3%A4mme",
+          "duration": "169",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "Jumalanpilkkaa Sinun Nimeesi",
+          "url": "https://www.last.fm/music/Azaghal/_/Jumalanpilkkaa+Sinun+Nimeesi",
+          "duration": "147",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "Viimeinen taistelu",
+          "url": "https://www.last.fm/music/Azaghal/_/Viimeinen+taistelu",
+          "duration": "236",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        },
+        {
+          "name": "Kun Aurinko Kuoli...",
+          "url": "https://www.last.fm/music/Azaghal/_/Kun+Aurinko+Kuoli...",
+          "duration": "440",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Azaghal",
+            "mbid": "499d753e-aea0-417b-a9be-e77747999aae",
+            "url": "https://www.last.fm/music/Azaghal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:28:48.565Z"
+}

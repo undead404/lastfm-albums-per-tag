@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Promo '95",
+    "artist": "Naglfar",
+    "url": "https://www.last.fm/music/Naglfar/Promo+%2795",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/110d75824380c99fa1d66cd3eeaaa0b1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "61",
+    "playcount": "367",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vittra (intro)",
+          "url": "https://www.last.fm/music/Naglfar/_/Vittra+(intro)",
+          "duration": "66",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Through the Midnight Spheres",
+          "url": "https://www.last.fm/music/Naglfar/_/Through+the+Midnight+Spheres",
+          "duration": "327",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Failing Wings",
+          "url": "https://www.last.fm/music/Naglfar/_/Failing+Wings",
+          "duration": "251",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Emerging From Her Weepings",
+          "url": "https://www.last.fm/music/Naglfar/_/Emerging+From+Her+Weepings",
+          "duration": "391",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:19:53.742Z"
+}

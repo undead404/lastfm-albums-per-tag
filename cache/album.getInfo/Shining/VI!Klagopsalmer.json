@@ -1,0 +1,73 @@
+{
+  "album": {
+    "name": "VI/Klagopsalmer",
+    "artist": "Shining",
+    "url": "https://www.last.fm/music/Shining/VI%2FKlagopsalmer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f846aab1b3d8428fc2bfec10c4f31eb4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3169",
+    "playcount": "93077",
+    "tracks": {
+      "track": [
+        {
+          "name": "Total utfrysning",
+          "url": "https://www.last.fm/music/Shining/_/Total+utfrysning",
+          "duration": "1006",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Shining",
+            "mbid": "ef1849a2-bd73-4e17-94be-540cb7fc1057",
+            "url": "https://www.last.fm/music/Shining"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:01:37.380Z"
+}

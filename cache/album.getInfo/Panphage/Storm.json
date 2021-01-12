@@ -1,0 +1,188 @@
+{
+  "album": {
+    "name": "Storm",
+    "artist": "Panphage",
+    "url": "https://www.last.fm/music/Panphage/Storm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7bf99ca0b395ae8042cdce2451eb59e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1026",
+    "playcount": "25204",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lugnet (Instrumental)",
+          "url": "https://www.last.fm/music/Panphage/_/Lugnet+(Instrumental)",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Storm",
+          "url": "https://www.last.fm/music/Panphage/_/Storm",
+          "duration": "309",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Vid Kusten",
+          "url": "https://www.last.fm/music/Panphage/_/Vid+Kusten",
+          "duration": "290",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Sävgetens Folk",
+          "url": "https://www.last.fm/music/Panphage/_/S%C3%A4vgetens+Folk",
+          "duration": "237",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Frusna Varsel (Instrumental)",
+          "url": "https://www.last.fm/music/Panphage/_/Frusna+Varsel+(Instrumental)",
+          "duration": "209",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Hemmavid",
+          "url": "https://www.last.fm/music/Panphage/_/Hemmavid",
+          "duration": "285",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Förfäder",
+          "url": "https://www.last.fm/music/Panphage/_/F%C3%B6rf%C3%A4der",
+          "duration": "421",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        },
+        {
+          "name": "Fenomen (Instrumental)",
+          "url": "https://www.last.fm/music/Panphage/_/Fenomen+(Instrumental)",
+          "duration": "346",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Panphage",
+            "url": "https://www.last.fm/music/Panphage"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "anti-cosmic",
+          "url": "https://www.last.fm/tag/anti-cosmic"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Sweden",
+          "url": "https://www.last.fm/tag/Sweden"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:06:19.414Z"
+}

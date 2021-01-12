@@ -1,0 +1,141 @@
+{
+  "album": {
+    "name": "Bloem",
+    "artist": "Fluisteraars",
+    "url": "https://www.last.fm/music/Fluisteraars/Bloem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fd66fae793f4f38be68f41985cc0ee2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9920",
+    "playcount": "146801",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tere Muur",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Tere+Muur",
+          "duration": "328",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Nasleep",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Nasleep",
+          "duration": "464",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Eeuwige Ram",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Eeuwige+Ram",
+          "duration": "381",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Vlek",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Vlek",
+          "duration": "422",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        },
+        {
+          "name": "Maanruïne",
+          "url": "https://www.last.fm/music/Fluisteraars/_/Maanru%C3%AFne",
+          "duration": "424",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fluisteraars",
+            "mbid": "2503740f-5ef4-4922-ac85-6b8b40b3dbcf",
+            "url": "https://www.last.fm/music/Fluisteraars"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:41:11.776Z"
+}

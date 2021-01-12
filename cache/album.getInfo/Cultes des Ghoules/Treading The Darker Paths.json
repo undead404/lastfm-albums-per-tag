@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Treading The Darker Paths",
+    "artist": "Cultes des Ghoules",
+    "url": "https://www.last.fm/music/Cultes+des+Ghoules/Treading+The+Darker+Paths",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29443d17459a5278ea87dcdcce5c8740.png",
+        "size": ""
+      }
+    ],
+    "listeners": "206",
+    "playcount": "1759",
+    "tracks": {
+      "track": [
+        {
+          "name": "Treading the Darker Paths",
+          "url": "https://www.last.fm/music/Cultes+des+Ghoules/_/Treading+the+Darker+Paths",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cultes des Ghoules",
+            "mbid": "fe57569a-1f81-4c02-9719-ed1e2fc6bc91",
+            "url": "https://www.last.fm/music/Cultes+des+Ghoules"
+          }
+        },
+        {
+          "name": "Supreme Black Illumination",
+          "url": "https://www.last.fm/music/Cultes+des+Ghoules/_/Supreme+Black+Illumination",
+          "duration": "497",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cultes des Ghoules",
+            "mbid": "fe57569a-1f81-4c02-9719-ed1e2fc6bc91",
+            "url": "https://www.last.fm/music/Cultes+des+Ghoules"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:57:27.555Z"
+}

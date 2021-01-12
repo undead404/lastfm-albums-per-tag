@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Mémoires",
+    "artist": "Raventale",
+    "mbid": "942b83d9-90b5-496e-846d-604f7be6ea16",
+    "url": "https://www.last.fm/music/Raventale/M%C3%A9moires",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2caff6643164454b929e3300645b197.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2caff6643164454b929e3300645b197.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2caff6643164454b929e3300645b197.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2caff6643164454b929e3300645b197.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2caff6643164454b929e3300645b197.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2caff6643164454b929e3300645b197.png",
+        "size": ""
+      }
+    ],
+    "listeners": "332",
+    "playcount": "9239",
+    "tracks": {
+      "track": [
+        {
+          "name": "Пролог",
+          "url": "https://www.last.fm/music/Raventale/_/%D0%9F%D1%80%D0%BE%D0%BB%D0%BE%D0%B3",
+          "duration": "120",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Огнём кромсая небеса",
+          "url": "https://www.last.fm/music/Raventale/_/%D0%9E%D0%B3%D0%BD%D1%91%D0%BC+%D0%BA%D1%80%D0%BE%D0%BC%D1%81%D0%B0%D1%8F+%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0",
+          "duration": "386",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Небес смолистая чернь",
+          "url": "https://www.last.fm/music/Raventale/_/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81+%D1%81%D0%BC%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F+%D1%87%D0%B5%D1%80%D0%BD%D1%8C",
+          "duration": "377",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "My Birds of Misfortune",
+          "url": "https://www.last.fm/music/Raventale/_/My+Birds+of+Misfortune",
+          "duration": "488",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Nostalgia",
+          "url": "https://www.last.fm/music/Raventale/_/Nostalgia",
+          "duration": "467",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Дождя колыбель",
+          "url": "https://www.last.fm/music/Raventale/_/%D0%94%D0%BE%D0%B6%D0%B4%D1%8F+%D0%BA%D0%BE%D0%BB%D1%8B%D0%B1%D0%B5%D0%BB%D1%8C",
+          "duration": "128",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Серой тоской пораскинулся лес",
+          "url": "https://www.last.fm/music/Raventale/_/%D0%A1%D0%B5%D1%80%D0%BE%D0%B9+%D1%82%D0%BE%D1%81%D0%BA%D0%BE%D0%B9+%D0%BF%D0%BE%D1%80%D0%B0%D1%81%D0%BA%D0%B8%D0%BD%D1%83%D0%BB%D1%81%D1%8F+%D0%BB%D0%B5%D1%81",
+          "duration": "820",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Gone",
+          "url": "https://www.last.fm/music/Raventale/_/Gone",
+          "duration": "605",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Requiem F.D.",
+          "url": "https://www.last.fm/music/Raventale/_/Requiem+F.D.",
+          "duration": "128",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Long Passed Days",
+          "url": "https://www.last.fm/music/Raventale/_/Long+Passed+Days",
+          "duration": "652",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        },
+        {
+          "name": "Suicide as the Destined End",
+          "url": "https://www.last.fm/music/Raventale/_/Suicide+as+the+Destined+End",
+          "duration": "654",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raventale",
+            "mbid": "7a8405e9-2730-4473-9354-d8cf44a499b9",
+            "url": "https://www.last.fm/music/Raventale"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:20:50.936Z"
+}

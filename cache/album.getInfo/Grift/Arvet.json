@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Arvet",
+    "artist": "Grift",
+    "url": "https://www.last.fm/music/Grift/Arvet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c73f23a458ccad100db42e50a7a34ba6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4291",
+    "playcount": "50303",
+    "tracks": {
+      "track": [
+        {
+          "name": "Flyktfast",
+          "url": "https://www.last.fm/music/Grift/_/Flyktfast",
+          "duration": "404",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Den stora tystnaden",
+          "url": "https://www.last.fm/music/Grift/_/Den+stora+tystnaden",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Glömskans järtecken",
+          "url": "https://www.last.fm/music/Grift/_/Gl%C3%B6mskans+j%C3%A4rtecken",
+          "duration": "385",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Morgon på Strömsholm",
+          "url": "https://www.last.fm/music/Grift/_/Morgon+p%C3%A5+Str%C3%B6msholm",
+          "duration": "244",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Utdöingsbygd",
+          "url": "https://www.last.fm/music/Grift/_/Utd%C3%B6ingsbygd",
+          "duration": "296",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        },
+        {
+          "name": "Nattyxne",
+          "url": "https://www.last.fm/music/Grift/_/Nattyxne",
+          "duration": "436",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grift",
+            "mbid": "c4ef2091-eb86-4c34-a487-9d00c936a13a",
+            "url": "https://www.last.fm/music/Grift"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:07:48.421Z"
+}

@@ -1,0 +1,196 @@
+{
+  "album": {
+    "name": "Live at the Foundry",
+    "artist": "Root",
+    "url": "https://www.last.fm/music/Root/Live+at+the+Foundry",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ecad3615be37b29b3c0c8dce5c5e9c6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "454",
+    "playcount": "796",
+    "tracks": {
+      "track": [
+        {
+          "name": "All Reved Up",
+          "url": "https://www.last.fm/music/Root/_/All+Reved+Up",
+          "duration": "396",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Computer",
+          "url": "https://www.last.fm/music/Root/_/Computer",
+          "duration": "263",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Rasta man",
+          "url": "https://www.last.fm/music/Root/_/Rasta+man",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Body Surfin'",
+          "url": "https://www.last.fm/music/Root/_/Body+Surfin%27",
+          "duration": "416",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Rootbound Boogie",
+          "url": "https://www.last.fm/music/Root/_/Rootbound+Boogie",
+          "duration": "338",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Frontlines",
+          "url": "https://www.last.fm/music/Root/_/Frontlines",
+          "duration": "381",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Avari",
+          "url": "https://www.last.fm/music/Root/_/Avari",
+          "duration": "486",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Never too Old",
+          "url": "https://www.last.fm/music/Root/_/Never+too+Old",
+          "duration": "347",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Happy Birthday",
+          "url": "https://www.last.fm/music/Root/_/Happy+Birthday",
+          "duration": "25",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:02.812Z"
+}

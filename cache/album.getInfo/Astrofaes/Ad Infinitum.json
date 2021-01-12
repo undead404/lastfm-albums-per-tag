@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Ad Infinitum",
+    "artist": "Astrofaes",
+    "mbid": "d4366ff2-31cb-41cd-8d6e-6ae507bd305d",
+    "url": "https://www.last.fm/music/Astrofaes/Ad+Infinitum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d19a07ced5124581ac6fde0bf52a5bf8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "122",
+    "playcount": "1317",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fire Of The Eternal Time",
+          "url": "https://www.last.fm/music/Astrofaes/_/Fire+Of+The+Eternal+Time",
+          "duration": "284",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Ad Infinitum (Dark I)",
+          "url": "https://www.last.fm/music/Astrofaes/_/Ad+Infinitum+(Dark+I)",
+          "duration": "459",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Nothing (Monologue)",
+          "url": "https://www.last.fm/music/Astrofaes/_/Nothing+(Monologue)",
+          "duration": "297",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Fire Of The Eternal Time (Instrumental)",
+          "url": "https://www.last.fm/music/Astrofaes/_/Fire+Of+The+Eternal+Time+(Instrumental)",
+          "duration": "282",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "The Unity (Space of Unconsciousness)",
+          "url": "https://www.last.fm/music/Astrofaes/_/The+Unity+(Space+of+Unconsciousness)",
+          "duration": "293",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:41:45.785Z"
+}

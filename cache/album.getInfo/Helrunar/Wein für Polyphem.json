@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Wein für Polyphem",
+    "artist": "Helrunar",
+    "url": "https://www.last.fm/music/Helrunar/Wein+f%C3%BCr+Polyphem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e83110c399b68af6fa3e181c713f249.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e83110c399b68af6fa3e181c713f249.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e83110c399b68af6fa3e181c713f249.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e83110c399b68af6fa3e181c713f249.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e83110c399b68af6fa3e181c713f249.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e83110c399b68af6fa3e181c713f249.png",
+        "size": ""
+      }
+    ],
+    "listeners": "238",
+    "playcount": "693",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wein für Polyphem",
+          "url": "https://www.last.fm/music/Helrunar/_/Wein+f%C3%BCr+Polyphem",
+          "duration": "901",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Helrunar",
+            "mbid": "982fdb79-9f78-46b2-9149-e12d3d22ed2d",
+            "url": "https://www.last.fm/music/Helrunar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "single",
+          "url": "https://www.last.fm/tag/single"
+        },
+        {
+          "name": "split",
+          "url": "https://www.last.fm/tag/split"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:02:34.496Z"
+}

@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Epic",
+    "artist": "Borknagar",
+    "mbid": "a98a4b58-a589-46d1-8ca1-162dfe52ebf9",
+    "url": "https://www.last.fm/music/Borknagar/Epic",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b84560eabb27e092521ab2d3c791488.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b84560eabb27e092521ab2d3c791488.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b84560eabb27e092521ab2d3c791488.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b84560eabb27e092521ab2d3c791488.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b84560eabb27e092521ab2d3c791488.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b84560eabb27e092521ab2d3c791488.png",
+        "size": ""
+      }
+    ],
+    "listeners": "31971",
+    "playcount": "594832",
+    "tracks": {
+      "track": [
+        {
+          "name": "Future Reminiscence",
+          "url": "https://www.last.fm/music/Borknagar/_/Future+Reminiscence",
+          "duration": "327",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Traveller",
+          "url": "https://www.last.fm/music/Borknagar/_/Traveller",
+          "duration": "304",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Origin",
+          "url": "https://www.last.fm/music/Borknagar/_/Origin",
+          "duration": "299",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Sealed Chambers Of Electricity",
+          "url": "https://www.last.fm/music/Borknagar/_/Sealed+Chambers+Of+Electricity",
+          "duration": "252",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "The Weight Of Wind",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Weight+Of+Wind",
+          "duration": "239",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Resonance",
+          "url": "https://www.last.fm/music/Borknagar/_/Resonance",
+          "duration": "268",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Relate (dialogue)",
+          "url": "https://www.last.fm/music/Borknagar/_/Relate+(dialogue)",
+          "duration": "270",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Cyclus",
+          "url": "https://www.last.fm/music/Borknagar/_/Cyclus",
+          "duration": "326",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Circled",
+          "url": "https://www.last.fm/music/Borknagar/_/Circled",
+          "duration": "287",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "The Inner Ocean Hypothesis",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Inner+Ocean+Hypothesis",
+          "duration": "310",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "Quintessence",
+          "url": "https://www.last.fm/music/Borknagar/_/Quintessence",
+          "duration": "332",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        },
+        {
+          "name": "The Wonder",
+          "url": "https://www.last.fm/music/Borknagar/_/The+Wonder",
+          "duration": "256",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Jul 2008, 10:39",
+      "summary": "Epic is Borknagar's sixth studio album (2004). Drummer Asgeir Mickelson plays additional bass on this album because Tyr, their previous bassist, left the band halfway through the recording sessions. This album also marks the departure of guitarist Jens F. Ryland. <a href=\"http://www.last.fm/music/Borknagar/Epic\">Read more on Last.fm</a>.",
+      "content": "Epic is Borknagar's sixth studio album (2004). Drummer Asgeir Mickelson plays additional bass on this album because Tyr, their previous bassist, left the band halfway through the recording sessions. This album also marks the departure of guitarist Jens F. Ryland. <a href=\"http://www.last.fm/music/Borknagar/Epic\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:06:05.631Z"
+}

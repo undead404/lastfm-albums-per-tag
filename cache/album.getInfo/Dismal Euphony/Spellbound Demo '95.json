@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Spellbound Demo '95",
+    "artist": "Dismal Euphony",
+    "url": "https://www.last.fm/music/Dismal+Euphony/Spellbound+Demo+%2795",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "11",
+    "playcount": "69",
+    "tracks": {
+      "track": [
+        {
+          "name": "A Winter Tale",
+          "url": "https://www.last.fm/music/Dismal+Euphony/_/A+Winter+Tale",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dismal Euphony",
+            "mbid": "ea214ced-9755-43b4-8ba8-c2b8b21c41be",
+            "url": "https://www.last.fm/music/Dismal+Euphony"
+          }
+        },
+        {
+          "name": "Spellbound",
+          "url": "https://www.last.fm/music/Dismal+Euphony/_/Spellbound",
+          "duration": "310",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dismal Euphony",
+            "mbid": "ea214ced-9755-43b4-8ba8-c2b8b21c41be",
+            "url": "https://www.last.fm/music/Dismal+Euphony"
+          }
+        },
+        {
+          "name": "The Mournful Silence",
+          "url": "https://www.last.fm/music/Dismal+Euphony/_/The+Mournful+Silence",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dismal Euphony",
+            "mbid": "ea214ced-9755-43b4-8ba8-c2b8b21c41be",
+            "url": "https://www.last.fm/music/Dismal+Euphony"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:53:08.933Z"
+}

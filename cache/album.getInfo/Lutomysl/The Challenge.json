@@ -1,0 +1,160 @@
+{
+  "album": {
+    "name": "The Challenge",
+    "artist": "Lutomysl",
+    "url": "https://www.last.fm/music/Lutomysl/The+Challenge",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d148291471c4549af8ba83c650cec0e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d148291471c4549af8ba83c650cec0e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d148291471c4549af8ba83c650cec0e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d148291471c4549af8ba83c650cec0e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d148291471c4549af8ba83c650cec0e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d148291471c4549af8ba83c650cec0e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "516",
+    "playcount": "7853",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Lutomysl/_/Intro",
+          "duration": "66",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "How Can One Sleep Peacefully?",
+          "url": "https://www.last.fm/music/Lutomysl/_/How+Can+One+Sleep+Peacefully%3F",
+          "duration": "380",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Truth Within",
+          "url": "https://www.last.fm/music/Lutomysl/_/Truth+Within",
+          "duration": "341",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "The Challenge",
+          "url": "https://www.last.fm/music/Lutomysl/_/The+Challenge",
+          "duration": "318",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Alienation",
+          "url": "https://www.last.fm/music/Lutomysl/_/Alienation",
+          "duration": "169",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Numbness",
+          "url": "https://www.last.fm/music/Lutomysl/_/Numbness",
+          "duration": "464",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Lutomysl/_/Outro",
+          "duration": "151",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:06:19.133Z"
+}

@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Merkur",
+    "artist": "Klabautamann",
+    "mbid": "9c6031e3-dff5-4b91-85f4-35d3baf0fdad",
+    "url": "https://www.last.fm/music/Klabautamann/Merkur",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47aac6c1dc994f0f805c301edf3bdcfd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3737",
+    "playcount": "96693",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unter Bäumen",
+          "url": "https://www.last.fm/music/Klabautamann/_/Unter+B%C3%A4umen",
+          "duration": "394",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "When I Long For Life",
+          "url": "https://www.last.fm/music/Klabautamann/_/When+I+Long+For+Life",
+          "duration": "413",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Stygian",
+          "url": "https://www.last.fm/music/Klabautamann/_/Stygian",
+          "duration": "317",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Herbsthauch",
+          "url": "https://www.last.fm/music/Klabautamann/_/Herbsthauch",
+          "duration": "294",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Morn Of Solace",
+          "url": "https://www.last.fm/music/Klabautamann/_/Morn+Of+Solace",
+          "duration": "300",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Der Wald Ist Ein Meer",
+          "url": "https://www.last.fm/music/Klabautamann/_/Der+Wald+Ist+Ein+Meer",
+          "duration": "258",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Merkur",
+          "url": "https://www.last.fm/music/Klabautamann/_/Merkur",
+          "duration": "294",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Lurker In The Moonlight",
+          "url": "https://www.last.fm/music/Klabautamann/_/Lurker+In+The+Moonlight",
+          "duration": "328",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        },
+        {
+          "name": "Noatun",
+          "url": "https://www.last.fm/music/Klabautamann/_/Noatun",
+          "duration": "339",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Klabautamann",
+            "mbid": "afc26600-3f62-4f5a-b146-e0a3faf34745",
+            "url": "https://www.last.fm/music/Klabautamann"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:04:09.011Z"
+}

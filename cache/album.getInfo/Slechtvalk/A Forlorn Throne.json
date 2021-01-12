@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "A Forlorn Throne",
+    "artist": "Slechtvalk",
+    "mbid": "8966ea22-32e5-4ecd-82e6-82929b920b33",
+    "url": "https://www.last.fm/music/Slechtvalk/A+Forlorn+Throne",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d26b78cf0ce46e88635fb3f53a518a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3113",
+    "playcount": "69998",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tamers Of The Seas",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Tamers+Of+The+Seas",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Forsaken",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Forsaken",
+          "duration": "511",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Desolate",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Desolate",
+          "duration": "389",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Divided By Malice",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Divided+By+Malice",
+          "duration": "431",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Allegiance",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Allegiance",
+          "duration": "473",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Enthroned",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Enthroned",
+          "duration": "512",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Bewailed",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Bewailed",
+          "duration": "318",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Towards the Dawn",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Towards+the+Dawn",
+          "duration": "455",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Vengeance of a Scorned King",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Vengeance+of+a+Scorned+King",
+          "duration": "342",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        },
+        {
+          "name": "Hounds of Battle (Bonus Track)",
+          "url": "https://www.last.fm/music/Slechtvalk/_/Hounds+of+Battle+(Bonus+Track)",
+          "duration": "245",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slechtvalk",
+            "mbid": "6e98d3ea-1fb4-49e4-96a7-9534b047509b",
+            "url": "https://www.last.fm/music/Slechtvalk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "UnBlack Metal",
+          "url": "https://www.last.fm/tag/UnBlack+Metal"
+        },
+        {
+          "name": "Awesome",
+          "url": "https://www.last.fm/tag/Awesome"
+        },
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        },
+        {
+          "name": "Masterpiece",
+          "url": "https://www.last.fm/tag/Masterpiece"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:32:48.885Z"
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Rehearsal 07/08/1987",
+    "artist": "Morbid",
+    "url": "https://www.last.fm/music/Morbid/Rehearsal+07%2F08%2F1987",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eace0edd46d1442681134bc15808f300.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eace0edd46d1442681134bc15808f300.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eace0edd46d1442681134bc15808f300.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eace0edd46d1442681134bc15808f300.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eace0edd46d1442681134bc15808f300.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eace0edd46d1442681134bc15808f300.png",
+        "size": ""
+      }
+    ],
+    "listeners": "150",
+    "playcount": "850",
+    "tracks": {
+      "track": [
+        {
+          "name": "Death Execution",
+          "url": "https://www.last.fm/music/Morbid/_/Death+Execution",
+          "duration": "248",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Necrodead",
+          "url": "https://www.last.fm/music/Morbid/_/Necrodead",
+          "duration": "192",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings of Funeral",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+of+Funeral",
+          "duration": "242",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "From the Dark",
+          "url": "https://www.last.fm/music/Morbid/_/From+the+Dark",
+          "duration": "360",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "1987",
+          "url": "https://www.last.fm/tag/1987"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:46:11.004Z"
+}

@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Mein FlügelSchlag Demo",
+    "artist": "Dornenreich",
+    "url": "https://www.last.fm/music/Dornenreich/Mein+Fl%C3%BCgelSchlag+Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9db628d90a2a4881a2edf92d5d02e86f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "229",
+    "playcount": "4268",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "have",
+          "url": "https://www.last.fm/tag/have"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:26:44.214Z"
+}

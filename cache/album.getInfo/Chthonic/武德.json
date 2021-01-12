@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "武德",
+    "artist": "Chthonic",
+    "mbid": "bc8da0f1-f3e5-4dbc-93c7-a0de54499497",
+    "url": "https://www.last.fm/music/Chthonic/%E6%AD%A6%E5%BE%B7",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85fd566417ba4704b8a40417e1a816a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "926",
+    "playcount": "18550",
+    "tracks": {
+      "track": [
+        {
+          "name": "武裝",
+          "url": "https://www.last.fm/music/Chthonic/_/%E6%AD%A6%E8%A3%9D",
+          "duration": "146",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "破夜斬",
+          "url": "https://www.last.fm/music/Chthonic/_/%E7%A0%B4%E5%A4%9C%E6%96%AC",
+          "duration": "308",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "尼可拉斯",
+          "url": "https://www.last.fm/music/Chthonic/_/%E5%B0%BC%E5%8F%AF%E6%8B%89%E6%96%AF",
+          "duration": "241",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "共和",
+          "url": "https://www.last.fm/music/Chthonic/_/%E5%85%B1%E5%92%8C",
+          "duration": "252",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "大械鬥",
+          "url": "https://www.last.fm/music/Chthonic/_/%E5%A4%A7%E6%A2%B0%E9%AC%A5",
+          "duration": "279",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "亡命關",
+          "url": "https://www.last.fm/music/Chthonic/_/%E4%BA%A1%E5%91%BD%E9%97%9C",
+          "duration": "279",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "火薰時代",
+          "url": "https://www.last.fm/music/Chthonic/_/%E7%81%AB%E8%96%B0%E6%99%82%E4%BB%A3",
+          "duration": "301",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "火燒島",
+          "url": "https://www.last.fm/music/Chthonic/_/%E7%81%AB%E7%87%92%E5%B3%B6",
+          "duration": "228",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "暮沉武德殿",
+          "url": "https://www.last.fm/music/Chthonic/_/%E6%9A%AE%E6%B2%89%E6%AD%A6%E5%BE%B7%E6%AE%BF",
+          "duration": "323",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "重殖武裝",
+          "url": "https://www.last.fm/music/Chthonic/_/%E9%87%8D%E6%AE%96%E6%AD%A6%E8%A3%9D",
+          "duration": "109",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:29:34.255Z"
+}

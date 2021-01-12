@@ -1,0 +1,234 @@
+{
+  "album": {
+    "name": "Rvbicon",
+    "artist": "Ancient Rites",
+    "url": "https://www.last.fm/music/Ancient+Rites/Rvbicon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e4f05b254cb7a181385fe8387c3cbd0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5155",
+    "playcount": "96916",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crusade",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Crusade",
+          "duration": "104",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Templar",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Templar",
+          "duration": "334",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Mithras",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Mithras",
+          "duration": "252",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Thermopylae",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Thermopylae",
+          "duration": "271",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Rubicon",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Rubicon",
+          "duration": "296",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Invictus",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Invictus",
+          "duration": "295",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Ypres",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Ypres",
+          "duration": "365",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Galilean",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Galilean",
+          "duration": "242",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Cheruscan",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Cheruscan",
+          "duration": "241",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        },
+        {
+          "name": "Brabantia",
+          "url": "https://www.last.fm/music/Ancient+Rites/_/Brabantia",
+          "duration": "351",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancient Rites",
+            "mbid": "cb6ba97a-66ed-42c4-8fd4-4dcc1dac9849",
+            "url": "https://www.last.fm/music/Ancient+Rites"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "viking black metal",
+          "url": "https://www.last.fm/tag/viking+black+metal"
+        },
+        {
+          "name": "signed",
+          "url": "https://www.last.fm/tag/signed"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:34:19.684Z"
+}

@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Dyodyo Asema",
+    "artist": "Gnaw Their Tongues",
+    "url": "https://www.last.fm/music/Gnaw+Their+Tongues/Dyodyo+Asema",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "198",
+    "playcount": "308",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dyodyo Asema",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Dyodyo+Asema",
+          "duration": "1146",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "death",
+          "url": "https://www.last.fm/tag/death"
+        },
+        {
+          "name": "netherlands",
+          "url": "https://www.last.fm/tag/netherlands"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:50:58.224Z"
+}

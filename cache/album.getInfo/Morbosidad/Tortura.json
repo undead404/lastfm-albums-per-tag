@@ -1,0 +1,120 @@
+{
+  "album": {
+    "name": "Tortura",
+    "artist": "Morbosidad",
+    "url": "https://www.last.fm/music/Morbosidad/Tortura",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f26ae4fcb5e4f5ccfe6ffafdaab2dde.png",
+        "size": ""
+      }
+    ],
+    "listeners": "188",
+    "playcount": "3178",
+    "tracks": {
+      "track": [
+        {
+          "name": "Entre la Muerte y Desolation",
+          "url": "https://www.last.fm/music/Morbosidad/_/Entre+la+Muerte+y+Desolation",
+          "duration": "192",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "En Las Gallas Del Infierno",
+          "url": "https://www.last.fm/music/Morbosidad/_/En+Las+Gallas+Del+Infierno",
+          "duration": "198",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "Tortura",
+          "url": "https://www.last.fm/music/Morbosidad/_/Tortura",
+          "duration": "203",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "Batalla De Pecados",
+          "url": "https://www.last.fm/music/Morbosidad/_/Batalla+De+Pecados",
+          "duration": "241",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:57:20.934Z"
+}

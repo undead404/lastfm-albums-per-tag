@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "From the Darkest Past",
+    "artist": "Mayhem",
+    "mbid": "2eb54786-9488-4519-abe5-953527a48353",
+    "url": "https://www.last.fm/music/Mayhem/From+the+Darkest+Past",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e469b143923fa70001e95e1e7b873929.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e469b143923fa70001e95e1e7b873929.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e469b143923fa70001e95e1e7b873929.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e469b143923fa70001e95e1e7b873929.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e469b143923fa70001e95e1e7b873929.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e469b143923fa70001e95e1e7b873929.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5602",
+    "playcount": "65052",
+    "tracks": {
+      "track": [
+        {
+          "name": "Freezing Moon",
+          "url": "https://www.last.fm/music/Mayhem/_/Freezing+Moon",
+          "duration": "410",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Pagan Fears",
+          "url": "https://www.last.fm/music/Mayhem/_/Pagan+Fears",
+          "duration": "368",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Buried By Time and Dust",
+          "url": "https://www.last.fm/music/Mayhem/_/Buried+By+Time+and+Dust",
+          "duration": "329",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Life Eternal",
+          "url": "https://www.last.fm/music/Mayhem/_/Life+Eternal",
+          "duration": "417",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Funeral Fog",
+          "url": "https://www.last.fm/music/Mayhem/_/Funeral+Fog",
+          "duration": "347",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "Cursed in Eternity",
+          "url": "https://www.last.fm/music/Mayhem/_/Cursed+in+Eternity",
+          "duration": "310",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        },
+        {
+          "name": "De Mysteriis Dom Sathanas",
+          "url": "https://www.last.fm/music/Mayhem/_/De+Mysteriis+Dom+Sathanas",
+          "duration": "381",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away",
+          "url": "https://www.last.fm/tag/a+campire+and+a+tent+and+a+flashlight+and+some+matches+and+a+tree+and+that+river+and+my+glasses+and+a+spaceship+and+a+really+really+big+bear+but+the+bear+is+really+really+far+away"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:53:06.478Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Ouroboros Dweller",
+    "artist": "Varathron",
+    "url": "https://www.last.fm/music/Varathron/Ouroboros+Dweller",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6205d07edda2456818d472f104c7213b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6205d07edda2456818d472f104c7213b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6205d07edda2456818d472f104c7213b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6205d07edda2456818d472f104c7213b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6205d07edda2456818d472f104c7213b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6205d07edda2456818d472f104c7213b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "577",
+    "playcount": "1053",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ouroboros Dweller (The Dweller of Barathrum)",
+          "url": "https://www.last.fm/music/Varathron/_/Ouroboros+Dweller+(The+Dweller+of+Barathrum)",
+          "duration": "506",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:01.389Z"
+}

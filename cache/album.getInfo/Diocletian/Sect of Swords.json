@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Sect of Swords",
+    "artist": "Diocletian",
+    "mbid": "8700c606-5465-4865-b06c-cb91b3ebe82d",
+    "url": "https://www.last.fm/music/Diocletian/Sect+of+Swords",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09a1e2b10bf2b223be222962364605ef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09a1e2b10bf2b223be222962364605ef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09a1e2b10bf2b223be222962364605ef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09a1e2b10bf2b223be222962364605ef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09a1e2b10bf2b223be222962364605ef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09a1e2b10bf2b223be222962364605ef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "737",
+    "playcount": "7623",
+    "tracks": {
+      "track": [
+        {
+          "name": "Infinite Destruction",
+          "url": "https://www.last.fm/music/Diocletian/_/Infinite+Destruction",
+          "duration": "381",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Sect of Swords",
+          "url": "https://www.last.fm/music/Diocletian/_/Sect+of+Swords",
+          "duration": "193",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Weltering in Blood",
+          "url": "https://www.last.fm/music/Diocletian/_/Weltering+in+Blood",
+          "duration": "150",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "war metal",
+          "url": "https://www.last.fm/tag/war+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:44:25.676Z"
+}

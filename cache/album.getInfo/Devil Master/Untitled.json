@@ -1,0 +1,192 @@
+{
+  "album": {
+    "name": "Untitled",
+    "artist": "Devil Master",
+    "url": "https://www.last.fm/music/Devil+Master/Untitled",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/14f5485eaea75b9c6f0912fcfcd7bee8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "186",
+    "playcount": "591",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Flame Candle",
+          "url": "https://www.last.fm/music/Devil+Master/_/Black+Flame+Candle",
+          "duration": "166",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Obscene Charade",
+          "url": "https://www.last.fm/music/Devil+Master/_/Obscene+Charade",
+          "duration": "107",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Skeleton Hand",
+          "url": "https://www.last.fm/music/Devil+Master/_/Skeleton+Hand",
+          "duration": "262",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Desperate Shadow",
+          "url": "https://www.last.fm/music/Devil+Master/_/Desperate+Shadow",
+          "duration": "180",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Black Flame Candle",
+          "url": "https://www.last.fm/music/Devil+Master/_/Black+Flame+Candle",
+          "duration": "166",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Obscene Charade",
+          "url": "https://www.last.fm/music/Devil+Master/_/Obscene+Charade",
+          "duration": "107",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Skeleton Hand",
+          "url": "https://www.last.fm/music/Devil+Master/_/Skeleton+Hand",
+          "duration": "262",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        },
+        {
+          "name": "Desperate Shadow",
+          "url": "https://www.last.fm/music/Devil+Master/_/Desperate+Shadow",
+          "duration": "180",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "deathrock",
+          "url": "https://www.last.fm/tag/deathrock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:22:54.089Z"
+}

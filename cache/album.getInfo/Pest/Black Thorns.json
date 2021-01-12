@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Black Thorns",
+    "artist": "Pest",
+    "mbid": "2a167ff0-3310-4ef8-a9e2-8ba1f2e6fdba",
+    "url": "https://www.last.fm/music/Pest/Black+Thorns",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e261b8f403093ddfa8b3c79f83006b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "948",
+    "playcount": "12380",
+    "tracks": {
+      "track": [
+        {
+          "name": "When Darkness Is Complete",
+          "url": "https://www.last.fm/music/Pest/_/When+Darkness+Is+Complete",
+          "duration": "387",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Embraced In Grief I Walk",
+          "url": "https://www.last.fm/music/Pest/_/Embraced+In+Grief+I+Walk",
+          "duration": "278",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Those Perished",
+          "url": "https://www.last.fm/music/Pest/_/Those+Perished",
+          "duration": "404",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Dead Raven Claws",
+          "url": "https://www.last.fm/music/Pest/_/Dead+Raven+Claws",
+          "duration": "265",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Thorns From Underneath",
+          "url": "https://www.last.fm/music/Pest/_/Thorns+From+Underneath",
+          "duration": "462",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:58:49.064Z"
+}

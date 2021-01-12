@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Chicken Spit",
+    "artist": "Pest",
+    "mbid": "e23ea1c9-35c2-4d94-9e50-73c122efd9e9",
+    "url": "https://www.last.fm/music/Pest/Chicken+Spit",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "322",
+    "playcount": "1635",
+    "tracks": {
+      "track": [
+        {
+          "name": "Chicken Spit",
+          "url": "https://www.last.fm/music/Pest/_/Chicken+Spit",
+          "duration": "264",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Already Said",
+          "url": "https://www.last.fm/music/Pest/_/Already+Said",
+          "duration": "273",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Chicken Spit (Wulf Step Remix)",
+          "url": "https://www.last.fm/music/Pest/_/Chicken+Spit+(Wulf+Step+Remix)",
+          "duration": "324",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Chicken Spit (Me We Remix)",
+          "url": "https://www.last.fm/music/Pest/_/Chicken+Spit+(Me+We+Remix)",
+          "duration": "281",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:58:55.736Z"
+}

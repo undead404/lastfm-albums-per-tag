@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Trucizna",
+    "artist": "Witchmaster",
+    "url": "https://www.last.fm/music/Witchmaster/Trucizna",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfcf654a89754af78d7b65c113a6ebbd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1727",
+    "playcount": "62756",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "poland",
+          "url": "https://www.last.fm/tag/poland"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:35:48.363Z"
+}

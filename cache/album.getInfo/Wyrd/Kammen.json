@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Kammen",
+    "artist": "Wyrd",
+    "mbid": "11d413c6-698f-410a-bf51-7cda79add26a",
+    "url": "https://www.last.fm/music/Wyrd/Kammen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e684b89edb5c4cf0b367ce751f061d64.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9243",
+    "playcount": "92634",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Hounds of the Falls",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Hounds+of+the+Falls",
+          "duration": "615",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Cold in the Earth",
+          "url": "https://www.last.fm/music/Wyrd/_/Cold+in+the+Earth",
+          "duration": "292",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "October",
+          "url": "https://www.last.fm/music/Wyrd/_/October",
+          "duration": "447",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "These Empty Rooms",
+          "url": "https://www.last.fm/music/Wyrd/_/These+Empty+Rooms",
+          "duration": "347",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Kammen",
+          "url": "https://www.last.fm/music/Wyrd/_/Kammen",
+          "duration": "329",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "The Last Time",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Last+Time",
+          "duration": "408",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Rajalla",
+          "url": "https://www.last.fm/music/Wyrd/_/Rajalla",
+          "duration": "1073",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Soulburn",
+          "url": "https://www.last.fm/music/Wyrd/_/Soulburn",
+          "duration": "392",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "best of 2007",
+          "url": "https://www.last.fm/tag/best+of+2007"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:55:28.214Z"
+}

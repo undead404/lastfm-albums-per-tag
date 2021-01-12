@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Blast'n Fuck",
+    "artist": "Furia",
+    "url": "https://www.last.fm/music/Furia/Blast%27n+Fuck",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ba169aadaab6423eb28faea53330b284.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ba169aadaab6423eb28faea53330b284.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ba169aadaab6423eb28faea53330b284.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba169aadaab6423eb28faea53330b284.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba169aadaab6423eb28faea53330b284.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba169aadaab6423eb28faea53330b284.png",
+        "size": ""
+      }
+    ],
+    "listeners": "102",
+    "playcount": "480",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rebirth",
+          "url": "https://www.last.fm/music/Furia/_/Rebirth",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Five Minutes",
+          "url": "https://www.last.fm/music/Furia/_/Five+Minutes",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Blood",
+          "url": "https://www.last.fm/music/Furia/_/Blood",
+          "duration": "248",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "See You In Hell",
+          "url": "https://www.last.fm/music/Furia/_/See+You+In+Hell",
+          "duration": "230",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Shaman",
+          "url": "https://www.last.fm/music/Furia/_/Shaman",
+          "duration": "275",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Blast'n Fuck",
+          "url": "https://www.last.fm/music/Furia/_/Blast%27n+Fuck",
+          "duration": "164",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:25:57.619Z"
+}

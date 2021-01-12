@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "The Watchers Of Catal Huyuk",
+    "artist": "The Meads of Asphodel",
+    "mbid": "92863400-af00-4a06-8c1a-8e9cefa89010",
+    "url": "https://www.last.fm/music/The+Meads+of+Asphodel/The+Watchers+Of+Catal+Huyuk",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b82a0770288483aa3b5b45fe2a3d609.png",
+        "size": ""
+      }
+    ],
+    "listeners": "427",
+    "playcount": "3589",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Watchers of Catal Huyuk",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/The+Watchers+of+Catal+Huyuk",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Rise in a Godless Hell",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Rise+in+a+Godless+Hell",
+          "duration": "247",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Pale Dread Hunger",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Pale+Dread+Hunger",
+          "duration": "338",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Give me fire",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Give+me+fire",
+          "duration": "181",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:54:35.401Z"
+}

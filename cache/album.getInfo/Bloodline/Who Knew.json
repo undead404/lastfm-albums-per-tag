@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Who Knew",
+    "artist": "Bloodline",
+    "url": "https://www.last.fm/music/Bloodline/Who+Knew",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cba9ad48950ecbfba0fb169ca03ce268.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1095",
+    "playcount": "3448",
+    "tracks": {
+      "track": [
+        {
+          "name": "Who Knew",
+          "url": "https://www.last.fm/music/Bloodline/_/Who+Knew",
+          "duration": "246",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bloodline",
+            "mbid": "e3bcbe90-a7f6-4826-ae6e-bad74213d10a",
+            "url": "https://www.last.fm/music/Bloodline"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:34:28.997Z"
+}

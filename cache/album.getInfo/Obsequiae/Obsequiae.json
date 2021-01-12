@@ -1,0 +1,139 @@
+{
+  "album": {
+    "name": "Obsequiae",
+    "artist": "Obsequiae",
+    "url": "https://www.last.fm/music/Obsequiae/Obsequiae",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/85c72aaa2b48ef712bfc8c625b82631a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "136",
+    "playcount": "1192",
+    "tracks": {
+      "track": [
+        {
+          "name": "Viridian Forest",
+          "url": "https://www.last.fm/music/Obsequiae/_/Viridian+Forest",
+          "duration": "317",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        },
+        {
+          "name": "Venerari Sacra Mysteria",
+          "url": "https://www.last.fm/music/Obsequiae/_/Venerari+Sacra+Mysteria",
+          "duration": "340",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        },
+        {
+          "name": "Funeral Oath",
+          "url": "https://www.last.fm/music/Obsequiae/_/Funeral+Oath",
+          "duration": "433",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        },
+        {
+          "name": "Viridian Forest",
+          "url": "https://www.last.fm/music/Obsequiae/_/Viridian+Forest",
+          "duration": "317",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        },
+        {
+          "name": "Venerari Sacra Mysteria",
+          "url": "https://www.last.fm/music/Obsequiae/_/Venerari+Sacra+Mysteria",
+          "duration": "340",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        },
+        {
+          "name": "Funeral Oath",
+          "url": "https://www.last.fm/music/Obsequiae/_/Funeral+Oath",
+          "duration": "433",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Obsequiae",
+            "url": "https://www.last.fm/music/Obsequiae"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:43:58.443Z"
+}

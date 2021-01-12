@@ -1,0 +1,197 @@
+{
+  "album": {
+    "name": "Cursed Again",
+    "artist": "Frost",
+    "mbid": "09eaddce-c4fe-4cce-8bb6-0e80c87ed70c",
+    "url": "https://www.last.fm/music/Frost/Cursed+Again",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/799127507a89484c91c32dd0ac3fc0bb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1342",
+    "playcount": "14856",
+    "tracks": {
+      "track": [
+        {
+          "name": "Doom Funeral",
+          "url": "https://www.last.fm/music/Frost/_/Doom+Funeral",
+          "duration": "226",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Down Here",
+          "url": "https://www.last.fm/music/Frost/_/Down+Here",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "The Rise",
+          "url": "https://www.last.fm/music/Frost/_/The+Rise",
+          "duration": "245",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Where I Walk",
+          "url": "https://www.last.fm/music/Frost/_/Where+I+Walk",
+          "duration": "308",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Fields of Rape",
+          "url": "https://www.last.fm/music/Frost/_/Fields+of+Rape",
+          "duration": "223",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Rest in Piss",
+          "url": "https://www.last.fm/music/Frost/_/Rest+in+Piss",
+          "duration": "339",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Empty of Life",
+          "url": "https://www.last.fm/music/Frost/_/Empty+of+Life",
+          "duration": "184",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        },
+        {
+          "name": "Cursed Again",
+          "url": "https://www.last.fm/music/Frost/_/Cursed+Again",
+          "duration": "340",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "UK",
+          "url": "https://www.last.fm/tag/UK"
+        },
+        {
+          "name": "norwegian metal",
+          "url": "https://www.last.fm/tag/norwegian+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:38:59.371Z"
+}

@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Minas Morgul",
+    "artist": "Summoning",
+    "mbid": "9bf29e42-a5c4-44fe-a3e0-29b11c2e8091",
+    "url": "https://www.last.fm/music/Summoning/Minas+Morgul",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8e5ab2176b194f9c9ac91dd70c01de70.png",
+        "size": ""
+      }
+    ],
+    "listeners": "54628",
+    "playcount": "1735302",
+    "tracks": {
+      "track": [
+        {
+          "name": "Soul Wandering",
+          "url": "https://www.last.fm/music/Summoning/_/Soul+Wandering",
+          "duration": "152",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Lugburz",
+          "url": "https://www.last.fm/music/Summoning/_/Lugburz",
+          "duration": "434",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Passing of the Grey Company",
+          "url": "https://www.last.fm/music/Summoning/_/The+Passing+of+the+Grey+Company",
+          "duration": "556",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Morthond",
+          "url": "https://www.last.fm/music/Summoning/_/Morthond",
+          "duration": "403",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Marching Homewards",
+          "url": "https://www.last.fm/music/Summoning/_/Marching+Homewards",
+          "duration": "490",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Orthanc",
+          "url": "https://www.last.fm/music/Summoning/_/Orthanc",
+          "duration": "99",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Ungolianth",
+          "url": "https://www.last.fm/music/Summoning/_/Ungolianth",
+          "duration": "396",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Dagor Bragollach",
+          "url": "https://www.last.fm/music/Summoning/_/Dagor+Bragollach",
+          "duration": "305",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Through the Forest of Dol Guldur",
+          "url": "https://www.last.fm/music/Summoning/_/Through+the+Forest+of+Dol+Guldur",
+          "duration": "286",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Legend of the Master-Ring",
+          "url": "https://www.last.fm/music/Summoning/_/The+Legend+of+the+Master-Ring",
+          "duration": "327",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Dor Daedeloth",
+          "url": "https://www.last.fm/music/Summoning/_/Dor+Daedeloth",
+          "duration": "615",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "epic",
+          "url": "https://www.last.fm/tag/epic"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Aug 2013, 03:00",
+      "summary": "Minas Morgul is the second full length album by Summoning. The band and many of their fans consider this album to be their debut album as it developed the \"Summoning-sound\" and brought the band to a larger audience. <a href=\"http://www.last.fm/music/Summoning/Minas+Morgul\">Read more on Last.fm</a>.",
+      "content": "Minas Morgul is the second full length album by Summoning. The band and many of their fans consider this album to be their debut album as it developed the \"Summoning-sound\" and brought the band to a larger audience. <a href=\"http://www.last.fm/music/Summoning/Minas+Morgul\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:22.050Z"
+}

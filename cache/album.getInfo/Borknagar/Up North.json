@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Up North",
+    "artist": "Borknagar",
+    "url": "https://www.last.fm/music/Borknagar/Up+North",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28500f6926851c62eef53beff468d6ea.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28500f6926851c62eef53beff468d6ea.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28500f6926851c62eef53beff468d6ea.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28500f6926851c62eef53beff468d6ea.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28500f6926851c62eef53beff468d6ea.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28500f6926851c62eef53beff468d6ea.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3455",
+    "playcount": "12537",
+    "tracks": {
+      "track": [
+        {
+          "name": "Up North",
+          "url": "https://www.last.fm/music/Borknagar/_/Up+North",
+          "duration": "389",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borknagar",
+            "mbid": "8df2629f-8ae9-4687-9207-4cf3c22cc763",
+            "url": "https://www.last.fm/music/Borknagar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:06:13.586Z"
+}

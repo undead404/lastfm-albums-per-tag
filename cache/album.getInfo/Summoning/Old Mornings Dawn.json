@@ -1,0 +1,206 @@
+{
+  "album": {
+    "name": "Old Mornings Dawn",
+    "artist": "Summoning",
+    "mbid": "c87baa2c-bff5-4790-a806-9cb63a0d86f5",
+    "url": "https://www.last.fm/music/Summoning/Old+Mornings+Dawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/224a46c415e027610bcc0b1877980ebb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/224a46c415e027610bcc0b1877980ebb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/224a46c415e027610bcc0b1877980ebb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224a46c415e027610bcc0b1877980ebb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224a46c415e027610bcc0b1877980ebb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/224a46c415e027610bcc0b1877980ebb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "41424",
+    "playcount": "1253218",
+    "tracks": {
+      "track": [
+        {
+          "name": "Evernight",
+          "url": "https://www.last.fm/music/Summoning/_/Evernight",
+          "duration": "168",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Flammifer",
+          "url": "https://www.last.fm/music/Summoning/_/Flammifer",
+          "duration": "428",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Old Mornings Dawn",
+          "url": "https://www.last.fm/music/Summoning/_/Old+Mornings+Dawn",
+          "duration": "570",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The White Tower",
+          "url": "https://www.last.fm/music/Summoning/_/The+White+Tower",
+          "duration": "575",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Caradhras",
+          "url": "https://www.last.fm/music/Summoning/_/Caradhras",
+          "duration": "572",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Of Pale White Morns and Darkened Eves",
+          "url": "https://www.last.fm/music/Summoning/_/Of+Pale+White+Morns+and+Darkened+Eves",
+          "duration": "502",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "The Wandering Fire",
+          "url": "https://www.last.fm/music/Summoning/_/The+Wandering+Fire",
+          "duration": "482",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Earthshine",
+          "url": "https://www.last.fm/music/Summoning/_/Earthshine",
+          "duration": "572",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Aug 2013, 02:53",
+      "summary": "Old Mornings Dawn is the seventh full-length album by Summoning. With two bonus tracks contained by the box-set and forest green, white and orange vinyl double LP versions, this album is to the date the band's longest one. The cover art is based on George Hetzel's painting, Rocky Gorge. The album charted 24 in finnish charts <a href=\"http://www.last.fm/music/Summoning/Old+Mornings+Dawn\">Read more on Last.fm</a>.",
+      "content": "Old Mornings Dawn is the seventh full-length album by Summoning. With two bonus tracks contained by the box-set and forest green, white and orange vinyl double LP versions, this album is to the date the band's longest one. The cover art is based on George Hetzel's painting, Rocky Gorge. The album charted 24 in finnish charts <a href=\"http://www.last.fm/music/Summoning/Old+Mornings+Dawn\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:23.159Z"
+}

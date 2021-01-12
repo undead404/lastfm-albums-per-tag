@@ -1,0 +1,124 @@
+{
+  "album": {
+    "name": "Too Old, Too Cold",
+    "artist": "Darkthrone",
+    "url": "https://www.last.fm/music/Darkthrone/Too+Old,+Too+Cold",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e91f68ceb0d436690de9e0960831e27.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4513",
+    "playcount": "40548",
+    "tracks": {
+      "track": [
+        {
+          "name": "Too Old Too Cold",
+          "url": "https://www.last.fm/music/Darkthrone/_/Too+Old+Too+Cold",
+          "duration": "181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "High On Cold War",
+          "url": "https://www.last.fm/music/Darkthrone/_/High+On+Cold+War",
+          "duration": "206",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Love In a Void",
+          "url": "https://www.last.fm/music/Darkthrone/_/Love+In+a+Void",
+          "duration": "153",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Graveyard Slut",
+          "url": "https://www.last.fm/music/Darkthrone/_/Graveyard+Slut",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:51:43.480Z"
+}

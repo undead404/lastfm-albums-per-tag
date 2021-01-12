@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Eye for An Eye",
+    "artist": "Twilight",
+    "mbid": "a2944cab-2600-419b-987e-3116590fb81e",
+    "url": "https://www.last.fm/music/Twilight/Eye+for+An+Eye",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f1fbdfcba3e47848c5ec02ea36fb126.png",
+        "size": ""
+      }
+    ],
+    "listeners": "425",
+    "playcount": "6744",
+    "tracks": {
+      "track": [
+        {
+          "name": "Come Night Come Evil",
+          "url": "https://www.last.fm/music/Twilight/_/Come+Night+Come+Evil",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Eye For An Eye",
+          "url": "https://www.last.fm/music/Twilight/_/Eye+For+An+Eye",
+          "duration": "360",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Imperfection",
+          "url": "https://www.last.fm/music/Twilight/_/Imperfection",
+          "duration": "234",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Flashbacks",
+          "url": "https://www.last.fm/music/Twilight/_/Flashbacks",
+          "duration": "287",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "River Of Styx",
+          "url": "https://www.last.fm/music/Twilight/_/River+Of+Styx",
+          "duration": "307",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Sol Et Luna",
+          "url": "https://www.last.fm/music/Twilight/_/Sol+Et+Luna",
+          "duration": "83",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Trial By Fire",
+          "url": "https://www.last.fm/music/Twilight/_/Trial+By+Fire",
+          "duration": "249",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "The Meeting",
+          "url": "https://www.last.fm/music/Twilight/_/The+Meeting",
+          "duration": "353",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "To The End",
+          "url": "https://www.last.fm/music/Twilight/_/To+The+End",
+          "duration": "327",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Sail Away",
+          "url": "https://www.last.fm/music/Twilight/_/Sail+Away",
+          "duration": "355",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:47:58.469Z"
+}

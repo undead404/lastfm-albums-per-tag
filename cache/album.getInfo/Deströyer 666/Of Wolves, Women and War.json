@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "...Of Wolves, Women and War",
+    "artist": "Deströyer 666",
+    "mbid": "e1920cf3-6ac2-4788-98c0-547d769216fe",
+    "url": "https://www.last.fm/music/Destr%C3%B6yer+666/...Of+Wolves,+Women+and+War",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e4f67bc6e4f4de5b9c1ffaf552e0b19.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1714",
+    "playcount": "15600",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ghost Dance",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Ghost+Dance",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Taste the Poison",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Taste+the+Poison",
+          "duration": "181",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Levens Bloed",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Levens+Bloed",
+          "duration": "132",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:49.110Z"
+}

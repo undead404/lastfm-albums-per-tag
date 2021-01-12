@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Impure Blessings (Dark Angel Of The Four Wings)",
+    "artist": "Demoncy",
+    "url": "https://www.last.fm/music/Demoncy/Impure+Blessings+(Dark+Angel+Of+The+Four+Wings)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "27",
+    "playcount": "137",
+    "tracks": {
+      "track": [
+        {
+          "name": "Impure Blessings (Dark Angel of the Four Wings)",
+          "url": "https://www.last.fm/music/Demoncy/_/Impure+Blessings+(Dark+Angel+of+the+Four+Wings)",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Demoncy",
+            "mbid": "601b6841-0c21-4a62-b205-d70a654bef61",
+            "url": "https://www.last.fm/music/Demoncy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:22:25.620Z"
+}

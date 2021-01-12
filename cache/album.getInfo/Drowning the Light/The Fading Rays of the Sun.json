@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "The Fading Rays of the Sun",
+    "artist": "Drowning the Light",
+    "mbid": "71ff4b49-5012-46f5-87fe-65f6146dd933",
+    "url": "https://www.last.fm/music/Drowning+the+Light/The+Fading+Rays+of+the+Sun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4cff861f2254a958089397d6568be7f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4cff861f2254a958089397d6568be7f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4cff861f2254a958089397d6568be7f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4cff861f2254a958089397d6568be7f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4cff861f2254a958089397d6568be7f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4cff861f2254a958089397d6568be7f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "955",
+    "playcount": "9257",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Fading Rays of the Sun",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/The+Fading+Rays+of+the+Sun",
+          "duration": "367",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Child of the Moon",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Child+of+the+Moon",
+          "duration": "352",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Tide of Vengeance",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Tide+of+Vengeance",
+          "duration": "352",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        },
+        {
+          "name": "Apparitions of death",
+          "url": "https://www.last.fm/music/Drowning+the+Light/_/Apparitions+of+death",
+          "duration": "354",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drowning the Light",
+            "mbid": "08684987-5296-47a1-a107-ecfb2a4877f2",
+            "url": "https://www.last.fm/music/Drowning+the+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:25:53.891Z"
+}

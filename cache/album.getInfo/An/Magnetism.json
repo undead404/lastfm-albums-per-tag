@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Magnetism",
+    "artist": "An",
+    "url": "https://www.last.fm/music/An/Magnetism",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/048d831098911a99a9e92300c0cce472.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/048d831098911a99a9e92300c0cce472.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/048d831098911a99a9e92300c0cce472.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/048d831098911a99a9e92300c0cce472.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/048d831098911a99a9e92300c0cce472.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/048d831098911a99a9e92300c0cce472.png",
+        "size": ""
+      }
+    ],
+    "listeners": "80",
+    "playcount": "172",
+    "tracks": {
+      "track": [
+        {
+          "name": "murena grace",
+          "url": "https://www.last.fm/music/An/_/murena+grace",
+          "duration": "542",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "An",
+            "mbid": "f268eb3d-3d07-476a-9843-3e4758ccb649",
+            "url": "https://www.last.fm/music/An"
+          }
+        },
+        {
+          "name": "existench",
+          "url": "https://www.last.fm/music/An/_/existench",
+          "duration": "426",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "An",
+            "mbid": "f268eb3d-3d07-476a-9843-3e4758ccb649",
+            "url": "https://www.last.fm/music/An"
+          }
+        },
+        {
+          "name": "i-doll",
+          "url": "https://www.last.fm/music/An/_/i-doll",
+          "duration": "328",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "An",
+            "mbid": "f268eb3d-3d07-476a-9843-3e4758ccb649",
+            "url": "https://www.last.fm/music/An"
+          }
+        },
+        {
+          "name": "carne wall",
+          "url": "https://www.last.fm/music/An/_/carne+wall",
+          "duration": "368",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "An",
+            "mbid": "f268eb3d-3d07-476a-9843-3e4758ccb649",
+            "url": "https://www.last.fm/music/An"
+          }
+        },
+        {
+          "name": "mandalas we are",
+          "url": "https://www.last.fm/music/An/_/mandalas+we+are",
+          "duration": "442",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "An",
+            "mbid": "f268eb3d-3d07-476a-9843-3e4758ccb649",
+            "url": "https://www.last.fm/music/An"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:11:47.287Z"
+}

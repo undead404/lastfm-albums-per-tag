@@ -1,0 +1,268 @@
+{
+  "album": {
+    "name": "Science/Fiction",
+    "artist": "End",
+    "url": "https://www.last.fm/music/End/Science%2FFiction",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e600abda5e32a6a3a623f1589df6c0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "817",
+    "playcount": "9527",
+    "tracks": {
+      "track": [
+        {
+          "name": "eclipse of reason",
+          "url": "https://www.last.fm/music/End/_/eclipse+of+reason",
+          "duration": "360",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "immeasurable distances",
+          "url": "https://www.last.fm/music/End/_/immeasurable+distances",
+          "duration": "396",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "the image economy",
+          "url": "https://www.last.fm/music/End/_/the+image+economy",
+          "duration": "208",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Global Media Engine",
+          "url": "https://www.last.fm/music/End/_/Global+Media+Engine",
+          "duration": "286",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "simulacra and simulations",
+          "url": "https://www.last.fm/music/End/_/simulacra+and+simulations",
+          "duration": "175",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "an elaborate accounting hoax",
+          "url": "https://www.last.fm/music/End/_/an+elaborate+accounting+hoax",
+          "duration": "287",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "society of the spectacle",
+          "url": "https://www.last.fm/music/End/_/society+of+the+spectacle",
+          "duration": "256",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "the culture industry",
+          "url": "https://www.last.fm/music/End/_/the+culture+industry",
+          "duration": "206",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "theatres of memory",
+          "url": "https://www.last.fm/music/End/_/theatres+of+memory",
+          "duration": "295",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "dead media",
+          "url": "https://www.last.fm/music/End/_/dead+media",
+          "duration": "242",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "semiopolis",
+          "url": "https://www.last.fm/music/End/_/semiopolis",
+          "duration": "170",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "Science/Fiction",
+          "url": "https://www.last.fm/music/End/_/Science%2FFiction",
+          "duration": "452",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "idm",
+          "url": "https://www.last.fm/tag/idm"
+        },
+        {
+          "name": "glitch",
+          "url": "https://www.last.fm/tag/glitch"
+        },
+        {
+          "name": "good",
+          "url": "https://www.last.fm/tag/good"
+        },
+        {
+          "name": "2002",
+          "url": "https://www.last.fm/tag/2002"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:28:05.388Z"
+}

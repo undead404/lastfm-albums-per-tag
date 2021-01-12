@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Live from the Future",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/Live+from+the+Future",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e963e35c7d74792acdd6eda9ad8fb62.png",
+        "size": ""
+      }
+    ],
+    "listeners": "288",
+    "playcount": "931",
+    "tracks": {
+      "track": [
+        {
+          "name": "Reflections",
+          "url": "https://www.last.fm/music/Wayfarer/_/Reflections",
+          "duration": "307",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Live From The Future",
+          "url": "https://www.last.fm/music/Wayfarer/_/Live+From+The+Future",
+          "duration": "406",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:51:47.385Z"
+}

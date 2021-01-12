@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "The Black Box EP",
+    "artist": "Craft",
+    "url": "https://www.last.fm/music/Craft/The+Black+Box+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "33",
+    "playcount": "101",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Black Box",
+          "url": "https://www.last.fm/music/Craft/_/The+Black+Box",
+          "duration": "475",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "The Enclosed Conquest",
+          "url": "https://www.last.fm/music/Craft/_/The+Enclosed+Conquest",
+          "duration": "476",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Hypothesis",
+          "url": "https://www.last.fm/music/Craft/_/Hypothesis",
+          "duration": "469",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Hypothesis (Dorian Gray Remix)",
+          "url": "https://www.last.fm/music/Craft/_/Hypothesis+(Dorian+Gray+Remix)",
+          "duration": "333",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:22.340Z"
+}

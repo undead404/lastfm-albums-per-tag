@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Unplugged",
+    "artist": "Karg",
+    "url": "https://www.last.fm/music/Karg/Unplugged",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc01307d655d2688c4547d655cee2f2e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4",
+    "playcount": "34",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:21:56.635Z"
+}

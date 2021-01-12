@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Devil Is Fine (Live in London)",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/Devil+Is+Fine+(Live+in+London)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/033b62cdcab8a71544bce946718ac6b5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "933",
+    "playcount": "1791",
+    "tracks": {
+      "track": [
+        {
+          "name": "Devil Is Fine (Live in London)",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/Devil+Is+Fine+(Live+in+London)",
+          "duration": "233",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:24.994Z"
+}

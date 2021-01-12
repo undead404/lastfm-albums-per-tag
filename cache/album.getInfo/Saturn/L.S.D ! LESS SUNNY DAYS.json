@@ -1,0 +1,103 @@
+{
+  "album": {
+    "name": "L.S.D : LESS SUNNY DAYS",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/L.S.D+:+LESS+SUNNY+DAYS",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c897285c9efae884e278797a4ea49113.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c897285c9efae884e278797a4ea49113.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c897285c9efae884e278797a4ea49113.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c897285c9efae884e278797a4ea49113.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c897285c9efae884e278797a4ea49113.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c897285c9efae884e278797a4ea49113.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3196",
+    "playcount": "44851",
+    "tracks": {
+      "track": [
+        {
+          "name": "Less Intro",
+          "url": "https://www.last.fm/music/Saturn/_/Less+Intro",
+          "duration": "117",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "Sunny",
+          "url": "https://www.last.fm/music/Saturn/_/Sunny",
+          "duration": "120",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        },
+        {
+          "name": "days",
+          "url": "https://www.last.fm/music/Saturn/_/days",
+          "duration": "173",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:44:57.108Z"
+}

@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Neurotransmissions: Amplified Thought Chemistry",
+    "artist": "Code",
+    "mbid": "16250ea1-b796-4b4f-b356-94017b935af5",
+    "url": "https://www.last.fm/music/Code/Neurotransmissions:+Amplified+Thought+Chemistry",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc886b0f21d445a2c51684b106513482.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc886b0f21d445a2c51684b106513482.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc886b0f21d445a2c51684b106513482.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc886b0f21d445a2c51684b106513482.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc886b0f21d445a2c51684b106513482.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc886b0f21d445a2c51684b106513482.png",
+        "size": ""
+      }
+    ],
+    "listeners": "222",
+    "playcount": "1476",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aeon in Cinders",
+          "url": "https://www.last.fm/music/Code/_/Aeon+in+Cinders",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Radium",
+          "url": "https://www.last.fm/music/Code/_/Radium",
+          "duration": "428",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "A Cloud Formed Teardrop Asylum",
+          "url": "https://www.last.fm/music/Code/_/A+Cloud+Formed+Teardrop+Asylum",
+          "duration": "445",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Pollen Of Black Plume",
+          "url": "https://www.last.fm/music/Code/_/Pollen+Of+Black+Plume",
+          "duration": "372",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        },
+        {
+          "name": "Ghost Formula",
+          "url": "https://www.last.fm/music/Code/_/Ghost+Formula",
+          "duration": "535",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Code",
+            "mbid": "d2b4552d-ad66-4c10-96d8-0556d74c825e",
+            "url": "https://www.last.fm/music/Code"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:43:28.333Z"
+}

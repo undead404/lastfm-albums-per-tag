@@ -1,0 +1,76 @@
+{
+  "album": {
+    "name": "Waste",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/Waste",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f04e8d6e453d05ee60035feaf7182b4e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3407",
+    "playcount": "8635",
+    "tracks": {
+      "track": [
+        {
+          "name": "Waste",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/Waste",
+          "duration": "199",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "blues black metal",
+          "url": "https://www.last.fm/tag/blues+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:14:21.578Z"
+}

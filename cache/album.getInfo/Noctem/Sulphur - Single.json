@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Sulphur - Single",
+    "artist": "Noctem",
+    "url": "https://www.last.fm/music/Noctem/Sulphur+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "8",
+    "playcount": "10",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sulphur",
+          "url": "https://www.last.fm/music/Noctem/_/Sulphur",
+          "duration": "288",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Noctem",
+            "mbid": "096f4a0c-d7e4-4bbe-8617-92c938566e2b",
+            "url": "https://www.last.fm/music/Noctem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:01:40.832Z"
+}

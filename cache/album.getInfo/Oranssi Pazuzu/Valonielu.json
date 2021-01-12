@@ -1,0 +1,172 @@
+{
+  "album": {
+    "name": "Valonielu",
+    "artist": "Oranssi Pazuzu",
+    "mbid": "2469a6a4-d9fb-468b-9389-68fcd0f80a06",
+    "url": "https://www.last.fm/music/Oranssi+Pazuzu/Valonielu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95cdd7953b5045df88ada34a9869a38f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "16708",
+    "playcount": "316004",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vino Verso",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Vino+Verso",
+          "duration": "295",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Tyhjä Temppeli",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Tyhj%C3%A4+Temppeli",
+          "duration": "266",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Uraanisula",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Uraanisula",
+          "duration": "712",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Reikä Maisemassa",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Reik%C3%A4+Maisemassa",
+          "duration": "279",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Olen Aukaissut Uuden Silmän",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Olen+Aukaissut+Uuden+Silm%C3%A4n",
+          "duration": "316",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Ympyrä On Viiva Tomussa",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Ympyr%C3%A4+On+Viiva+Tomussa",
+          "duration": "911",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "space rock",
+          "url": "https://www.last.fm/tag/space+rock"
+        },
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        },
+        {
+          "name": "psychedelic black metal",
+          "url": "https://www.last.fm/tag/psychedelic+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Oct 2013, 08:52",
+      "summary": "Line-up:\n\nJun-His - Vocals & Guitars\nOntto - Bass\nEviL - Keyboards & Percussion\nMoit - Guitars\nKorjak - Drums\nJ.G. Arellano - Additional percussion & special effects\n <a href=\"http://www.last.fm/music/Oranssi+Pazuzu/Valonielu\">Read more on Last.fm</a>.",
+      "content": "Line-up:\n\nJun-His - Vocals & Guitars\nOntto - Bass\nEviL - Keyboards & Percussion\nMoit - Guitars\nKorjak - Drums\nJ.G. Arellano - Additional percussion & special effects\n <a href=\"http://www.last.fm/music/Oranssi+Pazuzu/Valonielu\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:24:04.054Z"
+}

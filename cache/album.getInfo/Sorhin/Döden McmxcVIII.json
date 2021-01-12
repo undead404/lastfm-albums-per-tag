@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Döden McmxcVIII",
+    "artist": "Sorhin",
+    "mbid": "ce82328a-3d29-4d81-bc06-055d83899a9c",
+    "url": "https://www.last.fm/music/Sorhin/D%C3%B6den+McmxcVIII",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a77f88908cac22cc387451fa8e3e2587.png",
+        "size": ""
+      }
+    ],
+    "listeners": "259",
+    "playcount": "3242",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blott en Människa Svag",
+          "url": "https://www.last.fm/music/Sorhin/_/Blott+en+M%C3%A4nniska+Svag",
+          "duration": "265",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "När Döden Sträcker Ut Sina Vingar",
+          "url": "https://www.last.fm/music/Sorhin/_/N%C3%A4r+D%C3%B6den+Str%C3%A4cker+Ut+Sina+Vingar",
+          "duration": "181",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Ett Sista Monument Ståtligt",
+          "url": "https://www.last.fm/music/Sorhin/_/Ett+Sista+Monument+St%C3%A5tligt",
+          "duration": "263",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "1998",
+          "url": "https://www.last.fm/tag/1998"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:57:00.023Z"
+}

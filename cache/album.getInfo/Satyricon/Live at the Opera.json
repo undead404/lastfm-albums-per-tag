@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Live at the Opera",
+    "artist": "Satyricon",
+    "url": "https://www.last.fm/music/Satyricon/Live+at+the+Opera",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f60f0d6b5a64e10cec07c18134cdbc3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13055",
+    "playcount": "217029",
+    "tracks": {
+      "track": [
+        {
+          "name": "Voice of Shadows",
+          "url": "https://www.last.fm/music/Satyricon/_/Voice+of+Shadows",
+          "duration": "155",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "live",
+          "url": "https://www.last.fm/tag/live"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "Live album",
+          "url": "https://www.last.fm/tag/Live+album"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:33.399Z"
+}

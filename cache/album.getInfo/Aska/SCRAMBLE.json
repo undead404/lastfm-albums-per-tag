@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "SCRAMBLE",
+    "artist": "Aska",
+    "mbid": "6a133307-9307-409a-a369-4d20f9327085",
+    "url": "https://www.last.fm/music/Aska/SCRAMBLE",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a6107e0a13c84cc6a406d41529861f68.png",
+        "size": ""
+      }
+    ],
+    "listeners": "164",
+    "playcount": "11154",
+    "tracks": {
+      "track": [
+        {
+          "name": "UNI-VERSE (Album Mix)",
+          "url": "https://www.last.fm/music/Aska/_/UNI-VERSE+(Album+Mix)",
+          "duration": "326",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "いろんな人が歌ってきたように",
+          "url": "https://www.last.fm/music/Aska/_/%E3%81%84%E3%82%8D%E3%82%93%E3%81%AA%E4%BA%BA%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%88%E3%81%86%E3%81%AB",
+          "duration": "256",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "朝をありがとう",
+          "url": "https://www.last.fm/music/Aska/_/%E6%9C%9D%E3%82%92%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86",
+          "duration": "297",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "L & R (Album Mix)",
+          "url": "https://www.last.fm/music/Aska/_/L+&+R+(Album+Mix)",
+          "duration": "282",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "どんなことがあっても",
+          "url": "https://www.last.fm/music/Aska/_/%E3%81%A9%E3%82%93%E3%81%AA%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%81%A3%E3%81%A6%E3%82%82",
+          "duration": "288",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "SCRAMBLE",
+          "url": "https://www.last.fm/music/Aska/_/SCRAMBLE",
+          "duration": "226",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "歌の中には不自由がない",
+          "url": "https://www.last.fm/music/Aska/_/%E6%AD%8C%E3%81%AE%E4%B8%AD%E3%81%AB%E3%81%AF%E4%B8%8D%E8%87%AA%E7%94%B1%E3%81%8C%E3%81%AA%E3%81%84",
+          "duration": "249",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "あなたが泣くことはない",
+          "url": "https://www.last.fm/music/Aska/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E6%B3%A3%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84",
+          "duration": "307",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "水ゆるく流れ",
+          "url": "https://www.last.fm/music/Aska/_/%E6%B0%B4%E3%82%86%E3%82%8B%E3%81%8F%E6%B5%81%E3%82%8C",
+          "duration": "346",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "僕の来た道",
+          "url": "https://www.last.fm/music/Aska/_/%E5%83%95%E3%81%AE%E6%9D%A5%E3%81%9F%E9%81%93",
+          "duration": "279",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:49.366Z"
+}

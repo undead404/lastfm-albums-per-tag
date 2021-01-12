@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Yekteníya VII",
+    "artist": "Batushka",
+    "url": "https://www.last.fm/music/Batushka/Yekten%C3%ADya+VII",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a4e4f7f8c51427eee68a95b224d98297.png",
+        "size": ""
+      }
+    ],
+    "listeners": "23",
+    "playcount": "68",
+    "tracks": {
+      "track": [
+        {
+          "name": "Yekteníya 7",
+          "url": "https://www.last.fm/music/Batushka/_/Yekten%C3%ADya+7",
+          "duration": "334",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:59.055Z"
+}

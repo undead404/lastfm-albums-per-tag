@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Inferno",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/Inferno",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6775a97c6565eb938646a50f9700ea1e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "545",
+    "playcount": "936",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inferno",
+          "url": "https://www.last.fm/music/Ancst/_/Inferno",
+          "duration": "144",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:58:56.148Z"
+}

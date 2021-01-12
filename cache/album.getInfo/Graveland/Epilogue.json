@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Epilogue",
+    "artist": "Graveland",
+    "mbid": "9326ec9e-2a43-4b50-90eb-7b89b69724de",
+    "url": "https://www.last.fm/music/Graveland/Epilogue",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6e8f531c90c4c71cc9986a758505b53.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1006",
+    "playcount": "10548",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Graveland/_/Intro",
+          "duration": "181",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "The Eyes of Balor",
+          "url": "https://www.last.fm/music/Graveland/_/The+Eyes+of+Balor",
+          "duration": "81",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Shadow of Doom",
+          "url": "https://www.last.fm/music/Graveland/_/Shadow+of+Doom",
+          "duration": "193",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "The Forest Nemeton, Pt. 2",
+          "url": "https://www.last.fm/music/Graveland/_/The+Forest+Nemeton,+Pt.+2",
+          "duration": "292",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Children of the Moon",
+          "url": "https://www.last.fm/music/Graveland/_/Children+of+the+Moon",
+          "duration": "337",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Graveland/_/Outro",
+          "duration": "119",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:40:13.179Z"
+}

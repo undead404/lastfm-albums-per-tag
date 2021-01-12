@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Zeppelin Raids",
+    "artist": "1914",
+    "url": "https://www.last.fm/music/1914/Zeppelin+Raids",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bc9905a706d19f2912fc1a4b63e8440.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10",
+    "playcount": "23",
+    "tracks": {
+      "track": [
+        {
+          "name": "Zeppelin raids",
+          "url": "https://www.last.fm/music/1914/_/Zeppelin+raids",
+          "duration": "309",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:36.731Z"
+}

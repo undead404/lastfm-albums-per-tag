@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Als der Nebel...",
+    "artist": "Graupel",
+    "mbid": "d00ada0e-a6a1-4589-8beb-3d84d92d26cf",
+    "url": "https://www.last.fm/music/Graupel/Als+der+Nebel...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4118e18f06b44e8b4234ea217a809ed.png",
+        "size": ""
+      }
+    ],
+    "listeners": "792",
+    "playcount": "16345",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Graupel/_/Intro",
+          "duration": "60",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Graupel",
+          "url": "https://www.last.fm/music/Graupel/_/Graupel",
+          "duration": "177",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Seelenkampf",
+          "url": "https://www.last.fm/music/Graupel/_/Seelenkampf",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Zwergennacht",
+          "url": "https://www.last.fm/music/Graupel/_/Zwergennacht",
+          "duration": "259",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Ringgeister",
+          "url": "https://www.last.fm/music/Graupel/_/Ringgeister",
+          "duration": "279",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        },
+        {
+          "name": "Kriegerherz",
+          "url": "https://www.last.fm/music/Graupel/_/Kriegerherz",
+          "duration": "260",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:07.442Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Necessary Death",
+    "artist": "End",
+    "url": "https://www.last.fm/music/End/Necessary+Death",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/859e2e086152848ac4da401f16a51b9b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/859e2e086152848ac4da401f16a51b9b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/859e2e086152848ac4da401f16a51b9b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/859e2e086152848ac4da401f16a51b9b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/859e2e086152848ac4da401f16a51b9b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/859e2e086152848ac4da401f16a51b9b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9186",
+    "playcount": "42484",
+    "tracks": {
+      "track": [
+        {
+          "name": "Necessary Death",
+          "url": "https://www.last.fm/music/End/_/Necessary+Death",
+          "duration": "173",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:52.872Z"
+}

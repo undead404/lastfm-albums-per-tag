@@ -1,0 +1,529 @@
+{
+  "album": {
+    "name": "Ildjarn",
+    "artist": "Ildjarn",
+    "mbid": "d667f2d0-c1d1-4c42-bec3-72bbe6bd3b4c",
+    "url": "https://www.last.fm/music/Ildjarn/Ildjarn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad4a453e56414c779e1829395a54a109.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad4a453e56414c779e1829395a54a109.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad4a453e56414c779e1829395a54a109.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad4a453e56414c779e1829395a54a109.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad4a453e56414c779e1829395a54a109.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad4a453e56414c779e1829395a54a109.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3377",
+    "playcount": "128809",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skogsslottet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Skogsslottet",
+          "duration": "173",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Kulde",
+          "url": "https://www.last.fm/music/Ildjarn/_/Kulde",
+          "duration": "40",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Taakeheim",
+          "url": "https://www.last.fm/music/Ildjarn/_/Taakeheim",
+          "duration": "16",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Snøen dekker",
+          "url": "https://www.last.fm/music/Ildjarn/_/Sn%C3%B8en+dekker",
+          "duration": "107",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Skogssvinet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Skogssvinet",
+          "duration": "140",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Svarte grangrunn",
+          "url": "https://www.last.fm/music/Ildjarn/_/Svarte+grangrunn",
+          "duration": "156",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Krigere",
+          "url": "https://www.last.fm/music/Ildjarn/_/Krigere",
+          "duration": "294",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Atter en gang",
+          "url": "https://www.last.fm/music/Ildjarn/_/Atter+en+gang",
+          "duration": "170",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Nordiske mørke",
+          "url": "https://www.last.fm/music/Ildjarn/_/Nordiske+m%C3%B8rke",
+          "duration": "160",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Blikkets storhet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Blikkets+storhet",
+          "duration": "183",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Himmelhvelv",
+          "url": "https://www.last.fm/music/Ildjarn/_/Himmelhvelv",
+          "duration": "171",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Huset i skogen",
+          "url": "https://www.last.fm/music/Ildjarn/_/Huset+i+skogen",
+          "duration": "251",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Draumeheim",
+          "url": "https://www.last.fm/music/Ildjarn/_/Draumeheim",
+          "duration": "284",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Svarte Fjell",
+          "url": "https://www.last.fm/music/Ildjarn/_/Svarte+Fjell",
+          "duration": "191",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Mørkeheim",
+          "url": "https://www.last.fm/music/Ildjarn/_/M%C3%B8rkeheim",
+          "duration": "215",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Himmelen Svartner",
+          "url": "https://www.last.fm/music/Ildjarn/_/Himmelen+Svartner",
+          "duration": "192",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Der Det Skjulte Lever",
+          "url": "https://www.last.fm/music/Ildjarn/_/Der+Det+Skjulte+Lever",
+          "duration": "100",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Som en ensom borg",
+          "url": "https://www.last.fm/music/Ildjarn/_/Som+en+ensom+borg",
+          "duration": "156",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Vinden biter",
+          "url": "https://www.last.fm/music/Ildjarn/_/Vinden+biter",
+          "duration": "134",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Mørket Slynger Seg",
+          "url": "https://www.last.fm/music/Ildjarn/_/M%C3%B8rket+Slynger+Seg",
+          "duration": "93",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Skogrommet",
+          "url": "https://www.last.fm/music/Ildjarn/_/Skogrommet",
+          "duration": "148",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Innover i dalsøkk",
+          "url": "https://www.last.fm/music/Ildjarn/_/Innover+i+dals%C3%B8kk",
+          "duration": "196",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Lydløst over åsen",
+          "url": "https://www.last.fm/music/Ildjarn/_/Lydl%C3%B8st+over+%C3%A5sen",
+          "duration": "158",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Tildekket Og Kald",
+          "url": "https://www.last.fm/music/Ildjarn/_/Tildekket+Og+Kald",
+          "duration": "138",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Det mørkner",
+          "url": "https://www.last.fm/music/Ildjarn/_/Det+m%C3%B8rkner",
+          "duration": "198",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Dødmørke",
+          "url": "https://www.last.fm/music/Ildjarn/_/D%C3%B8dm%C3%B8rke",
+          "duration": "102",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        },
+        {
+          "name": "Dødmørke",
+          "url": "https://www.last.fm/music/Ildjarn/_/D%C3%B8dm%C3%B8rke",
+          "duration": "102",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ildjarn",
+            "mbid": "538633a0-b71b-4713-baa8-40888295f590",
+            "url": "https://www.last.fm/music/Ildjarn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Oct 2013, 21:17",
+      "summary": "- CD limited to 750 copies.\n- Tape version released by Monstrous Star in 2005 or 2006.\n- Vinyl version released in 2005 as gatefold DLP by Northern Heritage Records limited to 500 copies.\n- Re-released in 2013 by Season of Mist as CD and limited DLP with new artwork. <a href=\"http://www.last.fm/music/Ildjarn/Ildjarn\">Read more on Last.fm</a>.",
+      "content": "- CD limited to 750 copies.\n- Tape version released by Monstrous Star in 2005 or 2006.\n- Vinyl version released in 2005 as gatefold DLP by Northern Heritage Records limited to 500 copies.\n- Re-released in 2013 by Season of Mist as CD and limited DLP with new artwork. <a href=\"http://www.last.fm/music/Ildjarn/Ildjarn\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:00:54.617Z"
+}

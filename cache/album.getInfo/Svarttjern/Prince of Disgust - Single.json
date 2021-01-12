@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Prince of Disgust - Single",
+    "artist": "Svarttjern",
+    "url": "https://www.last.fm/music/Svarttjern/Prince+of+Disgust+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67961a9b66a586b9451590b4f5561074.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67961a9b66a586b9451590b4f5561074.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67961a9b66a586b9451590b4f5561074.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67961a9b66a586b9451590b4f5561074.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67961a9b66a586b9451590b4f5561074.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67961a9b66a586b9451590b4f5561074.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21",
+    "playcount": "39",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prince of Disgust",
+          "url": "https://www.last.fm/music/Svarttjern/_/Prince+of+Disgust",
+          "duration": "252",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:52.682Z"
+}

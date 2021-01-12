@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "So I Must Take From The Earth",
+    "artist": "Bone Awl",
+    "mbid": "5f4690a6-0e6a-4398-99f0-205009390692",
+    "url": "https://www.last.fm/music/Bone+Awl/So+I+Must+Take+From+The+Earth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6af1f7f40814a43a062f050f8b3fbaf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "545",
+    "playcount": "5664",
+    "tracks": {
+      "track": [
+        {
+          "name": "It Must Be",
+          "url": "https://www.last.fm/music/Bone+Awl/_/It+Must+Be",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "On Black Mountain",
+          "url": "https://www.last.fm/music/Bone+Awl/_/On+Black+Mountain",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Black Kali Bride",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Black+Kali+Bride",
+          "duration": "218",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Offering To Me",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Offering+To+Me",
+          "duration": "204",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Veins",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Veins",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:30.329Z"
+}

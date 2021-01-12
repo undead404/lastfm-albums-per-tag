@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Trąby Zagłady / Pożeracze Słońc",
+    "artist": "Plaga",
+    "url": "https://www.last.fm/music/Plaga/Tr%C4%85by+Zag%C5%82ady+%2F+Po%C5%BCeracze+S%C5%82o%C5%84c",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bc7e762a8222a0abf0c0b3dee2ad02f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "175",
+    "playcount": "5639",
+    "tracks": {
+      "track": [
+        {
+          "name": "Trąby zagłady",
+          "url": "https://www.last.fm/music/Plaga/_/Tr%C4%85by+zag%C5%82ady",
+          "duration": "401",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Instrumental",
+          "url": "https://www.last.fm/music/Plaga/_/Instrumental",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Triumfalny Taniec...",
+          "url": "https://www.last.fm/music/Plaga/_/Triumfalny+Taniec...",
+          "duration": "554",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Goblet of Bitterness",
+          "url": "https://www.last.fm/music/Plaga/_/Goblet+of+Bitterness",
+          "duration": "475",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Pożeracze Słońc",
+          "url": "https://www.last.fm/music/Plaga/_/Po%C5%BCeracze+S%C5%82o%C5%84c",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        },
+        {
+          "name": "Sznur",
+          "url": "https://www.last.fm/music/Plaga/_/Sznur",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Plaga",
+            "mbid": "042084fb-ac8f-495f-9227-2d15fa556726",
+            "url": "https://www.last.fm/music/Plaga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:19:55.778Z"
+}

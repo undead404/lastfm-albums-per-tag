@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Nightsky",
+    "artist": "Saltus",
+    "url": "https://www.last.fm/music/Saltus/Nightsky",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "28",
+    "playcount": "87",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mind's Eye",
+          "url": "https://www.last.fm/music/Saltus/_/Mind%27s+Eye",
+          "duration": "210",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Reach for the Dead (Saltus Edit)",
+          "url": "https://www.last.fm/music/Saltus/_/Reach+for+the+Dead+(Saltus+Edit)",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Ash",
+          "url": "https://www.last.fm/music/Saltus/_/Ash",
+          "duration": "213",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "Beauty in Dark Places",
+          "url": "https://www.last.fm/music/Saltus/_/Beauty+in+Dark+Places",
+          "duration": "236",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        },
+        {
+          "name": "The Dream Unfolds",
+          "url": "https://www.last.fm/music/Saltus/_/The+Dream+Unfolds",
+          "duration": "319",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saltus",
+            "mbid": "81692f53-91c3-44f8-9697-a4ae88c76dc9",
+            "url": "https://www.last.fm/music/Saltus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:25:24.345Z"
+}

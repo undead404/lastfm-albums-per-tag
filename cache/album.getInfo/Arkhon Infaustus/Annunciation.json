@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Annunciation",
+    "artist": "Arkhon Infaustus",
+    "mbid": "ddfa6342-43e1-42de-b686-ae164f036483",
+    "url": "https://www.last.fm/music/Arkhon+Infaustus/Annunciation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9f0d700142d45cbb63f530c44a5a85c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "683",
+    "playcount": "8228",
+    "tracks": {
+      "track": [
+        {
+          "name": "Annunciation To The Holy Ghost",
+          "url": "https://www.last.fm/music/Arkhon+Infaustus/_/Annunciation+To+The+Holy+Ghost",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arkhon Infaustus",
+            "mbid": "ecdeeb61-dc63-4631-8a6a-c5f54a0ac040",
+            "url": "https://www.last.fm/music/Arkhon+Infaustus"
+          }
+        },
+        {
+          "name": "Silent Voices of Perversion",
+          "url": "https://www.last.fm/music/Arkhon+Infaustus/_/Silent+Voices+of+Perversion",
+          "duration": "300",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arkhon Infaustus",
+            "mbid": "ecdeeb61-dc63-4631-8a6a-c5f54a0ac040",
+            "url": "https://www.last.fm/music/Arkhon+Infaustus"
+          }
+        },
+        {
+          "name": "Inside the Particle of God",
+          "url": "https://www.last.fm/music/Arkhon+Infaustus/_/Inside+the+Particle+of+God",
+          "duration": "330",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arkhon Infaustus",
+            "mbid": "ecdeeb61-dc63-4631-8a6a-c5f54a0ac040",
+            "url": "https://www.last.fm/music/Arkhon+Infaustus"
+          }
+        },
+        {
+          "name": "God Will Not Forgive",
+          "url": "https://www.last.fm/music/Arkhon+Infaustus/_/God+Will+Not+Forgive",
+          "duration": "291",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arkhon Infaustus",
+            "mbid": "ecdeeb61-dc63-4631-8a6a-c5f54a0ac040",
+            "url": "https://www.last.fm/music/Arkhon+Infaustus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:13:11.193Z"
+}

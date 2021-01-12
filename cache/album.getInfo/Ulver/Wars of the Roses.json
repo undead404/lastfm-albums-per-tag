@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Wars of the Roses",
+    "artist": "Ulver",
+    "mbid": "9ca52718-f1e6-483a-9ccb-0f63c6bb1dc7",
+    "url": "https://www.last.fm/music/Ulver/Wars+of+the+Roses",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24922f9d3ed0f3ed361f0152757e9628.png",
+        "size": ""
+      }
+    ],
+    "listeners": "26659",
+    "playcount": "667749",
+    "tracks": {
+      "track": [
+        {
+          "name": "February MMX",
+          "url": "https://www.last.fm/music/Ulver/_/February+MMX",
+          "duration": "250",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Norwegian Gothic",
+          "url": "https://www.last.fm/music/Ulver/_/Norwegian+Gothic",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Providence",
+          "url": "https://www.last.fm/music/Ulver/_/Providence",
+          "duration": "492",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "September IV",
+          "url": "https://www.last.fm/music/Ulver/_/September+IV",
+          "duration": "280",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "England",
+          "url": "https://www.last.fm/music/Ulver/_/England",
+          "duration": "237",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Island",
+          "url": "https://www.last.fm/music/Ulver/_/Island",
+          "duration": "365",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Stone Angels",
+          "url": "https://www.last.fm/music/Ulver/_/Stone+Angels",
+          "duration": "893",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:00.141Z"
+}

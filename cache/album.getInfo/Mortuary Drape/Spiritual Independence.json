@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Spiritual Independence",
+    "artist": "Mortuary Drape",
+    "mbid": "123e6fc0-5ce8-4fb1-a8f2-cf1d6f4b3d33",
+    "url": "https://www.last.fm/music/Mortuary+Drape/Spiritual+Independence",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ea069e9603a471bc7b8d18bb2d78edf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1048",
+    "playcount": "25033",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Hiss",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/The+Hiss",
+          "duration": "129",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Lithany",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Lithany",
+          "duration": "320",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Once I Read (Marble Tomb)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Once+I+Read+(Marble+Tomb)",
+          "duration": "304",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Natural Death (1930-2011)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Natural+Death+(1930-2011)",
+          "duration": "381",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Mortal Remains (Your Bones)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Mortal+Remains+(Your+Bones)",
+          "duration": "371",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Immutable Witness",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Immutable+Witness",
+          "duration": "263",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Black Candle",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Black+Candle",
+          "duration": "68",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Ignis Fatuus (Deaf Space)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Ignis+Fatuus+(Deaf+Space)",
+          "duration": "281",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "1600 Gnostic Year",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/1600+Gnostic+Year",
+          "duration": "286",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        },
+        {
+          "name": "Spiritual Independence (The Farewell)",
+          "url": "https://www.last.fm/music/Mortuary+Drape/_/Spiritual+Independence+(The+Farewell)",
+          "duration": "376",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortuary Drape",
+            "mbid": "fdb43e0e-b245-40ac-8d24-9f8faa49b0f1",
+            "url": "https://www.last.fm/music/Mortuary+Drape"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:36:55.005Z"
+}

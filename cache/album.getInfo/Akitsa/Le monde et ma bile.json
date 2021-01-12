@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Le monde et ma bile",
+    "artist": "Akitsa",
+    "url": "https://www.last.fm/music/Akitsa/Le+monde+et+ma+bile",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "87",
+    "playcount": "167",
+    "tracks": {
+      "track": [
+        {
+          "name": "Le monde et ma bile",
+          "url": "https://www.last.fm/music/Akitsa/_/Le+monde+et+ma+bile",
+          "duration": "343",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:03:47.997Z"
+}

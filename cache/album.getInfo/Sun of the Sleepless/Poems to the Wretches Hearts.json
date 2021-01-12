@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Poems to the Wretches Hearts",
+    "artist": "Sun of the Sleepless",
+    "mbid": "2a89707f-ee2f-491b-97a3-6a9e21313da2",
+    "url": "https://www.last.fm/music/Sun+of+the+Sleepless/Poems+to+the+Wretches+Hearts",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a3ef5b8e1a8568bcedd54f2989abdc8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2894",
+    "playcount": "28702",
+    "tracks": {
+      "track": [
+        {
+          "name": "Thou, Whose Face Hath Felt the Winter's Wind",
+          "url": "https://www.last.fm/music/Sun+of+the+Sleepless/_/Thou,+Whose+Face+Hath+Felt+the+Winter%27s+Wind",
+          "duration": "364",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sun of the Sleepless",
+            "mbid": "9e9b1c25-9546-412b-afce-d8ab96122e87",
+            "url": "https://www.last.fm/music/Sun+of+the+Sleepless"
+          }
+        },
+        {
+          "name": "Grimme Pain",
+          "url": "https://www.last.fm/music/Sun+of+the+Sleepless/_/Grimme+Pain",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sun of the Sleepless",
+            "mbid": "9e9b1c25-9546-412b-afce-d8ab96122e87",
+            "url": "https://www.last.fm/music/Sun+of+the+Sleepless"
+          }
+        },
+        {
+          "name": "Nebelmond",
+          "url": "https://www.last.fm/music/Sun+of+the+Sleepless/_/Nebelmond",
+          "duration": "275",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sun of the Sleepless",
+            "mbid": "9e9b1c25-9546-412b-afce-d8ab96122e87",
+            "url": "https://www.last.fm/music/Sun+of+the+Sleepless"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "1999",
+          "url": "https://www.last.fm/tag/1999"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:06:49.540Z"
+}

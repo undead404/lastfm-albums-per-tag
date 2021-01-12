@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Gates of Pain",
+    "artist": "Devil Master",
+    "url": "https://www.last.fm/music/Devil+Master/Gates+of+Pain",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e39b8cbc238bd33fe968aa3b7c5d45.png",
+        "size": ""
+      }
+    ],
+    "listeners": "149",
+    "playcount": "265",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gates Of Pain",
+          "url": "https://www.last.fm/music/Devil+Master/_/Gates+Of+Pain",
+          "duration": "163",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:22:55.128Z"
+}

@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Stoßtrupp 1917",
+    "artist": "1914",
+    "url": "https://www.last.fm/music/1914/Sto%C3%9Ftrupp+1917",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5eb4be8a0f8dffa2ca0a657c67e008cb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "37",
+    "playcount": "93",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stoßtrupp 1917",
+          "url": "https://www.last.fm/music/1914/_/Sto%C3%9Ftrupp+1917",
+          "duration": "329",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "1914",
+            "url": "https://www.last.fm/music/1914"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:31.013Z"
+}

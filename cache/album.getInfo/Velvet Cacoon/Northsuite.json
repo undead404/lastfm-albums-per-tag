@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Northsuite",
+    "artist": "Velvet Cacoon",
+    "mbid": "7b4f01f4-469d-4b1c-bd4d-db60d7d69203",
+    "url": "https://www.last.fm/music/Velvet+Cacoon/Northsuite",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e7e8cf303c411a7664a133f13a09c061.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8458",
+    "playcount": "96005",
+    "tracks": {
+      "track": [
+        {
+          "name": "Northsuite",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Northsuite",
+          "duration": "702",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Winterglow",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Winterglow",
+          "duration": "527",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Fire Bloomed From Frost",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Fire+Bloomed+From+Frost",
+          "duration": "287",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Chapelflames",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Chapelflames",
+          "duration": "402",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Salts & Ashes",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Salts+&+Ashes",
+          "duration": "548",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Bloodscents",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Bloodscents",
+          "duration": "558",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Fire Bloomed From Frost",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Fire+Bloomed+From+Frost",
+          "duration": "287",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        },
+        {
+          "name": "Dieselflame Novapyre 1892",
+          "url": "https://www.last.fm/music/Velvet+Cacoon/_/Dieselflame+Novapyre+1892",
+          "duration": "371",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Velvet Cacoon",
+            "mbid": "6ce530e8-6ccf-4e30-9f3a-cf259d79d78e",
+            "url": "https://www.last.fm/music/Velvet+Cacoon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Experimental Rock",
+          "url": "https://www.last.fm/tag/Experimental+Rock"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:36:14.087Z"
+}

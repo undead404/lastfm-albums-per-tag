@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Iron Dawn",
+    "artist": "Marduk",
+    "mbid": "284efdd1-b1b7-4ae2-bb96-8ed2d8c636c4",
+    "url": "https://www.last.fm/music/Marduk/Iron+Dawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/857df455f55b4736c7bcf8e74dbc3ca2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2642",
+    "playcount": "33952",
+    "tracks": {
+      "track": [
+        {
+          "name": "Warschau 2: Headhunter Halfmoon",
+          "url": "https://www.last.fm/music/Marduk/_/Warschau+2:+Headhunter+Halfmoon",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Wacht am Rhein: Drumbeats of Death",
+          "url": "https://www.last.fm/music/Marduk/_/Wacht+am+Rhein:+Drumbeats+of+Death",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Prochorovka: Blood and Sunflowers",
+          "url": "https://www.last.fm/music/Marduk/_/Prochorovka:+Blood+and+Sunflowers",
+          "duration": "284",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:55:04.320Z"
+}

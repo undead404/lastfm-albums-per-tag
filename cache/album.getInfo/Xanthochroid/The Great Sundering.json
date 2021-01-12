@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Great Sundering",
+    "artist": "Xanthochroid",
+    "url": "https://www.last.fm/music/Xanthochroid/The+Great+Sundering",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b4de80ab7058c0e69babb4e7c27b6277.png",
+        "size": ""
+      }
+    ],
+    "listeners": "16",
+    "playcount": "172",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Great Sundering",
+          "url": "https://www.last.fm/music/Xanthochroid/_/The+Great+Sundering",
+          "duration": "154",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xanthochroid",
+            "mbid": "d3c4de0a-6e5b-410f-bb1c-a781490af765",
+            "url": "https://www.last.fm/music/Xanthochroid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:14:42.002Z"
+}

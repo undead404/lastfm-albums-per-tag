@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Schattengang",
+    "artist": "Paysage d'Hiver",
+    "mbid": "8ac7d573-b6d4-489f-9de3-63a873afb3e3",
+    "url": "https://www.last.fm/music/Paysage+d%27Hiver/Schattengang",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3028652486a24650aaeb33198c8851e2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3028652486a24650aaeb33198c8851e2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3028652486a24650aaeb33198c8851e2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3028652486a24650aaeb33198c8851e2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3028652486a24650aaeb33198c8851e2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3028652486a24650aaeb33198c8851e2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5909",
+    "playcount": "55966",
+    "tracks": {
+      "track": [
+        {
+          "name": "Moloch",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Moloch",
+          "duration": "840",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Atmosphaere",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Atmosphaere",
+          "duration": "409",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Die Zeit des Torremond",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Die+Zeit+des+Torremond",
+          "duration": "1249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:36.182Z"
+}

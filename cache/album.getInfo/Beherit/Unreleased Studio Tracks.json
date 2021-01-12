@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Unreleased Studio Tracks",
+    "artist": "Beherit",
+    "url": "https://www.last.fm/music/Beherit/Unreleased+Studio+Tracks",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5591da753a041f48827464d84324b4f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5591da753a041f48827464d84324b4f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5591da753a041f48827464d84324b4f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5591da753a041f48827464d84324b4f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5591da753a041f48827464d84324b4f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5591da753a041f48827464d84324b4f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "401",
+    "playcount": "1609",
+    "tracks": {
+      "track": [
+        {
+          "name": "Paradise Of Thy Demonic Host",
+          "url": "https://www.last.fm/music/Beherit/_/Paradise+Of+Thy+Demonic+Host",
+          "duration": "184",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "War Command",
+          "url": "https://www.last.fm/music/Beherit/_/War+Command",
+          "duration": "31",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "1991",
+          "url": "https://www.last.fm/tag/1991"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:20:13.854Z"
+}

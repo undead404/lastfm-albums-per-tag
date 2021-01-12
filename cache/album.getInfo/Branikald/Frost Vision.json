@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Frost Vision",
+    "artist": "Branikald",
+    "url": "https://www.last.fm/music/Branikald/Frost+Vision",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef2e65dc04f844e7c44906083ba47d17.png",
+        "size": ""
+      }
+    ],
+    "listeners": "607",
+    "playcount": "5875",
+    "tracks": {
+      "track": [
+        {
+          "name": "Na Volnah Vdohnoven'ya",
+          "url": "https://www.last.fm/music/Branikald/_/Na+Volnah+Vdohnoven%27ya",
+          "duration": "852",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "The Strings of Inspiration Sing",
+          "url": "https://www.last.fm/music/Branikald/_/The+Strings+of+Inspiration+Sing",
+          "duration": "520",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "The Sail's Wild Kin",
+          "url": "https://www.last.fm/music/Branikald/_/The+Sail%27s+Wild+Kin",
+          "duration": "495",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "‚Ä¶Gde Nochi Kray",
+          "url": "https://www.last.fm/music/Branikald/_/%E2%80%9A%C3%84%C2%B6Gde+Nochi+Kray",
+          "duration": "541",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Voice of Frost",
+          "url": "https://www.last.fm/music/Branikald/_/Voice+of+Frost",
+          "duration": "446",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        },
+        {
+          "name": "Hladavzor",
+          "url": "https://www.last.fm/music/Branikald/_/Hladavzor",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Branikald",
+            "mbid": "d5a86ed3-2145-4496-978e-9b4d13b79e7d",
+            "url": "https://www.last.fm/music/Branikald"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:40:43.020Z"
+}

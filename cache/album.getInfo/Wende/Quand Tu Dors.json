@@ -1,0 +1,287 @@
+{
+  "album": {
+    "name": "Quand Tu Dors",
+    "artist": "Wende",
+    "mbid": "21a5c1d6-a750-4e30-9c49-1336d81916e5",
+    "url": "https://www.last.fm/music/Wende/Quand+Tu+Dors",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c77648304c73eaac85d2ce1b4b9e05b6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3679",
+    "playcount": "40473",
+    "tracks": {
+      "track": [
+        {
+          "name": "Je suis comme je suis",
+          "url": "https://www.last.fm/music/Wende/_/Je+suis+comme+je+suis",
+          "duration": "95",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Quand Tu Dors",
+          "url": "https://www.last.fm/music/Wende/_/Quand+Tu+Dors",
+          "duration": "251",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Chaque fois",
+          "url": "https://www.last.fm/music/Wende/_/Chaque+fois",
+          "duration": "244",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Padam padam",
+          "url": "https://www.last.fm/music/Wende/_/Padam+padam",
+          "duration": "210",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Je t'attends",
+          "url": "https://www.last.fm/music/Wende/_/Je+t%27attends",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Je sais comment",
+          "url": "https://www.last.fm/music/Wende/_/Je+sais+comment",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Ca Va (Le Diable)",
+          "url": "https://www.last.fm/music/Wende/_/Ca+Va+(Le+Diable)",
+          "duration": "193",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Le mal de vivre",
+          "url": "https://www.last.fm/music/Wende/_/Le+mal+de+vivre",
+          "duration": "342",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Paris canaille",
+          "url": "https://www.last.fm/music/Wende/_/Paris+canaille",
+          "duration": "247",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La valse à mille temps",
+          "url": "https://www.last.fm/music/Wende/_/La+valse+%C3%A0+mille+temps",
+          "duration": "229",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "28 Aout '99",
+          "url": "https://www.last.fm/music/Wende/_/28+Aout+%2799",
+          "duration": "77",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "Ne me quitte pas",
+          "url": "https://www.last.fm/music/Wende/_/Ne+me+quitte+pas",
+          "duration": "261",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La solitude",
+          "url": "https://www.last.fm/music/Wende/_/La+solitude",
+          "duration": "200",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        },
+        {
+          "name": "La quête",
+          "url": "https://www.last.fm/music/Wende/_/La+qu%C3%AAte",
+          "duration": "152",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wende",
+            "mbid": "ffbf3e86-40d0-4b28-8896-a014600ffb96",
+            "url": "https://www.last.fm/music/Wende"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:34:15.814Z"
+}

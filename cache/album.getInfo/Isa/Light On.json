@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Light On",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Light+On",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cefb5376f1b2c4f67a317265414b817.png",
+        "size": ""
+      }
+    ],
+    "listeners": "440",
+    "playcount": "2193",
+    "tracks": {
+      "track": [
+        {
+          "name": "Light On",
+          "url": "https://www.last.fm/music/Isa/_/Light+On",
+          "duration": "203",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:22.348Z"
+}

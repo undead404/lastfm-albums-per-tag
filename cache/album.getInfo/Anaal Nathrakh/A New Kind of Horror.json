@@ -1,0 +1,234 @@
+{
+  "album": {
+    "name": "A New Kind of Horror",
+    "artist": "Anaal Nathrakh",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/A+New+Kind+of+Horror",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c30d5386c3a8ded5bc3a768cad5dd20.png",
+        "size": ""
+      }
+    ],
+    "listeners": "24728",
+    "playcount": "454804",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Road To…",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Road+To%E2%80%A6",
+          "duration": "109",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Obscene as Cancer",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Obscene+as+Cancer",
+          "duration": "183",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Reek of Fear",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Reek+of+Fear",
+          "duration": "200",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Forward!",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Forward%21",
+          "duration": "209",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "New Bethlehem/Mass Death Futures",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/New+Bethlehem%2FMass+Death+Futures",
+          "duration": "207",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Apocalypse Is About You!",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Apocalypse+Is+About+You%21",
+          "duration": "182",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Vi Coactus",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Vi+Coactus",
+          "duration": "223",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Mother of Satan",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Mother+of+Satan",
+          "duration": "205",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "The Horrid Strife",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/The+Horrid+Strife",
+          "duration": "207",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Are We Fit for Glory Yet? (The War to End Nothing)",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Are+We+Fit+for+Glory+Yet%3F+(The+War+to+End+Nothing)",
+          "duration": "250",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "grindcore",
+          "url": "https://www.last.fm/tag/grindcore"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:55:25.573Z"
+}

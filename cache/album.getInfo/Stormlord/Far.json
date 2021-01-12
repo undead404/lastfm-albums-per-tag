@@ -1,0 +1,222 @@
+{
+  "album": {
+    "name": "Far",
+    "artist": "Stormlord",
+    "url": "https://www.last.fm/music/Stormlord/Far",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b90c8de024557947e253e0de94fb140.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b90c8de024557947e253e0de94fb140.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b90c8de024557947e253e0de94fb140.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b90c8de024557947e253e0de94fb140.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b90c8de024557947e253e0de94fb140.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b90c8de024557947e253e0de94fb140.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3586",
+    "playcount": "34891",
+    "tracks": {
+      "track": [
+        {
+          "name": "Leviathan",
+          "url": "https://www.last.fm/music/Stormlord/_/Leviathan",
+          "duration": "307",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Mediterranea",
+          "url": "https://www.last.fm/music/Stormlord/_/Mediterranea",
+          "duration": "250",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Far",
+          "url": "https://www.last.fm/music/Stormlord/_/Far",
+          "duration": "294",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Sherden",
+          "url": "https://www.last.fm/music/Stormlord/_/Sherden",
+          "duration": "340",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Crimson",
+          "url": "https://www.last.fm/music/Stormlord/_/Crimson",
+          "duration": "250",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Cimmeria",
+          "url": "https://www.last.fm/music/Stormlord/_/Cimmeria",
+          "duration": "300",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Invictus",
+          "url": "https://www.last.fm/music/Stormlord/_/Invictus",
+          "duration": "288",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Romulus",
+          "url": "https://www.last.fm/music/Stormlord/_/Romulus",
+          "duration": "288",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Vacuna",
+          "url": "https://www.last.fm/music/Stormlord/_/Vacuna",
+          "duration": "316",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Levante",
+          "url": "https://www.last.fm/music/Stormlord/_/Levante",
+          "duration": "336",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "best albums 2019",
+          "url": "https://www.last.fm/tag/best+albums+2019"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:25.861Z"
+}

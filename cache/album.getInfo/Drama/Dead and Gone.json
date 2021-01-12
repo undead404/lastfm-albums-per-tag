@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Dead and Gone",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Dead+and+Gone",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cc64e85ae78e11e42ba5311969dfbdd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "16808",
+    "playcount": "59664",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dead and Gone",
+          "url": "https://www.last.fm/music/Drama/_/Dead+and+Gone",
+          "duration": "204",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:30.647Z"
+}

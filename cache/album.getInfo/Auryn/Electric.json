@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Electric",
+    "artist": "Auryn",
+    "url": "https://www.last.fm/music/Auryn/Electric",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e2da2ea477eb153670e15dc6fd0097b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "989",
+    "playcount": "3967",
+    "tracks": {
+      "track": [
+        {
+          "name": "Electric",
+          "url": "https://www.last.fm/music/Auryn/_/Electric",
+          "duration": "192",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auryn",
+            "mbid": "e6a9036a-f8c1-48f5-8e55-3f862cbeae1f",
+            "url": "https://www.last.fm/music/Auryn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:26:14.128Z"
+}

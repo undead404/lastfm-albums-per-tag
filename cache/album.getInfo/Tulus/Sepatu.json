@@ -1,0 +1,61 @@
+{
+  "album": {
+    "name": "Sepatu",
+    "artist": "Tulus",
+    "mbid": "c767f661-7b9d-45a5-958d-395bfc83283d",
+    "url": "https://www.last.fm/music/Tulus/Sepatu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4abced8910ef4a6a9d58699501d2a7b2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "59",
+    "playcount": "451",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sepatu",
+          "url": "https://www.last.fm/music/Tulus/_/Sepatu",
+          "duration": "219",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:33:30.747Z"
+}

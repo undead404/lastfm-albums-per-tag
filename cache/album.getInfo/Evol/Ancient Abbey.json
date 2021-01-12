@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "Ancient Abbey",
+    "artist": "Evol",
+    "mbid": "20a920f9-e827-4d8d-bbfd-dafafb6737a4",
+    "url": "https://www.last.fm/music/Evol/Ancient+Abbey",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acd62473b722658aaa056fb4c7d4de7b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1137",
+    "playcount": "11213",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Tale of the Witchlord",
+          "url": "https://www.last.fm/music/Evol/_/The+Tale+of+the+Witchlord",
+          "duration": "651",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Ancient Abbey (Thunder Remix)",
+          "url": "https://www.last.fm/music/Evol/_/Ancient+Abbey+(Thunder+Remix)",
+          "duration": "365",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Das gemiedene Schloss",
+          "url": "https://www.last.fm/music/Evol/_/Das+gemiedene+Schloss",
+          "duration": "241",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Phenomena",
+          "url": "https://www.last.fm/music/Evol/_/Phenomena",
+          "duration": "244",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Prologue (Waiting for his coming)",
+          "url": "https://www.last.fm/music/Evol/_/Prologue+(Waiting+for+his+coming)",
+          "duration": "166",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:02:06.406Z"
+}

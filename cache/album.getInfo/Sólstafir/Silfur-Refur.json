@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Silfur-Refur",
+    "artist": "Sólstafir",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/Silfur-Refur",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b0aeead9207d8d3684339cbbfe26c1f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3423",
+    "playcount": "10637",
+    "tracks": {
+      "track": [
+        {
+          "name": "Silfur-Refur",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Silfur-Refur",
+          "duration": "414",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Scorpion Moonrise",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Scorpion+Moonrise",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:55.225Z"
+}

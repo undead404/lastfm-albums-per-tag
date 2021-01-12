@@ -1,0 +1,64 @@
+{
+  "album": {
+    "name": "Kathodos",
+    "artist": "Serpent Column",
+    "url": "https://www.last.fm/music/Serpent+Column/Kathodos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/83eeb2d87ae5e6980fe5c441c6899b77.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2206",
+    "playcount": "36164",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dereliction",
+          "url": "https://www.last.fm/music/Serpent+Column/_/Dereliction",
+          "duration": "237",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Serpent Column",
+            "url": "https://www.last.fm/music/Serpent+Column"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:14:10.200Z"
+}

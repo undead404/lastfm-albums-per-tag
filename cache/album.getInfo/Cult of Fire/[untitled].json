@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "[untitled]",
+    "artist": "Cult of Fire",
+    "url": "https://www.last.fm/music/Cult+of+Fire/%5Buntitled%5D",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd1489202d2510453f0fd951a3fc2894.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11",
+    "playcount": "40",
+    "tracks": {
+      "track": [
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/%5Buntitled%5D",
+          "duration": "334",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        },
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Cult+of+Fire/_/%5Buntitled%5D",
+          "duration": "334",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cult of Fire",
+            "mbid": "74de256e-0dd5-4edc-abc1-ab587bec3a6e",
+            "url": "https://www.last.fm/music/Cult+of+Fire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:09:18.715Z"
+}

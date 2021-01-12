@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Piss Off!!!",
+    "artist": "Mysticum",
+    "url": "https://www.last.fm/music/Mysticum/Piss+Off%21%21%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/355e02ab332efcec61a98a5657bbe7c5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "41",
+    "playcount": "438",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Rest",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Rest",
+          "duration": "263",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Where the Raven Flies",
+          "url": "https://www.last.fm/music/Mysticum/_/Where+the+Raven+Flies",
+          "duration": "254",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Wintermass",
+          "url": "https://www.last.fm/music/Mysticum/_/Wintermass",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Kingdom Comes",
+          "url": "https://www.last.fm/music/Mysticum/_/Kingdom+Comes",
+          "duration": "299",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "In Your Grave",
+          "url": "https://www.last.fm/music/Mysticum/_/In+Your+Grave",
+          "duration": "224",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:30:06.752Z"
+}

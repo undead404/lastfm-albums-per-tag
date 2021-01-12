@@ -1,0 +1,211 @@
+{
+  "album": {
+    "name": "The Mass",
+    "artist": "Master's Hammer",
+    "mbid": "5bf178bd-7100-46dd-b3a6-bcc7039f7e4c",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/The+Mass",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/667105b90031d5b905e46ee94debbc96.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/667105b90031d5b905e46ee94debbc96.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/667105b90031d5b905e46ee94debbc96.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667105b90031d5b905e46ee94debbc96.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667105b90031d5b905e46ee94debbc96.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667105b90031d5b905e46ee94debbc96.png",
+        "size": ""
+      }
+    ],
+    "listeners": "558",
+    "playcount": "8303",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Intro",
+          "duration": "54",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Zapálili Jsme Onen Svet",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Zap%C3%A1lili+Jsme+Onen+Svet",
+          "duration": "276",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Signum Diabolis",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Signum+Diabolis",
+          "duration": "215",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Cerná Svatozár",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Cern%C3%A1+Svatoz%C3%A1r",
+          "duration": "390",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "skryté síly",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/skryt%C3%A9+s%C3%ADly",
+          "duration": "199",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vecny Návrat",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vecny+N%C3%A1vrat",
+          "duration": "217",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "The Mass",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/The+Mass",
+          "duration": "191",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vikoupení",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vikoupen%C3%AD",
+          "duration": "338",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Kolem Kotle...",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kolem+Kotle...",
+          "duration": "551",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Nov 2020, 12:47",
+      "summary": "Recorded 7-10.12.1989 at Dark Ceremonies Studio, Prague. <a href=\"http://www.last.fm/music/Master%27s+Hammer/The+Mass\">Read more on Last.fm</a>.",
+      "content": "Recorded 7-10.12.1989 at Dark Ceremonies Studio, Prague. <a href=\"http://www.last.fm/music/Master%27s+Hammer/The+Mass\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:23:45.005Z"
+}

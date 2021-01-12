@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Dawn of Infinity",
+    "artist": "Dark Forest",
+    "mbid": "5451b702-94fb-4783-8622-62be872b60bb",
+    "url": "https://www.last.fm/music/Dark+Forest/Dawn+of+Infinity",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47e62c5bd32443149ba4110b7fe0a346.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1060",
+    "playcount": "23132",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hourglass",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Hourglass",
+          "duration": "335",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Lightyears On",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Lightyears+On",
+          "duration": "261",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "The Green Knight",
+          "url": "https://www.last.fm/music/Dark+Forest/_/The+Green+Knight",
+          "duration": "311",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Seize the Day",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Seize+the+Day",
+          "duration": "269",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "The Tor",
+          "url": "https://www.last.fm/music/Dark+Forest/_/The+Tor",
+          "duration": "453",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Through A Glass Darkly",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Through+A+Glass+Darkly",
+          "duration": "320",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "The Stars My Destination",
+          "url": "https://www.last.fm/music/Dark+Forest/_/The+Stars+My+Destination",
+          "duration": "317",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Under the Greenwood Tree",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Under+the+Greenwood+Tree",
+          "duration": "256",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "Black Delta",
+          "url": "https://www.last.fm/music/Dark+Forest/_/Black+Delta",
+          "duration": "300",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        },
+        {
+          "name": "A Deadly Premonition",
+          "url": "https://www.last.fm/music/Dark+Forest/_/A+Deadly+Premonition",
+          "duration": "326",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Forest",
+            "mbid": "fb099a1f-c412-4026-ba33-28888d5b3ad5",
+            "url": "https://www.last.fm/music/Dark+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "free waterfalls favorite albums",
+          "url": "https://www.last.fm/tag/free+waterfalls+favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:19:53.784Z"
+}

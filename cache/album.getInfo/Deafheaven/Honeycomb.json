@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Honeycomb",
+    "artist": "Deafheaven",
+    "url": "https://www.last.fm/music/Deafheaven/Honeycomb",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac20290e0cf2f358444e3007dcf46d19.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9597",
+    "playcount": "41486",
+    "tracks": {
+      "track": [
+        {
+          "name": "Honeycomb",
+          "url": "https://www.last.fm/music/Deafheaven/_/Honeycomb",
+          "duration": "664",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deafheaven",
+            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+            "url": "https://www.last.fm/music/Deafheaven"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:55:52.945Z"
+}

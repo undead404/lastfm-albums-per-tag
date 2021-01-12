@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Unchained Heathen Wrath",
+    "artist": "Wyrd",
+    "mbid": "e3d4b2a8-f58f-4a92-b005-e84a160fe3d2",
+    "url": "https://www.last.fm/music/Wyrd/Unchained+Heathen+Wrath",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/238c175441bc46f9a68afabd7cdb6d2b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "232",
+    "playcount": "2717",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ravenhill",
+          "url": "https://www.last.fm/music/Wyrd/_/Ravenhill",
+          "duration": "522",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Unchained",
+          "url": "https://www.last.fm/music/Wyrd/_/Unchained",
+          "duration": "236",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Hel",
+          "url": "https://www.last.fm/music/Wyrd/_/Hel",
+          "duration": "262",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Revenge of the Pagan Hordes",
+          "url": "https://www.last.fm/music/Wyrd/_/Revenge+of+the+Pagan+Hordes",
+          "duration": "176",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "The Old Warrior",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Old+Warrior",
+          "duration": "341",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Wotan's Heir",
+          "url": "https://www.last.fm/music/Wyrd/_/Wotan%27s+Heir",
+          "duration": "303",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Wyrd (Outro)",
+          "url": "https://www.last.fm/music/Wyrd/_/Wyrd+(Outro)",
+          "duration": "88",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:41.569Z"
+}

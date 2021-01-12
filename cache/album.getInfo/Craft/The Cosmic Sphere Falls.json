@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Cosmic Sphere Falls",
+    "artist": "Craft",
+    "url": "https://www.last.fm/music/Craft/The+Cosmic+Sphere+Falls",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/259f3990657a7bb9ba16bdd36fc26666.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1424",
+    "playcount": "3601",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Cosmic Sphere Falls",
+          "url": "https://www.last.fm/music/Craft/_/The+Cosmic+Sphere+Falls",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:05.295Z"
+}

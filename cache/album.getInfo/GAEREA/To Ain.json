@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "To Ain",
+    "artist": "GAEREA",
+    "url": "https://www.last.fm/music/GAEREA/To+Ain",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b55cb61b3544921aa917324ebc6e072.png",
+        "size": ""
+      }
+    ],
+    "listeners": "885",
+    "playcount": "2060",
+    "tracks": {
+      "track": [
+        {
+          "name": "To Ain",
+          "url": "https://www.last.fm/music/GAEREA/_/To+Ain",
+          "duration": "675",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:30:00.160Z"
+}

@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Null",
+    "artist": "GAEREA",
+    "url": "https://www.last.fm/music/GAEREA/Null",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c9f5c75ffee34a58882198cbc656b07.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1463",
+    "playcount": "3396",
+    "tracks": {
+      "track": [
+        {
+          "name": "Null",
+          "url": "https://www.last.fm/music/GAEREA/_/Null",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:29:58.864Z"
+}

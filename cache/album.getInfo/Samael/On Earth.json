@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "On Earth",
+    "artist": "Samael",
+    "mbid": "ac2b35d2-6d37-4941-a268-17c1286e2c96",
+    "url": "https://www.last.fm/music/Samael/On+Earth",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01400bd07eb54aeab05d6688864eb738.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01400bd07eb54aeab05d6688864eb738.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01400bd07eb54aeab05d6688864eb738.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01400bd07eb54aeab05d6688864eb738.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01400bd07eb54aeab05d6688864eb738.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01400bd07eb54aeab05d6688864eb738.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2992",
+    "playcount": "29311",
+    "tracks": {
+      "track": [
+        {
+          "name": "On Earth (album version)",
+          "url": "https://www.last.fm/music/Samael/_/On+Earth+(album+version)",
+          "duration": "246",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "I Feel You",
+          "url": "https://www.last.fm/music/Samael/_/I+Feel+You",
+          "duration": "224",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "On Earth (Northern Summer mix)",
+          "url": "https://www.last.fm/music/Samael/_/On+Earth+(Northern+Summer+mix)",
+          "duration": "267",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Auf der Erde",
+          "url": "https://www.last.fm/music/Samael/_/Auf+der+Erde",
+          "duration": "299",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Telepath",
+          "url": "https://www.last.fm/music/Samael/_/Telepath",
+          "duration": "215",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "On Earth (live in Paris)",
+          "url": "https://www.last.fm/music/Samael/_/On+Earth+(live+in+Paris)",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "seen live",
+          "url": "https://www.last.fm/tag/seen+live"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:59:56.799Z"
+}

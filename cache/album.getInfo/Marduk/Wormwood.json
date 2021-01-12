@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Wormwood",
+    "artist": "Marduk",
+    "mbid": "b5b63bac-3c0b-477b-9b95-62397964cc05",
+    "url": "https://www.last.fm/music/Marduk/Wormwood",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25eaf656bc6e42c5c23664e5182b5f5c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "28091",
+    "playcount": "885137",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nowhere, No-one, Nothing",
+          "url": "https://www.last.fm/music/Marduk/_/Nowhere,+No-one,+Nothing",
+          "duration": "199",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Funeral Dawn",
+          "url": "https://www.last.fm/music/Marduk/_/Funeral+Dawn",
+          "duration": "351",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "This Fleshly Void",
+          "url": "https://www.last.fm/music/Marduk/_/This+Fleshly+Void",
+          "duration": "178",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Unclosing the Curse",
+          "url": "https://www.last.fm/music/Marduk/_/Unclosing+the+Curse",
+          "duration": "136",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Into Utter Madness",
+          "url": "https://www.last.fm/music/Marduk/_/Into+Utter+Madness",
+          "duration": "280",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Phosphorous Redeemer",
+          "url": "https://www.last.fm/music/Marduk/_/Phosphorous+Redeemer",
+          "duration": "362",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "To Redirect Perdition",
+          "url": "https://www.last.fm/music/Marduk/_/To+Redirect+Perdition",
+          "duration": "398",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Whorecrown",
+          "url": "https://www.last.fm/music/Marduk/_/Whorecrown",
+          "duration": "327",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Chorus of Cracking Necks",
+          "url": "https://www.last.fm/music/Marduk/_/Chorus+of+Cracking+Necks",
+          "duration": "228",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "As a Garment",
+          "url": "https://www.last.fm/music/Marduk/_/As+a+Garment",
+          "duration": "257",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Nov 2009, 22:13",
+      "summary": "Wormwood is the eleventh studio album by Swedish black metal band Marduk. It was recorded at Endarker Studio by Magnus Devo Andersson and released on September 21st in Europe and October 13th in U.S. by Regain Records.\n\nPersonnel\n\n    * Mortuus – vocals\n    * Morgan Steinmeyer Håkansson – guitar\n    * Magnus \"Devo\" Andersson – bass\n    * Lars Broddesson – drums\n <a href=\"http://www.last.fm/music/Marduk/Wormwood\">Read more on Last.fm</a>.",
+      "content": "Wormwood is the eleventh studio album by Swedish black metal band Marduk. It was recorded at Endarker Studio by Magnus Devo Andersson and released on September 21st in Europe and October 13th in U.S. by Regain Records.\n\nPersonnel\n\n    * Mortuus – vocals\n    * Morgan Steinmeyer Håkansson – guitar\n    * Magnus \"Devo\" Andersson – bass\n    * Lars Broddesson – drums\n <a href=\"http://www.last.fm/music/Marduk/Wormwood\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:52.741Z"
+}

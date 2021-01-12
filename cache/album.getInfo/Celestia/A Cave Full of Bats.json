@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "A Cave Full of Bats",
+    "artist": "Celestia",
+    "mbid": "2fc828f0-75e3-4a1e-ae6c-5e83d3da2edd",
+    "url": "https://www.last.fm/music/Celestia/A+Cave+Full+of+Bats",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fd2d69f7d7184353ad77e64d934518b5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "642",
+    "playcount": "6802",
+    "tracks": {
+      "track": [
+        {
+          "name": "A Dying Out Ecstasy",
+          "url": "https://www.last.fm/music/Celestia/_/A+Dying+Out+Ecstasy",
+          "duration": "346",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "A silent night in a silent castle",
+          "url": "https://www.last.fm/music/Celestia/_/A+silent+night+in+a+silent+castle",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "The Forest Was A Never Ending Place",
+          "url": "https://www.last.fm/music/Celestia/_/The+Forest+Was+A+Never+Ending+Place",
+          "duration": "177",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Prisoner of a morbid cradle",
+          "url": "https://www.last.fm/music/Celestia/_/Prisoner+of+a+morbid+cradle",
+          "duration": "428",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:05:47.298Z"
+}

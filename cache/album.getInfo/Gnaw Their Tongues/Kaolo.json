@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "Kaolo",
+    "artist": "Gnaw Their Tongues",
+    "url": "https://www.last.fm/music/Gnaw+Their+Tongues/Kaolo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58c03f4d49e972efa60f71cee9e3f2a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "183",
+    "playcount": "935",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kaolo",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Kaolo",
+          "duration": "320",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "Kaolo II",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/Kaolo+II",
+          "duration": "614",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        },
+        {
+          "name": "The Heads Of Beasts Needed Sex",
+          "url": "https://www.last.fm/music/Gnaw+Their+Tongues/_/The+Heads+Of+Beasts+Needed+Sex",
+          "duration": "694",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gnaw Their Tongues",
+            "mbid": "02605fbf-04b5-4270-81eb-72c079c4b4c6",
+            "url": "https://www.last.fm/music/Gnaw+Their+Tongues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "death",
+          "url": "https://www.last.fm/tag/death"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:50:59.455Z"
+}

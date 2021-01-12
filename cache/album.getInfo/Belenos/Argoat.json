@@ -1,0 +1,196 @@
+{
+  "album": {
+    "name": "Argoat",
+    "artist": "Belenos",
+    "url": "https://www.last.fm/music/Belenos/Argoat",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5061f2114dbb29ead5b868a36af25aec.png",
+        "size": ""
+      }
+    ],
+    "listeners": "612",
+    "playcount": "9174",
+    "tracks": {
+      "track": [
+        {
+          "name": "Karvden",
+          "url": "https://www.last.fm/music/Belenos/_/Karvden",
+          "duration": "342",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Bleizken",
+          "url": "https://www.last.fm/music/Belenos/_/Bleizken",
+          "duration": "335",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Argoat",
+          "url": "https://www.last.fm/music/Belenos/_/Argoat",
+          "duration": "309",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Nozweler",
+          "url": "https://www.last.fm/music/Belenos/_/Nozweler",
+          "duration": "372",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Huelgoat",
+          "url": "https://www.last.fm/music/Belenos/_/Huelgoat",
+          "duration": "420",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Dishualder",
+          "url": "https://www.last.fm/music/Belenos/_/Dishualder",
+          "duration": "400",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Duadenn",
+          "url": "https://www.last.fm/music/Belenos/_/Duadenn",
+          "duration": "406",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Steuziadur",
+          "url": "https://www.last.fm/music/Belenos/_/Steuziadur",
+          "duration": "440",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Arvestal",
+          "url": "https://www.last.fm/music/Belenos/_/Arvestal",
+          "duration": "156",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:32:38.482Z"
+}

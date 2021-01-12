@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Gallow Hill",
+    "artist": "Abigail Williams",
+    "mbid": "7ed00a70-aa1f-462d-81f0-91e4fbca782c",
+    "url": "https://www.last.fm/music/Abigail+Williams/Gallow+Hill",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1ae77d6994546b7c602e85fc50ee93e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3930",
+    "playcount": "58181",
+    "tracks": {
+      "track": [
+        {
+          "name": "forced ingestion of binding chemicals",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/forced+ingestion+of+binding+chemicals",
+          "duration": "289",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "melquiades",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/melquiades",
+          "duration": "270",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "A Perfect Knot",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/A+Perfect+Knot",
+          "duration": "216",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Swollen Disgust",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Swollen+Disgust",
+          "duration": "236",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "evolution of the elohim",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/evolution+of+the+elohim",
+          "duration": "285",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Watchtower",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Watchtower",
+          "duration": "339",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metalcore",
+          "url": "https://www.last.fm/tag/metalcore"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        },
+        {
+          "name": "blackcore",
+          "url": "https://www.last.fm/tag/blackcore"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:38:03.167Z"
+}

@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "The Seal of Belial",
+    "artist": "Lord Belial",
+    "mbid": "c957b354-cc68-4e75-85dd-7d0adf32eb58",
+    "url": "https://www.last.fm/music/Lord+Belial/The+Seal+of+Belial",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8cfba78a917ccfaa5dbc6cee8d5cf5b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8154",
+    "playcount": "131790",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prolusio: Acies Sigillum",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Prolusio:+Acies+Sigillum",
+          "duration": "198",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Sons of Belial",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Sons+of+Belial",
+          "duration": "390",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Chariot of Fire",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Chariot+of+Fire",
+          "duration": "312",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Abysmal Hate",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Abysmal+Hate",
+          "duration": "398",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Legio Inferi",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Legio+Inferi",
+          "duration": "350",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Mark of the Beast",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Mark+of+the+Beast",
+          "duration": "396",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Armageddon Revelation",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Armageddon+Revelation",
+          "duration": "371",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        },
+        {
+          "name": "Scythe of Death",
+          "url": "https://www.last.fm/music/Lord+Belial/_/Scythe+of+Death",
+          "duration": "295",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lord Belial",
+            "mbid": "fd259410-b408-4ba4-9e75-977dd3cb10df",
+            "url": "https://www.last.fm/music/Lord+Belial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2004",
+          "url": "https://www.last.fm/tag/2004"
+        },
+        {
+          "name": "Best of 2004",
+          "url": "https://www.last.fm/tag/Best+of+2004"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:59:34.111Z"
+}

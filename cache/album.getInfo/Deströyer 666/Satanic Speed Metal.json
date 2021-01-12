@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Satanic Speed Metal",
+    "artist": "Deströyer 666",
+    "mbid": "7d62bafb-9a0b-444f-9e21-e5cfaf92d368",
+    "url": "https://www.last.fm/music/Destr%C3%B6yer+666/Satanic+Speed+Metal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b390d5aeb1546bf520e31fafdbcd18e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2401",
+    "playcount": "17801",
+    "tracks": {
+      "track": [
+        {
+          "name": "Satanic Speed Metal",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Satanic+Speed+Metal",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "The Siren's Call",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/The+Siren%27s+Call",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:48.112Z"
+}

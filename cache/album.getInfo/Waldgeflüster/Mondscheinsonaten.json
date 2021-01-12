@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Mondscheinsonaten",
+    "artist": "Waldgeflüster",
+    "url": "https://www.last.fm/music/Waldgefl%C3%BCster/Mondscheinsonaten",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87de8d245ae1637f303042df4674a973.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87de8d245ae1637f303042df4674a973.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87de8d245ae1637f303042df4674a973.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de8d245ae1637f303042df4674a973.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de8d245ae1637f303042df4674a973.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87de8d245ae1637f303042df4674a973.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1714",
+    "playcount": "17007",
+    "tracks": {
+      "track": [
+        {
+          "name": "Einleitung",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Einleitung",
+          "duration": "189",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Der Steppenwolf",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Der+Steppenwolf",
+          "duration": "471",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Gipfelstürmer",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Gipfelst%C3%BCrmer",
+          "duration": "741",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Rotgoldene Novemberwälder",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Rotgoldene+Novemberw%C3%A4lder",
+          "duration": "388",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Und der Wind...",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Und+der+Wind...",
+          "duration": "652",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Von Winterwäldern und Mondscheinsonaten",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Von+Winterw%C3%A4ldern+und+Mondscheinsonaten",
+          "duration": "591",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        },
+        {
+          "name": "Staub in der Lunge",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Staub+in+der+Lunge",
+          "duration": "348",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:14:32.254Z"
+}

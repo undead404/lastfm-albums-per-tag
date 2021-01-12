@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "split w/ AST",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/split+w%2F+AST",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2339bae8b5264e2ece4dc56cadb65481.png",
+        "size": ""
+      }
+    ],
+    "listeners": "329",
+    "playcount": "2883",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blame Chord",
+          "url": "https://www.last.fm/music/Ancst/_/Blame+Chord",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Spark",
+          "url": "https://www.last.fm/music/Ancst/_/Spark",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Seizures",
+          "url": "https://www.last.fm/music/Ancst/_/Seizures",
+          "duration": "335",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Elegy of Self-Deceit",
+          "url": "https://www.last.fm/music/Ancst/_/Elegy+of+Self-Deceit",
+          "duration": "260",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:58:58.402Z"
+}

@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Megiddo",
+    "artist": "Satyricon",
+    "mbid": "b084ac36-64f7-4b4b-951c-6bf22dc67670",
+    "url": "https://www.last.fm/music/Satyricon/Megiddo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b526f35e1be42c1c20f3908f2cf26c7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11805",
+    "playcount": "81831",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Dawn of a New Age",
+          "url": "https://www.last.fm/music/Satyricon/_/The+Dawn+of+a+New+Age",
+          "duration": "447",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Night of Divine Power",
+          "url": "https://www.last.fm/music/Satyricon/_/Night+of+Divine+Power",
+          "duration": "349",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Forhekset",
+          "url": "https://www.last.fm/music/Satyricon/_/Forhekset",
+          "duration": "271",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Orgasmatron",
+          "url": "https://www.last.fm/music/Satyricon/_/Orgasmatron",
+          "duration": "298",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Gods of Metal",
+          "url": "https://www.last.fm/tag/Gods+of+Metal"
+        },
+        {
+          "name": "irack",
+          "url": "https://www.last.fm/tag/irack"
+        },
+        {
+          "name": "my little kvlts",
+          "url": "https://www.last.fm/tag/my+little+kvlts"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:34.944Z"
+}

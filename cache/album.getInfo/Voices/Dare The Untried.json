@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Dare The Untried",
+    "artist": "Voices",
+    "url": "https://www.last.fm/music/Voices/Dare+The+Untried",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94d5bb32f3e92c7311acaafea58e6a41.png",
+        "size": ""
+      }
+    ],
+    "listeners": "51",
+    "playcount": "85",
+    "tracks": {
+      "track": [
+        {
+          "name": "Circling On",
+          "url": "https://www.last.fm/music/Voices/_/Circling+On",
+          "duration": "251",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Living In A War Zone",
+          "url": "https://www.last.fm/music/Voices/_/Living+In+A+War+Zone",
+          "duration": "316",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Doing Time",
+          "url": "https://www.last.fm/music/Voices/_/Doing+Time",
+          "duration": "227",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Changed",
+          "url": "https://www.last.fm/music/Voices/_/Changed",
+          "duration": "224",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Eyes Wide Open",
+          "url": "https://www.last.fm/music/Voices/_/Eyes+Wide+Open",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Peace In My Soul",
+          "url": "https://www.last.fm/music/Voices/_/Peace+In+My+Soul",
+          "duration": "143",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Simply Everything",
+          "url": "https://www.last.fm/music/Voices/_/Simply+Everything",
+          "duration": "208",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "A Little More Time",
+          "url": "https://www.last.fm/music/Voices/_/A+Little+More+Time",
+          "duration": "169",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Island Of Fear",
+          "url": "https://www.last.fm/music/Voices/_/Island+Of+Fear",
+          "duration": "245",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "About The Boys",
+          "url": "https://www.last.fm/music/Voices/_/About+The+Boys",
+          "duration": "247",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "The One I See",
+          "url": "https://www.last.fm/music/Voices/_/The+One+I+See",
+          "duration": "215",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Don't Fade Away",
+          "url": "https://www.last.fm/music/Voices/_/Don%27t+Fade+Away",
+          "duration": "235",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:54:36.147Z"
+}

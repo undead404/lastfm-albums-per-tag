@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "A New Dimension",
+    "artist": "Darkthrone",
+    "mbid": "ce48f620-1792-4b81-b450-55fc3c8ae19a",
+    "url": "https://www.last.fm/music/Darkthrone/A+New+Dimension",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19d8a33f74cf4c159170415926a9d879.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19d8a33f74cf4c159170415926a9d879.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19d8a33f74cf4c159170415926a9d879.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19d8a33f74cf4c159170415926a9d879.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19d8a33f74cf4c159170415926a9d879.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19d8a33f74cf4c159170415926a9d879.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4710",
+    "playcount": "23814",
+    "tracks": {
+      "track": [
+        {
+          "name": "Twilight Dimension",
+          "url": "https://www.last.fm/music/Darkthrone/_/Twilight+Dimension",
+          "duration": "43",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Snowfall",
+          "url": "https://www.last.fm/music/Darkthrone/_/Snowfall",
+          "duration": "544",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:51:42.408Z"
+}

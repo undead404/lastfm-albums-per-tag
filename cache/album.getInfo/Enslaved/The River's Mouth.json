@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The River's Mouth",
+    "artist": "Enslaved",
+    "url": "https://www.last.fm/music/Enslaved/The+River%27s+Mouth",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "1555",
+    "playcount": "3115",
+    "tracks": {
+      "track": [
+        {
+          "name": "The River's Mouth",
+          "url": "https://www.last.fm/music/Enslaved/_/The+River%27s+Mouth",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:56:40.315Z"
+}

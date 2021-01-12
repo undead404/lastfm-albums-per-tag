@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Northlanders",
+    "artist": "Dragonlord",
+    "url": "https://www.last.fm/music/Dragonlord/Northlanders",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27fac4a7421bdb2c1ea11b4233473ce3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1181",
+    "playcount": "2181",
+    "tracks": {
+      "track": [
+        {
+          "name": "Northlanders",
+          "url": "https://www.last.fm/music/Dragonlord/_/Northlanders",
+          "duration": "405",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dragonlord",
+            "mbid": "fa0e7255-84e1-44a4-9406-3f0a611dbcb9",
+            "url": "https://www.last.fm/music/Dragonlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:07:20.381Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Apophatic Weaponry",
+    "artist": "Merrimack",
+    "url": "https://www.last.fm/music/Merrimack/Apophatic+Weaponry",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d1eb3b708d0eb6124c308a6a206419f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "872",
+    "playcount": "1568",
+    "tracks": {
+      "track": [
+        {
+          "name": "Apophatic Weaponry",
+          "url": "https://www.last.fm/music/Merrimack/_/Apophatic+Weaponry",
+          "duration": "384",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:49:38.896Z"
+}

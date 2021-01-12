@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Elder Mother",
+    "artist": "Winterfylleth",
+    "url": "https://www.last.fm/music/Winterfylleth/Elder+Mother",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdf9a6fbdc7ec85aa021b9ec637ef9e9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "827",
+    "playcount": "1807",
+    "tracks": {
+      "track": [
+        {
+          "name": "Elder Mother",
+          "url": "https://www.last.fm/music/Winterfylleth/_/Elder+Mother",
+          "duration": "313",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Winterfylleth",
+            "mbid": "59c00a37-e7e7-4375-9324-61214a7bdba5",
+            "url": "https://www.last.fm/music/Winterfylleth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:37.608Z"
+}

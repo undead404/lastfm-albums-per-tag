@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "A Darkened Winter",
+    "artist": "Xasthur",
+    "mbid": "1966cf5c-dee7-4642-a9a0-4f0e77c3f6ed",
+    "url": "https://www.last.fm/music/Xasthur/A+Darkened+Winter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f109025b93d04652a87ce77e4dc98611.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f109025b93d04652a87ce77e4dc98611.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f109025b93d04652a87ce77e4dc98611.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f109025b93d04652a87ce77e4dc98611.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f109025b93d04652a87ce77e4dc98611.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f109025b93d04652a87ce77e4dc98611.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1760",
+    "playcount": "12393",
+    "tracks": {
+      "track": [
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Xasthur/_/%5Buntitled%5D",
+          "duration": "227",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        },
+        {
+          "name": "Doomed By the Howling Winds",
+          "url": "https://www.last.fm/music/Xasthur/_/Doomed+By+the+Howling+Winds",
+          "duration": "630",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        },
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Xasthur/_/%5Buntitled%5D",
+          "duration": "227",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:15:52.705Z"
+}

@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Vargtimmen, Part 1: The Inmost Night",
+    "artist": "Wyrd",
+    "mbid": "1371a5f6-922b-49e9-bd5c-373445a95fe4",
+    "url": "https://www.last.fm/music/Wyrd/Vargtimmen,+Part+1:+The+Inmost+Night",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b316277ad1264ab1cab7fb615e8f3547.png",
+        "size": ""
+      }
+    ],
+    "listeners": "67",
+    "playcount": "403",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Lonely Sea",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Lonely+Sea",
+          "duration": "761",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Autumn",
+          "url": "https://www.last.fm/music/Wyrd/_/Autumn",
+          "duration": "319",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Vargtimmen",
+          "url": "https://www.last.fm/music/Wyrd/_/Vargtimmen",
+          "duration": "491",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Sad Song of the Woods",
+          "url": "https://www.last.fm/music/Wyrd/_/Sad+Song+of+the+Woods",
+          "duration": "1049",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Wyrd/_/Outro",
+          "duration": "294",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:51.675Z"
+}

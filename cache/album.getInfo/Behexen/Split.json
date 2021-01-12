@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Split",
+    "artist": "Behexen",
+    "url": "https://www.last.fm/music/Behexen/Split",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a397c5f51f9148dda8ccde550011d070.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a397c5f51f9148dda8ccde550011d070.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a397c5f51f9148dda8ccde550011d070.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a397c5f51f9148dda8ccde550011d070.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a397c5f51f9148dda8ccde550011d070.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a397c5f51f9148dda8ccde550011d070.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1091",
+    "playcount": "7534",
+    "tracks": {
+      "track": [
+        {
+          "name": "Näkyjen Tuhkasta",
+          "url": "https://www.last.fm/music/Behexen/_/N%C3%A4kyjen+Tuhkasta",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "rautamyrsky",
+          "url": "https://www.last.fm/music/Behexen/_/rautamyrsky",
+          "duration": "260",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Kätketyn jumaluuden vartija",
+          "url": "https://www.last.fm/music/Behexen/_/K%C3%A4tketyn+jumaluuden+vartija",
+          "duration": "313",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Verta Koirille",
+          "url": "https://www.last.fm/music/Behexen/_/Verta+Koirille",
+          "duration": "226",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Ritual of flesh & blood",
+          "url": "https://www.last.fm/music/Behexen/_/Ritual+of+flesh+&+blood",
+          "duration": "421",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "beyond the shadow of my lord",
+          "url": "https://www.last.fm/music/Behexen/_/beyond+the+shadow+of+my+lord",
+          "duration": "390",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "A Distant Call From Darkness",
+          "url": "https://www.last.fm/music/Behexen/_/A+Distant+Call+From+Darkness",
+          "duration": "496",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:30:01.605Z"
+}

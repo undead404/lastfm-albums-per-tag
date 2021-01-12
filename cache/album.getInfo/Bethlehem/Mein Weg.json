@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Mein Weg",
+    "artist": "Bethlehem",
+    "mbid": "b7601247-c286-4603-be40-c7b3d02403a0",
+    "url": "https://www.last.fm/music/Bethlehem/Mein+Weg",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20ae0a807511467eb5ef9cccb21f2de9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6737",
+    "playcount": "162152",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aalmutter",
+          "url": "https://www.last.fm/music/Bethlehem/_/Aalmutter",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Allegoria",
+          "url": "https://www.last.fm/music/Bethlehem/_/Allegoria",
+          "duration": "357",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Knochenkorn",
+          "url": "https://www.last.fm/music/Bethlehem/_/Knochenkorn",
+          "duration": "247",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Frl. Deutsch",
+          "url": "https://www.last.fm/music/Bethlehem/_/Frl.+Deutsch",
+          "duration": "523",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Felbel Fittich",
+          "url": "https://www.last.fm/music/Bethlehem/_/Felbel+Fittich",
+          "duration": "221",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Dr. Miezo",
+          "url": "https://www.last.fm/music/Bethlehem/_/Dr.+Miezo",
+          "duration": "368",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Elf Soffitten",
+          "url": "https://www.last.fm/music/Bethlehem/_/Elf+Soffitten",
+          "duration": "259",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Einsargen",
+          "url": "https://www.last.fm/music/Bethlehem/_/Einsargen",
+          "duration": "388",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Im Sog",
+          "url": "https://www.last.fm/music/Bethlehem/_/Im+Sog",
+          "duration": "134",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Maschinensatan / My Way",
+          "url": "https://www.last.fm/music/Bethlehem/_/Maschinensatan+%2F+My+Way",
+          "duration": "1608",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2004",
+          "url": "https://www.last.fm/tag/2004"
+        },
+        {
+          "name": "Gothic Metal",
+          "url": "https://www.last.fm/tag/Gothic+Metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "German metal",
+          "url": "https://www.last.fm/tag/German+metal"
+        },
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:05.200Z"
+}

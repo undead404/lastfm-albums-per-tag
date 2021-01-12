@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Agonie",
+    "artist": "Der Weg einer Freiheit",
+    "mbid": "ba1c0b5d-3d14-498a-86d3-6d83ed65b0c7",
+    "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/Agonie",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/556636f14b2b4752b57370e8040331ea.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/556636f14b2b4752b57370e8040331ea.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/556636f14b2b4752b57370e8040331ea.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/556636f14b2b4752b57370e8040331ea.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/556636f14b2b4752b57370e8040331ea.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/556636f14b2b4752b57370e8040331ea.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4392",
+    "playcount": "109655",
+    "tracks": {
+      "track": [
+        {
+          "name": "Der Stille Fluss",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Der+Stille+Fluss",
+          "duration": "458",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Ingrimm",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Ingrimm",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Ana",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Ana",
+          "duration": "68",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Die Welt In Mir",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Die+Welt+In+Mir",
+          "duration": "229",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Posthum",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Posthum",
+          "duration": "461",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2011",
+          "url": "https://www.last.fm/tag/best+of+2011"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "owned",
+          "url": "https://www.last.fm/tag/owned"
+        },
+        {
+          "name": "best albums 2011",
+          "url": "https://www.last.fm/tag/best+albums+2011"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:59:07.740Z"
+}

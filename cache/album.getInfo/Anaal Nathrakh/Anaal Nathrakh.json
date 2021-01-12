@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Anaal Nathrakh",
+    "artist": "Anaal Nathrakh",
+    "mbid": "17158147-3211-4582-bca7-3fd4fa020b81",
+    "url": "https://www.last.fm/music/Anaal+Nathrakh/Anaal+Nathrakh",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4257d7c82614bce832abfe121ededa9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4257d7c82614bce832abfe121ededa9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4257d7c82614bce832abfe121ededa9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4257d7c82614bce832abfe121ededa9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4257d7c82614bce832abfe121ededa9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4257d7c82614bce832abfe121ededa9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1925",
+    "playcount": "16257",
+    "tracks": {
+      "track": [
+        {
+          "name": "Anaal Nathrakh",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Anaal+Nathrakh",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Necrodeath",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Necrodeath",
+          "duration": "264",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Ice Blasting Storm Winds",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Ice+Blasting+Storm+Winds",
+          "duration": "352",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        },
+        {
+          "name": "Carnage",
+          "url": "https://www.last.fm/music/Anaal+Nathrakh/_/Carnage",
+          "duration": "221",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Anaal Nathrakh",
+            "mbid": "9bf82496-9d7b-43ac-b3ee-076c90ada9d7",
+            "url": "https://www.last.fm/music/Anaal+Nathrakh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "grindcore",
+          "url": "https://www.last.fm/tag/grindcore"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:55:33.418Z"
+}

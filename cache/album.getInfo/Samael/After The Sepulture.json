@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "After The Sepulture",
+    "artist": "Samael",
+    "mbid": "9fa6fa28-3fa2-4355-9b1e-693c4f427cfc",
+    "url": "https://www.last.fm/music/Samael/After+The+Sepulture",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74b52606a0ff4f83b19062b048382428.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74b52606a0ff4f83b19062b048382428.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74b52606a0ff4f83b19062b048382428.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b52606a0ff4f83b19062b048382428.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b52606a0ff4f83b19062b048382428.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74b52606a0ff4f83b19062b048382428.png",
+        "size": ""
+      }
+    ],
+    "listeners": "392",
+    "playcount": "1710",
+    "tracks": {
+      "track": [
+        {
+          "name": "After the Sepulture (New Version)",
+          "url": "https://www.last.fm/music/Samael/_/After+the+Sepulture+(New+Version)",
+          "duration": "213",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Manitou",
+          "url": "https://www.last.fm/music/Samael/_/Manitou",
+          "duration": "194",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:15.689Z"
+}

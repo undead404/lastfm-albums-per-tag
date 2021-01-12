@@ -1,0 +1,355 @@
+{
+  "album": {
+    "name": "Prism: Archive 2002-2004",
+    "artist": "Kriegsmaschine",
+    "mbid": "fb189ac4-b0b5-426c-8869-f2db50f3b6f0",
+    "url": "https://www.last.fm/music/Kriegsmaschine/Prism:+Archive+2002-2004",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9f8c2cf1b29385f8cbce3bb102f5d8c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "416",
+    "playcount": "15421",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prism",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Prism",
+          "duration": "263",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Ma'aseh Bereshit",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Ma%27aseh+Bereshit",
+          "duration": "287",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "A Thousand Voices",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/A+Thousand+Voices",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Unto Wormfeast Flesh",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Unto+Wormfeast+Flesh",
+          "duration": "391",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Apostle of Plague",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Apostle+of+Plague",
+          "duration": "250",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Bloodfetish",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Bloodfetish",
+          "duration": "191",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Hands of the Plague Master",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Hands+of+the+Plague+Master",
+          "duration": "336",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "B.T.S.",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/B.T.S.",
+          "duration": "156",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "devotee (son of the god supreme)",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/devotee+(son+of+the+god+supreme)",
+          "duration": "380",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "In Hate Of Christ",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/In+Hate+Of+Christ",
+          "duration": "120",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "The Flame That Burns Inside",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/The+Flame+That+Burns+Inside",
+          "duration": "237",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Stigma",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Stigma",
+          "duration": "245",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Flagrum",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Flagrum",
+          "duration": "240",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Deathcult supreme",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Deathcult+supreme",
+          "duration": "184",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Nuclear",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Nuclear",
+          "duration": "236",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "goathammer sorcery",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/goathammer+sorcery",
+          "duration": "188",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Uberhate",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Uberhate",
+          "duration": "163",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Last Dusk of a Dying World",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Last+Dusk+of+a+Dying+World",
+          "duration": "383",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:22:06.633Z"
+}

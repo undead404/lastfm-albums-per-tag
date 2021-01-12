@@ -1,0 +1,384 @@
+{
+  "album": {
+    "name": "Call Me Evil",
+    "artist": "Evil",
+    "mbid": "0c708778-0c32-4b9d-b4f4-47ac7da63d23",
+    "url": "https://www.last.fm/music/Evil/Call+Me+Evil",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c9b817911b94bf79af3b482cd6af277.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1395",
+    "playcount": "10874",
+    "tracks": {
+      "track": [
+        {
+          "name": "Call Me Evil",
+          "url": "https://www.last.fm/music/Evil/_/Call+Me+Evil",
+          "duration": "35",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Stuck Up",
+          "url": "https://www.last.fm/music/Evil/_/Stuck+Up",
+          "duration": "134",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Liquor Store",
+          "url": "https://www.last.fm/music/Evil/_/Liquor+Store",
+          "duration": "180",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Told You So",
+          "url": "https://www.last.fm/music/Evil/_/Told+You+So",
+          "duration": "163",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Ha Ha Ha",
+          "url": "https://www.last.fm/music/Evil/_/Ha+Ha+Ha",
+          "duration": "196",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "She Made Me",
+          "url": "https://www.last.fm/music/Evil/_/She+Made+Me",
+          "duration": "231",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Cops R Coming",
+          "url": "https://www.last.fm/music/Evil/_/Cops+R+Coming",
+          "duration": "206",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Trust Me",
+          "url": "https://www.last.fm/music/Evil/_/Trust+Me",
+          "duration": "186",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Rush You",
+          "url": "https://www.last.fm/music/Evil/_/Rush+You",
+          "duration": "287",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "I'm Leaving",
+          "url": "https://www.last.fm/music/Evil/_/I%27m+Leaving",
+          "duration": "269",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "They Come Around",
+          "url": "https://www.last.fm/music/Evil/_/They+Come+Around",
+          "duration": "208",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Song in Head",
+          "url": "https://www.last.fm/music/Evil/_/Song+in+Head",
+          "duration": "217",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Get Ill",
+          "url": "https://www.last.fm/music/Evil/_/Get+Ill",
+          "duration": "244",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Follow Me To Die",
+          "url": "https://www.last.fm/music/Evil/_/Follow+Me+To+Die",
+          "duration": "205",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Too Many Times",
+          "url": "https://www.last.fm/music/Evil/_/Too+Many+Times",
+          "duration": "148",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Pressure",
+          "url": "https://www.last.fm/music/Evil/_/Pressure",
+          "duration": "225",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Because",
+          "url": "https://www.last.fm/music/Evil/_/Because",
+          "duration": "208",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "I'm Leaving (Remix)",
+          "url": "https://www.last.fm/music/Evil/_/I%27m+Leaving+(Remix)",
+          "duration": "285",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Evil/_/Outro",
+          "duration": "237",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "[untitled]",
+          "url": "https://www.last.fm/music/Evil/_/%5Buntitled%5D",
+          "duration": "370",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:49:41.722Z"
+}

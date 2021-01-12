@@ -1,0 +1,359 @@
+{
+  "album": {
+    "name": "Lost Masters Of The Universe",
+    "artist": "Mysticum",
+    "mbid": "e3645090-c6e7-43e5-ac69-b86b076b1879",
+    "url": "https://www.last.fm/music/Mysticum/Lost+Masters+Of+The+Universe",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6c9645f8a04a44a3a0ff2b061ef7c9d5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2325",
+    "playcount": "56161",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Mysticum/_/Intro",
+          "duration": "79",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "The Rest",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Rest",
+          "duration": "263",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Wintermass",
+          "url": "https://www.last.fm/music/Mysticum/_/Wintermass",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Mourning",
+          "url": "https://www.last.fm/music/Mysticum/_/Mourning",
+          "duration": "259",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Father Beyond",
+          "url": "https://www.last.fm/music/Mysticum/_/Father+Beyond",
+          "duration": "251",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Forces of Darkness",
+          "url": "https://www.last.fm/music/Mysticum/_/Forces+of+Darkness",
+          "duration": "250",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Mysticum/_/Outro",
+          "duration": "59",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Demons Never Sleep",
+          "url": "https://www.last.fm/music/Mysticum/_/Demons+Never+Sleep",
+          "duration": "304",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Into my crypt of fear",
+          "url": "https://www.last.fm/music/Mysticum/_/Into+my+crypt+of+fear",
+          "duration": "275",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "The Shattered Soul",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Shattered+Soul",
+          "duration": "347",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "The Groove Of Petrified Souls",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Groove+Of+Petrified+Souls",
+          "duration": "223",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Mourning",
+          "url": "https://www.last.fm/music/Mysticum/_/Mourning",
+          "duration": "259",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "The Rest",
+          "url": "https://www.last.fm/music/Mysticum/_/The+Rest",
+          "duration": "263",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Where the Raven Flies",
+          "url": "https://www.last.fm/music/Mysticum/_/Where+the+Raven+Flies",
+          "duration": "254",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Wintermass",
+          "url": "https://www.last.fm/music/Mysticum/_/Wintermass",
+          "duration": "353",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "Kingdom Comes",
+          "url": "https://www.last.fm/music/Mysticum/_/Kingdom+Comes",
+          "duration": "299",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        },
+        {
+          "name": "In Your Grave",
+          "url": "https://www.last.fm/music/Mysticum/_/In+Your+Grave",
+          "duration": "224",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mysticum",
+            "mbid": "9c8b44a8-cb52-4ab1-8092-d0a619eb2e3f",
+            "url": "https://www.last.fm/music/Mysticum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "10 May 2016, 13:41",
+      "summary": "ape version released in 2005 by Night Birds Records / Black Plague Records.\n\nTracks 1-7 taken from the \"Wintermass\" demo.\nTracks 8-11 taken from the \"Medusa's Tears\" demo.\nTrack 12 taken from the Mysticum / Ulver split.\nTrack 13 taken from the \"Piss Off\" promo.\nTrack 14 taken from \"Nordic Metal - A Tribute to Euronymous\".\nTrack 15 taken from \"A Tribute to Hell - Satanic Rites\".\nTrack 16 taken from the Audiopain / Mysticum split.\n\nTrivia:\nThe title <a href=\"http://www.last.fm/music/Mysticum/Lost+Masters+Of+The+Universe\">Read more on Last.fm</a>.",
+      "content": "ape version released in 2005 by Night Birds Records / Black Plague Records.\n\nTracks 1-7 taken from the \"Wintermass\" demo.\nTracks 8-11 taken from the \"Medusa's Tears\" demo.\nTrack 12 taken from the Mysticum / Ulver split.\nTrack 13 taken from the \"Piss Off\" promo.\nTrack 14 taken from \"Nordic Metal - A Tribute to Euronymous\".\nTrack 15 taken from \"A Tribute to Hell - Satanic Rites\".\nTrack 16 taken from the Audiopain / Mysticum split.\n\nTrivia:\nThe title of this release is an ironic codification of the fact that all master tapes of the here represented songs are lost.\n\nRe-released in 2013 by Peaceville on CD and DLP with an alternate tracklist. The first 12 tracks are the same as on the original version, while tracks 13-17 are taken from the \"Piss Off!!!\" Promo:\n13. The Rest\n14. Where the Raven Flies\n15. Wintermass\n16. Kingdom Comes\n17. In Your Grave <a href=\"http://www.last.fm/music/Mysticum/Lost+Masters+Of+The+Universe\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:29:47.585Z"
+}

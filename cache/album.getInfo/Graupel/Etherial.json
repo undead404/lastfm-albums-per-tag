@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Etherial",
+    "artist": "Graupel",
+    "url": "https://www.last.fm/music/Graupel/Etherial",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b307a5a2313f7f8b6a61fc4abab0765.png",
+        "size": ""
+      }
+    ],
+    "listeners": "189",
+    "playcount": "1560",
+    "tracks": {
+      "track": [
+        {
+          "name": "Etherial",
+          "url": "https://www.last.fm/music/Graupel/_/Etherial",
+          "duration": "184",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graupel",
+            "mbid": "327f7549-f14d-4376-b96c-cc2571205a71",
+            "url": "https://www.last.fm/music/Graupel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:11.070Z"
+}

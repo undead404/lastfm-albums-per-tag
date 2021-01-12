@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Hear The Slow Slow Shadow",
+    "artist": "A Pregnant Light",
+    "url": "https://www.last.fm/music/A+Pregnant+Light/Hear+The+Slow+Slow+Shadow",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/002af7d5d85947c1b6316b89202ac90e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "78",
+    "playcount": "1075",
+    "tracks": {
+      "track": [
+        {
+          "name": "King Cobra French Kiss",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/King+Cobra+French+Kiss",
+          "duration": "60",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Down Sanity",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Down+Sanity",
+          "duration": "74",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Women of Glass",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Women+of+Glass",
+          "duration": "107",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Suspicious",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Suspicious",
+          "duration": "86",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "March Me On A Highway",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/March+Me+On+A+Highway",
+          "duration": "258",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:50:26.027Z"
+}

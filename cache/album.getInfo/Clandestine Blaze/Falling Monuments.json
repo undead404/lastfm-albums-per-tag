@@ -1,0 +1,202 @@
+{
+  "album": {
+    "name": "Falling Monuments",
+    "artist": "Clandestine Blaze",
+    "mbid": "a763348f-e3da-49d2-bc12-0b2c5cfcb509",
+    "url": "https://www.last.fm/music/Clandestine+Blaze/Falling+Monuments",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cec243baa484496c47bf3bacc739854.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cec243baa484496c47bf3bacc739854.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cec243baa484496c47bf3bacc739854.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cec243baa484496c47bf3bacc739854.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cec243baa484496c47bf3bacc739854.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cec243baa484496c47bf3bacc739854.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2392",
+    "playcount": "64855",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unfolding Madness",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Unfolding+Madness",
+          "duration": "360",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Possession of Nordic Blood",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Possession+of+Nordic+Blood",
+          "duration": "230",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Call of the Warrior",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Call+of+the+Warrior",
+          "duration": "345",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Melancholy of the Falling Monuments",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Melancholy+of+the+Falling+Monuments",
+          "duration": "327",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Bloodsoil",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Bloodsoil",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Horizon of Ego Annihilation",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Horizon+of+Ego+Annihilation",
+          "duration": "176",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Endurance of Supremacist Ritual",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Endurance+of+Supremacist+Ritual",
+          "duration": "280",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Discordant Howls of Tormented",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Discordant+Howls+of+Tormented",
+          "duration": "540",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Jan 2011, 02:55",
+      "summary": "\n <a href=\"http://www.last.fm/music/Clandestine+Blaze/Falling+Monuments\">Read more on Last.fm</a>.",
+      "content": "\n <a href=\"http://www.last.fm/music/Clandestine+Blaze/Falling+Monuments\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:37:54.505Z"
+}

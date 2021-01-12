@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Vanitas",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/Vanitas",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/00862d565de54db6acd2ff7e876be453.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/00862d565de54db6acd2ff7e876be453.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/00862d565de54db6acd2ff7e876be453.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00862d565de54db6acd2ff7e876be453.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00862d565de54db6acd2ff7e876be453.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00862d565de54db6acd2ff7e876be453.png",
+        "size": ""
+      }
+    ],
+    "listeners": "117",
+    "playcount": "2200",
+    "tracks": {
+      "track": [
+        {
+          "name": "Idolize Me",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Idolize+Me",
+          "duration": "318",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Caller of the Moon",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Caller+of+the+Moon",
+          "duration": "126",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Vanitas",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Vanitas",
+          "duration": "433",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "My Life for Yours",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/My+Life+for+Yours",
+          "duration": "355",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Sadomatic Rites",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Sadomatic+Rites",
+          "duration": "253",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "My Life for Yours",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/My+Life+for+Yours",
+          "duration": "355",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Vanitas",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Vanitas",
+          "duration": "433",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Sailà",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Sail%C3%A0",
+          "duration": "228",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Sadomatic Rites",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Sadomatic+Rites",
+          "duration": "253",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Caller of the Moon",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Caller+of+the+Moon",
+          "duration": "126",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Screams of Anguish",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Screams+of+Anguish",
+          "duration": "255",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Atomic Nuclear Desolation",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Atomic+Nuclear+Desolation",
+          "duration": "55",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:43.423Z"
+}

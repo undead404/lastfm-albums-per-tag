@@ -1,0 +1,143 @@
+{
+  "album": {
+    "name": "Goat Perversion",
+    "artist": "Impaled Nazarene",
+    "mbid": "44ca3751-65af-4e55-928f-6e6548f90434",
+    "url": "https://www.last.fm/music/Impaled+Nazarene/Goat+Perversion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e0b2f7d4ab74648867adcf63b1db6d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "388",
+    "playcount": "2360",
+    "tracks": {
+      "track": [
+        {
+          "name": "Noisrevrep Taog",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Noisrevrep+Taog",
+          "duration": "180",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "In The Name Of Satan",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/In+The+Name+Of+Satan",
+          "duration": "44",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Noisrevrep Eht Retfa",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Noisrevrep+Eht+Retfa",
+          "duration": "30",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Damnation (Raping the Angels)",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Damnation+(Raping+the+Angels)",
+          "duration": "260",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "The Black Vomit",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/The+Black+Vomit",
+          "duration": "125",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:13:36.801Z"
+}

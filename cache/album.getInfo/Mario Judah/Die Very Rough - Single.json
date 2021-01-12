@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Die Very Rough - Single",
+    "artist": "Mario Judah",
+    "url": "https://www.last.fm/music/Mario+Judah/Die+Very+Rough+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e543e32ef8dcec8b9eec22f8289e9655.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1052",
+    "playcount": "5792",
+    "tracks": {
+      "track": [
+        {
+          "name": "Die Very Rough",
+          "url": "https://www.last.fm/music/Mario+Judah/_/Die+Very+Rough",
+          "duration": "102",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mario Judah",
+            "url": "https://www.last.fm/music/Mario+Judah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:25.120Z"
+}

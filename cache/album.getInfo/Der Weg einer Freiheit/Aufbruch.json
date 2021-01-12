@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Aufbruch",
+    "artist": "Der Weg einer Freiheit",
+    "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/Aufbruch",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16907f72b8f87930a1d4655d34d8ec7d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "880",
+    "playcount": "1869",
+    "tracks": {
+      "track": [
+        {
+          "name": "Aufbruch",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Aufbruch",
+          "duration": "589",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:59:10.228Z"
+}

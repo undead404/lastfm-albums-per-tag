@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Rehearsal Outtake",
+    "artist": "Carpathian Forest",
+    "mbid": "0d4dcae4-21c6-33f1-b72d-0eb05548581c",
+    "url": "https://www.last.fm/music/Carpathian+Forest/Rehearsal+Outtake",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/91faf2c307084e9db55b809578b49e57.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/91faf2c307084e9db55b809578b49e57.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/91faf2c307084e9db55b809578b49e57.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91faf2c307084e9db55b809578b49e57.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91faf2c307084e9db55b809578b49e57.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91faf2c307084e9db55b809578b49e57.png",
+        "size": ""
+      }
+    ],
+    "listeners": "150",
+    "playcount": "1393",
+    "tracks": {
+      "track": [
+        {
+          "name": "Carpathian Forest",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Carpathian+Forest",
+          "duration": "127",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Call From the Grave",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Call+From+the+Grave",
+          "duration": "297",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Return of the Freezing Winds",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Return+of+the+Freezing+Winds",
+          "duration": "188",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "In the Circle of Ravens",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/In+the+Circle+of+Ravens",
+          "duration": "409",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Warhead",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Warhead",
+          "duration": "264",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:08:49.491Z"
+}

@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "In Luft geritzt",
+    "artist": "Dornenreich",
+    "mbid": "78bbc48e-9fee-4d7c-ade8-bd86bdfe0210",
+    "url": "https://www.last.fm/music/Dornenreich/In+Luft+geritzt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/217a034e5e5c48d291320a81078fd274.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/217a034e5e5c48d291320a81078fd274.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/217a034e5e5c48d291320a81078fd274.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/217a034e5e5c48d291320a81078fd274.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/217a034e5e5c48d291320a81078fd274.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/217a034e5e5c48d291320a81078fd274.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11023",
+    "playcount": "382772",
+    "tracks": {
+      "track": [
+        {
+          "name": "Drang",
+          "url": "https://www.last.fm/music/Dornenreich/_/Drang",
+          "duration": "223",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Unruhe",
+          "url": "https://www.last.fm/music/Dornenreich/_/Unruhe",
+          "duration": "287",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Jagd",
+          "url": "https://www.last.fm/music/Dornenreich/_/Jagd",
+          "duration": "198",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Freitanz",
+          "url": "https://www.last.fm/music/Dornenreich/_/Freitanz",
+          "duration": "179",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Sehnlauf",
+          "url": "https://www.last.fm/music/Dornenreich/_/Sehnlauf",
+          "duration": "330",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Flügel in Fels",
+          "url": "https://www.last.fm/music/Dornenreich/_/Fl%C3%BCgel+in+Fels",
+          "duration": "375",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Meer",
+          "url": "https://www.last.fm/music/Dornenreich/_/Meer",
+          "duration": "258",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Aufbruch",
+          "url": "https://www.last.fm/music/Dornenreich/_/Aufbruch",
+          "duration": "315",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Dem Wind geboren",
+          "url": "https://www.last.fm/music/Dornenreich/_/Dem+Wind+geboren",
+          "duration": "271",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        },
+        {
+          "name": "Zauberzeichen",
+          "url": "https://www.last.fm/music/Dornenreich/_/Zauberzeichen",
+          "duration": "237",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dornenreich",
+            "mbid": "faf9cc45-7618-4e59-b964-c8e72138e917",
+            "url": "https://www.last.fm/music/Dornenreich"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "neofolk",
+          "url": "https://www.last.fm/tag/neofolk"
+        },
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "violin",
+          "url": "https://www.last.fm/tag/violin"
+        },
+        {
+          "name": "austrian",
+          "url": "https://www.last.fm/tag/austrian"
+        },
+        {
+          "name": "impressionistic",
+          "url": "https://www.last.fm/tag/impressionistic"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Jul 2009, 08:52",
+      "summary": "   1. Drang (3:43)\n   2. Unruhe (4:47)\n   3. Jagd (3:17)\n   4. Freitanz (3:00)\n   5. Sehnlauf (5:31)\n   6. Flügel in Fels (6:16)\n   7. Meer (4:18)\n   8. Aufbruch (4:53)\n   9. Dem Wind Geboren (4:31)\n  10. Zauberzeichen (3:57)\n <a href=\"http://www.last.fm/music/Dornenreich/In+Luft+geritzt\">Read more on Last.fm</a>.",
+      "content": "   1. Drang (3:43)\n   2. Unruhe (4:47)\n   3. Jagd (3:17)\n   4. Freitanz (3:00)\n   5. Sehnlauf (5:31)\n   6. Flügel in Fels (6:16)\n   7. Meer (4:18)\n   8. Aufbruch (4:53)\n   9. Dem Wind Geboren (4:31)\n  10. Zauberzeichen (3:57)\n <a href=\"http://www.last.fm/music/Dornenreich/In+Luft+geritzt\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:26:34.146Z"
+}

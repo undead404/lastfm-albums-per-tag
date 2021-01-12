@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Bjoergvin",
+    "artist": "Taake",
+    "url": "https://www.last.fm/music/Taake/Bjoergvin",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d63aea07edb54dfccdedee5f61d9eea1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4363",
+    "playcount": "53885",
+    "tracks": {
+      "track": [
+        {
+          "name": "I",
+          "url": "https://www.last.fm/music/Taake/_/I",
+          "duration": "356",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "II",
+          "url": "https://www.last.fm/music/Taake/_/II",
+          "duration": "334",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "III",
+          "url": "https://www.last.fm/music/Taake/_/III",
+          "duration": "271",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "IV",
+          "url": "https://www.last.fm/music/Taake/_/IV",
+          "duration": "275",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "V",
+          "url": "https://www.last.fm/music/Taake/_/V",
+          "duration": "251",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "VI",
+          "url": "https://www.last.fm/music/Taake/_/VI",
+          "duration": "453",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "VII",
+          "url": "https://www.last.fm/music/Taake/_/VII",
+          "duration": "578",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "known albums",
+          "url": "https://www.last.fm/tag/known+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:28.760Z"
+}

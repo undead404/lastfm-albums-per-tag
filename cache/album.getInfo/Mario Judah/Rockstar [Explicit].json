@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Rockstar [Explicit]",
+    "artist": "Mario Judah",
+    "url": "https://www.last.fm/music/Mario+Judah/Rockstar+%5BExplicit%5D",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "3",
+    "playcount": "3",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rockstar [Explicit]",
+          "url": "https://www.last.fm/music/Mario+Judah/_/Rockstar+%5BExplicit%5D",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mario Judah",
+            "url": "https://www.last.fm/music/Mario+Judah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:36.994Z"
+}

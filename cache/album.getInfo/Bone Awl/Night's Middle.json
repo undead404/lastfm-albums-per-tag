@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Night's Middle",
+    "artist": "Bone Awl",
+    "url": "https://www.last.fm/music/Bone+Awl/Night%27s+Middle",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/97a97d727e6f4865980121d1a2bef868.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/97a97d727e6f4865980121d1a2bef868.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/97a97d727e6f4865980121d1a2bef868.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97a97d727e6f4865980121d1a2bef868.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97a97d727e6f4865980121d1a2bef868.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/97a97d727e6f4865980121d1a2bef868.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1353",
+    "playcount": "12808",
+    "tracks": {
+      "track": [
+        {
+          "name": "You're Late",
+          "url": "https://www.last.fm/music/Bone+Awl/_/You%27re+Late",
+          "duration": "157",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Night's Middle",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Night%27s+Middle",
+          "duration": "248",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Make For Yourself a Last Vision",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Make+For+Yourself+a+Last+Vision",
+          "duration": "114",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:25.054Z"
+}

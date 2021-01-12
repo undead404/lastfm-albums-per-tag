@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Knarkskog",
+    "artist": "Okkultokrati",
+    "url": "https://www.last.fm/music/Okkultokrati/Knarkskog",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/11aefc3b8c814813b5cf8e915ae5419a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "650",
+    "playcount": "6080",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dopecradle",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Dopecradle",
+          "duration": "75",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Hand of Glory",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Hand+of+Glory",
+          "duration": "129",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Neandertime",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Neandertime",
+          "duration": "75",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        },
+        {
+          "name": "Dying Mongrel",
+          "url": "https://www.last.fm/music/Okkultokrati/_/Dying+Mongrel",
+          "duration": "78",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Okkultokrati",
+            "mbid": "43a6e2d5-f406-4bc1-916a-e943ebaeab48",
+            "url": "https://www.last.fm/music/Okkultokrati"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:43:17.402Z"
+}

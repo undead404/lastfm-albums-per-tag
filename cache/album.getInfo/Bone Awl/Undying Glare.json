@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Undying Glare",
+    "artist": "Bone Awl",
+    "mbid": "93727bbe-7611-4d93-872f-ef50f64278d0",
+    "url": "https://www.last.fm/music/Bone+Awl/Undying+Glare",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd4c830350c5444c8c957ed032b01ad6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "776",
+    "playcount": "5533",
+    "tracks": {
+      "track": [
+        {
+          "name": "Visions Of Altitude",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Visions+Of+Altitude",
+          "duration": "138",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Undying Glare",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Undying+Glare",
+          "duration": "41",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        },
+        {
+          "name": "Passing Through Shadows",
+          "url": "https://www.last.fm/music/Bone+Awl/_/Passing+Through+Shadows",
+          "duration": "124",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bone Awl",
+            "mbid": "a5edd584-4261-4c4b-a0be-e560ca6e5fd0",
+            "url": "https://www.last.fm/music/Bone+Awl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:02:28.246Z"
+}

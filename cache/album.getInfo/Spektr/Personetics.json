@@ -1,0 +1,247 @@
+{
+  "album": {
+    "name": "Personetics",
+    "artist": "Spektr",
+    "url": "https://www.last.fm/music/Spektr/Personetics",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e53fbdf70044f99c11de0f3056fe69.png",
+        "size": ""
+      }
+    ],
+    "listeners": "333",
+    "playcount": "2834",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Emblem",
+          "url": "https://www.last.fm/music/Spektr/_/The+Emblem",
+          "duration": "110",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "We Are Traitors",
+          "url": "https://www.last.fm/music/Spektr/_/We+Are+Traitors",
+          "duration": "192",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Of Gods and Golems",
+          "url": "https://www.last.fm/music/Spektr/_/Of+Gods+and+Golems",
+          "duration": "173",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "The Great Attractor",
+          "url": "https://www.last.fm/music/Spektr/_/The+Great+Attractor",
+          "duration": "242",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Hybrid Heroes",
+          "url": "https://www.last.fm/music/Spektr/_/Hybrid+Heroes",
+          "duration": "163",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Telecide",
+          "url": "https://www.last.fm/music/Spektr/_/Telecide",
+          "duration": "71",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Stretch'n Fold",
+          "url": "https://www.last.fm/music/Spektr/_/Stretch%27n+Fold",
+          "duration": "136",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Clockstoppers",
+          "url": "https://www.last.fm/music/Spektr/_/Clockstoppers",
+          "duration": "134",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Rekall",
+          "url": "https://www.last.fm/music/Spektr/_/Rekall",
+          "duration": "206",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Silver Screen",
+          "url": "https://www.last.fm/music/Spektr/_/Silver+Screen",
+          "duration": "110",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Personoid",
+          "url": "https://www.last.fm/music/Spektr/_/Personoid",
+          "duration": "218",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Six Robots",
+          "url": "https://www.last.fm/music/Spektr/_/Six+Robots",
+          "duration": "222",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:10:11.726Z"
+}

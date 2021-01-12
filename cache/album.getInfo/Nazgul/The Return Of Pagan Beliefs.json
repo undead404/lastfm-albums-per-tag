@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "The Return Of Pagan Beliefs",
+    "artist": "Nazgul",
+    "url": "https://www.last.fm/music/Nazgul/The+Return+Of+Pagan+Beliefs",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39d86a5cd688d151d18e9638c7a1970a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13",
+    "playcount": "31",
+    "tracks": {
+      "track": [
+        {
+          "name": "Under the Babarian Swords",
+          "url": "https://www.last.fm/music/Nazgul/_/Under+the+Babarian+Swords",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "... And The Snow Falls In The Forest",
+          "url": "https://www.last.fm/music/Nazgul/_/...+And+The+Snow+Falls+In+The+Forest",
+          "duration": "321",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Nazgul/_/Outro",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:47.785Z"
+}

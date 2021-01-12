@@ -1,0 +1,214 @@
+{
+  "album": {
+    "name": "Mourner",
+    "artist": "Caïna",
+    "mbid": "9951fc89-e5d5-47bb-8e3b-0f262b1b660a",
+    "url": "https://www.last.fm/music/Ca%C3%AFna/Mourner",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/895469a74bd94bb5b44562662bf47a73.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/895469a74bd94bb5b44562662bf47a73.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/895469a74bd94bb5b44562662bf47a73.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/895469a74bd94bb5b44562662bf47a73.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/895469a74bd94bb5b44562662bf47a73.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/895469a74bd94bb5b44562662bf47a73.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1986",
+    "playcount": "35527",
+    "tracks": {
+      "track": [
+        {
+          "name": "Waves Engulf A Pier",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Waves+Engulf+A+Pier",
+          "duration": "282",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Hideous Gnosis",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Hideous+Gnosis",
+          "duration": "512",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "The Sleep Of Reason",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/The+Sleep+Of+Reason",
+          "duration": "445",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Constantine The Blind",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Constantine+The+Blind",
+          "duration": "181",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "I Reeled In Heaven",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/I+Reeled+In+Heaven",
+          "duration": "600",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Morgawr",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Morgawr",
+          "duration": "267",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Requiem for Shattered Timbers",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Requiem+for+Shattered+Timbers",
+          "duration": "566",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Permaneo Carmen",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Permaneo+Carmen",
+          "duration": "336",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        },
+        {
+          "name": "Wormwood Over Albion",
+          "url": "https://www.last.fm/music/Ca%C3%AFna/_/Wormwood+Over+Albion",
+          "duration": "829",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Caïna",
+            "mbid": "466001cb-f4f9-4460-8da1-b3ab3241794a",
+            "url": "https://www.last.fm/music/Ca%C3%AFna"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "post-rock",
+          "url": "https://www.last.fm/tag/post-rock"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:21:11.951Z"
+}

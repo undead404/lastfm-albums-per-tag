@@ -1,0 +1,222 @@
+{
+  "album": {
+    "name": "Still Gambling",
+    "artist": "Twilight",
+    "url": "https://www.last.fm/music/Twilight/Still+Gambling",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aed710f376f44309ad38d195e686007f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aed710f376f44309ad38d195e686007f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aed710f376f44309ad38d195e686007f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed710f376f44309ad38d195e686007f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed710f376f44309ad38d195e686007f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed710f376f44309ad38d195e686007f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "97",
+    "playcount": "1533",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hardrock",
+          "url": "https://www.last.fm/music/Twilight/_/Hardrock",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "'til The End Of Time",
+          "url": "https://www.last.fm/music/Twilight/_/%27til+The+End+Of+Time",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "A Beautiful Lie",
+          "url": "https://www.last.fm/music/Twilight/_/A+Beautiful+Lie",
+          "duration": "327",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Trust In You",
+          "url": "https://www.last.fm/music/Twilight/_/Trust+In+You",
+          "duration": "227",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "From Day To Night",
+          "url": "https://www.last.fm/music/Twilight/_/From+Day+To+Night",
+          "duration": "205",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Time To Learn",
+          "url": "https://www.last.fm/music/Twilight/_/Time+To+Learn",
+          "duration": "284",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Shame On You",
+          "url": "https://www.last.fm/music/Twilight/_/Shame+On+You",
+          "duration": "314",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "From The Shadows",
+          "url": "https://www.last.fm/music/Twilight/_/From+The+Shadows",
+          "duration": "304",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "Lost And Lonely",
+          "url": "https://www.last.fm/music/Twilight/_/Lost+And+Lonely",
+          "duration": "283",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        },
+        {
+          "name": "We Don't Give a F__k",
+          "url": "https://www.last.fm/music/Twilight/_/We+Don%27t+Give+a+F__k",
+          "duration": "482",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Twilight",
+            "mbid": "e2f747db-b93b-475f-adbe-75ce62fe0d47",
+            "url": "https://www.last.fm/music/Twilight"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "argentina",
+          "url": "https://www.last.fm/tag/argentina"
+        },
+        {
+          "name": "Power metal",
+          "url": "https://www.last.fm/tag/Power+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:48:22.305Z"
+}

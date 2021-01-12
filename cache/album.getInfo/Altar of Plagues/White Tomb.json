@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "White Tomb",
+    "artist": "Altar of Plagues",
+    "mbid": "508cd265-21f1-4e9c-a995-ecc620bbd53f",
+    "url": "https://www.last.fm/music/Altar+of+Plagues/White+Tomb",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29ecc92226414bf9ba1bd2430b8e9956.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21398",
+    "playcount": "367303",
+    "tracks": {
+      "track": [
+        {
+          "name": "Earth: As a Womb",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Earth:+As+a+Womb",
+          "duration": "723",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "Earth: As A Furnace",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Earth:+As+A+Furnace",
+          "duration": "900",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "Through the Collapse: Watchers Restrained",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Through+the+Collapse:+Watchers+Restrained",
+          "duration": "587",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        },
+        {
+          "name": "Through The Collapse: Gentian Truth",
+          "url": "https://www.last.fm/music/Altar+of+Plagues/_/Through+The+Collapse:+Gentian+Truth",
+          "duration": "789",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Altar of Plagues",
+            "mbid": "33fd78d9-3b93-49a2-9ccf-0d90b527fc8d",
+            "url": "https://www.last.fm/music/Altar+of+Plagues"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "Post-Metal",
+          "url": "https://www.last.fm/tag/Post-Metal"
+        },
+        {
+          "name": "Post-Black Metal",
+          "url": "https://www.last.fm/tag/Post-Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:31:59.730Z"
+}

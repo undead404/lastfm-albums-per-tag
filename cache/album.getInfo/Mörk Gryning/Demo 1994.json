@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Demo 1994",
+    "artist": "Mörk Gryning",
+    "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/Demo+1994",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc81762411190b19a34d6752406f053c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc81762411190b19a34d6752406f053c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc81762411190b19a34d6752406f053c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc81762411190b19a34d6752406f053c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc81762411190b19a34d6752406f053c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc81762411190b19a34d6752406f053c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "101",
+    "playcount": "996",
+    "tracks": {
+      "track": [
+        {
+          "name": "Journey Into Eternity",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Journey+Into+Eternity",
+          "duration": "310",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        },
+        {
+          "name": "Min sista färd (En visa om döden)",
+          "url": "https://www.last.fm/music/M%C3%B6rk+Gryning/_/Min+sista+f%C3%A4rd+(En+visa+om+d%C3%B6den)",
+          "duration": "340",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mörk Gryning",
+            "mbid": "f14a6b58-2afc-47d4-bff5-3d6deb15b895",
+            "url": "https://www.last.fm/music/M%C3%B6rk+Gryning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:15:01.908Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Way It Goes",
+    "artist": "Bloodline",
+    "url": "https://www.last.fm/music/Bloodline/The+Way+It+Goes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61b84283c44615355e375586ed1eb31c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61b84283c44615355e375586ed1eb31c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61b84283c44615355e375586ed1eb31c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61b84283c44615355e375586ed1eb31c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61b84283c44615355e375586ed1eb31c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61b84283c44615355e375586ed1eb31c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "143",
+    "playcount": "454",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Way It Goes",
+          "url": "https://www.last.fm/music/Bloodline/_/The+Way+It+Goes",
+          "duration": "198",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bloodline",
+            "mbid": "e3bcbe90-a7f6-4826-ae6e-bad74213d10a",
+            "url": "https://www.last.fm/music/Bloodline"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:34:34.866Z"
+}

@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Superion.Command.Destroy",
+    "artist": "Revenge",
+    "mbid": "12b6d516-9a87-47d8-9267-994bcc66e34e",
+    "url": "https://www.last.fm/music/Revenge/Superion.Command.Destroy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3bec2869e22048878012d3b11c024aef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3bec2869e22048878012d3b11c024aef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3bec2869e22048878012d3b11c024aef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bec2869e22048878012d3b11c024aef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bec2869e22048878012d3b11c024aef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bec2869e22048878012d3b11c024aef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "793",
+    "playcount": "6392",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blood Division",
+          "url": "https://www.last.fm/music/Revenge/_/Blood+Division",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Superion Revenge",
+          "url": "https://www.last.fm/music/Revenge/_/Superion+Revenge",
+          "duration": "211",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:55:04.590Z"
+}

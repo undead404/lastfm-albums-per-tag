@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Sonnenritter",
+    "artist": "Absurd",
+    "mbid": "32bd97d7-277d-4292-99d3-65d45bde4971",
+    "url": "https://www.last.fm/music/Absurd/Sonnenritter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3d3d8fb6f7d4759ad6d98676330853d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "242",
+    "playcount": "1622",
+    "tracks": {
+      "track": [
+        {
+          "name": "Germanien über alles",
+          "url": "https://www.last.fm/music/Absurd/_/Germanien+%C3%BCber+alles",
+          "duration": "615",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Als die Alten jung noch waren",
+          "url": "https://www.last.fm/music/Absurd/_/Als+die+Alten+jung+noch+waren",
+          "duration": "176",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Crux Gammata",
+          "url": "https://www.last.fm/music/Absurd/_/Crux+Gammata",
+          "duration": "246",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:16:30.491Z"
+}

@@ -1,0 +1,63 @@
+{
+  "album": {
+    "name": "Apare",
+    "artist": "Ajattara",
+    "url": "https://www.last.fm/music/Ajattara/Apare",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de3e32f0fec6ba3beaff5c27c5cdbd7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3212",
+    "playcount": "101635",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "cds I own",
+          "url": "https://www.last.fm/tag/cds+I+own"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "wrong album name",
+          "url": "https://www.last.fm/tag/wrong+album+name"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:17:40.461Z"
+}

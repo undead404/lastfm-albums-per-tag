@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Candida",
+    "artist": "Dawn",
+    "url": "https://www.last.fm/music/Dawn/Candida",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3a08675befed454089aae1434131f72b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3a08675befed454089aae1434131f72b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3a08675befed454089aae1434131f72b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a08675befed454089aae1434131f72b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a08675befed454089aae1434131f72b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a08675befed454089aae1434131f72b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2149",
+    "playcount": "5955",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:39:58.160Z"
+}

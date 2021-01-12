@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Early Evil",
+    "artist": "Abruptum",
+    "mbid": "af6930b3-bf7e-4913-b059-52a7ce8155cc",
+    "url": "https://www.last.fm/music/Abruptum/Early+Evil",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df762da2562148c9a9995ebbcae815d5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df762da2562148c9a9995ebbcae815d5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df762da2562148c9a9995ebbcae815d5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df762da2562148c9a9995ebbcae815d5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df762da2562148c9a9995ebbcae815d5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df762da2562148c9a9995ebbcae815d5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "25",
+    "playcount": "88",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Evil EP (1992)",
+          "url": "https://www.last.fm/music/Abruptum/_/The+Evil+EP+(1992)",
+          "duration": "693",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Demo #1 (1990)",
+          "url": "https://www.last.fm/music/Abruptum/_/Demo+%231+(1990)",
+          "duration": "556",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Demo #2 (1990)",
+          "url": "https://www.last.fm/music/Abruptum/_/Demo+%232+(1990)",
+          "duration": "1513",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:35:32.053Z"
+}

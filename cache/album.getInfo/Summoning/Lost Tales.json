@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Lost Tales",
+    "artist": "Summoning",
+    "mbid": "533cf0ec-7bba-4879-8c65-4aa2f33a1ca1",
+    "url": "https://www.last.fm/music/Summoning/Lost+Tales",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1c43e4c9685ec4e493c05e61c73012a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12332",
+    "playcount": "147287",
+    "tracks": {
+      "track": [
+        {
+          "name": "Arcenstone",
+          "url": "https://www.last.fm/music/Summoning/_/Arcenstone",
+          "duration": "557",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        },
+        {
+          "name": "Saruman",
+          "url": "https://www.last.fm/music/Summoning/_/Saruman",
+          "duration": "460",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Summoning",
+            "mbid": "8363f94f-fd86-41b8-a56b-26eacb34f499",
+            "url": "https://www.last.fm/music/Summoning"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "epic",
+          "url": "https://www.last.fm/tag/epic"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 May 2013, 10:25",
+      "summary": "\"Lost Tales\" is the second EP by Summoning. It consists of two dungeon synth songs: \"Arcenstone\", that was originally written for the darkwave project of Silenius called \"Mirkwood\" (which was never released), and \"Saruman\", a song left over from the \"Dol Guldur\" sessions in 1996.\nThe songs are not in high quality and just taken from the original tape were they have been recorded. Originally there were two other cover layouts, which they wanted to use, but didn't get the permission by the painter's distributer. <a href=\"http://www.last.fm/music/Summoning/Lost+Tales\">Read more on Last.fm</a>.",
+      "content": "\"Lost Tales\" is the second EP by Summoning. It consists of two dungeon synth songs: \"Arcenstone\", that was originally written for the darkwave project of Silenius called \"Mirkwood\" (which was never released), and \"Saruman\", a song left over from the \"Dol Guldur\" sessions in 1996.\nThe songs are not in high quality and just taken from the original tape were they have been recorded. Originally there were two other cover layouts, which they wanted to use, but didn't get the permission by the painter's distributer. <a href=\"http://www.last.fm/music/Summoning/Lost+Tales\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:25.961Z"
+}

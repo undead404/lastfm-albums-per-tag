@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Nom d'une pipe",
+    "artist": "Pensées Nocturnes",
+    "url": "https://www.last.fm/music/Pens%C3%A9es+Nocturnes/Nom+d%27une+pipe",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ed628c979a34d4d8656193a8cab4f3e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1340",
+    "playcount": "14835",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:01:29.694Z"
+}

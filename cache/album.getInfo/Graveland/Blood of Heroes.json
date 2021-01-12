@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Blood of Heroes",
+    "artist": "Graveland",
+    "mbid": "dbcd0cd1-92a7-4f8b-8e14-cad7d879f1fc",
+    "url": "https://www.last.fm/music/Graveland/Blood+of+Heroes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43ddeb49151549dca1e2103d4c248a79.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1164",
+    "playcount": "8937",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Am What They Fear",
+          "url": "https://www.last.fm/music/Graveland/_/I+Am+What+They+Fear",
+          "duration": "397",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Blood of Heroes",
+          "url": "https://www.last.fm/music/Graveland/_/Blood+of+Heroes",
+          "duration": "568",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:40:10.589Z"
+}

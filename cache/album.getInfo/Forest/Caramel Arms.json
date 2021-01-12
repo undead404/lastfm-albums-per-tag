@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Caramel Arms",
+    "artist": "Forest",
+    "url": "https://www.last.fm/music/Forest/Caramel+Arms",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8d54ce79a7d14561b3803b4a0799d7cb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "135",
+    "playcount": "882",
+    "tracks": {
+      "track": [
+        {
+          "name": "Coaster",
+          "url": "https://www.last.fm/music/Forest/_/Coaster",
+          "duration": "227",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "99",
+          "url": "https://www.last.fm/music/Forest/_/99",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Warm Tyres",
+          "url": "https://www.last.fm/music/Forest/_/Warm+Tyres",
+          "duration": "268",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Oh!",
+          "url": "https://www.last.fm/music/Forest/_/Oh%21",
+          "duration": "191",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:33:23.594Z"
+}

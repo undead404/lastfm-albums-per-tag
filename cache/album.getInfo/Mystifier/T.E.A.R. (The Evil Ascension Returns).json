@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "T.E.A.R. (The Evil Ascension Returns)",
+    "artist": "Mystifier",
+    "url": "https://www.last.fm/music/Mystifier/T.E.A.R.+(The+Evil+Ascension+Returns)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8da605ceacf3a0aa6130e814ed67064.png",
+        "size": ""
+      }
+    ],
+    "listeners": "53",
+    "playcount": "425",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Cult (Intro)",
+          "url": "https://www.last.fm/music/Mystifier/_/The+Cult+(Intro)",
+          "duration": "118",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystifier",
+            "mbid": "8dd7079e-7eac-40e4-a2e9-327c167f021d",
+            "url": "https://www.last.fm/music/Mystifier"
+          }
+        },
+        {
+          "name": "Ancient Prediction (My Eternal Nightmare)",
+          "url": "https://www.last.fm/music/Mystifier/_/Ancient+Prediction+(My+Eternal+Nightmare)",
+          "duration": "296",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystifier",
+            "mbid": "8dd7079e-7eac-40e4-a2e9-327c167f021d",
+            "url": "https://www.last.fm/music/Mystifier"
+          }
+        },
+        {
+          "name": "The Sign of the Unholy Cross",
+          "url": "https://www.last.fm/music/Mystifier/_/The+Sign+of+the+Unholy+Cross",
+          "duration": "420",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystifier",
+            "mbid": "8dd7079e-7eac-40e4-a2e9-327c167f021d",
+            "url": "https://www.last.fm/music/Mystifier"
+          }
+        },
+        {
+          "name": "The Cult Continues (Outro)",
+          "url": "https://www.last.fm/music/Mystifier/_/The+Cult+Continues+(Outro)",
+          "duration": "21",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystifier",
+            "mbid": "8dd7079e-7eac-40e4-a2e9-327c167f021d",
+            "url": "https://www.last.fm/music/Mystifier"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:24:52.290Z"
+}

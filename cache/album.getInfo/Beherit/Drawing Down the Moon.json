@@ -1,0 +1,291 @@
+{
+  "album": {
+    "name": "Drawing Down the Moon",
+    "artist": "Beherit",
+    "mbid": "f3e71628-9438-404f-9298-92d775949f0a",
+    "url": "https://www.last.fm/music/Beherit/Drawing+Down+the+Moon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bca5d4fd2f6932c2fb12f157c5c5a03d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "37832",
+    "playcount": "1204454",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Beherit/_/Intro",
+          "duration": "44",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Salomon's Gate",
+          "url": "https://www.last.fm/music/Beherit/_/Salomon%27s+Gate",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Nocturnal Evil",
+          "url": "https://www.last.fm/music/Beherit/_/Nocturnal+Evil",
+          "duration": "173",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Sadomatic Rites",
+          "url": "https://www.last.fm/music/Beherit/_/Sadomatic+Rites",
+          "duration": "247",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Black Arts",
+          "url": "https://www.last.fm/music/Beherit/_/Black+Arts",
+          "duration": "213",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "The Gate Of Nanna",
+          "url": "https://www.last.fm/music/Beherit/_/The+Gate+Of+Nanna",
+          "duration": "255",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Nuclear Girl",
+          "url": "https://www.last.fm/music/Beherit/_/Nuclear+Girl",
+          "duration": "92",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Unholy Pagan Fire",
+          "url": "https://www.last.fm/music/Beherit/_/Unholy+Pagan+Fire",
+          "duration": "233",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Down There...",
+          "url": "https://www.last.fm/music/Beherit/_/Down+There...",
+          "duration": "156",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Summerlands",
+          "url": "https://www.last.fm/music/Beherit/_/Summerlands",
+          "duration": "200",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Werewolf, Semen And Blood",
+          "url": "https://www.last.fm/music/Beherit/_/Werewolf,+Semen+And+Blood",
+          "duration": "188",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Thou Angel Of The Gods",
+          "url": "https://www.last.fm/music/Beherit/_/Thou+Angel+Of+The+Gods",
+          "duration": "142",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        },
+        {
+          "name": "Lord of Shadows and Goldenwood",
+          "url": "https://www.last.fm/music/Beherit/_/Lord+of+Shadows+and+Goldenwood",
+          "duration": "203",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Beherit",
+            "mbid": "65a8ee1c-20ef-4e2d-bf55-33a35bd7e644",
+            "url": "https://www.last.fm/music/Beherit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        },
+        {
+          "name": "1993",
+          "url": "https://www.last.fm/tag/1993"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Jun 2009, 20:09",
+      "summary": "Drawing Down the Moon is the debut studio album by Finnish black metal band Beherit. It was released in January 1993, through Spinefarm Records. The album is notable for its usage of space-like synth sounds and occasional use of computer-altered vocals. The lyrics to \"Intro\" were taken from the Seventh Satanic Statement, as transcribed by Anton LaVey on the Satanic Bible. <a href=\"http://www.last.fm/music/Beherit/Drawing+Down+the+Moon\">Read more on Last.fm</a>.",
+      "content": "Drawing Down the Moon is the debut studio album by Finnish black metal band Beherit. It was released in January 1993, through Spinefarm Records. The album is notable for its usage of space-like synth sounds and occasional use of computer-altered vocals. The lyrics to \"Intro\" were taken from the Seventh Satanic Statement, as transcribed by Anton LaVey on the Satanic Bible. <a href=\"http://www.last.fm/music/Beherit/Drawing+Down+the+Moon\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:19:56.448Z"
+}

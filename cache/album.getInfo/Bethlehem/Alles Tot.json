@@ -1,0 +1,91 @@
+{
+  "album": {
+    "name": "Alles Tot",
+    "artist": "Bethlehem",
+    "mbid": "4c3092f9-e527-4112-b162-a1a7f66a7c48",
+    "url": "https://www.last.fm/music/Bethlehem/Alles+Tot",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6503bd0104ac42086c4faa0cf797bebe.png",
+        "size": ""
+      }
+    ],
+    "listeners": "755",
+    "playcount": "9031",
+    "tracks": {
+      "track": [
+        {
+          "name": "Schuld unseres knöchrigen Faltpferds",
+          "url": "https://www.last.fm/music/Bethlehem/_/Schuld+unseres+kn%C3%B6chrigen+Faltpferds",
+          "duration": "274",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Wo Adlers Wagen",
+          "url": "https://www.last.fm/music/Bethlehem/_/Wo+Adlers+Wagen",
+          "duration": "322",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Rainer Landfermann",
+          "url": "https://www.last.fm/tag/Rainer+Landfermann"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:11.838Z"
+}

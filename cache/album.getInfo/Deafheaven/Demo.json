@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Deafheaven",
+    "mbid": "df822457-1a3f-4806-86fe-143d3ce09f65",
+    "url": "https://www.last.fm/music/Deafheaven/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41a535592c7d4128bede8408c183f17c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41a535592c7d4128bede8408c183f17c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41a535592c7d4128bede8408c183f17c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41a535592c7d4128bede8408c183f17c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41a535592c7d4128bede8408c183f17c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41a535592c7d4128bede8408c183f17c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "23069",
+    "playcount": "267703",
+    "tracks": {
+      "track": [
+        {
+          "name": "Libertine Dissolves",
+          "url": "https://www.last.fm/music/Deafheaven/_/Libertine+Dissolves",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deafheaven",
+            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+            "url": "https://www.last.fm/music/Deafheaven"
+          }
+        },
+        {
+          "name": "Bedrooms",
+          "url": "https://www.last.fm/music/Deafheaven/_/Bedrooms",
+          "duration": "127",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deafheaven",
+            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+            "url": "https://www.last.fm/music/Deafheaven"
+          }
+        },
+        {
+          "name": "Daedalus",
+          "url": "https://www.last.fm/music/Deafheaven/_/Daedalus",
+          "duration": "354",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deafheaven",
+            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+            "url": "https://www.last.fm/music/Deafheaven"
+          }
+        },
+        {
+          "name": "Exit:Denied",
+          "url": "https://www.last.fm/music/Deafheaven/_/Exit:Denied",
+          "duration": "689",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deafheaven",
+            "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+            "url": "https://www.last.fm/music/Deafheaven"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "shit",
+          "url": "https://www.last.fm/tag/shit"
+        },
+        {
+          "name": "Officially Shit",
+          "url": "https://www.last.fm/tag/Officially+Shit"
+        },
+        {
+          "name": "all things annoying in the world put together into one stupid bitch",
+          "url": "https://www.last.fm/tag/all+things+annoying+in+the+world+put+together+into+one+stupid+bitch"
+        },
+        {
+          "name": "Post-Black Metal",
+          "url": "https://www.last.fm/tag/Post-Black+Metal"
+        },
+        {
+          "name": "hiv positive",
+          "url": "https://www.last.fm/tag/hiv+positive"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 Nov 2012, 09:37",
+      "summary": "A melding of epic Post Rock leanings (Envy, Godspeed You! Black Emperor) with experimental Black Metal (Xasthur, Weakling, Leviathan), and classic era \"Screamo\" (Orchid, Crimson Curse) into something never successfully experienced before. Originally only available on cassette tape and digitally, this is Deafheaven's demo remastered by Jack Shirley (Loma Prieta, Comadre).  <a href=\"http://www.last.fm/music/Deafheaven/Demo\">Read more on Last.fm</a>.",
+      "content": "A melding of epic Post Rock leanings (Envy, Godspeed You! Black Emperor) with experimental Black Metal (Xasthur, Weakling, Leviathan), and classic era \"Screamo\" (Orchid, Crimson Curse) into something never successfully experienced before. Originally only available on cassette tape and digitally, this is Deafheaven's demo remastered by Jack Shirley (Loma Prieta, Comadre).  <a href=\"http://www.last.fm/music/Deafheaven/Demo\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:55:51.332Z"
+}

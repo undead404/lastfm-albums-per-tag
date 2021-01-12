@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Sunken",
+    "artist": "Ragnarok",
+    "url": "https://www.last.fm/music/Ragnarok/Sunken",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "21",
+    "playcount": "117",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sunken - Ragnarok's Dreamcore Version",
+          "url": "https://www.last.fm/music/Ragnarok/_/Sunken+-+Ragnarok%27s+Dreamcore+Version",
+          "duration": "496",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Sunken - Starving Insect's Whalecore Version",
+          "url": "https://www.last.fm/music/Ragnarok/_/Sunken+-+Starving+Insect%27s+Whalecore+Version",
+          "duration": "480",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:00:52.308Z"
+}

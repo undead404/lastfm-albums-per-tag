@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Slave Under His Immortal Will (Remastered) - Single",
+    "artist": "Ondskapt",
+    "url": "https://www.last.fm/music/Ondskapt/Slave+Under+His+Immortal+Will+(Remastered)+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1b581ebcea5e38d2b9a4cf7b8af5b6f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6",
+    "playcount": "14",
+    "tracks": {
+      "track": [
+        {
+          "name": "Salve Under His Immoral Will - Remastered",
+          "url": "https://www.last.fm/music/Ondskapt/_/Salve+Under+His+Immoral+Will+-+Remastered",
+          "duration": "379",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ondskapt",
+            "mbid": "61cbf534-5def-4e53-b904-786ac854e05e",
+            "url": "https://www.last.fm/music/Ondskapt"
+          }
+        },
+        {
+          "name": "Dark Past (Remastered)",
+          "url": "https://www.last.fm/music/Ondskapt/_/Dark+Past+(Remastered)",
+          "duration": "545",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ondskapt",
+            "mbid": "61cbf534-5def-4e53-b904-786ac854e05e",
+            "url": "https://www.last.fm/music/Ondskapt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:37:07.795Z"
+}

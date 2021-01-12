@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "I'll Kill You - Single",
+    "artist": "A Pregnant Light",
+    "url": "https://www.last.fm/music/A+Pregnant+Light/I%27ll+Kill+You+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "6",
+    "playcount": "25",
+    "tracks": {
+      "track": [
+        {
+          "name": "Leather Chain",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Leather+Chain",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Free Local Calls",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Free+Local+Calls",
+          "duration": "240",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:50:39.878Z"
+}

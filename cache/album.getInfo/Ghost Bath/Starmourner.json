@@ -1,0 +1,268 @@
+{
+  "album": {
+    "name": "Starmourner",
+    "artist": "Ghost Bath",
+    "url": "https://www.last.fm/music/Ghost+Bath/Starmourner",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a78ce9706eb79a432baf9d85ff211fc8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7887",
+    "playcount": "106768",
+    "tracks": {
+      "track": [
+        {
+          "name": "Astral",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Astral",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Seraphic",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Seraphic",
+          "duration": "350",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Ambrosial",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Ambrosial",
+          "duration": "510",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Ethereal",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Ethereal",
+          "duration": "414",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Celestial",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Celestial",
+          "duration": "494",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Angelic",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Angelic",
+          "duration": "323",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Luminescence",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Luminescence",
+          "duration": "368",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Thrones",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Thrones",
+          "duration": "380",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Elysian",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Elysian",
+          "duration": "322",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Cherubim",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Cherubim",
+          "duration": "266",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Principalities",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Principalities",
+          "duration": "374",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        },
+        {
+          "name": "Ode",
+          "url": "https://www.last.fm/music/Ghost+Bath/_/Ode",
+          "duration": "268",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ghost Bath",
+            "mbid": "b9b1d6e0-2920-4d21-bdeb-546a032d7dd7",
+            "url": "https://www.last.fm/music/Ghost+Bath"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "shoegaze",
+          "url": "https://www.last.fm/tag/shoegaze"
+        },
+        {
+          "name": "DSBM",
+          "url": "https://www.last.fm/tag/DSBM"
+        },
+        {
+          "name": "Depressive Suicidal Black Metal",
+          "url": "https://www.last.fm/tag/Depressive+Suicidal+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:24:13.751Z"
+}

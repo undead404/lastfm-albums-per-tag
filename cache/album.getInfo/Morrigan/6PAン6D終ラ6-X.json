@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "6PAン6D終ラ6-X",
+    "artist": "Morrigan",
+    "url": "https://www.last.fm/music/Morrigan/6PA%E3%83%B36D%E7%B5%82%E3%83%A96-X",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "81",
+    "playcount": "1646",
+    "tracks": {
+      "track": [
+        {
+          "name": "PANDORA",
+          "url": "https://www.last.fm/music/Morrigan/_/PANDORA",
+          "duration": "138",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "KILLING MYSELF",
+          "url": "https://www.last.fm/music/Morrigan/_/KILLING+MYSELF",
+          "duration": "206",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        },
+        {
+          "name": "Gouni -until that day-",
+          "url": "https://www.last.fm/music/Morrigan/_/Gouni+-until+that+day-",
+          "duration": "212",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morrigan",
+            "mbid": "97ac0d92-e53a-49a2-ab75-0546bc8416e6",
+            "url": "https://www.last.fm/music/Morrigan"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:13:03.732Z"
+}

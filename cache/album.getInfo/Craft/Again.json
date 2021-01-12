@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Again",
+    "artist": "Craft",
+    "url": "https://www.last.fm/music/Craft/Again",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df160a04111bafde160551c6de99792a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df160a04111bafde160551c6de99792a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df160a04111bafde160551c6de99792a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df160a04111bafde160551c6de99792a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df160a04111bafde160551c6de99792a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df160a04111bafde160551c6de99792a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "928",
+    "playcount": "2124",
+    "tracks": {
+      "track": [
+        {
+          "name": "Again",
+          "url": "https://www.last.fm/music/Craft/_/Again",
+          "duration": "255",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:06.907Z"
+}

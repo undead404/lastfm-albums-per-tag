@@ -1,0 +1,298 @@
+{
+  "album": {
+    "name": "METAL WARRIORS",
+    "artist": "Revenge",
+    "url": "https://www.last.fm/music/Revenge/METAL+WARRIORS",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/45ddca2cc8b742b0af04deb362580477.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/45ddca2cc8b742b0af04deb362580477.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/45ddca2cc8b742b0af04deb362580477.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ddca2cc8b742b0af04deb362580477.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ddca2cc8b742b0af04deb362580477.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ddca2cc8b742b0af04deb362580477.png",
+        "size": ""
+      }
+    ],
+    "listeners": "290",
+    "playcount": "3857",
+    "tracks": {
+      "track": [
+        {
+          "name": "The arrival violence and speed sound",
+          "url": "https://www.last.fm/music/Revenge/_/The+arrival+violence+and+speed+sound",
+          "duration": "98",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Avenger Of The Exile",
+          "url": "https://www.last.fm/music/Revenge/_/Avenger+Of+The+Exile",
+          "duration": "523",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Metal warriors",
+          "url": "https://www.last.fm/music/Revenge/_/Metal+warriors",
+          "duration": "387",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Hate And Treason",
+          "url": "https://www.last.fm/music/Revenge/_/Hate+And+Treason",
+          "duration": "309",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Fire Attack",
+          "url": "https://www.last.fm/music/Revenge/_/Fire+Attack",
+          "duration": "260",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Riding in Hell",
+          "url": "https://www.last.fm/music/Revenge/_/Riding+in+Hell",
+          "duration": "230",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Bloody Revenge",
+          "url": "https://www.last.fm/music/Revenge/_/Bloody+Revenge",
+          "duration": "373",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Infernal Angels",
+          "url": "https://www.last.fm/music/Revenge/_/Infernal+Angels",
+          "duration": "306",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Heavy Metal Maniac",
+          "url": "https://www.last.fm/music/Revenge/_/Heavy+Metal+Maniac",
+          "duration": "239",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Intro: Heavy Infection",
+          "url": "https://www.last.fm/music/Revenge/_/Intro:+Heavy+Infection",
+          "duration": "342",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "ENDLESS NIGHTMARE",
+          "url": "https://www.last.fm/music/Revenge/_/ENDLESS+NIGHTMARE",
+          "duration": "232",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Metal Warriors (Rerecorded Version)",
+          "url": "https://www.last.fm/music/Revenge/_/Metal+Warriors+(Rerecorded+Version)",
+          "duration": "312",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Bloody Revenge (Rerecorded Version)",
+          "url": "https://www.last.fm/music/Revenge/_/Bloody+Revenge+(Rerecorded+Version)",
+          "duration": "287",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Fire Attack (Alternate Version)",
+          "url": "https://www.last.fm/music/Revenge/_/Fire+Attack+(Alternate+Version)",
+          "duration": "260",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        },
+        {
+          "name": "Riding in Hell (Alternate Version)",
+          "url": "https://www.last.fm/music/Revenge/_/Riding+in+Hell+(Alternate+Version)",
+          "duration": "230",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Revenge",
+            "mbid": "fa291018-ac66-454f-a42b-8fbcfb24d0b3",
+            "url": "https://www.last.fm/music/Revenge"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:55:13.473Z"
+}

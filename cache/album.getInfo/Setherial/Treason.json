@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Treason",
+    "artist": "Setherial",
+    "mbid": "0ce74aa5-8377-428e-8ac6-bf644da2dfc1",
+    "url": "https://www.last.fm/music/Setherial/Treason",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c9b25bd4a9b8418d8abe3505060f9e63.png",
+        "size": ""
+      }
+    ],
+    "listeners": "461",
+    "playcount": "2881",
+    "tracks": {
+      "track": [
+        {
+          "name": "Treason (A Death That Breeds Through Aeons)",
+          "url": "https://www.last.fm/music/Setherial/_/Treason+(A+Death+That+Breeds+Through+Aeons)",
+          "duration": "298",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        },
+        {
+          "name": "Warfare (God Is Dead)",
+          "url": "https://www.last.fm/music/Setherial/_/Warfare+(God+Is+Dead)",
+          "duration": "315",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Setherial",
+            "mbid": "0ff4ccdf-ddfa-493d-8af5-dfabdcc17f61",
+            "url": "https://www.last.fm/music/Setherial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:39:28.000Z"
+}

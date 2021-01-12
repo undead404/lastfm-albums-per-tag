@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Herzogian Darkness",
+    "artist": "Medico Peste",
+    "url": "https://www.last.fm/music/Medico+Peste/Herzogian+Darkness",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65a5e7d7cbf715bf18c321deca5c4bb1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1575",
+    "playcount": "16117",
+    "tracks": {
+      "track": [
+        {
+          "name": "Herzogian Darkness",
+          "url": "https://www.last.fm/music/Medico+Peste/_/Herzogian+Darkness",
+          "duration": "596",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Medico Peste",
+            "mbid": "08ce398b-f73f-42d7-ae96-2050d34cc869",
+            "url": "https://www.last.fm/music/Medico+Peste"
+          }
+        },
+        {
+          "name": "Hallucinating Warmth and Bliss",
+          "url": "https://www.last.fm/music/Medico+Peste/_/Hallucinating+Warmth+and+Bliss",
+          "duration": "455",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Medico Peste",
+            "mbid": "08ce398b-f73f-42d7-ae96-2050d34cc869",
+            "url": "https://www.last.fm/music/Medico+Peste"
+          }
+        },
+        {
+          "name": "Le Délire de Negation",
+          "url": "https://www.last.fm/music/Medico+Peste/_/Le+D%C3%A9lire+de+Negation",
+          "duration": "191",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Medico Peste",
+            "mbid": "08ce398b-f73f-42d7-ae96-2050d34cc869",
+            "url": "https://www.last.fm/music/Medico+Peste"
+          }
+        },
+        {
+          "name": "Stigmata Martyr",
+          "url": "https://www.last.fm/music/Medico+Peste/_/Stigmata+Martyr",
+          "duration": "253",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Medico Peste",
+            "mbid": "08ce398b-f73f-42d7-ae96-2050d34cc869",
+            "url": "https://www.last.fm/music/Medico+Peste"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:05:47.898Z"
+}

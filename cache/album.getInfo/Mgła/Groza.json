@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Groza",
+    "artist": "Mgła",
+    "mbid": "fdce9973-3b91-4ccb-8650-6012e8bd2065",
+    "url": "https://www.last.fm/music/Mg%C5%82a/Groza",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fc1aa935b436697b6252a54ca0552a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "19643",
+    "playcount": "477778",
+    "tracks": {
+      "track": [
+        {
+          "name": "Groza I",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Groza+I",
+          "duration": "681",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Groza II",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Groza+II",
+          "duration": "436",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Groza III",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Groza+III",
+          "duration": "467",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Groza IV",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Groza+IV",
+          "duration": "602",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2008",
+          "url": "https://www.last.fm/tag/2008"
+        },
+        {
+          "name": "like it",
+          "url": "https://www.last.fm/tag/like+it"
+        },
+        {
+          "name": "Awesome",
+          "url": "https://www.last.fm/tag/Awesome"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:05:09.848Z"
+}

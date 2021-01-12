@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Metatron and the Red Gleaming Serpent",
+    "artist": "The Meads of Asphodel",
+    "mbid": "5f157bf6-cb70-43ee-9721-8017fd23c094",
+    "url": "https://www.last.fm/music/The+Meads+of+Asphodel/Metatron+and+the+Red+Gleaming+Serpent",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e57fc3ddf24c4516b96ee1de2e45f67c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "135",
+    "playcount": "1509",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Intro",
+          "duration": "123",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "the gleaming red serpent",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/the+gleaming+red+serpent",
+          "duration": "353",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Weeping Tears of Angel Light",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Weeping+Tears+of+Angel+Light",
+          "duration": "197",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Just another time to kill",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Just+another+time+to+kill",
+          "duration": "298",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        },
+        {
+          "name": "Death and darkness",
+          "url": "https://www.last.fm/music/The+Meads+of+Asphodel/_/Death+and+darkness",
+          "duration": "585",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Meads of Asphodel",
+            "mbid": "b6240a00-e2cd-4f08-9c60-67843e33d223",
+            "url": "https://www.last.fm/music/The+Meads+of+Asphodel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:54:41.218Z"
+}

@@ -1,0 +1,134 @@
+{
+  "album": {
+    "name": "The Lament of Gods",
+    "artist": "Varathron",
+    "mbid": "ff1668af-8c75-337e-bff0-98be0e17ca27",
+    "url": "https://www.last.fm/music/Varathron/The+Lament+of+Gods",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/05aa2f166254c95865a604d4fa8228ed.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1358",
+    "playcount": "11736",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fire Spell / Forbidden Lust",
+          "url": "https://www.last.fm/music/Varathron/_/Fire+Spell+%2F+Forbidden+Lust",
+          "duration": "428",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "Warrior's Nightmare",
+          "url": "https://www.last.fm/music/Varathron/_/Warrior%27s+Nightmare",
+          "duration": "284",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "The World through Ancient Eyes",
+          "url": "https://www.last.fm/music/Varathron/_/The+World+through+Ancient+Eyes",
+          "duration": "277",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "Beyond the Grave",
+          "url": "https://www.last.fm/music/Varathron/_/Beyond+the+Grave",
+          "duration": "293",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        },
+        {
+          "name": "Nuns Have No Fun",
+          "url": "https://www.last.fm/music/Varathron/_/Nuns+Have+No+Fun",
+          "duration": "277",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Varathron",
+            "mbid": "fe54b9df-01d8-4126-a2e9-df47dda9a18a",
+            "url": "https://www.last.fm/music/Varathron"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:01:59.474Z"
+}

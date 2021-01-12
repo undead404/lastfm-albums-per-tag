@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Boom Boom",
+    "artist": "Andras",
+    "url": "https://www.last.fm/music/Andras/Boom+Boom",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b82722ae2a36ef904ad77c096c6ba5c6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "909",
+    "playcount": "3145",
+    "tracks": {
+      "track": [
+        {
+          "name": "Jingo",
+          "url": "https://www.last.fm/music/Andras/_/Jingo",
+          "duration": "324",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Wax FM",
+          "url": "https://www.last.fm/music/Andras/_/Wax+FM",
+          "duration": "49",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Conch",
+          "url": "https://www.last.fm/music/Andras/_/Conch",
+          "duration": "345",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Rubber",
+          "url": "https://www.last.fm/music/Andras/_/Rubber",
+          "duration": "306",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "IPX7",
+          "url": "https://www.last.fm/music/Andras/_/IPX7",
+          "duration": "198",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Big Boom",
+          "url": "https://www.last.fm/music/Andras/_/Big+Boom",
+          "duration": "63",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:24:33.090Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Letumus Cathari",
+    "artist": "Wayfarer",
+    "url": "https://www.last.fm/music/Wayfarer/Letumus+Cathari",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/553d9bdc42c3440c866a694974d55343.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/553d9bdc42c3440c866a694974d55343.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/553d9bdc42c3440c866a694974d55343.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/553d9bdc42c3440c866a694974d55343.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/553d9bdc42c3440c866a694974d55343.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/553d9bdc42c3440c866a694974d55343.png",
+        "size": ""
+      }
+    ],
+    "listeners": "156",
+    "playcount": "1603",
+    "tracks": {
+      "track": [
+        {
+          "name": "In Absentia Lucis Tenebrae Vincunt",
+          "url": "https://www.last.fm/music/Wayfarer/_/In+Absentia+Lucis+Tenebrae+Vincunt",
+          "duration": "330",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        },
+        {
+          "name": "Consolamentum",
+          "url": "https://www.last.fm/music/Wayfarer/_/Consolamentum",
+          "duration": "404",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wayfarer",
+            "mbid": "4341ebaa-7aed-4b80-91eb-bf5b614b59a3",
+            "url": "https://www.last.fm/music/Wayfarer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:51:53.768Z"
+}

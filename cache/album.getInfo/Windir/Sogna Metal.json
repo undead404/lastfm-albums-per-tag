@@ -1,0 +1,350 @@
+{
+  "album": {
+    "name": "Sogna Metal",
+    "artist": "Windir",
+    "mbid": "ee5e688e-d374-44eb-980e-31e98916e2ff",
+    "url": "https://www.last.fm/music/Windir/Sogna+Metal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/690f03120f7ad7faf11cfd82a217d028.png",
+        "size": ""
+      }
+    ],
+    "listeners": "295",
+    "playcount": "1704",
+    "tracks": {
+      "track": [
+        {
+          "name": "Strid",
+          "url": "https://www.last.fm/music/Windir/_/Strid",
+          "duration": "201",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sognariket Sine Krigarar",
+          "url": "https://www.last.fm/music/Windir/_/Sognariket+Sine+Krigarar",
+          "duration": "336",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "On the Mountain of Goats",
+          "url": "https://www.last.fm/music/Windir/_/On+the+Mountain+of+Goats",
+          "duration": "324",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Svartesmeden Og Lunnamyrstrollet",
+          "url": "https://www.last.fm/music/Windir/_/Svartesmeden+Og+Lunnamyrstrollet",
+          "duration": "576",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Stridsmann",
+          "url": "https://www.last.fm/music/Windir/_/Stridsmann",
+          "duration": "354",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "1184",
+          "url": "https://www.last.fm/music/Windir/_/1184",
+          "duration": "328",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Blodssvik",
+          "url": "https://www.last.fm/music/Windir/_/Blodssvik",
+          "duration": "465",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Fagning",
+          "url": "https://www.last.fm/music/Windir/_/Fagning",
+          "duration": "511",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Krigaraen Si Gravferd",
+          "url": "https://www.last.fm/music/Windir/_/Krigaraen+Si+Gravferd",
+          "duration": "490",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Byrjing",
+          "url": "https://www.last.fm/music/Windir/_/Byrjing",
+          "duration": "198",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Arntor, ein Windir",
+          "url": "https://www.last.fm/music/Windir/_/Arntor,+ein+Windir",
+          "duration": "417",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sognariket Sine Krigarar",
+          "url": "https://www.last.fm/music/Windir/_/Sognariket+Sine+Krigarar",
+          "duration": "336",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Ending",
+          "url": "https://www.last.fm/music/Windir/_/Ending",
+          "duration": "219",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "The Spiritlord",
+          "url": "https://www.last.fm/music/Windir/_/The+Spiritlord",
+          "duration": "371",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Heidra",
+          "url": "https://www.last.fm/music/Windir/_/Heidra",
+          "duration": "498",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Dance of Mortal Lust",
+          "url": "https://www.last.fm/music/Windir/_/Dance+of+Mortal+Lust",
+          "duration": "345",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "1184",
+          "url": "https://www.last.fm/music/Windir/_/1184",
+          "duration": "328",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Despot",
+          "url": "https://www.last.fm/music/Windir/_/Despot",
+          "duration": "361",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:10:02.352Z"
+}

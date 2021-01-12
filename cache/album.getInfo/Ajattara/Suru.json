@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Suru",
+    "artist": "Ajattara",
+    "url": "https://www.last.fm/music/Ajattara/Suru",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4307ed91bedfc7531e3e07f1e6c6c3d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "152",
+    "playcount": "432",
+    "tracks": {
+      "track": [
+        {
+          "name": "Suru",
+          "url": "https://www.last.fm/music/Ajattara/_/Suru",
+          "duration": "266",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:17:50.475Z"
+}

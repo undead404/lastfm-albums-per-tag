@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "The Fall Of Idol",
+    "artist": "Master's Hammer",
+    "mbid": "f1194414-2185-43e4-8ba8-55e704147512",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/The+Fall+Of+Idol",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/225bb538fea54c30acceabfab48e1919.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/225bb538fea54c30acceabfab48e1919.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/225bb538fea54c30acceabfab48e1919.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/225bb538fea54c30acceabfab48e1919.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/225bb538fea54c30acceabfab48e1919.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/225bb538fea54c30acceabfab48e1919.png",
+        "size": ""
+      }
+    ],
+    "listeners": "499",
+    "playcount": "5334",
+    "tracks": {
+      "track": [
+        {
+          "name": "King Of The Forest",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/King+Of+The+Forest",
+          "duration": "151",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Pád modly",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/P%C3%A1d+modly",
+          "duration": "391",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Kazdy Z Nás Bíjí Boha",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kazdy+Z+N%C3%A1s+B%C3%ADj%C3%AD+Boha",
+          "duration": "231",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Geniové",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Geniov%C3%A9",
+          "duration": "309",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Hnijíci Ráj",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Hnij%C3%ADci+R%C3%A1j",
+          "duration": "220",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Útok",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C3%9Atok",
+          "duration": "451",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:23:45.699Z"
+}

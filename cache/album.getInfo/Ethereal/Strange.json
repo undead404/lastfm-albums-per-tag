@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Strange",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Strange",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ada731ca04f750638e53fb464be9383a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ada731ca04f750638e53fb464be9383a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ada731ca04f750638e53fb464be9383a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ada731ca04f750638e53fb464be9383a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ada731ca04f750638e53fb464be9383a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ada731ca04f750638e53fb464be9383a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1366",
+    "playcount": "3570",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:48.847Z"
+}

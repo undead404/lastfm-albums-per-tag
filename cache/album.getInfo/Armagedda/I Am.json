@@ -1,0 +1,138 @@
+{
+  "album": {
+    "name": "I Am",
+    "artist": "Armagedda",
+    "mbid": "c9834604-f9a3-43df-ad7c-89216e6f4290",
+    "url": "https://www.last.fm/music/Armagedda/I+Am",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0d1434b93f36c99f84d1f998790c095.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1160",
+    "playcount": "16156",
+    "tracks": {
+      "track": [
+        {
+          "name": "Den Skrivna Eskatologin",
+          "url": "https://www.last.fm/music/Armagedda/_/Den+Skrivna+Eskatologin",
+          "duration": "381",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "De Vanhelgade",
+          "url": "https://www.last.fm/music/Armagedda/_/De+Vanhelgade",
+          "duration": "382",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "I Am",
+          "url": "https://www.last.fm/music/Armagedda/_/I+Am",
+          "duration": "326",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Cold Eon",
+          "url": "https://www.last.fm/music/Armagedda/_/Cold+Eon",
+          "duration": "318",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "underground",
+          "url": "https://www.last.fm/tag/underground"
+        },
+        {
+          "name": "armagedda",
+          "url": "https://www.last.fm/tag/armagedda"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Mar 2015, 09:53",
+      "summary": "The mini album contains a lost recording from the period between 2001 and 2002. <a href=\"http://www.last.fm/music/Armagedda/I+Am\">Read more on Last.fm</a>.",
+      "content": "The mini album contains a lost recording from the period between 2001 and 2002. <a href=\"http://www.last.fm/music/Armagedda/I+Am\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:19:03.331Z"
+}

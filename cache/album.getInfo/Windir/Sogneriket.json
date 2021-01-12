@@ -1,0 +1,197 @@
+{
+  "album": {
+    "name": "Sogneriket",
+    "artist": "Windir",
+    "mbid": "1b495897-c259-490d-add8-3b5f9bf1567c",
+    "url": "https://www.last.fm/music/Windir/Sogneriket",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fb23c9cdad072e035d202b7d68360374.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fb23c9cdad072e035d202b7d68360374.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fb23c9cdad072e035d202b7d68360374.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb23c9cdad072e035d202b7d68360374.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb23c9cdad072e035d202b7d68360374.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb23c9cdad072e035d202b7d68360374.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4020",
+    "playcount": "88980",
+    "tracks": {
+      "track": [
+        {
+          "name": "Krigaren Si Gravferd",
+          "url": "https://www.last.fm/music/Windir/_/Krigaren+Si+Gravferd",
+          "duration": "384",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Immortality",
+          "url": "https://www.last.fm/music/Windir/_/Immortality",
+          "duration": "281",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Sogneriket",
+          "url": "https://www.last.fm/music/Windir/_/Sogneriket",
+          "duration": "422",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Norrøn Seier",
+          "url": "https://www.last.fm/music/Windir/_/Norr%C3%B8n+Seier",
+          "duration": "320",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Dans på Stemmehaugen",
+          "url": "https://www.last.fm/music/Windir/_/Dans+p%C3%A5+Stemmehaugen",
+          "duration": "334",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Fjell Og Dalar",
+          "url": "https://www.last.fm/music/Windir/_/Fjell+Og+Dalar",
+          "duration": "344",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Soge I: Reisen",
+          "url": "https://www.last.fm/music/Windir/_/Soge+I:+Reisen",
+          "duration": "281",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        },
+        {
+          "name": "Soge II: Framkomsten",
+          "url": "https://www.last.fm/music/Windir/_/Soge+II:+Framkomsten",
+          "duration": "93",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Windir",
+            "mbid": "1cc7ebc1-8ea6-43fc-a8c2-6f2836f56c9f",
+            "url": "https://www.last.fm/music/Windir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "favourite demos",
+          "url": "https://www.last.fm/tag/favourite+demos"
+        },
+        {
+          "name": "Above all",
+          "url": "https://www.last.fm/tag/Above+all"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:09:55.600Z"
+}

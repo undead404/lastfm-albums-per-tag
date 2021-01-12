@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Kill",
+    "artist": "Odium",
+    "url": "https://www.last.fm/music/Odium/Kill",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f1f39b578822d931938d69e1a724347.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f1f39b578822d931938d69e1a724347.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f1f39b578822d931938d69e1a724347.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f1f39b578822d931938d69e1a724347.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f1f39b578822d931938d69e1a724347.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f1f39b578822d931938d69e1a724347.png",
+        "size": ""
+      }
+    ],
+    "listeners": "178",
+    "playcount": "483",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kill",
+          "url": "https://www.last.fm/music/Odium/_/Kill",
+          "duration": "153",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:59:21.393Z"
+}

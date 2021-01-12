@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "EP",
+    "artist": "Ludicra",
+    "mbid": "9360e0a0-c2fd-432e-842d-ad24f9fe6fcf",
+    "url": "https://www.last.fm/music/Ludicra/EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1cc878b26c904b0398961a4fcdc1d164.png",
+        "size": ""
+      }
+    ],
+    "listeners": "78",
+    "playcount": "729",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wooden Wheels",
+          "url": "https://www.last.fm/music/Ludicra/_/Wooden+Wheels",
+          "duration": "404",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Walk The Path Of Ash",
+          "url": "https://www.last.fm/music/Ludicra/_/Walk+The+Path+Of+Ash",
+          "duration": "566",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "This Empty Throne",
+          "url": "https://www.last.fm/music/Ludicra/_/This+Empty+Throne",
+          "duration": "416",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "[Untitled]",
+          "url": "https://www.last.fm/music/Ludicra/_/%5BUntitled%5D",
+          "duration": "234",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:55:55.048Z"
+}

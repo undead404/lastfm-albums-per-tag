@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Juniper - Single",
+    "artist": "Myrkur",
+    "url": "https://www.last.fm/music/Myrkur/Juniper+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/653c2a39098e3fe64d23d469e50cbd90.png",
+        "size": ""
+      }
+    ],
+    "listeners": "328",
+    "playcount": "1553",
+    "tracks": {
+      "track": [
+        {
+          "name": "Juniper",
+          "url": "https://www.last.fm/music/Myrkur/_/Juniper",
+          "duration": "218",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:12:06.024Z"
+}

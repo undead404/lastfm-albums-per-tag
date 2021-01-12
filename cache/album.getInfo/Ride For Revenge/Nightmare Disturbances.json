@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Nightmare Disturbances",
+    "artist": "Ride For Revenge",
+    "url": "https://www.last.fm/music/Ride+For+Revenge/Nightmare+Disturbances",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fee40fb5c719a05b26c8933f87e4d783.png",
+        "size": ""
+      }
+    ],
+    "listeners": "14",
+    "playcount": "32",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nightmare Disturbances I",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Nightmare+Disturbances+I",
+          "duration": "1182",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        },
+        {
+          "name": "Nightmare Disturbances II",
+          "url": "https://www.last.fm/music/Ride+For+Revenge/_/Nightmare+Disturbances+II",
+          "duration": "1162",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ride For Revenge",
+            "mbid": "5f933291-038e-459b-a9a7-eab084d90a5d",
+            "url": "https://www.last.fm/music/Ride+For+Revenge"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:19:43.303Z"
+}

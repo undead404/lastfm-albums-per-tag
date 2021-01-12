@@ -1,0 +1,125 @@
+{
+  "album": {
+    "name": "Hedengang",
+    "artist": "Nortt",
+    "mbid": "9412173d-2c9f-4c60-a2d7-83b4c28eb824",
+    "url": "https://www.last.fm/music/Nortt/Hedengang",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a98ba3e522987c64cc378a5f6c19aefb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1599",
+    "playcount": "13656",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hedengangen (Intro)",
+          "url": "https://www.last.fm/music/Nortt/_/Hedengangen+(Intro)",
+          "duration": "114",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Glemt",
+          "url": "https://www.last.fm/music/Nortt/_/Glemt",
+          "duration": "457",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Død og borte",
+          "url": "https://www.last.fm/music/Nortt/_/D%C3%B8d+og+borte",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        },
+        {
+          "name": "Dystert Sind (Outro)",
+          "url": "https://www.last.fm/music/Nortt/_/Dystert+Sind+(Outro)",
+          "duration": "141",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nortt",
+            "mbid": "e02f0cfc-4b39-4928-955c-d5a07599bad1",
+            "url": "https://www.last.fm/music/Nortt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "funeral doom metal",
+          "url": "https://www.last.fm/tag/funeral+doom+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:56.631Z"
+}

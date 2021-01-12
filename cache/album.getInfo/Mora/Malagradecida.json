@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Malagradecida",
+    "artist": "Mora",
+    "url": "https://www.last.fm/music/Mora/Malagradecida",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fd7085b53b049fa0f029aba36551ab4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "574",
+    "playcount": "1468",
+    "tracks": {
+      "track": [
+        {
+          "name": "Malagradecida",
+          "url": "https://www.last.fm/music/Mora/_/Malagradecida",
+          "duration": "219",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mora",
+            "mbid": "5fd0d57d-238a-4161-bcd4-12c22fe92556",
+            "url": "https://www.last.fm/music/Mora"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:54:19.487Z"
+}

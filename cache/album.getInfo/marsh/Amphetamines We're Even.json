@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Amphetamines We're Even",
+    "artist": "marsh",
+    "url": "https://www.last.fm/music/marsh/Amphetamines+We%27re+Even",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef3fa0495959a62d25e64a6664ff1cf6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "49",
+    "playcount": "279",
+    "tracks": {
+      "track": [
+        {
+          "name": "Being Means I'm Sorry",
+          "url": "https://www.last.fm/music/marsh/_/Being+Means+I%27m+Sorry",
+          "duration": "54",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Amphetamines We're Even",
+          "url": "https://www.last.fm/music/marsh/_/Amphetamines+We%27re+Even",
+          "duration": "373",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Withdrawals/Transition",
+          "url": "https://www.last.fm/music/marsh/_/Withdrawals%2FTransition",
+          "duration": "101",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Sofia",
+          "url": "https://www.last.fm/music/marsh/_/Sofia",
+          "duration": "300",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        },
+        {
+          "name": "Amphetamines We're Even - Public Remix Edition",
+          "url": "https://www.last.fm/music/marsh/_/Amphetamines+We%27re+Even+-+Public+Remix+Edition",
+          "duration": "377",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "marsh",
+            "mbid": "871501c5-0a49-443d-bfcb-076a1e56f689",
+            "url": "https://www.last.fm/music/marsh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:46:55.001Z"
+}

@@ -1,0 +1,98 @@
+{
+  "album": {
+    "name": "Einsiedler",
+    "artist": "Urfaust",
+    "url": "https://www.last.fm/music/Urfaust/Einsiedler",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7848b55e04184694b53f9be0cb028bf9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5144",
+    "playcount": "68844",
+    "tracks": {
+      "track": [
+        {
+          "name": "IX: Der Einsiedler",
+          "url": "https://www.last.fm/music/Urfaust/_/IX:+Der+Einsiedler",
+          "duration": "727",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urfaust",
+            "mbid": "5631d5cd-ab06-4baa-b92d-ef76669ddb05",
+            "url": "https://www.last.fm/music/Urfaust"
+          }
+        },
+        {
+          "name": "Verderber",
+          "url": "https://www.last.fm/music/Urfaust/_/Verderber",
+          "duration": "410",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urfaust",
+            "mbid": "5631d5cd-ab06-4baa-b92d-ef76669ddb05",
+            "url": "https://www.last.fm/music/Urfaust"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric",
+          "url": "https://www.last.fm/tag/atmospheric"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:05.210Z"
+}

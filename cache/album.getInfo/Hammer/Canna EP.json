@@ -1,0 +1,103 @@
+{
+  "album": {
+    "name": "Canna EP",
+    "artist": "Hammer",
+    "url": "https://www.last.fm/music/Hammer/Canna+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ad3c1e5546dd0e5ce600e15bfa08b04.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3774",
+    "playcount": "13996",
+    "tracks": {
+      "track": [
+        {
+          "name": "Canna",
+          "url": "https://www.last.fm/music/Hammer/_/Canna",
+          "duration": "369",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Manaka",
+          "url": "https://www.last.fm/music/Hammer/_/Manaka",
+          "duration": "469",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        },
+        {
+          "name": "Man Ray",
+          "url": "https://www.last.fm/music/Hammer/_/Man+Ray",
+          "duration": "413",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hammer",
+            "mbid": "d32b6342-e4b6-456a-a83a-7ab2743f7bcc",
+            "url": "https://www.last.fm/music/Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "deep house",
+          "url": "https://www.last.fm/tag/deep+house"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:51:33.599Z"
+}

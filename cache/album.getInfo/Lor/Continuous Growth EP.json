@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Continuous Growth EP",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Continuous+Growth+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/059e454134fdaa462aeceda0f3172e97.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/059e454134fdaa462aeceda0f3172e97.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/059e454134fdaa462aeceda0f3172e97.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059e454134fdaa462aeceda0f3172e97.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059e454134fdaa462aeceda0f3172e97.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/059e454134fdaa462aeceda0f3172e97.png",
+        "size": ""
+      }
+    ],
+    "listeners": "70",
+    "playcount": "168",
+    "tracks": {
+      "track": [
+        {
+          "name": "Boy's Brigade",
+          "url": "https://www.last.fm/music/Lor/_/Boy%27s+Brigade",
+          "duration": "498",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Continuous Growth",
+          "url": "https://www.last.fm/music/Lor/_/Continuous+Growth",
+          "duration": "396",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Net, Lace",
+          "url": "https://www.last.fm/music/Lor/_/Net,+Lace",
+          "duration": "377",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:46.241Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Storm",
+    "artist": "Wodensthrone",
+    "url": "https://www.last.fm/music/Wodensthrone/The+Storm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a0da5028c8054e94a09d5049f40c5736.png",
+        "size": ""
+      }
+    ],
+    "listeners": "258",
+    "playcount": "440",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Storm",
+          "url": "https://www.last.fm/music/Wodensthrone/_/The+Storm",
+          "duration": "358",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wodensthrone",
+            "mbid": "db196fe4-6955-40e8-ad4d-9ced7fc9147c",
+            "url": "https://www.last.fm/music/Wodensthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:23:53.329Z"
+}

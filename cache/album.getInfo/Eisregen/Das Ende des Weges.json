@@ -1,0 +1,241 @@
+{
+  "album": {
+    "name": "Das Ende des Weges",
+    "artist": "Eisregen",
+    "mbid": "f25930e3-a2d5-42a8-b1a3-386262bc1ea8",
+    "url": "https://www.last.fm/music/Eisregen/Das+Ende+des+Weges",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/454cd04b6dac4007a7c0dfc891daceee.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2215",
+    "playcount": "34662",
+    "tracks": {
+      "track": [
+        {
+          "name": "Einklang",
+          "url": "https://www.last.fm/music/Eisregen/_/Einklang",
+          "duration": "7",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Blut ist Leben",
+          "url": "https://www.last.fm/music/Eisregen/_/Blut+ist+Leben",
+          "duration": "127",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Eispalast",
+          "url": "https://www.last.fm/music/Eisregen/_/Eispalast",
+          "duration": "205",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Zeitenwende",
+          "url": "https://www.last.fm/music/Eisregen/_/Zeitenwende",
+          "duration": "230",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Herzblut",
+          "url": "https://www.last.fm/music/Eisregen/_/Herzblut",
+          "duration": "353",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "nichts wäret ewiglich",
+          "url": "https://www.last.fm/music/Eisregen/_/nichts+w%C3%A4ret+ewiglich",
+          "duration": "357",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Ode an den Niedergang",
+          "url": "https://www.last.fm/music/Eisregen/_/Ode+an+den+Niedergang",
+          "duration": "119",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Zu Ehren meiner dunklen Königin",
+          "url": "https://www.last.fm/music/Eisregen/_/Zu+Ehren+meiner+dunklen+K%C3%B6nigin",
+          "duration": "222",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Ich bin das Tor",
+          "url": "https://www.last.fm/music/Eisregen/_/Ich+bin+das+Tor",
+          "duration": "431",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Ausklang",
+          "url": "https://www.last.fm/music/Eisregen/_/Ausklang",
+          "duration": "7",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "HarukaEX S2",
+          "url": "https://www.last.fm/tag/HarukaEX+S2"
+        },
+        {
+          "name": "das ende des weges eisregen",
+          "url": "https://www.last.fm/tag/das+ende+des+weges+eisregen"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:27.019Z"
+}

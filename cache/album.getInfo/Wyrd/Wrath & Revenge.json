@@ -1,0 +1,248 @@
+{
+  "album": {
+    "name": "Wrath & Revenge",
+    "artist": "Wyrd",
+    "mbid": "20f50ed2-bca7-4fad-b2fc-7497f1c80d9f",
+    "url": "https://www.last.fm/music/Wyrd/Wrath+&+Revenge",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/630b801d4185485b852811bb881cb2a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/630b801d4185485b852811bb881cb2a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/630b801d4185485b852811bb881cb2a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/630b801d4185485b852811bb881cb2a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/630b801d4185485b852811bb881cb2a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/630b801d4185485b852811bb881cb2a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "228",
+    "playcount": "5240",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ravenhill",
+          "url": "https://www.last.fm/music/Wyrd/_/Ravenhill",
+          "duration": "522",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Unchained",
+          "url": "https://www.last.fm/music/Wyrd/_/Unchained",
+          "duration": "236",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Hel",
+          "url": "https://www.last.fm/music/Wyrd/_/Hel",
+          "duration": "262",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Revenge of the Pagan Hordes",
+          "url": "https://www.last.fm/music/Wyrd/_/Revenge+of+the+Pagan+Hordes",
+          "duration": "176",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "The Old Warrior",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Old+Warrior",
+          "duration": "335",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Wotan's Heir",
+          "url": "https://www.last.fm/music/Wyrd/_/Wotan%27s+Heir",
+          "duration": "303",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Wyrd",
+          "url": "https://www.last.fm/music/Wyrd/_/Wyrd",
+          "duration": "89",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Gods of the Storm",
+          "url": "https://www.last.fm/music/Wyrd/_/Gods+of+the+Storm",
+          "duration": "199",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Song of the Northern Gale",
+          "url": "https://www.last.fm/music/Wyrd/_/Song+of+the+Northern+Gale",
+          "duration": "408",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Season of Grief",
+          "url": "https://www.last.fm/music/Wyrd/_/Season+of+Grief",
+          "duration": "775",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Oath of Revenge",
+          "url": "https://www.last.fm/music/Wyrd/_/Oath+of+Revenge",
+          "duration": "800",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Promise",
+          "url": "https://www.last.fm/music/Wyrd/_/Promise",
+          "duration": "329",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:42.642Z"
+}

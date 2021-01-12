@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Hex",
+    "artist": "Wyrd",
+    "url": "https://www.last.fm/music/Wyrd/Hex",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b17e7f0009073f3a9f68c17c2056d0d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "234",
+    "playcount": "3058",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hex",
+          "url": "https://www.last.fm/music/Wyrd/_/Hex",
+          "duration": "229",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Ruins Upon Ruins",
+          "url": "https://www.last.fm/music/Wyrd/_/Ruins+Upon+Ruins",
+          "duration": "356",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Natures Book Drawn in Blood",
+          "url": "https://www.last.fm/music/Wyrd/_/Natures+Book+Drawn+in+Blood",
+          "duration": "435",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Seide",
+          "url": "https://www.last.fm/music/Wyrd/_/Seide",
+          "duration": "367",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Misanthrope's Dream",
+          "url": "https://www.last.fm/music/Wyrd/_/Misanthrope%27s+Dream",
+          "duration": "541",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Pale Lake of Autumn",
+          "url": "https://www.last.fm/music/Wyrd/_/Pale+Lake+of+Autumn",
+          "duration": "408",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "The Passage",
+          "url": "https://www.last.fm/music/Wyrd/_/The+Passage",
+          "duration": "191",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Land of the Dying Sun",
+          "url": "https://www.last.fm/music/Wyrd/_/Land+of+the+Dying+Sun",
+          "duration": "460",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "White Faces Silver Chimes",
+          "url": "https://www.last.fm/music/Wyrd/_/White+Faces+Silver+Chimes",
+          "duration": "232",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:55:40.580Z"
+}

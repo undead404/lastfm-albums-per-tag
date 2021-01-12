@@ -1,0 +1,230 @@
+{
+  "album": {
+    "name": "Berdreyminn (Deluxe Edition)",
+    "artist": "Sólstafir",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/Berdreyminn+(Deluxe+Edition)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4f1c068928e0441f85b56faeaa3352a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4419",
+    "playcount": "75522",
+    "tracks": {
+      "track": [
+        {
+          "name": "Silfur-Refur",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Silfur-Refur",
+          "duration": "414",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Ísafold",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/%C3%8Dsafold",
+          "duration": "299",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Hula",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Hula",
+          "duration": "427",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Nárós",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/N%C3%A1r%C3%B3s",
+          "duration": "442",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Hvít Sæng",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Hv%C3%ADt+S%C3%A6ng",
+          "duration": "442",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Dýrafjörður",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/D%C3%BDrafj%C3%B6r%C3%B0ur",
+          "duration": "451",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Ambátt",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Amb%C3%A1tt",
+          "duration": "488",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Bláfjall",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Bl%C3%A1fjall",
+          "duration": "480",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Svart Blóð (Bonus Track)",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Svart+Bl%C3%B3%C3%B0+(Bonus+Track)",
+          "duration": "0",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Samband I Berlin (Bonus Track)",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Samband+I+Berlin+(Bonus+Track)",
+          "duration": "0",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        },
+        {
+          "name": "Digital Booklet: Berdreyminn (Deluxe Edition)",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Digital+Booklet:+Berdreyminn+(Deluxe+Edition)",
+          "duration": "0",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:53.378Z"
+}

@@ -1,0 +1,91 @@
+{
+  "album": {
+    "name": "Krigsmakt",
+    "artist": "Nordjevel",
+    "url": "https://www.last.fm/music/Nordjevel/Krigsmakt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e7430624518d8563a81a99a6657d46f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e7430624518d8563a81a99a6657d46f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e7430624518d8563a81a99a6657d46f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e7430624518d8563a81a99a6657d46f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e7430624518d8563a81a99a6657d46f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e7430624518d8563a81a99a6657d46f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3071",
+    "playcount": "14845",
+    "tracks": {
+      "track": [
+        {
+          "name": "Krigsmakt",
+          "url": "https://www.last.fm/music/Nordjevel/_/Krigsmakt",
+          "duration": "242",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        },
+        {
+          "name": "For De Falne...",
+          "url": "https://www.last.fm/music/Nordjevel/_/For+De+Falne...",
+          "duration": "333",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        },
+        {
+          "name": "Into Ever Deeper Depths",
+          "url": "https://www.last.fm/music/Nordjevel/_/Into+Ever+Deeper+Depths",
+          "duration": "226",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:48:12.442Z"
+}

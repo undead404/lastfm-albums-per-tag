@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Kuolemanvirta",
+    "artist": "Mustan Kuun Lapset",
+    "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/Kuolemanvirta",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5d962c3db281bb7f22cdfe16122d488e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "328",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kuolemanvirta",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Kuolemanvirta",
+          "duration": "345",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        },
+        {
+          "name": "Veritanssi '16",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Veritanssi+%2716",
+          "duration": "262",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        },
+        {
+          "name": "Valkoinen Satama - Live",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Valkoinen+Satama+-+Live",
+          "duration": "375",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        },
+        {
+          "name": "Kuka Palvoo Saatanaa - Live",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Kuka+Palvoo+Saatanaa+-+Live",
+          "duration": "120",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:14:16.351Z"
+}

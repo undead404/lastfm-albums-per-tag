@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Troll",
+    "artist": "Troll",
+    "mbid": "9239482d-2af5-4ebf-a0cc-1834da8dec1c",
+    "url": "https://www.last.fm/music/Troll/Troll",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32afc73af693da6c2d22347c2060436d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32afc73af693da6c2d22347c2060436d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32afc73af693da6c2d22347c2060436d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32afc73af693da6c2d22347c2060436d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32afc73af693da6c2d22347c2060436d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32afc73af693da6c2d22347c2060436d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5887",
+    "playcount": "28352",
+    "tracks": {
+      "track": [
+        {
+          "name": "Jimmy Dean",
+          "url": "https://www.last.fm/music/Troll/_/Jimmy+Dean",
+          "duration": "416",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Never Been In Love Before",
+          "url": "https://www.last.fm/music/Troll/_/Never+Been+In+Love+Before",
+          "duration": "251",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Running",
+          "url": "https://www.last.fm/music/Troll/_/Running",
+          "duration": "159",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "What's Going On?",
+          "url": "https://www.last.fm/music/Troll/_/What%27s+Going+On%3F",
+          "duration": "233",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "On A Kangaroo",
+          "url": "https://www.last.fm/music/Troll/_/On+A+Kangaroo",
+          "duration": "169",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "It's Serious",
+          "url": "https://www.last.fm/music/Troll/_/It%27s+Serious",
+          "duration": "251",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Going To Bermudas",
+          "url": "https://www.last.fm/music/Troll/_/Going+To+Bermudas",
+          "duration": "228",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "It's A Miracle",
+          "url": "https://www.last.fm/music/Troll/_/It%27s+A+Miracle",
+          "duration": "250",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Calling On Your Heart",
+          "url": "https://www.last.fm/music/Troll/_/Calling+On+Your+Heart",
+          "duration": "220",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "If You Love Him",
+          "url": "https://www.last.fm/music/Troll/_/If+You+Love+Him",
+          "duration": "232",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Jimmy Dean (Extended Version)",
+          "url": "https://www.last.fm/music/Troll/_/Jimmy+Dean+(Extended+Version)",
+          "duration": "416",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:13:33.646Z"
+}

@@ -1,0 +1,265 @@
+{
+  "album": {
+    "name": "A voté",
+    "artist": "Parabellum",
+    "mbid": "f0fa5331-3f3f-4492-93b6-52ac1e70d36d",
+    "url": "https://www.last.fm/music/Parabellum/A+vot%C3%A9",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a1cdf529bbb43cc97e9f1425ac33065.png",
+        "size": ""
+      }
+    ],
+    "listeners": "360",
+    "playcount": "3520",
+    "tracks": {
+      "track": [
+        {
+          "name": "La victoire",
+          "url": "https://www.last.fm/music/Parabellum/_/La+victoire",
+          "duration": "135",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Le nouveau président",
+          "url": "https://www.last.fm/music/Parabellum/_/Le+nouveau+pr%C3%A9sident",
+          "duration": "310",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "J'En Ai Rien A Foutre",
+          "url": "https://www.last.fm/music/Parabellum/_/J%27En+Ai+Rien+A+Foutre",
+          "duration": "168",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Brasero",
+          "url": "https://www.last.fm/music/Parabellum/_/Brasero",
+          "duration": "219",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Putain de serie B",
+          "url": "https://www.last.fm/music/Parabellum/_/Putain+de+serie+B",
+          "duration": "251",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Mayday",
+          "url": "https://www.last.fm/music/Parabellum/_/Mayday",
+          "duration": "234",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Schultz bricole",
+          "url": "https://www.last.fm/music/Parabellum/_/Schultz+bricole",
+          "duration": "61",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "C'Est Pas Fait Pour Un Mec Comme Moi",
+          "url": "https://www.last.fm/music/Parabellum/_/C%27Est+Pas+Fait+Pour+Un+Mec+Comme+Moi",
+          "duration": "250",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Le 13eme Salopard",
+          "url": "https://www.last.fm/music/Parabellum/_/Le+13eme+Salopard",
+          "duration": "222",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Stand By Your Man",
+          "url": "https://www.last.fm/music/Parabellum/_/Stand+By+Your+Man",
+          "duration": "187",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Super brune",
+          "url": "https://www.last.fm/music/Parabellum/_/Super+brune",
+          "duration": "164",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Osmose 2012",
+          "url": "https://www.last.fm/music/Parabellum/_/Osmose+2012",
+          "duration": "220",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Punky Dandy",
+          "url": "https://www.last.fm/music/Parabellum/_/Punky+Dandy",
+          "duration": "501",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:45:55.792Z"
+}

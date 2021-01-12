@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "Painkiller",
+    "artist": "Chthonic",
+    "url": "https://www.last.fm/music/Chthonic/Painkiller",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec24da2a286d429596b891e4b753fa9c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "883",
+    "playcount": "4428",
+    "tracks": {
+      "track": [
+        {
+          "name": "Painkiller",
+          "url": "https://www.last.fm/music/Chthonic/_/Painkiller",
+          "duration": "371",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Bloody Waves of Sorrow",
+          "url": "https://www.last.fm/music/Chthonic/_/Bloody+Waves+of+Sorrow",
+          "duration": "289",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        },
+        {
+          "name": "Digital Booklet: Painkiller",
+          "url": "https://www.last.fm/music/Chthonic/_/Digital+Booklet:+Painkiller",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Chthonic",
+            "mbid": "854959ac-b6b1-423f-9449-b8ba0d18f9f9",
+            "url": "https://www.last.fm/music/Chthonic"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "taiwanese",
+          "url": "https://www.last.fm/tag/taiwanese"
+        },
+        {
+          "name": "oriental extreme metal",
+          "url": "https://www.last.fm/tag/oriental+extreme+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:29:35.472Z"
+}

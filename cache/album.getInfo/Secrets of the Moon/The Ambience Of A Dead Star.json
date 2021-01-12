@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "The Ambience Of A Dead Star",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/The+Ambience+Of+A+Dead+Star",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/62417af412114fc0cfcbe1ab54798fad.png",
+        "size": ""
+      }
+    ],
+    "listeners": "417",
+    "playcount": "5167",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Lonesome",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/The+Lonesome",
+          "duration": "280",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "The Devils Tempest",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/The+Devils+Tempest",
+          "duration": "541",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "The Rite of Mercury",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/The+Rite+of+Mercury",
+          "duration": "199",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "The Protagonist (Thelema remix)",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/The+Protagonist+(Thelema+remix)",
+          "duration": "445",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:35.848Z"
+}

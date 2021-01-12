@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Mechanik Horses",
+    "artist": "Nazgul",
+    "url": "https://www.last.fm/music/Nazgul/Mechanik+Horses",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/693f95e1c83c4111839e6d511086e2c7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12",
+    "playcount": "24",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cries of Pain",
+          "url": "https://www.last.fm/music/Nazgul/_/Cries+of+Pain",
+          "duration": "375",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Mechanik Horses",
+          "url": "https://www.last.fm/music/Nazgul/_/Mechanik+Horses",
+          "duration": "401",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "The Black Stromper",
+          "url": "https://www.last.fm/music/Nazgul/_/The+Black+Stromper",
+          "duration": "417",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "electronic music",
+          "url": "https://www.last.fm/tag/electronic+music"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:08:49.341Z"
+}

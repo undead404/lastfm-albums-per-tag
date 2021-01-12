@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Resilient - EP",
+    "artist": "Nachtmystium",
+    "url": "https://www.last.fm/music/Nachtmystium/Resilient+-+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71083863278dee4220547a745263668e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71083863278dee4220547a745263668e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71083863278dee4220547a745263668e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71083863278dee4220547a745263668e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71083863278dee4220547a745263668e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71083863278dee4220547a745263668e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "125",
+    "playcount": "585",
+    "tracks": {
+      "track": [
+        {
+          "name": "Conversion",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Conversion",
+          "duration": "98",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Resilient",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Resilient",
+          "duration": "402",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Silver Lanterns",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Silver+Lanterns",
+          "duration": "430",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Desert Illumination",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Desert+Illumination",
+          "duration": "573",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:22:39.882Z"
+}

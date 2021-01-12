@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Into Infinite Obscurity",
+    "artist": "Dissection",
+    "mbid": "60807741-b0be-4430-afdc-976fdb88c544",
+    "url": "https://www.last.fm/music/Dissection/Into+Infinite+Obscurity",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7fd8aec6a67129b0e2cdeb2c1dfcf9a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2048",
+    "playcount": "11585",
+    "tracks": {
+      "track": [
+        {
+          "name": "Shadows Over a Lost Kingdom",
+          "url": "https://www.last.fm/music/Dissection/_/Shadows+Over+a+Lost+Kingdom",
+          "duration": "169",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        },
+        {
+          "name": "Son Of the Mourning",
+          "url": "https://www.last.fm/music/Dissection/_/Son+Of+the+Mourning",
+          "duration": "205",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        },
+        {
+          "name": "Into Infinite Obscurity",
+          "url": "https://www.last.fm/music/Dissection/_/Into+Infinite+Obscurity",
+          "duration": "65",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "Swedish Death Metal",
+          "url": "https://www.last.fm/tag/Swedish+Death+Metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:26.445Z"
+}

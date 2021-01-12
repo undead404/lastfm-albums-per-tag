@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "The Burning Warpath to Hell",
+    "artist": "Nifelheim",
+    "url": "https://www.last.fm/music/Nifelheim/The+Burning+Warpath+to+Hell",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c71559b10c9c04a15618306d5586e8bd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "20",
+    "playcount": "123",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Burning Warpath To Hell",
+          "url": "https://www.last.fm/music/Nifelheim/_/The+Burning+Warpath+To+Hell",
+          "duration": "347",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nifelheim",
+            "mbid": "51f5f29e-ffc2-4c99-927b-f80259d32a04",
+            "url": "https://www.last.fm/music/Nifelheim"
+          }
+        },
+        {
+          "name": "Devil's Wrath",
+          "url": "https://www.last.fm/music/Nifelheim/_/Devil%27s+Wrath",
+          "duration": "266",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nifelheim",
+            "mbid": "51f5f29e-ffc2-4c99-927b-f80259d32a04",
+            "url": "https://www.last.fm/music/Nifelheim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:08:53.064Z"
+}

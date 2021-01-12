@@ -1,0 +1,723 @@
+{
+  "album": {
+    "name": "Förbannade År 1993-2001",
+    "artist": "Sorhin",
+    "url": "https://www.last.fm/music/Sorhin/F%C3%B6rbannade+%C3%85r+1993-2001",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfea72986f4f45bf9e52e787119eaee4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8",
+    "playcount": "61",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svarta Själars Vandring",
+          "url": "https://www.last.fm/music/Sorhin/_/Svarta+Sj%C3%A4lars+Vandring",
+          "duration": "249",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Enectum",
+          "url": "https://www.last.fm/music/Sorhin/_/Enectum",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "I Skuggan Av Nattens Herre",
+          "url": "https://www.last.fm/music/Sorhin/_/I+Skuggan+Av+Nattens+Herre",
+          "duration": "182",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "i fullmånens dystra sken",
+          "url": "https://www.last.fm/music/Sorhin/_/i+fullm%C3%A5nens+dystra+sken",
+          "duration": "305",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Den Mörke Härskaren (Svart Lyser Tronen)",
+          "url": "https://www.last.fm/music/Sorhin/_/Den+M%C3%B6rke+H%C3%A4rskaren+(Svart+Lyser+Tronen)",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Ett Fornnordiskt Rike",
+          "url": "https://www.last.fm/music/Sorhin/_/Ett+Fornnordiskt+Rike",
+          "duration": "0",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Svarta Själars Vandring",
+          "url": "https://www.last.fm/music/Sorhin/_/Svarta+Sj%C3%A4lars+Vandring",
+          "duration": "249",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Skogsgriftens Rike",
+          "url": "https://www.last.fm/music/Sorhin/_/Skogsgriftens+Rike",
+          "duration": "288",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "i fullmånens dystra sken",
+          "url": "https://www.last.fm/music/Sorhin/_/i+fullm%C3%A5nens+dystra+sken",
+          "duration": "305",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "...och om natten min själ dansar",
+          "url": "https://www.last.fm/music/Sorhin/_/...och+om+natten+min+sj%C3%A4l+dansar",
+          "duration": "198",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Enectum",
+          "url": "https://www.last.fm/music/Sorhin/_/Enectum",
+          "duration": "0",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "I skuggan af nattens herre",
+          "url": "https://www.last.fm/music/Sorhin/_/I+skuggan+af+nattens+herre",
+          "duration": "184",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Godhetens Fall",
+          "url": "https://www.last.fm/music/Sorhin/_/Godhetens+Fall",
+          "duration": "251",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "När Helvetet Kallar",
+          "url": "https://www.last.fm/music/Sorhin/_/N%C3%A4r+Helvetet+Kallar",
+          "duration": "234",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "...och om natten min själ dansar",
+          "url": "https://www.last.fm/music/Sorhin/_/...och+om+natten+min+sj%C3%A4l+dansar",
+          "duration": "198",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Svartvintras",
+          "url": "https://www.last.fm/music/Sorhin/_/Svartvintras",
+          "duration": "312",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Tills Döden Er Alla Tar",
+          "url": "https://www.last.fm/music/Sorhin/_/Tills+D%C3%B6den+Er+Alla+Tar",
+          "duration": "288",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Åt Fanders Med Ljusets Skapelse",
+          "url": "https://www.last.fm/music/Sorhin/_/%C3%85t+Fanders+Med+Ljusets+Skapelse",
+          "duration": "227",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "I skuggan af nattens herre",
+          "url": "https://www.last.fm/music/Sorhin/_/I+skuggan+af+nattens+herre",
+          "duration": "184",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Sänd mig en ängel att dräpa",
+          "url": "https://www.last.fm/music/Sorhin/_/S%C3%A4nd+mig+en+%C3%A4ngel+att+dr%C3%A4pa",
+          "duration": "248",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Skogsgriftens Rike",
+          "url": "https://www.last.fm/music/Sorhin/_/Skogsgriftens+Rike",
+          "duration": "288",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "I det glimrande mörkrets djup",
+          "url": "https://www.last.fm/music/Sorhin/_/I+det+glimrande+m%C3%B6rkrets+djup",
+          "duration": "308",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Svart Lyser Tronen",
+          "url": "https://www.last.fm/music/Sorhin/_/Svart+Lyser+Tronen",
+          "duration": "270",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Inmarsch",
+          "url": "https://www.last.fm/music/Sorhin/_/Inmarsch",
+          "duration": "186",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Livets Löfte",
+          "url": "https://www.last.fm/music/Sorhin/_/Livets+L%C3%B6fte",
+          "duration": "315",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Där allt svunnet Är, där ingenting är allt",
+          "url": "https://www.last.fm/music/Sorhin/_/D%C3%A4r+allt+svunnet+%C3%84r,+d%C3%A4r+ingenting+%C3%A4r+allt",
+          "duration": "276",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Apokalypsens ängel",
+          "url": "https://www.last.fm/music/Sorhin/_/Apokalypsens+%C3%A4ngel",
+          "duration": "236",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Ett Sista Monument Ståtligt",
+          "url": "https://www.last.fm/music/Sorhin/_/Ett+Sista+Monument+St%C3%A5tligt",
+          "duration": "263",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Moder Jord... Undergång Nalkas",
+          "url": "https://www.last.fm/music/Sorhin/_/Moder+Jord...+Underg%C3%A5ng+Nalkas",
+          "duration": "120",
+          "@attr": {
+            "rank": "32"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Misantropi & Död",
+          "url": "https://www.last.fm/music/Sorhin/_/Misantropi+&+D%C3%B6d",
+          "duration": "264",
+          "@attr": {
+            "rank": "33"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Blomman Af Mitt Hjärta, Blomman På Din Grav",
+          "url": "https://www.last.fm/music/Sorhin/_/Blomman+Af+Mitt+Hj%C3%A4rta,+Blomman+P%C3%A5+Din+Grav",
+          "duration": "273",
+          "@attr": {
+            "rank": "34"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Natt Utan Slut",
+          "url": "https://www.last.fm/music/Sorhin/_/Natt+Utan+Slut",
+          "duration": "259",
+          "@attr": {
+            "rank": "35"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "När Döden Sträcker Ut Sina Vingar",
+          "url": "https://www.last.fm/music/Sorhin/_/N%C3%A4r+D%C3%B6den+Str%C3%A4cker+Ut+Sina+Vingar",
+          "duration": "181",
+          "@attr": {
+            "rank": "36"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Utmarsch - Den Nya Messias",
+          "url": "https://www.last.fm/music/Sorhin/_/Utmarsch+-+Den+Nya+Messias",
+          "duration": "371",
+          "@attr": {
+            "rank": "37"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Ett Sista Monument Ståtligt",
+          "url": "https://www.last.fm/music/Sorhin/_/Ett+Sista+Monument+St%C3%A5tligt",
+          "duration": "263",
+          "@attr": {
+            "rank": "38"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "När Döden Sträcker Ut Sina Vingar",
+          "url": "https://www.last.fm/music/Sorhin/_/N%C3%A4r+D%C3%B6den+Str%C3%A4cker+Ut+Sina+Vingar",
+          "duration": "181",
+          "@attr": {
+            "rank": "39"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Blott en Människa Svag",
+          "url": "https://www.last.fm/music/Sorhin/_/Blott+en+M%C3%A4nniska+Svag",
+          "duration": "265",
+          "@attr": {
+            "rank": "40"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Att Ge Död, Och Att Välkomna Död",
+          "url": "https://www.last.fm/music/Sorhin/_/Att+Ge+D%C3%B6d,+Och+Att+V%C3%A4lkomna+D%C3%B6d",
+          "duration": "495",
+          "@attr": {
+            "rank": "42"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Genuin Nordisk Depression",
+          "url": "https://www.last.fm/music/Sorhin/_/Genuin+Nordisk+Depression",
+          "duration": "0",
+          "@attr": {
+            "rank": "43"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        },
+        {
+          "name": "Styrka",
+          "url": "https://www.last.fm/music/Sorhin/_/Styrka",
+          "duration": "0",
+          "@attr": {
+            "rank": "44"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sorhin",
+            "mbid": "ab733490-589c-4462-bf82-a5f5fb142f4f",
+            "url": "https://www.last.fm/music/Sorhin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:57:23.517Z"
+}

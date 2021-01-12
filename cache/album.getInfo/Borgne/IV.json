@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "IV",
+    "artist": "Borgne",
+    "mbid": "b039642b-b524-430b-8a73-128cfe7af8cb",
+    "url": "https://www.last.fm/music/Borgne/IV",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26d81d53cce14fb7ad1b668aeb123347.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1350",
+    "playcount": "22478",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ceres",
+          "url": "https://www.last.fm/music/Borgne/_/Ceres",
+          "duration": "164",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Sedna",
+          "url": "https://www.last.fm/music/Borgne/_/Sedna",
+          "duration": "547",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Orcus",
+          "url": "https://www.last.fm/music/Borgne/_/Orcus",
+          "duration": "366",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Eris",
+          "url": "https://www.last.fm/music/Borgne/_/Eris",
+          "duration": "569",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Haumea",
+          "url": "https://www.last.fm/music/Borgne/_/Haumea",
+          "duration": "420",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Varuna",
+          "url": "https://www.last.fm/music/Borgne/_/Varuna",
+          "duration": "139",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:04:43.517Z"
+}

@@ -1,0 +1,839 @@
+{
+  "album": {
+    "name": "In Memory of Quorthon",
+    "artist": "Bathory",
+    "url": "https://www.last.fm/music/Bathory/In+Memory+of+Quorthon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c35669def4d9537655d02f2240b5ea24.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c35669def4d9537655d02f2240b5ea24.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c35669def4d9537655d02f2240b5ea24.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c35669def4d9537655d02f2240b5ea24.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c35669def4d9537655d02f2240b5ea24.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c35669def4d9537655d02f2240b5ea24.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2186",
+    "playcount": "131117",
+    "tracks": {
+      "track": [
+        {
+          "name": "Song to Hall Up High",
+          "url": "https://www.last.fm/music/Bathory/_/Song+to+Hall+Up+High",
+          "duration": "154",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Odens Ride Over Nordland",
+          "url": "https://www.last.fm/music/Bathory/_/Odens+Ride+Over+Nordland",
+          "duration": "180",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Twilight of the Gods",
+          "url": "https://www.last.fm/music/Bathory/_/Twilight+of+the+Gods",
+          "duration": "664",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Foreverdark Woods",
+          "url": "https://www.last.fm/music/Bathory/_/Foreverdark+Woods",
+          "duration": "486",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "A Fine Day to Die",
+          "url": "https://www.last.fm/music/Bathory/_/A+Fine+Day+to+Die",
+          "duration": "529",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Woodwoman",
+          "url": "https://www.last.fm/music/Bathory/_/The+Woodwoman",
+          "duration": "377",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "I've Had It Coming My Way",
+          "url": "https://www.last.fm/music/Bathory/_/I%27ve+Had+It+Coming+My+Way",
+          "duration": "207",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Armageddon",
+          "url": "https://www.last.fm/music/Bathory/_/Armageddon",
+          "duration": "152",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Born to Die",
+          "url": "https://www.last.fm/music/Bathory/_/Born+to+Die",
+          "duration": "238",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "God Save the Queen",
+          "url": "https://www.last.fm/music/Bathory/_/God+Save+the+Queen",
+          "duration": "194",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Sword",
+          "url": "https://www.last.fm/music/Bathory/_/The+Sword",
+          "duration": "248",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "For All Those Who Died",
+          "url": "https://www.last.fm/music/Bathory/_/For+All+Those+Who+Died",
+          "duration": "295",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Call From the Grave",
+          "url": "https://www.last.fm/music/Bathory/_/Call+From+the+Grave",
+          "duration": "293",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Born for Burning",
+          "url": "https://www.last.fm/music/Bathory/_/Born+for+Burning",
+          "duration": "313",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Boy",
+          "url": "https://www.last.fm/music/Bathory/_/Boy",
+          "duration": "525",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "One Rode to Asa Bay",
+          "url": "https://www.last.fm/music/Bathory/_/One+Rode+to+Asa+Bay",
+          "duration": "624",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Lake",
+          "url": "https://www.last.fm/music/Bathory/_/The+Lake",
+          "duration": "402",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Land",
+          "url": "https://www.last.fm/music/Bathory/_/The+Land",
+          "duration": "383",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Raise the Dead",
+          "url": "https://www.last.fm/music/Bathory/_/Raise+the+Dead",
+          "duration": "221",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "War Pigs",
+          "url": "https://www.last.fm/music/Bathory/_/War+Pigs",
+          "duration": "527",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Enter the Eternal Fire",
+          "url": "https://www.last.fm/music/Bathory/_/Enter+the+Eternal+Fire",
+          "duration": "416",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Blood Fire Death",
+          "url": "https://www.last.fm/music/Bathory/_/Blood+Fire+Death",
+          "duration": "633",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Ring of Gold",
+          "url": "https://www.last.fm/music/Bathory/_/Ring+of+Gold",
+          "duration": "334",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "War Machine",
+          "url": "https://www.last.fm/music/Bathory/_/War+Machine",
+          "duration": "198",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "War",
+          "url": "https://www.last.fm/music/Bathory/_/War",
+          "duration": "135",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Ace of Spades",
+          "url": "https://www.last.fm/music/Bathory/_/Ace+of+Spades",
+          "duration": "313",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Death and Resurrection of a Northern Son",
+          "url": "https://www.last.fm/music/Bathory/_/Death+and+Resurrection+of+a+Northern+Son",
+          "duration": "510",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Ravens",
+          "url": "https://www.last.fm/music/Bathory/_/The+Ravens",
+          "duration": "69",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Wheel of Sun",
+          "url": "https://www.last.fm/music/Bathory/_/The+Wheel+of+Sun",
+          "duration": "746",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Apocalypse",
+          "url": "https://www.last.fm/music/Bathory/_/Apocalypse",
+          "duration": "229",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Black Diamond",
+          "url": "https://www.last.fm/music/Bathory/_/Black+Diamond",
+          "duration": "371",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Woman of Dark Desires",
+          "url": "https://www.last.fm/music/Bathory/_/Woman+of+Dark+Desires",
+          "duration": "246",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Destroyer of Worlds",
+          "url": "https://www.last.fm/music/Bathory/_/Destroyer+of+Worlds",
+          "duration": "291",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Sea Wolf",
+          "url": "https://www.last.fm/music/Bathory/_/Sea+Wolf",
+          "duration": "326",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Deuce",
+          "url": "https://www.last.fm/music/Bathory/_/Deuce",
+          "duration": "222",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "The Return Of Darkness And Evil",
+          "url": "https://www.last.fm/music/Bathory/_/The+Return+Of+Darkness+And+Evil",
+          "duration": "239",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Day of Wrath",
+          "url": "https://www.last.fm/music/Bathory/_/Day+of+Wrath",
+          "duration": "491",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "I'm Only Sleeping",
+          "url": "https://www.last.fm/music/Bathory/_/I%27m+Only+Sleeping",
+          "duration": "177",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Ode",
+          "url": "https://www.last.fm/music/Bathory/_/Ode",
+          "duration": "387",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Hammerheart",
+          "url": "https://www.last.fm/music/Bathory/_/Hammerheart",
+          "duration": "297",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Heimfard",
+          "url": "https://www.last.fm/music/Bathory/_/Heimfard",
+          "duration": "132",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Bathory/_/Outro",
+          "duration": "23",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "You Just Got to Live",
+          "url": "https://www.last.fm/music/Bathory/_/You+Just+Got+to+Live",
+          "duration": "303",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Silverwing",
+          "url": "https://www.last.fm/music/Bathory/_/Silverwing",
+          "duration": "318",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Song to Hall Up High",
+          "url": "https://www.last.fm/music/Bathory/_/Song+to+Hall+Up+High",
+          "duration": "152",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        },
+        {
+          "name": "Quorthon Interview",
+          "url": "https://www.last.fm/music/Bathory/_/Quorthon+Interview",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bathory",
+            "mbid": "d292b4cd-37bd-4a88-a823-8710f273cc31",
+            "url": "https://www.last.fm/music/Bathory"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 May 2009, 02:47",
+      "summary": "In Memory of Quorthon is a box set of three audio CDs and one DVD with remastered material from Bathory, Quorthon's solo efforts, and the Jennie Tebler project.\n\nThe track list was selected by \"Boss\" Forsberg. Artwork was by Kristian Wåhlin (Necrolord). All songs were remastered. A poster of Quorthon breathing fire taken from the 1987 Session in London's Railway Bridge of London was included. Text written by Quorthon personally appears in italics. <a href=\"http://www.last.fm/music/Bathory/In+Memory+of+Quorthon\">Read more on Last.fm</a>.",
+      "content": "In Memory of Quorthon is a box set of three audio CDs and one DVD with remastered material from Bathory, Quorthon's solo efforts, and the Jennie Tebler project.\n\nThe track list was selected by \"Boss\" Forsberg. Artwork was by Kristian Wåhlin (Necrolord). All songs were remastered. A poster of Quorthon breathing fire taken from the 1987 Session in London's Railway Bridge of London was included. Text written by Quorthon personally appears in italics. Besides lyrics, the book features Bathory’s history, discography, background on the first recordings – with titles, years, studios, covers - and even a couple of photographs. Nearly all of this is from Quorthon’s and Boss's own private archives.\n\nThe fourth disc is a DVD containing the 11-minute video for One Rode To Asa Bay, as well as the MTV interview Quorthon did in London for the release of Hammerheart. <a href=\"http://www.last.fm/music/Bathory/In+Memory+of+Quorthon\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:51:13.648Z"
+}

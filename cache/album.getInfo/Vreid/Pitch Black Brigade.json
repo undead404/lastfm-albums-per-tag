@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Pitch Black Brigade",
+    "artist": "Vreid",
+    "mbid": "c0896ad8-fe48-4954-becb-9f89ab63f8c5",
+    "url": "https://www.last.fm/music/Vreid/Pitch+Black+Brigade",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec38d32c9b1843f7b74916f81e76b237.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10253",
+    "playcount": "221300",
+    "tracks": {
+      "track": [
+        {
+          "name": "Då Draumen rakna",
+          "url": "https://www.last.fm/music/Vreid/_/D%C3%A5+Draumen+rakna",
+          "duration": "317",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Left To Hate",
+          "url": "https://www.last.fm/music/Vreid/_/Left+To+Hate",
+          "duration": "278",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Pitch Black",
+          "url": "https://www.last.fm/music/Vreid/_/Pitch+Black",
+          "duration": "260",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "The Red Smell",
+          "url": "https://www.last.fm/music/Vreid/_/The+Red+Smell",
+          "duration": "282",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Hengebjørki",
+          "url": "https://www.last.fm/music/Vreid/_/Hengebj%C3%B8rki",
+          "duration": "560",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Our Battle",
+          "url": "https://www.last.fm/music/Vreid/_/Our+Battle",
+          "duration": "214",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Hang'em All",
+          "url": "https://www.last.fm/music/Vreid/_/Hang%27em+All",
+          "duration": "213",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        },
+        {
+          "name": "Eit Kapittel For Seg Sjølv",
+          "url": "https://www.last.fm/music/Vreid/_/Eit+Kapittel+For+Seg+Sj%C3%B8lv",
+          "duration": "414",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "2000s",
+          "url": "https://www.last.fm/tag/2000s"
+        },
+        {
+          "name": "Black n Roll",
+          "url": "https://www.last.fm/tag/Black+n+Roll"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:38:33.967Z"
+}

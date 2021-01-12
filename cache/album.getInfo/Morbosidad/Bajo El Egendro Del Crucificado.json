@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Bajo El Egendro Del Crucificado",
+    "artist": "Morbosidad",
+    "url": "https://www.last.fm/music/Morbosidad/Bajo+El+Egendro+Del+Crucificado",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cbdda16624564c5eae89c6dad8ac1c78.png",
+        "size": ""
+      }
+    ],
+    "listeners": "179",
+    "playcount": "1765",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bajo el Egendro del Crucificado",
+          "url": "https://www.last.fm/music/Morbosidad/_/Bajo+el+Egendro+del+Crucificado",
+          "duration": "177",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "In My Blood...",
+          "url": "https://www.last.fm/music/Morbosidad/_/In+My+Blood...",
+          "duration": "187",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "War Of Hate",
+          "url": "https://www.last.fm/music/Morbosidad/_/War+Of+Hate",
+          "duration": "142",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        },
+        {
+          "name": "Vomito En La Cruz",
+          "url": "https://www.last.fm/music/Morbosidad/_/Vomito+En+La+Cruz",
+          "duration": "56",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbosidad",
+            "mbid": "18e25e4a-7298-4d85-9958-dda82a08048d",
+            "url": "https://www.last.fm/music/Morbosidad"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:57:21.449Z"
+}

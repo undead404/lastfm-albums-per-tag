@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Hell's Rock & Roll",
+    "artist": "Countess",
+    "mbid": "e3dc9eb5-dbe3-4c30-bed6-0dc4eb7d74cf",
+    "url": "https://www.last.fm/music/Countess/Hell%27s+Rock+&+Roll",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d92bf5cf7f34a56bf3d1ed009e776c1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "456",
+    "playcount": "4183",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hell's Rock & Roll",
+          "url": "https://www.last.fm/music/Countess/_/Hell%27s+Rock+&+Roll",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Son Of The Dragon",
+          "url": "https://www.last.fm/music/Countess/_/Son+Of+The+Dragon",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Dokkum 754",
+          "url": "https://www.last.fm/music/Countess/_/Dokkum+754",
+          "duration": "282",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "On The Wings Of Azazel (live)",
+          "url": "https://www.last.fm/music/Countess/_/On+The+Wings+Of+Azazel+(live)",
+          "duration": "159",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:08:30.190Z"
+}

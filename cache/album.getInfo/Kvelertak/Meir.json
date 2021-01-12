@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Meir",
+    "artist": "Kvelertak",
+    "mbid": "86c734e2-9494-4cfa-b457-e580f4f58631",
+    "url": "https://www.last.fm/music/Kvelertak/Meir",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db9daf733be8e73bf39f558de56c2ff4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "79744",
+    "playcount": "2234658",
+    "tracks": {
+      "track": [
+        {
+          "name": "Åpenbaring",
+          "url": "https://www.last.fm/music/Kvelertak/_/%C3%85penbaring",
+          "duration": "186",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Spring fra livet",
+          "url": "https://www.last.fm/music/Kvelertak/_/Spring+fra+livet",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Trepan",
+          "url": "https://www.last.fm/music/Kvelertak/_/Trepan",
+          "duration": "220",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Bruane brenn",
+          "url": "https://www.last.fm/music/Kvelertak/_/Bruane+brenn",
+          "duration": "247",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Evig vandrar",
+          "url": "https://www.last.fm/music/Kvelertak/_/Evig+vandrar",
+          "duration": "169",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Snilepisk",
+          "url": "https://www.last.fm/music/Kvelertak/_/Snilepisk",
+          "duration": "172",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Månelyst",
+          "url": "https://www.last.fm/music/Kvelertak/_/M%C3%A5nelyst",
+          "duration": "190",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Nekrokosmos",
+          "url": "https://www.last.fm/music/Kvelertak/_/Nekrokosmos",
+          "duration": "401",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Undertro",
+          "url": "https://www.last.fm/music/Kvelertak/_/Undertro",
+          "duration": "386",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Tordenbrak",
+          "url": "https://www.last.fm/music/Kvelertak/_/Tordenbrak",
+          "duration": "534",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        },
+        {
+          "name": "Kvelertak",
+          "url": "https://www.last.fm/music/Kvelertak/_/Kvelertak",
+          "duration": "230",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Black n Roll",
+          "url": "https://www.last.fm/tag/Black+n+Roll"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Nov 2013, 16:43",
+      "summary": "Meir (Neo Norwegian for \"more\") is the second studio album by Norwegian rock band Kvelertak. It was released on March 25, 2013 (March 26 in the US) via Sony Music Scandinavia in Scandinavia, Roadrunner Records in the rest of the world, and by Indie Recordings on vinyl. The album was produced by Kurt Ballou.\n\nIt was recorded at GodCity Studios in Salem, Massachusetts, United States and produced by Kurt Ballou of Converge. The cover artwork was created by John Dyer Baizley of the band Baroness. <a href=\"http://www.last.fm/music/Kvelertak/Meir\">Read more on Last.fm</a>.",
+      "content": "Meir (Neo Norwegian for \"more\") is the second studio album by Norwegian rock band Kvelertak. It was released on March 25, 2013 (March 26 in the US) via Sony Music Scandinavia in Scandinavia, Roadrunner Records in the rest of the world, and by Indie Recordings on vinyl. The album was produced by Kurt Ballou.\n\nIt was recorded at GodCity Studios in Salem, Massachusetts, United States and produced by Kurt Ballou of Converge. The cover artwork was created by John Dyer Baizley of the band Baroness. The band released music videos for \"Bruane Brenn\", \"Månelyst\" and the self-titled track \"Kvelertak\".\n\nPersonnel\nErlend Hjelvik – vocals\nVidar Landa – guitar, piano\nBjarte Lund Rolland – guitar\nMaciek Ofstad – guitar, vocals\nMarvin Nygaard – bass\nKjetil Gjermundrød – drums\n <a href=\"http://www.last.fm/music/Kvelertak/Meir\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:59:18.634Z"
+}

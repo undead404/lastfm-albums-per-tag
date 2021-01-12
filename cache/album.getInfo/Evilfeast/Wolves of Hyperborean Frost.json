@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Wolves of Hyperborean Frost",
+    "artist": "Evilfeast",
+    "mbid": "c37640d4-94c1-4cbf-aec3-be42fc9c037d",
+    "url": "https://www.last.fm/music/Evilfeast/Wolves+of+Hyperborean+Frost",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/822ad3710d8841cab518455bd8681241.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/822ad3710d8841cab518455bd8681241.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/822ad3710d8841cab518455bd8681241.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/822ad3710d8841cab518455bd8681241.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/822ad3710d8841cab518455bd8681241.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/822ad3710d8841cab518455bd8681241.png",
+        "size": ""
+      }
+    ],
+    "listeners": "477",
+    "playcount": "5419",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wolves of Hyperborean Frost",
+          "url": "https://www.last.fm/music/Evilfeast/_/Wolves+of+Hyperborean+Frost",
+          "duration": "626",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        },
+        {
+          "name": "Himmel aus Eis / Der Tod Wuotans",
+          "url": "https://www.last.fm/music/Evilfeast/_/Himmel+aus+Eis+%2F+Der+Tod+Wuotans",
+          "duration": "788",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evilfeast",
+            "mbid": "2cdf8a00-4963-487a-af01-1238187e6376",
+            "url": "https://www.last.fm/music/Evilfeast"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:03.093Z"
+}

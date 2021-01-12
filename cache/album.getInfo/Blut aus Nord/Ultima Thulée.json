@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Ultima Thulée",
+    "artist": "Blut aus Nord",
+    "mbid": "82c962c3-60eb-4a39-ad08-eb298ae0ed9c",
+    "url": "https://www.last.fm/music/Blut+aus+Nord/Ultima+Thul%C3%A9e",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4432a5a4fc465757254555c40f64ad9f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10253",
+    "playcount": "236142",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Son of Hoarfrost",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Son+of+Hoarfrost",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "The Plain of Ida",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Plain+of+Ida",
+          "duration": "532",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "From Hlidskjalf",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/From+Hlidskjalf",
+          "duration": "462",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "My Prayer Beyond Ginnungagap",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/My+Prayer+Beyond+Ginnungagap",
+          "duration": "310",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Till I Perceive Bifrost",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Till+I+Perceive+Bifrost",
+          "duration": "426",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "On the Way to Vigrid",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/On+the+Way+to+Vigrid",
+          "duration": "354",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Rigsthula",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Rigsthula",
+          "duration": "237",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "The Last Journey of Ringhorn",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/The+Last+Journey+of+Ringhorn",
+          "duration": "456",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "1995",
+          "url": "https://www.last.fm/tag/1995"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:07:40.996Z"
+}

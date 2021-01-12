@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Galgendämmerung",
+    "artist": "Nocte Obducta",
+    "url": "https://www.last.fm/music/Nocte+Obducta/Galgend%C3%A4mmerung",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0158aba6d68943b5a15408c1bdf7ee2c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1243",
+    "playcount": "23373",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fruchtige Fäulnis",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Fruchtige+F%C3%A4ulnis",
+          "duration": "180",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Der Durst In Meinen Augen",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Der+Durst+In+Meinen+Augen",
+          "duration": "579",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Eins Mit Der Essenz Der Nacht",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Eins+Mit+Der+Essenz+Der+Nacht",
+          "duration": "331",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Nebel über den Urnenfeldern",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Nebel+%C3%BCber+den+Urnenfeldern",
+          "duration": "420",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Totgeburt",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Totgeburt",
+          "duration": "223",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Der Sand Des Späten Winters",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Der+Sand+Des+Sp%C3%A4ten+Winters",
+          "duration": "113",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Galgendämmerung",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Galgend%C3%A4mmerung",
+          "duration": "277",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Spiele Mir Ein Frühlingslied Am Friedhofstor",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Spiele+Mir+Ein+Fr%C3%BChlingslied+Am+Friedhofstor",
+          "duration": "279",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        },
+        {
+          "name": "Wenn Nur Im Tod Noch Frieden Liegt - Teil 1 & 2",
+          "url": "https://www.last.fm/music/Nocte+Obducta/_/Wenn+Nur+Im+Tod+Noch+Frieden+Liegt+-+Teil+1+&+2",
+          "duration": "634",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocte Obducta",
+            "mbid": "01e64cc8-55ec-4d89-8748-e2f35bcc889f",
+            "url": "https://www.last.fm/music/Nocte+Obducta"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "amazing",
+          "url": "https://www.last.fm/tag/amazing"
+        },
+        {
+          "name": "owned",
+          "url": "https://www.last.fm/tag/owned"
+        },
+        {
+          "name": "BROKEN TAG",
+          "url": "https://www.last.fm/tag/BROKEN+TAG"
+        },
+        {
+          "name": "unopposable german black metal",
+          "url": "https://www.last.fm/tag/unopposable+german+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:05:33.517Z"
+}

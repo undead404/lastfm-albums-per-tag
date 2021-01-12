@@ -1,0 +1,139 @@
+{
+  "album": {
+    "name": "Last Poem/First Light",
+    "artist": "So Hideous",
+    "url": "https://www.last.fm/music/So+Hideous/Last+Poem%2FFirst+Light",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6304ece4a7974c7a97d03ec0f63f455e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1715",
+    "playcount": "41997",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rising",
+          "url": "https://www.last.fm/music/So+Hideous/_/Rising",
+          "duration": "275",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Stabat Mater",
+          "url": "https://www.last.fm/music/So+Hideous/_/Stabat+Mater",
+          "duration": "292",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "My Light",
+          "url": "https://www.last.fm/music/So+Hideous/_/My+Light",
+          "duration": "316",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Rhapsody",
+          "url": "https://www.last.fm/music/So+Hideous/_/Rhapsody",
+          "duration": "263",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Last Poem",
+          "url": "https://www.last.fm/music/So+Hideous/_/Last+Poem",
+          "duration": "325",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Glory",
+          "url": "https://www.last.fm/music/So+Hideous/_/Glory",
+          "duration": "439",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:55:43.157Z"
+}

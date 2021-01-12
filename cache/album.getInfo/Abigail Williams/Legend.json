@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Legend",
+    "artist": "Abigail Williams",
+    "mbid": "8d8e6041-9f4b-4553-ac4d-cf997e29598a",
+    "url": "https://www.last.fm/music/Abigail+Williams/Legend",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa62b1c60cea4dea8b813cb18b59785d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11575",
+    "playcount": "185067",
+    "tracks": {
+      "track": [
+        {
+          "name": "From A Buried Heart",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/From+A+Buried+Heart",
+          "duration": "250",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Like Carrion Birds",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Like+Carrion+Birds",
+          "duration": "223",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "The Conqueror Wyrm",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/The+Conqueror+Wyrm",
+          "duration": "262",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Watchtower",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Watchtower",
+          "duration": "339",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        },
+        {
+          "name": "Procession of the Aeons",
+          "url": "https://www.last.fm/music/Abigail+Williams/_/Procession+of+the+Aeons",
+          "duration": "227",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail Williams",
+            "mbid": "bb2d449e-d6c1-4f0c-8603-5b285acd311e",
+            "url": "https://www.last.fm/music/Abigail+Williams"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metalcore",
+          "url": "https://www.last.fm/tag/metalcore"
+        },
+        {
+          "name": "blackcore",
+          "url": "https://www.last.fm/tag/blackcore"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:38:00.633Z"
+}

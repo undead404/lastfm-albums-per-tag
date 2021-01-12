@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Celestite",
+    "artist": "Wolves in the Throne Room",
+    "mbid": "997a791c-e17c-4b7b-9177-12f548c994cd",
+    "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/Celestite",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e921044225ec0fc38e7ae20d4714500.png",
+        "size": ""
+      }
+    ],
+    "listeners": "30515",
+    "playcount": "290209",
+    "tracks": {
+      "track": [
+        {
+          "name": "Turning Ever Towards the Sun",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Turning+Ever+Towards+the+Sun",
+          "duration": "684",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "Initiation at Neudeg Alm",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Initiation+at+Neudeg+Alm",
+          "duration": "358",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "Bridge of Leaves",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Bridge+of+Leaves",
+          "duration": "308",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "Celestite Mirror",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Celestite+Mirror",
+          "duration": "872",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        },
+        {
+          "name": "Sleeping Golden Storm",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Sleeping+Golden+Storm",
+          "duration": "542",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "drone",
+          "url": "https://www.last.fm/tag/drone"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:09:27.265Z"
+}

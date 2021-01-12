@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Tungkat Blood Wand",
+    "artist": "Havohej",
+    "url": "https://www.last.fm/music/Havohej/Tungkat+Blood+Wand",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/188d47cf53ea45d8a8d840f20c105946.png",
+        "size": ""
+      }
+    ],
+    "listeners": "321",
+    "playcount": "2664",
+    "tracks": {
+      "track": [
+        {
+          "name": "Through the gates of Amu",
+          "url": "https://www.last.fm/music/Havohej/_/Through+the+gates+of+Amu",
+          "duration": "439",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Havohej",
+            "mbid": "e45937ff-617b-4e80-868c-9e99406a1294",
+            "url": "https://www.last.fm/music/Havohej"
+          }
+        },
+        {
+          "name": "Tungkat Blood Wand",
+          "url": "https://www.last.fm/music/Havohej/_/Tungkat+Blood+Wand",
+          "duration": "311",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Havohej",
+            "mbid": "e45937ff-617b-4e80-868c-9e99406a1294",
+            "url": "https://www.last.fm/music/Havohej"
+          }
+        },
+        {
+          "name": "Spirit Voice",
+          "url": "https://www.last.fm/music/Havohej/_/Spirit+Voice",
+          "duration": "206",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Havohej",
+            "mbid": "e45937ff-617b-4e80-868c-9e99406a1294",
+            "url": "https://www.last.fm/music/Havohej"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:02:00.149Z"
+}

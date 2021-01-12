@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Stellae Trajectio",
+    "artist": "Naglfar",
+    "mbid": "e09adfe1-1cd5-4ef5-a45a-6e3164d0958e",
+    "url": "https://www.last.fm/music/Naglfar/Stellae+Trajectio",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8506de6b29fbf6a36a6f8e614b03a76a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "507",
+    "playcount": "4659",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Naglfar/_/Intro",
+          "duration": "57",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Enslave the Astral Fortress",
+          "url": "https://www.last.fm/music/Naglfar/_/Enslave+the+Astral+Fortress",
+          "duration": "311",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Sunless Dawn",
+          "url": "https://www.last.fm/music/Naglfar/_/Sunless+Dawn",
+          "duration": "294",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "The Eclipse Of Empire Storms",
+          "url": "https://www.last.fm/music/Naglfar/_/The+Eclipse+Of+Empire+Storms",
+          "duration": "281",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Naglfar/_/Outro",
+          "duration": "34",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:19:35.795Z"
+}

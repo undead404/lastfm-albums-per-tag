@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Mare",
+    "artist": "Kampfar",
+    "mbid": "17a658a6-cc91-4ca2-abd2-1350eb65d5c7",
+    "url": "https://www.last.fm/music/Kampfar/Mare",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b78a2373be604ace2f81f072bc29a6c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8786",
+    "playcount": "240776",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mare",
+          "url": "https://www.last.fm/music/Kampfar/_/Mare",
+          "duration": "385",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Ildstemmer",
+          "url": "https://www.last.fm/music/Kampfar/_/Ildstemmer",
+          "duration": "306",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Huldreland",
+          "url": "https://www.last.fm/music/Kampfar/_/Huldreland",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Bergtatt",
+          "url": "https://www.last.fm/music/Kampfar/_/Bergtatt",
+          "duration": "329",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Trolldomspakt",
+          "url": "https://www.last.fm/music/Kampfar/_/Trolldomspakt",
+          "duration": "341",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Volvevers",
+          "url": "https://www.last.fm/music/Kampfar/_/Volvevers",
+          "duration": "209",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Blitzwitch",
+          "url": "https://www.last.fm/music/Kampfar/_/Blitzwitch",
+          "duration": "376",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Nattgang",
+          "url": "https://www.last.fm/music/Kampfar/_/Nattgang",
+          "duration": "311",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Altergang",
+          "url": "https://www.last.fm/music/Kampfar/_/Altergang",
+          "duration": "149",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Bergtatt (in D Major)",
+          "url": "https://www.last.fm/music/Kampfar/_/Bergtatt+(in+D+Major)",
+          "duration": "329",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:31:33.968Z"
+}

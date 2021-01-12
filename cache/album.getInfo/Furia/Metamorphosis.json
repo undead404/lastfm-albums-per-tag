@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Metamorphosis",
+    "artist": "Furia",
+    "url": "https://www.last.fm/music/Furia/Metamorphosis",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "177",
+    "playcount": "411",
+    "tracks": {
+      "track": [
+        {
+          "name": "Metamorphosis",
+          "url": "https://www.last.fm/music/Furia/_/Metamorphosis",
+          "duration": "446",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Metamorphosis",
+          "url": "https://www.last.fm/music/Furia/_/Metamorphosis",
+          "duration": "446",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Metamorphosis",
+          "url": "https://www.last.fm/music/Furia/_/Metamorphosis",
+          "duration": "446",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:25:54.204Z"
+}

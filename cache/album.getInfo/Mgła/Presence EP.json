@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Presence",
+    "artist": "Mgła",
+    "mbid": "6960fd48-7fce-41d4-898d-bd13b53fc30e",
+    "url": "https://www.last.fm/music/Mg%C5%82a/Presence",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcecdd84d0554a7fcad8d27b6a7db49c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11697",
+    "playcount": "194939",
+    "tracks": {
+      "track": [
+        {
+          "name": "Presence I",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+I",
+          "duration": "479",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Presence II",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+II",
+          "duration": "473",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        },
+        {
+          "name": "Presence III",
+          "url": "https://www.last.fm/music/Mg%C5%82a/_/Presence+III",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mgła",
+            "mbid": "e7b4c928-8c45-4ecf-9f08-da64fe5c2ddd",
+            "url": "https://www.last.fm/music/Mg%C5%82a"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "polish black metal",
+          "url": "https://www.last.fm/tag/polish+black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "polish",
+          "url": "https://www.last.fm/tag/polish"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:05:28.452Z"
+}

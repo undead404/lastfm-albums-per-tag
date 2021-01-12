@@ -1,0 +1,154 @@
+{
+  "album": {
+    "name": "Lost In The Ages",
+    "artist": "Desaster",
+    "url": "https://www.last.fm/music/Desaster/Lost+In+The+Ages",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe2a46b236f748c8c8db4c1e910eed11.png",
+        "size": ""
+      }
+    ],
+    "listeners": "289",
+    "playcount": "4438",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hymn to Forgotten Lands",
+          "url": "https://www.last.fm/music/Desaster/_/Hymn+to+Forgotten+Lands",
+          "duration": "177",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "In A Winter Battle",
+          "url": "https://www.last.fm/music/Desaster/_/In+A+Winter+Battle",
+          "duration": "329",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Tears Of An Old Wizard",
+          "url": "https://www.last.fm/music/Desaster/_/Tears+Of+An+Old+Wizard",
+          "duration": "367",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Lost In The Ages",
+          "url": "https://www.last.fm/music/Desaster/_/Lost+In+The+Ages",
+          "duration": "291",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "As The Deadworld Calls",
+          "url": "https://www.last.fm/music/Desaster/_/As+The+Deadworld+Calls",
+          "duration": "279",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Leaving The Hall Of Kings",
+          "url": "https://www.last.fm/music/Desaster/_/Leaving+The+Hall+Of+Kings",
+          "duration": "106",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Black Thrash",
+          "url": "https://www.last.fm/tag/Black+Thrash"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:57:51.988Z"
+}

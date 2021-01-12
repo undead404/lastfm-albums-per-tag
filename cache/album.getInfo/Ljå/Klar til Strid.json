@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Klar til Strid",
+    "artist": "Ljå",
+    "url": "https://www.last.fm/music/Lj%C3%A5/Klar+til+Strid",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd069362333c57063d1bb07999e669fc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd069362333c57063d1bb07999e669fc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd069362333c57063d1bb07999e669fc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd069362333c57063d1bb07999e669fc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd069362333c57063d1bb07999e669fc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd069362333c57063d1bb07999e669fc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "78",
+    "playcount": "1905",
+    "tracks": {
+      "track": [
+        {
+          "name": "Klar til Strid",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Klar+til+Strid",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Klokker og Tenner av Gull",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Klokker+og+Tenner+av+Gull",
+          "duration": "326",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        },
+        {
+          "name": "Revheim",
+          "url": "https://www.last.fm/music/Lj%C3%A5/_/Revheim",
+          "duration": "282",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ljå",
+            "mbid": "3c037828-951a-4462-9ce4-254cda803512",
+            "url": "https://www.last.fm/music/Lj%C3%A5"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:50:14.520Z"
+}

@@ -1,0 +1,63 @@
+{
+  "album": {
+    "name": "Buried And Forgotten",
+    "artist": "Hellhammer",
+    "url": "https://www.last.fm/music/Hellhammer/Buried+And+Forgotten",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0e1a201009940bf9515979cf9590a01.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0e1a201009940bf9515979cf9590a01.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0e1a201009940bf9515979cf9590a01.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0e1a201009940bf9515979cf9590a01.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0e1a201009940bf9515979cf9590a01.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0e1a201009940bf9515979cf9590a01.png",
+        "size": ""
+      }
+    ],
+    "listeners": "213",
+    "playcount": "886",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "bootleg",
+          "url": "https://www.last.fm/tag/bootleg"
+        },
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        },
+        {
+          "name": "blackened heavy metal",
+          "url": "https://www.last.fm/tag/blackened+heavy+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:43:18.000Z"
+}

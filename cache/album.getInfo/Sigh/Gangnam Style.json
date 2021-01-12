@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Gangnam Style",
+    "artist": "Sigh",
+    "url": "https://www.last.fm/music/Sigh/Gangnam+Style",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "107",
+    "playcount": "187",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gangnam Style - Vocal",
+          "url": "https://www.last.fm/music/Sigh/_/Gangnam+Style+-+Vocal",
+          "duration": "217",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        },
+        {
+          "name": "Gangnam Style - Instrumental",
+          "url": "https://www.last.fm/music/Sigh/_/Gangnam+Style+-+Instrumental",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sigh",
+            "mbid": "844bc028-d3c5-4656-a874-57232df54630",
+            "url": "https://www.last.fm/music/Sigh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:18:59.826Z"
+}

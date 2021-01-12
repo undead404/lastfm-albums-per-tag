@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Tragic Serenades",
+    "artist": "Celtic Frost",
+    "mbid": "88cd8e2c-44d7-37fa-b457-08e3304d1d86",
+    "url": "https://www.last.fm/music/Celtic+Frost/Tragic+Serenades",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3383e4ef03b34d19cd0204c1326ab778.png",
+        "size": ""
+      }
+    ],
+    "listeners": "555",
+    "playcount": "5308",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Usurper",
+          "url": "https://www.last.fm/music/Celtic+Frost/_/The+Usurper",
+          "duration": "204",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celtic Frost",
+            "mbid": "d91b3683-4622-4d72-8a03-80f1ff59e639",
+            "url": "https://www.last.fm/music/Celtic+Frost"
+          }
+        },
+        {
+          "name": "Jewel Throne",
+          "url": "https://www.last.fm/music/Celtic+Frost/_/Jewel+Throne",
+          "duration": "242",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celtic Frost",
+            "mbid": "d91b3683-4622-4d72-8a03-80f1ff59e639",
+            "url": "https://www.last.fm/music/Celtic+Frost"
+          }
+        },
+        {
+          "name": "Return To The Eve (1985 Studio Jam)",
+          "url": "https://www.last.fm/music/Celtic+Frost/_/Return+To+The+Eve+(1985+Studio+Jam)",
+          "duration": "248",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celtic Frost",
+            "mbid": "d91b3683-4622-4d72-8a03-80f1ff59e639",
+            "url": "https://www.last.fm/music/Celtic+Frost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "Masterpiece",
+          "url": "https://www.last.fm/tag/Masterpiece"
+        },
+        {
+          "name": "Celtic Frost",
+          "url": "https://www.last.fm/tag/Celtic+Frost"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:03:05.872Z"
+}

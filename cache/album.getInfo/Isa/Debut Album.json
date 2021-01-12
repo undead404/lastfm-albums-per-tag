@@ -1,0 +1,264 @@
+{
+  "album": {
+    "name": "Debut Album",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/Debut+Album",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c843836799d5a7ee40f9bf757c5afd1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "503",
+    "playcount": "9200",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bye Bye",
+          "url": "https://www.last.fm/music/Isa/_/Bye+Bye",
+          "duration": "193",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "RARE",
+          "url": "https://www.last.fm/music/Isa/_/RARE",
+          "duration": "194",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Settle on Love (Real)",
+          "url": "https://www.last.fm/music/Isa/_/Settle+on+Love+(Real)",
+          "duration": "202",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Conversation",
+          "url": "https://www.last.fm/music/Isa/_/Conversation",
+          "duration": "194",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "SWITCH",
+          "url": "https://www.last.fm/music/Isa/_/SWITCH",
+          "duration": "163",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Rock My Body",
+          "url": "https://www.last.fm/music/Isa/_/Rock+My+Body",
+          "duration": "170",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Do What You Want",
+          "url": "https://www.last.fm/music/Isa/_/Do+What+You+Want",
+          "duration": "209",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Without U",
+          "url": "https://www.last.fm/music/Isa/_/Without+U",
+          "duration": "176",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Craving",
+          "url": "https://www.last.fm/music/Isa/_/Craving",
+          "duration": "186",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "LOVE IN THE WORLD",
+          "url": "https://www.last.fm/music/Isa/_/LOVE+IN+THE+WORLD",
+          "duration": "218",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Perfect",
+          "url": "https://www.last.fm/music/Isa/_/Perfect",
+          "duration": "202",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "Shy",
+          "url": "https://www.last.fm/music/Isa/_/Shy",
+          "duration": "185",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        },
+        {
+          "name": "After You",
+          "url": "https://www.last.fm/music/Isa/_/After+You",
+          "duration": "223",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:19.498Z"
+}

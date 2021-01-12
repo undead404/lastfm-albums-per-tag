@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Vredesbyrd",
+    "artist": "Dimmu Borgir",
+    "mbid": "2f426865-1034-36a8-b376-e421031463ea",
+    "url": "https://www.last.fm/music/Dimmu+Borgir/Vredesbyrd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dab0de86da3375ea686abdcc8dba22f8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7768",
+    "playcount": "32321",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vredesbyrd",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Vredesbyrd",
+          "duration": "284",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Progenies of the Great Apocalypse",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Progenies+of+the+Great+Apocalypse",
+          "duration": "317",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:49:28.216Z"
+}

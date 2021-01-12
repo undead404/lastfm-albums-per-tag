@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Goétie",
+    "artist": "Akitsa",
+    "mbid": "d3552972-6567-47ac-9d0c-f98a2d100a93",
+    "url": "https://www.last.fm/music/Akitsa/Go%C3%A9tie",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf37d115b2b84ab89fc58a7816f80711.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2947",
+    "playcount": "47786",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ouverture De L'esprit",
+          "url": "https://www.last.fm/music/Akitsa/_/Ouverture+De+L%27esprit",
+          "duration": "262",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Haine Et Vengeance",
+          "url": "https://www.last.fm/music/Akitsa/_/Haine+Et+Vengeance",
+          "duration": "314",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Les Opposants Brûleront",
+          "url": "https://www.last.fm/music/Akitsa/_/Les+Opposants+Br%C3%BBleront",
+          "duration": "184",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Revanche",
+          "url": "https://www.last.fm/music/Akitsa/_/Revanche",
+          "duration": "466",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Les Ruines De La Modernité",
+          "url": "https://www.last.fm/music/Akitsa/_/Les+Ruines+De+La+Modernit%C3%A9",
+          "duration": "293",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Affront Final",
+          "url": "https://www.last.fm/music/Akitsa/_/Affront+Final",
+          "duration": "300",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Hiérarchie",
+          "url": "https://www.last.fm/music/Akitsa/_/Hi%C3%A9rarchie",
+          "duration": "400",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Pendaison De L'humanité",
+          "url": "https://www.last.fm/music/Akitsa/_/Pendaison+De+L%27humanit%C3%A9",
+          "duration": "450",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "ôde au temps passé",
+          "url": "https://www.last.fm/music/Akitsa/_/%C3%B4de+au+temps+pass%C3%A9",
+          "duration": "322",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Dernier Souffle",
+          "url": "https://www.last.fm/music/Akitsa/_/Dernier+Souffle",
+          "duration": "144",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "hardcore punk",
+          "url": "https://www.last.fm/tag/hardcore+punk"
+        },
+        {
+          "name": "canadian black metal",
+          "url": "https://www.last.fm/tag/canadian+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:24.823Z"
+}

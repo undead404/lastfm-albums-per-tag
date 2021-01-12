@@ -1,0 +1,120 @@
+{
+  "album": {
+    "name": "Devotion Unlaced",
+    "artist": "A Pregnant Light",
+    "url": "https://www.last.fm/music/A+Pregnant+Light/Devotion+Unlaced",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c3e69e00ce677e4eba15cb1a5949f96d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "485",
+    "playcount": "3500",
+    "tracks": {
+      "track": [
+        {
+          "name": "Defenseless Receiver",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Defenseless+Receiver",
+          "duration": "265",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "Begging To Be Adored",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/Begging+To+Be+Adored",
+          "duration": "302",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "A World To Touch",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/A+World+To+Touch",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        },
+        {
+          "name": "My Violence",
+          "url": "https://www.last.fm/music/A+Pregnant+Light/_/My+Violence",
+          "duration": "333",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "A Pregnant Light",
+            "mbid": "c5f0b4b9-f11a-4e8c-8513-8305a6843e51",
+            "url": "https://www.last.fm/music/A+Pregnant+Light"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:50:13.239Z"
+}

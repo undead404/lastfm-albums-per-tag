@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Nightside Emanations",
+    "artist": "Behexen",
+    "mbid": "09ab7e85-837b-4025-bdfe-14c879291f54",
+    "url": "https://www.last.fm/music/Behexen/Nightside+Emanations",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ea52eaa14a3c783abf4dce2affc86cde.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9080",
+    "playcount": "238717",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Behexen/_/Intro",
+          "duration": "73",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Wrathful Dragon Hau-Hra",
+          "url": "https://www.last.fm/music/Behexen/_/Wrathful+Dragon+Hau-Hra",
+          "duration": "245",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Death's Black Light",
+          "url": "https://www.last.fm/music/Behexen/_/Death%27s+Black+Light",
+          "duration": "213",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Circle Me...",
+          "url": "https://www.last.fm/music/Behexen/_/Circle+Me...",
+          "duration": "341",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "We Burn With Serpent Fire",
+          "url": "https://www.last.fm/music/Behexen/_/We+Burn+With+Serpent+Fire",
+          "duration": "377",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "The Luciferian Will",
+          "url": "https://www.last.fm/music/Behexen/_/The+Luciferian+Will",
+          "duration": "313",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Awaken Tiamat",
+          "url": "https://www.last.fm/music/Behexen/_/Awaken+Tiamat",
+          "duration": "368",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Temple of the Silent Curses",
+          "url": "https://www.last.fm/music/Behexen/_/Temple+of+the+Silent+Curses",
+          "duration": "324",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Shining Death",
+          "url": "https://www.last.fm/music/Behexen/_/Shining+Death",
+          "duration": "277",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        },
+        {
+          "name": "Kiss of Our Dark Mother",
+          "url": "https://www.last.fm/music/Behexen/_/Kiss+of+Our+Dark+Mother",
+          "duration": "434",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Behexen",
+            "mbid": "61494b89-a785-4c23-8402-de70cf7a9c76",
+            "url": "https://www.last.fm/music/Behexen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Jun 2012, 14:55",
+      "summary": " <a href=\"http://www.last.fm/music/Behexen/Nightside+Emanations\">Read more on Last.fm</a>.",
+      "content": " <a href=\"http://www.last.fm/music/Behexen/Nightside+Emanations\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:29:58.668Z"
+}

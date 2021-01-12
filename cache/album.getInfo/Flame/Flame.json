@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Flame",
+    "artist": "Flame",
+    "mbid": "1d8f4782-f78a-4c6a-b719-013fb6253565",
+    "url": "https://www.last.fm/music/Flame/Flame",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99076eb5ebf919198935573c1cf095f7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99076eb5ebf919198935573c1cf095f7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99076eb5ebf919198935573c1cf095f7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99076eb5ebf919198935573c1cf095f7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99076eb5ebf919198935573c1cf095f7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99076eb5ebf919198935573c1cf095f7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1193",
+    "playcount": "16450",
+    "tracks": {
+      "track": [
+        {
+          "name": "On the Strength (feat. Tony Terry)",
+          "url": "https://www.last.fm/music/Flame/_/On+the+Strength+(feat.+Tony+Terry)",
+          "duration": "238",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "One Way Lover",
+          "url": "https://www.last.fm/music/Flame/_/One+Way+Lover",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Show And Tell",
+          "url": "https://www.last.fm/music/Flame/_/Show+And+Tell",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Holiday",
+          "url": "https://www.last.fm/music/Flame/_/Holiday",
+          "duration": "395",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Lifetime Groove",
+          "url": "https://www.last.fm/music/Flame/_/Lifetime+Groove",
+          "duration": "314",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Come And Get It",
+          "url": "https://www.last.fm/music/Flame/_/Come+And+Get+It",
+          "duration": "270",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Satisfied",
+          "url": "https://www.last.fm/music/Flame/_/Satisfied",
+          "duration": "270",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "The House Is Surrounded",
+          "url": "https://www.last.fm/music/Flame/_/The+House+Is+Surrounded",
+          "duration": "328",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "punk rock",
+          "url": "https://www.last.fm/tag/punk+rock"
+        },
+        {
+          "name": "christian",
+          "url": "https://www.last.fm/tag/christian"
+        },
+        {
+          "name": "Holy Hip-Hop",
+          "url": "https://www.last.fm/tag/Holy+Hip-Hop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:01:33.721Z"
+}

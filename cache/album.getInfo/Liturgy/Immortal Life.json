@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Immortal Life",
+    "artist": "Liturgy",
+    "mbid": "66abcbe6-47d6-4274-8964-bf07e1e2dc05",
+    "url": "https://www.last.fm/music/Liturgy/Immortal+Life",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/166ba959e286404ac0ba2129b7be0cd8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "946",
+    "playcount": "9461",
+    "tracks": {
+      "track": [
+        {
+          "name": "Immortal Life",
+          "url": "https://www.last.fm/music/Liturgy/_/Immortal+Life",
+          "duration": "109",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Life after Life",
+          "url": "https://www.last.fm/music/Liturgy/_/Life+after+Life",
+          "duration": "128",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Everquest I",
+          "url": "https://www.last.fm/music/Liturgy/_/Everquest+I",
+          "duration": "78",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Everquest II",
+          "url": "https://www.last.fm/music/Liturgy/_/Everquest+II",
+          "duration": "172",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "No More Sorry",
+          "url": "https://www.last.fm/music/Liturgy/_/No+More+Sorry",
+          "duration": "190",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        },
+        {
+          "name": "Vessel of Everthirst",
+          "url": "https://www.last.fm/music/Liturgy/_/Vessel+of+Everthirst",
+          "duration": "196",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Liturgy",
+            "mbid": "a3dfd599-c84c-4588-b3a2-ebd98c8aeaa0",
+            "url": "https://www.last.fm/music/Liturgy"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Black Noise",
+          "url": "https://www.last.fm/tag/Black+Noise"
+        },
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "gay",
+          "url": "https://www.last.fm/tag/gay"
+        },
+        {
+          "name": "shit",
+          "url": "https://www.last.fm/tag/shit"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:23:17.542Z"
+}

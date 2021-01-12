@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Mare Nostrum",
+    "artist": "Stormlord",
+    "mbid": "9c607617-8f75-40b3-8ca8-7843629788c4",
+    "url": "https://www.last.fm/music/Stormlord/Mare+Nostrum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcc3e085f388b5c4c44eeea432796239.png",
+        "size": ""
+      }
+    ],
+    "listeners": "17195",
+    "playcount": "268766",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mare Nostrum",
+          "url": "https://www.last.fm/music/Stormlord/_/Mare+Nostrum",
+          "duration": "407",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Neon Karma",
+          "url": "https://www.last.fm/music/Stormlord/_/Neon+Karma",
+          "duration": "236",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Legacy of the Snake",
+          "url": "https://www.last.fm/music/Stormlord/_/Legacy+of+the+Snake",
+          "duration": "314",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Emet",
+          "url": "https://www.last.fm/music/Stormlord/_/Emet",
+          "duration": "326",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "The Castaway",
+          "url": "https://www.last.fm/music/Stormlord/_/The+Castaway",
+          "duration": "304",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Scorn",
+          "url": "https://www.last.fm/music/Stormlord/_/Scorn",
+          "duration": "259",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "And The Wind Shall Scream My Name",
+          "url": "https://www.last.fm/music/Stormlord/_/And+The+Wind+Shall+Scream+My+Name",
+          "duration": "283",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Dimension: Hate",
+          "url": "https://www.last.fm/music/Stormlord/_/Dimension:+Hate",
+          "duration": "289",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        },
+        {
+          "name": "Stormlord",
+          "url": "https://www.last.fm/music/Stormlord/_/Stormlord",
+          "duration": "392",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "epic black metal",
+          "url": "https://www.last.fm/tag/epic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2008",
+          "url": "https://www.last.fm/tag/2008"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:04:23.676Z"
+}

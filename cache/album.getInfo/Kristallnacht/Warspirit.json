@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Warspirit",
+    "artist": "Kristallnacht",
+    "mbid": "912caeb8-ee44-3f61-b296-953e236f03bb",
+    "url": "https://www.last.fm/music/Kristallnacht/Warspirit",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f5004b5c1ba443d5bc21427e583343bf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1102",
+    "playcount": "14737",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kristallnacht",
+          "url": "https://www.last.fm/music/Kristallnacht/_/Kristallnacht",
+          "duration": "186",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        },
+        {
+          "name": "Reigning with Honour & Tyranny",
+          "url": "https://www.last.fm/music/Kristallnacht/_/Reigning+with+Honour+&+Tyranny",
+          "duration": "253",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        },
+        {
+          "name": "Warspirit",
+          "url": "https://www.last.fm/music/Kristallnacht/_/Warspirit",
+          "duration": "229",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        },
+        {
+          "name": "A Strife... A Victory",
+          "url": "https://www.last.fm/music/Kristallnacht/_/A+Strife...+A+Victory",
+          "duration": "206",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:00:19.828Z"
+}

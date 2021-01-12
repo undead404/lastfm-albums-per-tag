@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "My Goals",
+    "artist": "I",
+    "url": "https://www.last.fm/music/I/My+Goals",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "251",
+    "playcount": "669",
+    "tracks": {
+      "track": [
+        {
+          "name": "My Goals",
+          "url": "https://www.last.fm/music/I/_/My+Goals",
+          "duration": "89",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "You (To Father) [feat. Owen Ovadoz]",
+          "url": "https://www.last.fm/music/I/_/You+(To+Father)+%5Bfeat.+Owen+Ovadoz%5D",
+          "duration": "192",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "Different",
+          "url": "https://www.last.fm/music/I/_/Different",
+          "duration": "109",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "Identity (feat. Don Malik)",
+          "url": "https://www.last.fm/music/I/_/Identity+(feat.+Don+Malik)",
+          "duration": "165",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        },
+        {
+          "name": "My Goals (feat. IGNITO, QM & RYNO) - Remix",
+          "url": "https://www.last.fm/music/I/_/My+Goals+(feat.+IGNITO,+QM+&+RYNO)+-+Remix",
+          "duration": "283",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I",
+            "mbid": "e6a32fc7-9ddd-4af9-abbc-cab93cca1cc7",
+            "url": "https://www.last.fm/music/I"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:06:27.866Z"
+}

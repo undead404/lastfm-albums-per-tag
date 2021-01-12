@@ -1,0 +1,261 @@
+{
+  "album": {
+    "name": "Imperative",
+    "artist": "Sect",
+    "mbid": "4d85d435-070b-459c-b712-ff1777e22568",
+    "url": "https://www.last.fm/music/Sect/Imperative",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dabb56f628f47dac7fb6d3cb977896c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "327",
+    "playcount": "8707",
+    "tracks": {
+      "track": [
+        {
+          "name": "Imperative",
+          "url": "https://www.last.fm/music/Sect/_/Imperative",
+          "duration": "198",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Truth For Masses",
+          "url": "https://www.last.fm/music/Sect/_/Truth+For+Masses",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "The great mystification",
+          "url": "https://www.last.fm/music/Sect/_/The+great+mystification",
+          "duration": "232",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Doom",
+          "url": "https://www.last.fm/music/Sect/_/Doom",
+          "duration": "250",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "The wish",
+          "url": "https://www.last.fm/music/Sect/_/The+wish",
+          "duration": "242",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "After the sunset, before the dawn",
+          "url": "https://www.last.fm/music/Sect/_/After+the+sunset,+before+the+dawn",
+          "duration": "199",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Grotesque",
+          "url": "https://www.last.fm/music/Sect/_/Grotesque",
+          "duration": "269",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Phantasmagoria",
+          "url": "https://www.last.fm/music/Sect/_/Phantasmagoria",
+          "duration": "261",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Dancing with snakes",
+          "url": "https://www.last.fm/music/Sect/_/Dancing+with+snakes",
+          "duration": "261",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Modern slavery",
+          "url": "https://www.last.fm/music/Sect/_/Modern+slavery",
+          "duration": "243",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Dusk II",
+          "url": "https://www.last.fm/music/Sect/_/Dusk+II",
+          "duration": "293",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "End times prophecy",
+          "url": "https://www.last.fm/music/Sect/_/End+times+prophecy",
+          "duration": "56",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "modern classical",
+          "url": "https://www.last.fm/tag/modern+classical"
+        },
+        {
+          "name": "martial industrial",
+          "url": "https://www.last.fm/tag/martial+industrial"
+        },
+        {
+          "name": "neoclassical",
+          "url": "https://www.last.fm/tag/neoclassical"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:23:24.310Z"
+}

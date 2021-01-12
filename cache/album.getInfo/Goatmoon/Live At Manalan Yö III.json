@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Live At Manalan Yö III",
+    "artist": "Goatmoon",
+    "url": "https://www.last.fm/music/Goatmoon/Live+At+Manalan+Y%C3%B6+III",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93e97f8a42dbb3b3bdf53be35c5b9e1f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "71",
+    "playcount": "850",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pure Blood",
+          "url": "https://www.last.fm/music/Goatmoon/_/Pure+Blood",
+          "duration": "168",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Blackmetal Winter",
+          "url": "https://www.last.fm/music/Goatmoon/_/Blackmetal+Winter",
+          "duration": "205",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Storming Through Whitelight",
+          "url": "https://www.last.fm/music/Goatmoon/_/Storming+Through+Whitelight",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Wolven Empress",
+          "url": "https://www.last.fm/music/Goatmoon/_/Wolven+Empress",
+          "duration": "177",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Alone",
+          "url": "https://www.last.fm/music/Goatmoon/_/Alone",
+          "duration": "160",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Kunnia, Armageddon",
+          "url": "https://www.last.fm/music/Goatmoon/_/Kunnia,+Armageddon",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Echoes of Eternity",
+          "url": "https://www.last.fm/music/Goatmoon/_/Echoes+of+Eternity",
+          "duration": "329",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Eclipse by Raven Wings",
+          "url": "https://www.last.fm/music/Goatmoon/_/Eclipse+by+Raven+Wings",
+          "duration": "0",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:00:14.260Z"
+}

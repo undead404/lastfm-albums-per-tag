@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "…Doedskvad",
+    "artist": "Taake",
+    "mbid": "7ef2c87a-bc87-40a0-8d44-90d0468bc7eb",
+    "url": "https://www.last.fm/music/Taake/%E2%80%A6Doedskvad",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09785baeaf1c45faab2f5c9a9cc4829c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "247",
+    "playcount": "8864",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hordalands doedskvad 1",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+1",
+          "duration": "490",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 2",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+2",
+          "duration": "362",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 3",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+3",
+          "duration": "376",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 4",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+4",
+          "duration": "496",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 5",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+5",
+          "duration": "363",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 6",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+6",
+          "duration": "437",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 7",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+7",
+          "duration": "540",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:10:46.942Z"
+}

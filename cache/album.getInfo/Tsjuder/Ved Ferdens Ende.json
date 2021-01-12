@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Ved Ferdens Ende",
+    "artist": "Tsjuder",
+    "mbid": "78abade7-c9d7-48d0-a0b3-d533e7516af8",
+    "url": "https://www.last.fm/music/Tsjuder/Ved+Ferdens+Ende",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/408335febc7b498994a901b47e23458e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/408335febc7b498994a901b47e23458e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/408335febc7b498994a901b47e23458e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/408335febc7b498994a901b47e23458e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/408335febc7b498994a901b47e23458e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/408335febc7b498994a901b47e23458e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "701",
+    "playcount": "5598",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Tsjuder/_/Intro",
+          "duration": "45",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Age of destruction",
+          "url": "https://www.last.fm/music/Tsjuder/_/Age+of+destruction",
+          "duration": "340",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Fimbulvinter",
+          "url": "https://www.last.fm/music/Tsjuder/_/Fimbulvinter",
+          "duration": "777",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        },
+        {
+          "name": "Ved Ferdens Ende",
+          "url": "https://www.last.fm/music/Tsjuder/_/Ved+Ferdens+Ende",
+          "duration": "331",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tsjuder",
+            "mbid": "dbf23164-c702-46b9-a7e1-32acaabca310",
+            "url": "https://www.last.fm/music/Tsjuder"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "trve",
+          "url": "https://www.last.fm/tag/trve"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:32:42.624Z"
+}

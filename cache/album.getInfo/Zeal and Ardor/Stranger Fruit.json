@@ -1,0 +1,308 @@
+{
+  "album": {
+    "name": "Stranger Fruit",
+    "artist": "Zeal and Ardor",
+    "url": "https://www.last.fm/music/Zeal+and+Ardor/Stranger+Fruit",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c2c17d7c3bb8603bcd13f6792add722.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1511",
+    "playcount": "65666",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Intro",
+          "duration": "133",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Gravedigger's Chant",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Gravedigger%27s+Chant",
+          "duration": "207",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Servants",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Servants",
+          "duration": "210",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Don't you dare",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Don%27t+you+dare",
+          "duration": "252",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Fire of Motion",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Fire+of+Motion",
+          "duration": "147",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "The Hermit",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/The+Hermit",
+          "duration": "162",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Row Row",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Row+Row",
+          "duration": "186",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Ship On Fire",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Ship+On+Fire",
+          "duration": "213",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Waste",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Waste",
+          "duration": "199",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "You Ain't Coming Back",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/You+Ain%27t+Coming+Back",
+          "duration": "198",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "The Fool",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/The+Fool",
+          "duration": "145",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "We Can't Be Found",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/We+Can%27t+Be+Found",
+          "duration": "211",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Stranger Fruit",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Stranger+Fruit",
+          "duration": "209",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Solve",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Solve",
+          "duration": "82",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Coagula",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Coagula",
+          "duration": "98",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "Built on Ashes",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/Built+on+Ashes",
+          "duration": "275",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:00:03.506Z"
+}

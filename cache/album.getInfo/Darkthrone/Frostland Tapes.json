@@ -1,0 +1,644 @@
+{
+  "album": {
+    "name": "Frostland Tapes",
+    "artist": "Darkthrone",
+    "mbid": "a55b1fff-e982-4050-9a88-3ef7684c63c2",
+    "url": "https://www.last.fm/music/Darkthrone/Frostland+Tapes",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a88a6d72456e4132ae529f1f66aece66.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7747",
+    "playcount": "194930",
+    "tracks": {
+      "track": [
+        {
+          "name": "Day Of The Dead",
+          "url": "https://www.last.fm/music/Darkthrone/_/Day+Of+The+Dead",
+          "duration": "337",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Intro: Twilight Dimension",
+          "url": "https://www.last.fm/music/Darkthrone/_/Intro:+Twilight+Dimension",
+          "duration": "45",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Eon",
+          "url": "https://www.last.fm/music/Darkthrone/_/Eon",
+          "duration": "220",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Thulcandra",
+          "url": "https://www.last.fm/music/Darkthrone/_/Thulcandra",
+          "duration": "347",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Iconoclasm Sweeps Cappadocia",
+          "url": "https://www.last.fm/music/Darkthrone/_/Iconoclasm+Sweeps+Cappadocia",
+          "duration": "240",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Sempiternal Past/Presence View Sepulchrality",
+          "url": "https://www.last.fm/music/Darkthrone/_/Sempiternal+Past%2FPresence+View+Sepulchrality",
+          "duration": "236",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Accumulation of Generalization",
+          "url": "https://www.last.fm/music/Darkthrone/_/Accumulation+of+Generalization",
+          "duration": "197",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "The Watchtower",
+          "url": "https://www.last.fm/music/Darkthrone/_/The+Watchtower",
+          "duration": "297",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Soria Moria",
+          "url": "https://www.last.fm/music/Darkthrone/_/Soria+Moria",
+          "duration": "223",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Archipelago",
+          "url": "https://www.last.fm/music/Darkthrone/_/Archipelago",
+          "duration": "293",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Snowfall",
+          "url": "https://www.last.fm/music/Darkthrone/_/Snowfall",
+          "duration": "544",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Odyssey Of Freedom",
+          "url": "https://www.last.fm/music/Darkthrone/_/Odyssey+Of+Freedom",
+          "duration": "203",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Forest Of Darkness",
+          "url": "https://www.last.fm/music/Darkthrone/_/Forest+Of+Darkness",
+          "duration": "281",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Winds of Triton",
+          "url": "https://www.last.fm/music/Darkthrone/_/Winds+of+Triton",
+          "duration": "119",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Land Of Frost",
+          "url": "https://www.last.fm/music/Darkthrone/_/Land+Of+Frost",
+          "duration": "246",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Cromlech",
+          "url": "https://www.last.fm/music/Darkthrone/_/Cromlech",
+          "duration": "251",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Sunrise Over Locus Mortis",
+          "url": "https://www.last.fm/music/Darkthrone/_/Sunrise+Over+Locus+Mortis",
+          "duration": "210",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Soulside Journey",
+          "url": "https://www.last.fm/music/Darkthrone/_/Soulside+Journey",
+          "duration": "276",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Accumulation of Generalization",
+          "url": "https://www.last.fm/music/Darkthrone/_/Accumulation+of+Generalization",
+          "duration": "197",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Neptune Towers",
+          "url": "https://www.last.fm/music/Darkthrone/_/Neptune+Towers",
+          "duration": "194",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "(The) Grimness of Which Shepherds Mourn",
+          "url": "https://www.last.fm/music/Darkthrone/_/(The)+Grimness+of+Which+Shepherds+Mourn",
+          "duration": "280",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Sadomasochistic Rites",
+          "url": "https://www.last.fm/music/Darkthrone/_/Sadomasochistic+Rites",
+          "duration": "259",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "As Desertshadows",
+          "url": "https://www.last.fm/music/Darkthrone/_/As+Desertshadows",
+          "duration": "282",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "In His Lovely Kingdom",
+          "url": "https://www.last.fm/music/Darkthrone/_/In+His+Lovely+Kingdom",
+          "duration": "205",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Black Daimon",
+          "url": "https://www.last.fm/music/Darkthrone/_/Black+Daimon",
+          "duration": "230",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Toward(s) the Thornfields",
+          "url": "https://www.last.fm/music/Darkthrone/_/Toward(s)+the+Thornfields",
+          "duration": "216",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "(Birth of Evil) Virgin Sin",
+          "url": "https://www.last.fm/music/Darkthrone/_/(Birth+of+Evil)+Virgin+Sin",
+          "duration": "205",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Green Cave Float",
+          "url": "https://www.last.fm/music/Darkthrone/_/Green+Cave+Float",
+          "duration": "241",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "A Blaze in the Northern Sky",
+          "url": "https://www.last.fm/music/Darkthrone/_/A+Blaze+in+the+Northern+Sky",
+          "duration": "297",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Fenriz Drum Solo",
+          "url": "https://www.last.fm/music/Darkthrone/_/Fenriz+Drum+Solo",
+          "duration": "154",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Pure Demoniac Blessing",
+          "url": "https://www.last.fm/music/Darkthrone/_/Pure+Demoniac+Blessing",
+          "duration": "168",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Rex",
+          "url": "https://www.last.fm/music/Darkthrone/_/Rex",
+          "duration": "249",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Iconoclasm Sweeps Cappadocia",
+          "url": "https://www.last.fm/music/Darkthrone/_/Iconoclasm+Sweeps+Cappadocia",
+          "duration": "240",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Sempiternal Past/Presence View Sepulchrality",
+          "url": "https://www.last.fm/music/Darkthrone/_/Sempiternal+Past%2FPresence+View+Sepulchrality",
+          "duration": "236",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Feb 2010, 09:58",
+      "summary": "Disc 1\n1.\tLand of Frost\t04:06\t\n2.\tWinds of Triton\t01:57\t\n3.\tForest of Darkness\t04:41\t\n4.\tOdyssey of Freedom\t03:32\t\n5.\tDay of the Dead\t05:39\t\n6.\tIntro: Twilight Dimension\t00:45\t\n7.\tSnowfall\t09:05\t\n8.\tEon\t03:46\t\n9.\tThulcandra\t05:47\t\n10.\tArchipelago\t04:53\t\n11.\tSoria Moria\t03:43\t\n\nDisc 2\n1.\tThe Watchtower\t05:12\t\n2.\tAccumulation of Generalization\t03:10\t\n3.\tSempiternal Past / Presence View Sepulchrality\t03:21\t\n4.\tIconoclasm Sweeps Cappadocia\t04:00\t\n5.\tCromlech\t04:32\t <a href=\"http://www.last.fm/music/Darkthrone/Frostland+Tapes\">Read more on Last.fm</a>.",
+      "content": "Disc 1\n1.\tLand of Frost\t04:06\t\n2.\tWinds of Triton\t01:57\t\n3.\tForest of Darkness\t04:41\t\n4.\tOdyssey of Freedom\t03:32\t\n5.\tDay of the Dead\t05:39\t\n6.\tIntro: Twilight Dimension\t00:45\t\n7.\tSnowfall\t09:05\t\n8.\tEon\t03:46\t\n9.\tThulcandra\t05:47\t\n10.\tArchipelago\t04:53\t\n11.\tSoria Moria\t03:43\t\n\nDisc 2\n1.\tThe Watchtower\t05:12\t\n2.\tAccumulation of Generalization\t03:10\t\n3.\tSempiternal Past / Presence View Sepulchrality\t03:21\t\n4.\tIconoclasm Sweeps Cappadocia\t04:00\t\n5.\tCromlech\t04:32\t\n6.\tSunrise Over Locus Mortis\t03:37\t\n7.\tSoulside Journey\t05:00\t\n8.\tAccumulation of Generalization\t03:27\t\n9.\tSempiternal Past / Presence View Sepulchrality\t03:57\t\n10.\tIconoclasm Sweeps Cappadocia\t04:29\t\n11.\tNeptune Towers\t03:20\t\n\nDisc 3\n1.\tRex\t04:10\t\n2.\tPure Demoniac Blessing\t02:49\t\n3.\tThe Grimness of Which Shepherds Mourn\t04:40\t\n4.\tSadomasochistic Rites\t04:20\t\n5.\tAs Desertshadows\t05:03\t\n6.\tIn His Lovely Kingdom\t03:33\t\n7.\tBlack Daimon\t02:15\t\n8.\tTowards the Thornfields\t03:54\t\n9.\t(Birth of Evil) Virgin Sin\t03:38\t\n10.\tGreen Cave Float\t04:08\t\n11.\tA Blaze in the Northern Sky\t04:56\t\n12.\tFenriz Drum Solo\t02:35\t\n\nTotal playing time  \t02:11:02 <a href=\"http://www.last.fm/music/Darkthrone/Frostland+Tapes\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:51:41.221Z"
+}

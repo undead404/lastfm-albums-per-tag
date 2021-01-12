@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Stellar Bonus",
+    "artist": "Der Weg einer Freiheit",
+    "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/Stellar+Bonus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7de663089a45962e864607cc47ca2685.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7de663089a45962e864607cc47ca2685.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7de663089a45962e864607cc47ca2685.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de663089a45962e864607cc47ca2685.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de663089a45962e864607cc47ca2685.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de663089a45962e864607cc47ca2685.png",
+        "size": ""
+      }
+    ],
+    "listeners": "45",
+    "playcount": "560",
+    "tracks": {
+      "track": [
+        {
+          "name": "Idyll",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Idyll",
+          "duration": "248",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        },
+        {
+          "name": "Unendlich",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Unendlich",
+          "duration": "298",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:59:18.956Z"
+}

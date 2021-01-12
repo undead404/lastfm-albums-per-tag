@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "[untitled]",
+    "artist": "Svartidauði",
+    "url": "https://www.last.fm/music/Svartidau%C3%B0i/%5Buntitled%5D",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a944a22bad0d207f38e193cddbe363d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8",
+    "playcount": "38",
+    "tracks": {
+      "track": [
+        {
+          "name": "Depleted Pathways",
+          "url": "https://www.last.fm/music/Svartidau%C3%B0i/_/Depleted+Pathways",
+          "duration": "396",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartidauði",
+            "mbid": "5b67060c-6ec8-4ee8-9783-2207c169402d",
+            "url": "https://www.last.fm/music/Svartidau%C3%B0i"
+          }
+        },
+        {
+          "name": "Exultation",
+          "url": "https://www.last.fm/music/Svartidau%C3%B0i/_/Exultation",
+          "duration": "444",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svartidauði",
+            "mbid": "5b67060c-6ec8-4ee8-9783-2207c169402d",
+            "url": "https://www.last.fm/music/Svartidau%C3%B0i"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:16:05.177Z"
+}

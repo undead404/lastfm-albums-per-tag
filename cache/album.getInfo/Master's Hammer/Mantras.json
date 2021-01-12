@@ -1,0 +1,283 @@
+{
+  "album": {
+    "name": "Mantras",
+    "artist": "Master's Hammer",
+    "mbid": "d085c752-6e57-4e5c-94be-0e2da29a026b",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Mantras",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6919e993d43470aa4549c53a3767f7b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2367",
+    "playcount": "71756",
+    "tracks": {
+      "track": [
+        {
+          "name": "Typograf",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Typograf",
+          "duration": "309",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Domanín",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Doman%C3%ADn",
+          "duration": "305",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Až já budu...",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/A%C5%BE+j%C3%A1+budu...",
+          "duration": "337",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Čerti",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C4%8Certi",
+          "duration": "227",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Bodhi",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Bodhi",
+          "duration": "295",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Červené blato",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C4%8Cerven%C3%A9+blato",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Tympan",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Tympan",
+          "duration": "195",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vrana",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vrana",
+          "duration": "312",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Propesko",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Propesko",
+          "duration": "243",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Fantasie",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Fantasie",
+          "duration": "163",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Ganesha Mantra",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Ganesha+Mantra",
+          "duration": "183",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Jáma pekel",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/J%C3%A1ma+pekel",
+          "duration": "256",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Epitaf",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Epitaf",
+          "duration": "126",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "experimental black metal",
+          "url": "https://www.last.fm/tag/experimental+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Feb 2012, 05:25",
+      "summary": "1. \tTypograf \t05:11 \t  \n2. \tDomanín \t05:05 \t \n3. \tAž Já Budu... \t05:37 \t  \n4. \tČerti \t03:46 \t  \n5. \tBodhi \t04:54 \t  \n6. \tČervené Blato \t04:04 \t  \n7. \tTympan \t03:14 \t \n8. \tVrana \t05:12 \t  \n9. \tPropesko \t04:02 \t \n10. \tFantasie \t02:41 \t \n11. \tGanesha Mantra \t03:03 \t \n12. \tJáma Pekel \t05:22 \t \n13. \tEpitaf \t02:06 \t <a href=\"http://www.last.fm/music/Master%27s+Hammer/Mantras\">Read more on Last.fm</a>.",
+      "content": "1. \tTypograf \t05:11 \t  \n2. \tDomanín \t05:05 \t \n3. \tAž Já Budu... \t05:37 \t  \n4. \tČerti \t03:46 \t  \n5. \tBodhi \t04:54 \t  \n6. \tČervené Blato \t04:04 \t  \n7. \tTympan \t03:14 \t \n8. \tVrana \t05:12 \t  \n9. \tPropesko \t04:02 \t \n10. \tFantasie \t02:41 \t \n11. \tGanesha Mantra \t03:03 \t \n12. \tJáma Pekel \t05:22 \t \n13. \tEpitaf \t02:06 \t <a href=\"http://www.last.fm/music/Master%27s+Hammer/Mantras\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:23:36.301Z"
+}

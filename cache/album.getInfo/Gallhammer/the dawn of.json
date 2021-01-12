@@ -1,0 +1,677 @@
+{
+  "album": {
+    "name": "The Dawn Of...",
+    "artist": "Gallhammer",
+    "mbid": "624fb651-e3ba-4046-946f-43a70e470a3f",
+    "url": "https://www.last.fm/music/Gallhammer/The+Dawn+Of...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2bcb783384800d5bcaeb93ac5850cc7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5528",
+    "playcount": "57963",
+    "tracks": {
+      "track": [
+        {
+          "name": "Speed of Blood",
+          "url": "https://www.last.fm/music/Gallhammer/_/Speed+of+Blood",
+          "duration": "184",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "MAY OUR FATHER DIE",
+          "url": "https://www.last.fm/music/Gallhammer/_/MAY+OUR+FATHER+DIE",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Aloof and Proud Silence",
+          "url": "https://www.last.fm/music/Gallhammer/_/Aloof+and+Proud+Silence",
+          "duration": "320",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Selfish Selfless",
+          "url": "https://www.last.fm/music/Gallhammer/_/Selfish+Selfless",
+          "duration": "78",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "insane beautiful sunnyday slaughter",
+          "url": "https://www.last.fm/music/Gallhammer/_/insane+beautiful+sunnyday+slaughter",
+          "duration": "222",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Beyond The Hate Red",
+          "url": "https://www.last.fm/music/Gallhammer/_/Beyond+The+Hate+Red",
+          "duration": "171",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Friction",
+          "url": "https://www.last.fm/music/Gallhammer/_/Friction",
+          "duration": "236",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "At the Onset of the Age of Despair",
+          "url": "https://www.last.fm/music/Gallhammer/_/At+the+Onset+of+the+Age+of+Despair",
+          "duration": "469",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "MAY OUR FATHER DIE",
+          "url": "https://www.last.fm/music/Gallhammer/_/MAY+OUR+FATHER+DIE",
+          "duration": "286",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Endless Nauseous Days",
+          "url": "https://www.last.fm/music/Gallhammer/_/Endless+Nauseous+Days",
+          "duration": "333",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Blind My Eyes",
+          "url": "https://www.last.fm/music/Gallhammer/_/Blind+My+Eyes",
+          "duration": "218",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "MAY OUR FATHER DIE",
+          "url": "https://www.last.fm/music/Gallhammer/_/MAY+OUR+FATHER+DIE",
+          "duration": "286",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Song of Fall",
+          "url": "https://www.last.fm/music/Gallhammer/_/Song+of+Fall",
+          "duration": "379",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Song of Fall",
+          "url": "https://www.last.fm/music/Gallhammer/_/Song+of+Fall",
+          "duration": "379",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Blind My Eyes",
+          "url": "https://www.last.fm/music/Gallhammer/_/Blind+My+Eyes",
+          "duration": "218",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "At the Onset of the Age of Despair",
+          "url": "https://www.last.fm/music/Gallhammer/_/At+the+Onset+of+the+Age+of+Despair",
+          "duration": "469",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Speed of Blood",
+          "url": "https://www.last.fm/music/Gallhammer/_/Speed+of+Blood",
+          "duration": "184",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Lust Satan Death",
+          "url": "https://www.last.fm/music/Gallhammer/_/Lust+Satan+Death",
+          "duration": "257",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Beyond The Hate Red",
+          "url": "https://www.last.fm/music/Gallhammer/_/Beyond+The+Hate+Red",
+          "duration": "171",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "32"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Blossom In The Raven River",
+          "url": "https://www.last.fm/music/Gallhammer/_/Blossom+In+The+Raven+River",
+          "duration": "228",
+          "@attr": {
+            "rank": "33"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Beyond The Hate Red",
+          "url": "https://www.last.fm/music/Gallhammer/_/Beyond+The+Hate+Red",
+          "duration": "171",
+          "@attr": {
+            "rank": "34"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "MAY OUR FATHER DIE",
+          "url": "https://www.last.fm/music/Gallhammer/_/MAY+OUR+FATHER+DIE",
+          "duration": "286",
+          "@attr": {
+            "rank": "35"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Lust Satan Death",
+          "url": "https://www.last.fm/music/Gallhammer/_/Lust+Satan+Death",
+          "duration": "257",
+          "@attr": {
+            "rank": "36"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Endless Nauseous Days",
+          "url": "https://www.last.fm/music/Gallhammer/_/Endless+Nauseous+Days",
+          "duration": "333",
+          "@attr": {
+            "rank": "38"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Beyond The Hate Red",
+          "url": "https://www.last.fm/music/Gallhammer/_/Beyond+The+Hate+Red",
+          "duration": "171",
+          "@attr": {
+            "rank": "39"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Crucifixion",
+          "url": "https://www.last.fm/music/Gallhammer/_/Crucifixion",
+          "duration": "215",
+          "@attr": {
+            "rank": "41"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Speed of Blood",
+          "url": "https://www.last.fm/music/Gallhammer/_/Speed+of+Blood",
+          "duration": "184",
+          "@attr": {
+            "rank": "42"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        },
+        {
+          "name": "Hallucination",
+          "url": "https://www.last.fm/music/Gallhammer/_/Hallucination",
+          "duration": "286",
+          "@attr": {
+            "rank": "43"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gallhammer",
+            "mbid": "769aeb19-bef8-422d-b029-486b2540ab92",
+            "url": "https://www.last.fm/music/Gallhammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:10.393Z"
+}

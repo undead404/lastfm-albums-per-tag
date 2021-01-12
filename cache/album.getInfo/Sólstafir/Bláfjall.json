@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Bláfjall",
+    "artist": "Sólstafir",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/Bl%C3%A1fjall",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "2701",
+    "playcount": "5690",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bláfjall",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/Bl%C3%A1fjall",
+          "duration": "480",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:56.346Z"
+}

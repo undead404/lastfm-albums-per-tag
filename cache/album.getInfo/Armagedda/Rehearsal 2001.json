@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Rehearsal 2001",
+    "artist": "Armagedda",
+    "url": "https://www.last.fm/music/Armagedda/Rehearsal+2001",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf751cbba0d628fdd99877b8b07277db.png",
+        "size": ""
+      }
+    ],
+    "listeners": "80",
+    "playcount": "358",
+    "tracks": {
+      "track": [
+        {
+          "name": "Find Strength Through Satans Power",
+          "url": "https://www.last.fm/music/Armagedda/_/Find+Strength+Through+Satans+Power",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Endless Fields Of Sorrow",
+          "url": "https://www.last.fm/music/Armagedda/_/Endless+Fields+Of+Sorrow",
+          "duration": "407",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:19:18.978Z"
+}

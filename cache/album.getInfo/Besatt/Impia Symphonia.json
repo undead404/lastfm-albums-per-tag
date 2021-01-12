@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Impia Symphonia",
+    "artist": "Besatt",
+    "url": "https://www.last.fm/music/Besatt/Impia+Symphonia",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f9a0f35c3030e5897b242b689b3e9cdf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "618",
+    "playcount": "6433",
+    "tracks": {
+      "track": [
+        {
+          "name": "Czas wilka",
+          "url": "https://www.last.fm/music/Besatt/_/Czas+wilka",
+          "duration": "445",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Bałwochwalstwo",
+          "url": "https://www.last.fm/music/Besatt/_/Ba%C5%82wochwalstwo",
+          "duration": "300",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Krew moich wrogów",
+          "url": "https://www.last.fm/music/Besatt/_/Krew+moich+wrog%C3%B3w",
+          "duration": "296",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Samobójczy rytuał",
+          "url": "https://www.last.fm/music/Besatt/_/Samob%C3%B3jczy+rytua%C5%82",
+          "duration": "267",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Stworzony z błyskawicy",
+          "url": "https://www.last.fm/music/Besatt/_/Stworzony+z+b%C5%82yskawicy",
+          "duration": "591",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:56:59.803Z"
+}

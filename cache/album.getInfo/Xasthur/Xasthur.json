@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Xasthur",
+    "artist": "Xasthur",
+    "mbid": "8ac30243-94ce-40b4-bc3d-d45e1f20a16f",
+    "url": "https://www.last.fm/music/Xasthur/Xasthur",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6511887c4b453e54f260cc0c3e15837a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4132",
+    "playcount": "26816",
+    "tracks": {
+      "track": [
+        {
+          "name": "Instrumental",
+          "url": "https://www.last.fm/music/Xasthur/_/Instrumental",
+          "duration": "415",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        },
+        {
+          "name": "Bubonic Plague",
+          "url": "https://www.last.fm/music/Xasthur/_/Bubonic+Plague",
+          "duration": "384",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        },
+        {
+          "name": "Doomed by Howling Winds",
+          "url": "https://www.last.fm/music/Xasthur/_/Doomed+by+Howling+Winds",
+          "duration": "656",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Xasthur",
+            "mbid": "39e92581-e59d-4070-b157-abadd9969f3f",
+            "url": "https://www.last.fm/music/Xasthur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "beautiful album cover",
+          "url": "https://www.last.fm/tag/beautiful+album+cover"
+        },
+        {
+          "name": "free waterfalls favorite albums",
+          "url": "https://www.last.fm/tag/free+waterfalls+favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:15:51.209Z"
+}

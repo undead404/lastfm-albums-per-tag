@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Souldive",
+    "artist": "Sear Bliss",
+    "mbid": "0e2c9c44-388a-47d1-b476-9318ee0bc981",
+    "url": "https://www.last.fm/music/Sear+Bliss/Souldive",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12dcb814d31e47158d693553e8d2f161.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12dcb814d31e47158d693553e8d2f161.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12dcb814d31e47158d693553e8d2f161.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12dcb814d31e47158d693553e8d2f161.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12dcb814d31e47158d693553e8d2f161.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12dcb814d31e47158d693553e8d2f161.png",
+        "size": ""
+      }
+    ],
+    "listeners": "109",
+    "playcount": "438",
+    "tracks": {
+      "track": [
+        {
+          "name": "Souldive",
+          "url": "https://www.last.fm/music/Sear+Bliss/_/Souldive",
+          "duration": "287",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sear Bliss",
+            "mbid": "839b029c-e20e-4ebd-997f-9696c3d63a9a",
+            "url": "https://www.last.fm/music/Sear+Bliss"
+          }
+        },
+        {
+          "name": "Moments of Falling",
+          "url": "https://www.last.fm/music/Sear+Bliss/_/Moments+of+Falling",
+          "duration": "142",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sear Bliss",
+            "mbid": "839b029c-e20e-4ebd-997f-9696c3d63a9a",
+            "url": "https://www.last.fm/music/Sear+Bliss"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:58.892Z"
+}

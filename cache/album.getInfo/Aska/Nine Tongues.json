@@ -1,0 +1,219 @@
+{
+  "album": {
+    "name": "Nine Tongues",
+    "artist": "Aska",
+    "mbid": "343dee5f-c4b6-4128-af96-03bfb994b568",
+    "url": "https://www.last.fm/music/Aska/Nine+Tongues",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af6120cc6394427a9a3dc2596dfa2444.png",
+        "size": ""
+      }
+    ],
+    "listeners": "174",
+    "playcount": "2651",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Stalker",
+          "url": "https://www.last.fm/music/Aska/_/The+Stalker",
+          "duration": "261",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Leprosy",
+          "url": "https://www.last.fm/music/Aska/_/Leprosy",
+          "duration": "241",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "The Question",
+          "url": "https://www.last.fm/music/Aska/_/The+Question",
+          "duration": "305",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Little Sister",
+          "url": "https://www.last.fm/music/Aska/_/Little+Sister",
+          "duration": "233",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Blood of the Wolf",
+          "url": "https://www.last.fm/music/Aska/_/Blood+of+the+Wolf",
+          "duration": "344",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Killashandra",
+          "url": "https://www.last.fm/music/Aska/_/Killashandra",
+          "duration": "294",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Captain Crunch",
+          "url": "https://www.last.fm/music/Aska/_/Captain+Crunch",
+          "duration": "217",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Liquid Courage",
+          "url": "https://www.last.fm/music/Aska/_/Liquid+Courage",
+          "duration": "244",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Nightmare",
+          "url": "https://www.last.fm/music/Aska/_/Nightmare",
+          "duration": "51",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "The Dream",
+          "url": "https://www.last.fm/music/Aska/_/The+Dream",
+          "duration": "944",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "US Power Metal",
+          "url": "https://www.last.fm/tag/US+Power+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:48:47.796Z"
+}

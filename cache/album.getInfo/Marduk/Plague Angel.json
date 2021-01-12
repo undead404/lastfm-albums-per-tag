@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Plague Angel",
+    "artist": "Marduk",
+    "mbid": "27e6d06a-c20d-45a2-afbf-1ec0f5e0e0b0",
+    "url": "https://www.last.fm/music/Marduk/Plague+Angel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42aab05f1f403b258e3fb94a07d7d719.png",
+        "size": ""
+      }
+    ],
+    "listeners": "31941",
+    "playcount": "995722",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Hangman of Prague",
+          "url": "https://www.last.fm/music/Marduk/_/The+Hangman+of+Prague",
+          "duration": "187",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Throne of Rats",
+          "url": "https://www.last.fm/music/Marduk/_/Throne+of+Rats",
+          "duration": "162",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Seven Angels, Seven Trumpets",
+          "url": "https://www.last.fm/music/Marduk/_/Seven+Angels,+Seven+Trumpets",
+          "duration": "161",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Life's Emblem",
+          "url": "https://www.last.fm/music/Marduk/_/Life%27s+Emblem",
+          "duration": "297",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Steel Inferno",
+          "url": "https://www.last.fm/music/Marduk/_/Steel+Inferno",
+          "duration": "145",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Perish in Flames",
+          "url": "https://www.last.fm/music/Marduk/_/Perish+in+Flames",
+          "duration": "468",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Holy Blood, Holy Grail",
+          "url": "https://www.last.fm/music/Marduk/_/Holy+Blood,+Holy+Grail",
+          "duration": "149",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Warschau",
+          "url": "https://www.last.fm/music/Marduk/_/Warschau",
+          "duration": "200",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Deathmarch",
+          "url": "https://www.last.fm/music/Marduk/_/Deathmarch",
+          "duration": "252",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Everything Bleeds",
+          "url": "https://www.last.fm/music/Marduk/_/Everything+Bleeds",
+          "duration": "215",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        },
+        {
+          "name": "Blutrache",
+          "url": "https://www.last.fm/music/Marduk/_/Blutrache",
+          "duration": "470",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Marduk",
+            "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+            "url": "https://www.last.fm/music/Marduk"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Sep 2008, 15:10",
+      "summary": "The ninth studio album by the Swedish black metal band. Recorded and mixed at Endarker Studio in September 2004, released November 2004 on CD & LP by Regain Records. This is the first Marduk album to feature Mortuus on vocals and the first since Those Of The Unlight to feature Magnus \"Devo\" Andersson, previously guitarist and now bassist.\n\nTrivia\n* Much of the more religious-like lyrics are attributed to Morgan and Mortuus' fascination with the Bible <a href=\"http://www.last.fm/music/Marduk/Plague+Angel\">Read more on Last.fm</a>.",
+      "content": "The ninth studio album by the Swedish black metal band. Recorded and mixed at Endarker Studio in September 2004, released November 2004 on CD & LP by Regain Records. This is the first Marduk album to feature Mortuus on vocals and the first since Those Of The Unlight to feature Magnus \"Devo\" Andersson, previously guitarist and now bassist.\n\nTrivia\n* Much of the more religious-like lyrics are attributed to Morgan and Mortuus' fascination with the Bible, as they are both Bible experts (despite Marduk's anti-religious stance, Morgan has admitted that he uses the Bible as inspiration solely for its violent content, as he finds death and violence to be most inspirational for Marduk, and that he can write a complete song mentally by just looking at a violent painting or image).\n * \"The Hangman of Prague\" refers to Reinhard Heydrich after the invasion of Czechoslovakia. <a href=\"http://www.last.fm/music/Marduk/Plague+Angel\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:54:51.414Z"
+}

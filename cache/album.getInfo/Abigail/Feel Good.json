@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Feel Good",
+    "artist": "Abigail",
+    "mbid": "9b8b9bb8-70b7-4e7c-8808-e5242b6baf46",
+    "url": "https://www.last.fm/music/Abigail/Feel+Good",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e6332728c5c00cff284eb1e1c7a7e2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "468",
+    "playcount": "3822",
+    "tracks": {
+      "track": [
+        {
+          "name": "Smells Like Teen Spirit (Guitar Vocal Radio Version)",
+          "url": "https://www.last.fm/music/Abigail/_/Smells+Like+Teen+Spirit+(Guitar+Vocal+Radio+Version)",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Constant Craving",
+          "url": "https://www.last.fm/music/Abigail/_/Constant+Craving",
+          "duration": "296",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Don't You Wanna Know?",
+          "url": "https://www.last.fm/music/Abigail/_/Don%27t+You+Wanna+Know%3F",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "How Can you Call it Love?",
+          "url": "https://www.last.fm/music/Abigail/_/How+Can+you+Call+it+Love%3F",
+          "duration": "371",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Losing My Religion",
+          "url": "https://www.last.fm/music/Abigail/_/Losing+My+Religion",
+          "duration": "414",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Feel Good",
+          "url": "https://www.last.fm/music/Abigail/_/Feel+Good",
+          "duration": "294",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Stop the Hands of Time",
+          "url": "https://www.last.fm/music/Abigail/_/Stop+the+Hands+of+Time",
+          "duration": "303",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Twist in my Sobriety",
+          "url": "https://www.last.fm/music/Abigail/_/Twist+in+my+Sobriety",
+          "duration": "349",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Don't tell me why",
+          "url": "https://www.last.fm/music/Abigail/_/Don%27t+tell+me+why",
+          "duration": "289",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "What Goes Around Comes Around",
+          "url": "https://www.last.fm/music/Abigail/_/What+Goes+Around+Comes+Around",
+          "duration": "314",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Could it be Magic",
+          "url": "https://www.last.fm/music/Abigail/_/Could+it+be+Magic",
+          "duration": "379",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Smells like Teen Spirit (Original Version)",
+          "url": "https://www.last.fm/music/Abigail/_/Smells+like+Teen+Spirit+(Original+Version)",
+          "duration": "254",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Hi-NRG",
+          "url": "https://www.last.fm/tag/Hi-NRG"
+        },
+        {
+          "name": "electronica",
+          "url": "https://www.last.fm/tag/electronica"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:05:52.338Z"
+}

@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Starless Aeon",
+    "artist": "Dissection",
+    "mbid": "ad168fcc-d253-4f77-9f22-5f4b247de948",
+    "url": "https://www.last.fm/music/Dissection/Starless+Aeon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41bac70907444039adb0b10697f92adb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41bac70907444039adb0b10697f92adb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41bac70907444039adb0b10697f92adb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41bac70907444039adb0b10697f92adb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41bac70907444039adb0b10697f92adb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41bac70907444039adb0b10697f92adb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1140",
+    "playcount": "7198",
+    "tracks": {
+      "track": [
+        {
+          "name": "Starless Aeon",
+          "url": "https://www.last.fm/music/Dissection/_/Starless+Aeon",
+          "duration": "239",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        },
+        {
+          "name": "Xeper-I-Set",
+          "url": "https://www.last.fm/music/Dissection/_/Xeper-I-Set",
+          "duration": "188",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        },
+        {
+          "name": "Starless Aeon (Instrumental)",
+          "url": "https://www.last.fm/music/Dissection/_/Starless+Aeon+(Instrumental)",
+          "duration": "241",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dissection",
+            "mbid": "92d48f3d-a9cb-4011-a002-2e9ac3a6843d",
+            "url": "https://www.last.fm/music/Dissection"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:36.511Z"
+}

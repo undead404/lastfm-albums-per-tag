@@ -1,0 +1,98 @@
+{
+  "album": {
+    "name": "K.I.N.G.",
+    "artist": "Satyricon",
+    "url": "https://www.last.fm/music/Satyricon/K.I.N.G.",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa26c22f94226fc114bafc2d7f8a175a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3638",
+    "playcount": "9928",
+    "tracks": {
+      "track": [
+        {
+          "name": "K.I.N.G.",
+          "url": "https://www.last.fm/music/Satyricon/_/K.I.N.G.",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        },
+        {
+          "name": "Storm (Of the Destroyer)",
+          "url": "https://www.last.fm/music/Satyricon/_/Storm+(Of+the+Destroyer)",
+          "duration": "168",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Satyricon",
+            "mbid": "8eed05a5-e9a1-4dda-8b33-e354c4ecc8b6",
+            "url": "https://www.last.fm/music/Satyricon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "Norway",
+          "url": "https://www.last.fm/tag/Norway"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:36.629Z"
+}

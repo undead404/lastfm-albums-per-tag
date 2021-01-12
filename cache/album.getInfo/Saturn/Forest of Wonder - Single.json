@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Forest of Wonder - Single",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/Forest+of+Wonder+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "175",
+    "playcount": "418",
+    "tracks": {
+      "track": [
+        {
+          "name": "Forest Of Wonder",
+          "url": "https://www.last.fm/music/Saturn/_/Forest+Of+Wonder",
+          "duration": "210",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:45:08.330Z"
+}

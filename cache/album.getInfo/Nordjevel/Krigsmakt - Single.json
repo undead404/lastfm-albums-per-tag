@@ -1,0 +1,91 @@
+{
+  "album": {
+    "name": "Krigsmakt - Single",
+    "artist": "Nordjevel",
+    "url": "https://www.last.fm/music/Nordjevel/Krigsmakt+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "43",
+    "playcount": "162",
+    "tracks": {
+      "track": [
+        {
+          "name": "Krigsmakt",
+          "url": "https://www.last.fm/music/Nordjevel/_/Krigsmakt",
+          "duration": "242",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        },
+        {
+          "name": "For De Falne",
+          "url": "https://www.last.fm/music/Nordjevel/_/For+De+Falne",
+          "duration": "333",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        },
+        {
+          "name": "Into Ever Deeper Depths",
+          "url": "https://www.last.fm/music/Nordjevel/_/Into+Ever+Deeper+Depths",
+          "duration": "226",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nordjevel",
+            "url": "https://www.last.fm/music/Nordjevel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:48:16.435Z"
+}

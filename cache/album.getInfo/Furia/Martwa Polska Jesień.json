@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Martwa Polska Jesień",
+    "artist": "Furia",
+    "mbid": "4c171232-342b-428b-91d0-4133a695eedb",
+    "url": "https://www.last.fm/music/Furia/Martwa+Polska+Jesie%C5%84",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/55eaceb59bd04e70a720cc5715a86c41.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9044",
+    "playcount": "414458",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nade mną mgła",
+          "url": "https://www.last.fm/music/Furia/_/Nade+mn%C4%85+mg%C5%82a",
+          "duration": "429",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Dzień czarny, noc czarna",
+          "url": "https://www.last.fm/music/Furia/_/Dzie%C5%84+czarny,+noc+czarna",
+          "duration": "527",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Krew w kolorze bursztynu",
+          "url": "https://www.last.fm/music/Furia/_/Krew+w+kolorze+bursztynu",
+          "duration": "375",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Ślepych dzień",
+          "url": "https://www.last.fm/music/Furia/_/%C5%9Alepych+dzie%C5%84",
+          "duration": "444",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Na ciele swym historię mą piszę",
+          "url": "https://www.last.fm/music/Furia/_/Na+ciele+swym+histori%C4%99+m%C4%85+pisz%C4%99",
+          "duration": "407",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        },
+        {
+          "name": "Idzie zima",
+          "url": "https://www.last.fm/music/Furia/_/Idzie+zima",
+          "duration": "448",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Furia",
+            "mbid": "f67fb038-ce53-46f8-acd7-b34f9d28172f",
+            "url": "https://www.last.fm/music/Furia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "polish black metal",
+          "url": "https://www.last.fm/tag/polish+black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "polish",
+          "url": "https://www.last.fm/tag/polish"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:25:28.804Z"
+}

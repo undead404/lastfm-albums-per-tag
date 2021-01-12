@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Wired 2 Scream",
+    "artist": "Wyrd",
+    "mbid": "b7a471d1-1b9e-4a35-a2de-326664a71113",
+    "url": "https://www.last.fm/music/Wyrd/Wired+2+Scream",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "94",
+    "playcount": "883",
+    "tracks": {
+      "track": [
+        {
+          "name": "Scream",
+          "url": "https://www.last.fm/music/Wyrd/_/Scream",
+          "duration": "295",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Dreams I Like",
+          "url": "https://www.last.fm/music/Wyrd/_/Dreams+I+Like",
+          "duration": "230",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "In My Life",
+          "url": "https://www.last.fm/music/Wyrd/_/In+My+Life",
+          "duration": "228",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Don't You Ever Go Away",
+          "url": "https://www.last.fm/music/Wyrd/_/Don%27t+You+Ever+Go+Away",
+          "duration": "331",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:49.282Z"
+}

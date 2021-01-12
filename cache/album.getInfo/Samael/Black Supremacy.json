@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Black Supremacy",
+    "artist": "Samael",
+    "url": "https://www.last.fm/music/Samael/Black+Supremacy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86737c66569efbc098877c02ef917da4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86737c66569efbc098877c02ef917da4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86737c66569efbc098877c02ef917da4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86737c66569efbc098877c02ef917da4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86737c66569efbc098877c02ef917da4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86737c66569efbc098877c02ef917da4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1404",
+    "playcount": "3013",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Supremacy",
+          "url": "https://www.last.fm/music/Samael/_/Black+Supremacy",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:00:07.123Z"
+}

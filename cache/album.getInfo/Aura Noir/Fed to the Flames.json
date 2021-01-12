@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Fed to the Flames",
+    "artist": "Aura Noir",
+    "url": "https://www.last.fm/music/Aura+Noir/Fed+to+the+Flames",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "205",
+    "playcount": "356",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fed to the Flames",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Fed+to+the+Flames",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:12.187Z"
+}

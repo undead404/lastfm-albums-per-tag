@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Void",
+    "artist": "Craft",
+    "mbid": "2993496b-751b-4906-8c3e-4ae5035ab0c1",
+    "url": "https://www.last.fm/music/Craft/Void",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94108fd007b6420c936ed2d91560fc57.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94108fd007b6420c936ed2d91560fc57.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94108fd007b6420c936ed2d91560fc57.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94108fd007b6420c936ed2d91560fc57.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94108fd007b6420c936ed2d91560fc57.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94108fd007b6420c936ed2d91560fc57.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13017",
+    "playcount": "269271",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro (John's Nightmare)",
+          "url": "https://www.last.fm/music/Craft/_/Intro+(John%27s+Nightmare)",
+          "duration": "19",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Serpent Soul",
+          "url": "https://www.last.fm/music/Craft/_/Serpent+Soul",
+          "duration": "275",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Come Resonance of Doom",
+          "url": "https://www.last.fm/music/Craft/_/Come+Resonance+of+Doom",
+          "duration": "388",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "The Ground Surrenders",
+          "url": "https://www.last.fm/music/Craft/_/The+Ground+Surrenders",
+          "duration": "352",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Succumb to Sin",
+          "url": "https://www.last.fm/music/Craft/_/Succumb+to+Sin",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Leaving the Corporal Shade",
+          "url": "https://www.last.fm/music/Craft/_/Leaving+the+Corporal+Shade",
+          "duration": "425",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "I Want to Commit Murder",
+          "url": "https://www.last.fm/music/Craft/_/I+Want+to+Commit+Murder",
+          "duration": "311",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Bring On the Clouds",
+          "url": "https://www.last.fm/music/Craft/_/Bring+On+the+Clouds",
+          "duration": "379",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        },
+        {
+          "name": "Void",
+          "url": "https://www.last.fm/music/Craft/_/Void",
+          "duration": "509",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Craft",
+            "mbid": "e2c5a524-7773-4315-a031-a40525126460",
+            "url": "https://www.last.fm/music/Craft"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        },
+        {
+          "name": "vinyl",
+          "url": "https://www.last.fm/tag/vinyl"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:39:01.359Z"
+}

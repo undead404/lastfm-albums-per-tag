@@ -1,0 +1,383 @@
+{
+  "album": {
+    "name": "Die... Hard",
+    "artist": "Sarcófago",
+    "url": "https://www.last.fm/music/Sarc%C3%B3fago/Die...+Hard",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93ca33c6cdfb4461d4e5719865c5abe7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "358",
+    "playcount": "2969",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro da Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Intro+da+Satanas",
+          "duration": "151",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanas",
+          "duration": "121",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Nightmare",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Nightmare",
+          "duration": "338",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Third Slaughter",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Third+Slaughter",
+          "duration": "337",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Intro da Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Intro+da+Satanas",
+          "duration": "151",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanas",
+          "duration": "121",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Nightmare",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Nightmare",
+          "duration": "338",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Third Slaughter",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Third+Slaughter",
+          "duration": "337",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Intro",
+          "duration": "37",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanas",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanas",
+          "duration": "121",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Nightmare",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Nightmare",
+          "duration": "338",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Third Slaughter",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Third+Slaughter",
+          "duration": "337",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Black Vomit",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Black+Vomit",
+          "duration": "152",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "INRI",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/INRI",
+          "duration": "126",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Christ's Death",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Christ%27s+Death",
+          "duration": "195",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Desecration of Virgin",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Desecration+of+Virgin",
+          "duration": "118",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanic Lust",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanic+Lust",
+          "duration": "188",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Alcoholic Coma",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Alcoholic+Coma",
+          "duration": "363",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Secrets of a Window",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Secrets+of+a+Window",
+          "duration": "309",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        },
+        {
+          "name": "Satanic Lust",
+          "url": "https://www.last.fm/music/Sarc%C3%B3fago/_/Satanic+Lust",
+          "duration": "188",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarcófago",
+            "mbid": "f5003609-10fb-478f-91c3-49277a074a42",
+            "url": "https://www.last.fm/music/Sarc%C3%B3fago"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:29:06.184Z"
+}

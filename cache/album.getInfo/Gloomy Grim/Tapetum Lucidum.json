@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Tapetum Lucidum",
+    "artist": "Gloomy Grim",
+    "url": "https://www.last.fm/music/Gloomy+Grim/Tapetum+Lucidum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70f5fa2273631a06c61755361d9fe8c5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "294",
+    "playcount": "3231",
+    "tracks": {
+      "track": [
+        {
+          "name": "April - Within The Woods",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/April+-+Within+The+Woods",
+          "duration": "279",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "october - cellar dweller",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/october+-+cellar+dweller",
+          "duration": "303",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "November - And the Bird Came in",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/November+-+And+the+Bird+Came+in",
+          "duration": "398",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        },
+        {
+          "name": "December - The Bells Toll My Name",
+          "url": "https://www.last.fm/music/Gloomy+Grim/_/December+-+The+Bells+Toll+My+Name",
+          "duration": "321",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Gloomy Grim",
+            "mbid": "4d359381-3686-4674-a851-20d14c82fea5",
+            "url": "https://www.last.fm/music/Gloomy+Grim"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:47:18.717Z"
+}

@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Prometheus",
+    "artist": "Emperor",
+    "url": "https://www.last.fm/music/Emperor/Prometheus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/01ed89fc5de24fef80c084da5799fbd9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2061",
+    "playcount": "30974",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:58:39.812Z"
+}

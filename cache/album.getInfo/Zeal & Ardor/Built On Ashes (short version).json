@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Built On Ashes (short version)",
+    "artist": "Zeal & Ardor",
+    "url": "https://www.last.fm/music/Zeal+&+Ardor/Built+On+Ashes+(short+version)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaca7e4412d9964d3f8630164c586b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5996",
+    "playcount": "17150",
+    "tracks": {
+      "track": [
+        {
+          "name": "Built On Ashes (short version)",
+          "url": "https://www.last.fm/music/Zeal+&+Ardor/_/Built+On+Ashes+(short+version)",
+          "duration": "234",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal & Ardor",
+            "url": "https://www.last.fm/music/Zeal+&+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:20.015Z"
+}

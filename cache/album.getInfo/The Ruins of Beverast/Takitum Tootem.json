@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Takitum Tootem!",
+    "artist": "The Ruins of Beverast",
+    "url": "https://www.last.fm/music/The+Ruins+of+Beverast/Takitum+Tootem%21",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96144efdf5b24f85f4f1786b6f39cfe7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1638",
+    "playcount": "8402",
+    "tracks": {
+      "track": [
+        {
+          "name": "Takitum Tootem! (Wardance)",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Takitum+Tootem%21+(Wardance)",
+          "duration": "530",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        },
+        {
+          "name": "Set The Controls For The Heart Of The Sun",
+          "url": "https://www.last.fm/music/The+Ruins+of+Beverast/_/Set+The+Controls+For+The+Heart+Of+The+Sun",
+          "duration": "710",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "The Ruins of Beverast",
+            "mbid": "e4ff2368-1744-4048-a338-5a5782499644",
+            "url": "https://www.last.fm/music/The+Ruins+of+Beverast"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:34:36.752Z"
+}

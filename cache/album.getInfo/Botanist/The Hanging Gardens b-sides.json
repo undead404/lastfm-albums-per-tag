@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "The Hanging Gardens b-sides",
+    "artist": "Botanist",
+    "url": "https://www.last.fm/music/Botanist/The+Hanging+Gardens+b-sides",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "16",
+    "playcount": "32",
+    "tracks": {
+      "track": [
+        {
+          "name": "Balete",
+          "url": "https://www.last.fm/music/Botanist/_/Balete",
+          "duration": "475",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Streptocarpus",
+          "url": "https://www.last.fm/music/Botanist/_/Streptocarpus",
+          "duration": "417",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:20.203Z"
+}

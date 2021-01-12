@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Heimgang",
+    "artist": "Kampfar",
+    "mbid": "243afad5-8cc3-41c3-834d-9f57d42e78f2",
+    "url": "https://www.last.fm/music/Kampfar/Heimgang",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38918f8a3e6c4f1ba39725f19c19d8ba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15804",
+    "playcount": "334783",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vantro",
+          "url": "https://www.last.fm/music/Kampfar/_/Vantro",
+          "duration": "186",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Inferno",
+          "url": "https://www.last.fm/music/Kampfar/_/Inferno",
+          "duration": "213",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Dødens Vee",
+          "url": "https://www.last.fm/music/Kampfar/_/D%C3%B8dens+Vee",
+          "duration": "264",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Skogens Dyp",
+          "url": "https://www.last.fm/music/Kampfar/_/Skogens+Dyp",
+          "duration": "319",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Antvort",
+          "url": "https://www.last.fm/music/Kampfar/_/Antvort",
+          "duration": "372",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Vansinn",
+          "url": "https://www.last.fm/music/Kampfar/_/Vansinn",
+          "duration": "336",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Mareham",
+          "url": "https://www.last.fm/music/Kampfar/_/Mareham",
+          "duration": "307",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Feigdarvarsel",
+          "url": "https://www.last.fm/music/Kampfar/_/Feigdarvarsel",
+          "duration": "317",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Vettekult",
+          "url": "https://www.last.fm/music/Kampfar/_/Vettekult",
+          "duration": "289",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Vandring",
+          "url": "https://www.last.fm/music/Kampfar/_/Vandring",
+          "duration": "224",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2008",
+          "url": "https://www.last.fm/tag/2008"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Aug 2012, 15:47",
+      "summary": "Kampfar are arguably norway’s best kept secret in spite of attracting popular attention in recent years. conceiving a harrowing hybrid of black and viking metal, this band has been producing superlative music since 1994 and, plagued by inactivity,.. heimgang is only the group’s fourth full-length offering.\n\nheimgang’s lyrical theme regards passing on into the underworld, illustrated in norse myths...the music unquestionably has a substantial ambience to it,. <a href=\"http://www.last.fm/music/Kampfar/Heimgang\">Read more on Last.fm</a>.",
+      "content": "Kampfar are arguably norway’s best kept secret in spite of attracting popular attention in recent years. conceiving a harrowing hybrid of black and viking metal, this band has been producing superlative music since 1994 and, plagued by inactivity,.. heimgang is only the group’s fourth full-length offering.\n\nheimgang’s lyrical theme regards passing on into the underworld, illustrated in norse myths...the music unquestionably has a substantial ambience to it,.. far more prevalent than on their previous album kvass. the drumming on Heimgang is particularly more varied but still retains semblance of a trance-like atmosphere paramount to most viking metal bands... of course, the band has succeeded in balancing this with their signature black metal sound.\n\n‘vettekult’ is potentially the most emotive and mature track that kampfar have committed to record, achieving equilibrium between the profound atmosphere on previous anthems such as ‘til siste man’ and even ‘Hjemkomsten’ and the escalating adventure of ‘norse’ and ‘hymne’. ‘vansinn’ is certainly kampfar at their most folk-sounding, with a catchy yet striving rhythm guitar that has a feel for the middle ages, interestingly enough.\n\ndisparity is inscribed throughout this piece, with no two songs repeating each other. ‘feigdarvarsel’ is a muscular number, particularly at its beginning. ‘Inferno’ is resolute in its mood, battering the listener from the offset and this is more than appropriate for the first proper song on this battalion of an album..\n\nthe sole reason heimgang is restricted from obtaining full marks is because ‘mareham’ and ‘antvort’, whilst strong metal tracks, lag alongside the other songs on this effort; they sound as if they did not make the final cut of kvass. otherwise, kampfar have once again achieved the ideal marriage for harmony and abrasiveness only with an unfamiliar approach. \n <a href=\"http://www.last.fm/music/Kampfar/Heimgang\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:31:29.173Z"
+}

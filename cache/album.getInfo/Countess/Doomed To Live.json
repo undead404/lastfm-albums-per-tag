@@ -1,0 +1,299 @@
+{
+  "album": {
+    "name": "Doomed To Live",
+    "artist": "Countess",
+    "mbid": "a7e185dd-b46f-4ea4-8f99-b83974ba7193",
+    "url": "https://www.last.fm/music/Countess/Doomed+To+Live",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/961730105d7b46459e400ba3da135cb3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/961730105d7b46459e400ba3da135cb3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/961730105d7b46459e400ba3da135cb3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961730105d7b46459e400ba3da135cb3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961730105d7b46459e400ba3da135cb3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/961730105d7b46459e400ba3da135cb3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "39",
+    "playcount": "696",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Countess/_/Intro",
+          "duration": "111",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Crossing The Fires Of Darkness",
+          "url": "https://www.last.fm/music/Countess/_/Crossing+The+Fires+Of+Darkness",
+          "duration": "289",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Deisidaimonia",
+          "url": "https://www.last.fm/music/Countess/_/Deisidaimonia",
+          "duration": "300",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Highland Victory",
+          "url": "https://www.last.fm/music/Countess/_/Highland+Victory",
+          "duration": "555",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Into Battle",
+          "url": "https://www.last.fm/music/Countess/_/Into+Battle",
+          "duration": "185",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Full Moon Baptism",
+          "url": "https://www.last.fm/music/Countess/_/Full+Moon+Baptism",
+          "duration": "409",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "The Silent Rose of Sin",
+          "url": "https://www.last.fm/music/Countess/_/The+Silent+Rose+of+Sin",
+          "duration": "224",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Messenger Of The Underworld",
+          "url": "https://www.last.fm/music/Countess/_/Messenger+Of+The+Underworld",
+          "duration": "365",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Doomed to Die",
+          "url": "https://www.last.fm/music/Countess/_/Doomed+to+Die",
+          "duration": "218",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Bloed In De Sneeuw",
+          "url": "https://www.last.fm/music/Countess/_/Bloed+In+De+Sneeuw",
+          "duration": "347",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Through the Endless Mist",
+          "url": "https://www.last.fm/music/Countess/_/Through+the+Endless+Mist",
+          "duration": "316",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Under the Sign of the Celtic Cross",
+          "url": "https://www.last.fm/music/Countess/_/Under+the+Sign+of+the+Celtic+Cross",
+          "duration": "326",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Aleidis",
+          "url": "https://www.last.fm/music/Countess/_/Aleidis",
+          "duration": "181",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Kneel Before The Master's Throne",
+          "url": "https://www.last.fm/music/Countess/_/Kneel+Before+The+Master%27s+Throne",
+          "duration": "394",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        },
+        {
+          "name": "Countess Bathory",
+          "url": "https://www.last.fm/music/Countess/_/Countess+Bathory",
+          "duration": "228",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Countess",
+            "mbid": "35f55b53-1017-4969-b48e-92c079c12b44",
+            "url": "https://www.last.fm/music/Countess"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:08:40.084Z"
+}

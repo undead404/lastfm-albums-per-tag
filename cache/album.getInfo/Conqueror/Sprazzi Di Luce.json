@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Sprazzi Di Luce",
+    "artist": "Conqueror",
+    "url": "https://www.last.fm/music/Conqueror/Sprazzi+Di+Luce",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/801f798996ed485fbc739518a6f6e1e8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "251",
+    "playcount": "466",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sprazzi Di Luce",
+          "url": "https://www.last.fm/music/Conqueror/_/Sprazzi+Di+Luce",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "... E Mi Manchi Tanto",
+          "url": "https://www.last.fm/music/Conqueror/_/...+E+Mi+Manchi+Tanto",
+          "duration": "270",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Semplice",
+          "url": "https://www.last.fm/music/Conqueror/_/Semplice",
+          "duration": "223",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Pensieri Fragili (live version Tour 06)",
+          "url": "https://www.last.fm/music/Conqueror/_/Pensieri+Fragili+(live+version+Tour+06)",
+          "duration": "471",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive rock",
+          "url": "https://www.last.fm/tag/Progressive+rock"
+        },
+        {
+          "name": "war metal",
+          "url": "https://www.last.fm/tag/war+metal"
+        },
+        {
+          "name": "y2k prog",
+          "url": "https://www.last.fm/tag/y2k+prog"
+        },
+        {
+          "name": "bestial black metal",
+          "url": "https://www.last.fm/tag/bestial+black+metal"
+        },
+        {
+          "name": "What The Hell Is This",
+          "url": "https://www.last.fm/tag/What+The+Hell+Is+This"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:59:55.466Z"
+}

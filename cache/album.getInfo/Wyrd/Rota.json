@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Rota",
+    "artist": "Wyrd",
+    "mbid": "bf51d5ad-dee0-4b55-a92c-9c4296c504ec",
+    "url": "https://www.last.fm/music/Wyrd/Rota",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39dd1e66fc5000b55e0f0fe0acf8af58.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4630",
+    "playcount": "46193",
+    "tracks": {
+      "track": [
+        {
+          "name": "Noitakansa",
+          "url": "https://www.last.fm/music/Wyrd/_/Noitakansa",
+          "duration": "890",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Götterdämmerung",
+          "url": "https://www.last.fm/music/Wyrd/_/G%C3%B6tterd%C3%A4mmerung",
+          "duration": "239",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Henkien Yössä",
+          "url": "https://www.last.fm/music/Wyrd/_/Henkien+Y%C3%B6ss%C3%A4",
+          "duration": "422",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Veri Kutsuu Verta",
+          "url": "https://www.last.fm/music/Wyrd/_/Veri+Kutsuu+Verta",
+          "duration": "287",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Rota",
+          "url": "https://www.last.fm/music/Wyrd/_/Rota",
+          "duration": "780",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        },
+        {
+          "name": "Loitsi",
+          "url": "https://www.last.fm/music/Wyrd/_/Loitsi",
+          "duration": "312",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wyrd",
+            "mbid": "8709962f-6d61-4849-bd7c-31fd4d93f1ed",
+            "url": "https://www.last.fm/music/Wyrd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Best of 2005",
+          "url": "https://www.last.fm/tag/Best+of+2005"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:55:28.679Z"
+}

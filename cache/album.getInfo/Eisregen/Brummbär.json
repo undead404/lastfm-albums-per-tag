@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Brummbär",
+    "artist": "Eisregen",
+    "url": "https://www.last.fm/music/Eisregen/Brummb%C3%A4r",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/379553a233af808136cdbe9d2e7d6e56.png",
+        "size": ""
+      }
+    ],
+    "listeners": "567",
+    "playcount": "6616",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gott der Panzer (Extreme Vox Edit)",
+          "url": "https://www.last.fm/music/Eisregen/_/Gott+der+Panzer+(Extreme+Vox+Edit)",
+          "duration": "328",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Panzerschokolade",
+          "url": "https://www.last.fm/music/Eisregen/_/Panzerschokolade",
+          "duration": "135",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Auf ewig Ostfront (Remix-Soldatendisko)",
+          "url": "https://www.last.fm/music/Eisregen/_/Auf+ewig+Ostfront+(Remix-Soldatendisko)",
+          "duration": "277",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Eisenkreuzkrieger (Remix-Zimmermann)",
+          "url": "https://www.last.fm/music/Eisregen/_/Eisenkreuzkrieger+(Remix-Zimmermann)",
+          "duration": "283",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Schakal (Remix-Aggro-Tambach)",
+          "url": "https://www.last.fm/music/Eisregen/_/Schakal+(Remix-Aggro-Tambach)",
+          "duration": "185",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Luftschlag / Metamorphose 1",
+          "url": "https://www.last.fm/music/Eisregen/_/Luftschlag+%2F+Metamorphose+1",
+          "duration": "132",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:11:35.923Z"
+}

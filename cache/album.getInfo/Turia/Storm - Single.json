@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Storm - Single",
+    "artist": "Turia",
+    "url": "https://www.last.fm/music/Turia/Storm+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e62224333388b419f7ae90566d20cfa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e62224333388b419f7ae90566d20cfa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e62224333388b419f7ae90566d20cfa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e62224333388b419f7ae90566d20cfa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e62224333388b419f7ae90566d20cfa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e62224333388b419f7ae90566d20cfa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "18",
+    "playcount": "28",
+    "tracks": {
+      "track": [
+        {
+          "name": "Storm",
+          "url": "https://www.last.fm/music/Turia/_/Storm",
+          "duration": "329",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Turia",
+            "url": "https://www.last.fm/music/Turia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:18:24.466Z"
+}

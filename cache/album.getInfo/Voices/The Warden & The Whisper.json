@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "The Warden & The Whisper",
+    "artist": "Voices",
+    "url": "https://www.last.fm/music/Voices/The+Warden+&+The+Whisper",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a3e03459d50246179bc822b25cd84f77.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a3e03459d50246179bc822b25cd84f77.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a3e03459d50246179bc822b25cd84f77.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3e03459d50246179bc822b25cd84f77.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3e03459d50246179bc822b25cd84f77.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a3e03459d50246179bc822b25cd84f77.png",
+        "size": ""
+      }
+    ],
+    "listeners": "60",
+    "playcount": "1685",
+    "tracks": {
+      "track": [
+        {
+          "name": "Anathema",
+          "url": "https://www.last.fm/music/Voices/_/Anathema",
+          "duration": "74",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Hostage",
+          "url": "https://www.last.fm/music/Voices/_/Hostage",
+          "duration": "173",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Three Can Keep A Secret If Two Are Dead",
+          "url": "https://www.last.fm/music/Voices/_/Three+Can+Keep+A+Secret+If+Two+Are+Dead",
+          "duration": "192",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Anniversary",
+          "url": "https://www.last.fm/music/Voices/_/Anniversary",
+          "duration": "222",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        },
+        {
+          "name": "Discovering Diamonds",
+          "url": "https://www.last.fm/music/Voices/_/Discovering+Diamonds",
+          "duration": "276",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Voices",
+            "mbid": "c9898683-d04d-45f0-8f82-4e1ea4705189",
+            "url": "https://www.last.fm/music/Voices"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metalcore",
+          "url": "https://www.last.fm/tag/metalcore"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "post-hardcore",
+          "url": "https://www.last.fm/tag/post-hardcore"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:54:32.864Z"
+}

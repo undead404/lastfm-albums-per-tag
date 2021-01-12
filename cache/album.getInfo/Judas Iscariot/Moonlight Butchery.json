@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Moonlight Butchery",
+    "artist": "Judas Iscariot",
+    "mbid": "8b3e2068-c300-4354-a6e9-0f13f7559bb6",
+    "url": "https://www.last.fm/music/Judas+Iscariot/Moonlight+Butchery",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13ef2ccb295f48e18b1a6937a503471f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2783",
+    "playcount": "32051",
+    "tracks": {
+      "track": [
+        {
+          "name": "Moonlight Butchery",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Moonlight+Butchery",
+          "duration": "335",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Death's Hammer",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Death%27s+Hammer",
+          "duration": "299",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Benevolence Crucified",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Benevolence+Crucified",
+          "duration": "316",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        },
+        {
+          "name": "Conjuring Hell's Fire",
+          "url": "https://www.last.fm/music/Judas+Iscariot/_/Conjuring+Hell%27s+Fire",
+          "duration": "224",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Judas Iscariot",
+            "mbid": "8abc35da-2042-4393-ad75-5187b01074ca",
+            "url": "https://www.last.fm/music/Judas+Iscariot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:46:23.083Z"
+}

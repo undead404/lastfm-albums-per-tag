@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Black Fog",
+    "artist": "Iperyt",
+    "url": "https://www.last.fm/music/Iperyt/Black+Fog",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "9",
+    "playcount": "13",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Fog",
+          "url": "https://www.last.fm/music/Iperyt/_/Black+Fog",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Iperyt",
+            "mbid": "3972b361-dbb9-4d96-ab2b-34c382960518",
+            "url": "https://www.last.fm/music/Iperyt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:56:05.746Z"
+}

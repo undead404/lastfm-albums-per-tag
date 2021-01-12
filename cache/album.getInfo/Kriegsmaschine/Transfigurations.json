@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Transfigurations",
+    "artist": "Kriegsmaschine",
+    "url": "https://www.last.fm/music/Kriegsmaschine/Transfigurations",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2715367c9c704dc6af39f5937b2e013f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2312",
+    "playcount": "35685",
+    "tracks": {
+      "track": [
+        {
+          "name": "Primal Degradation",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Primal+Degradation",
+          "duration": "306",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Into The Vortex Of Naught",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Into+The+Vortex+Of+Naught",
+          "duration": "280",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Incipit Chaos",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Incipit+Chaos",
+          "duration": "224",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Onward Destrudo",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Onward+Destrudo",
+          "duration": "395",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        },
+        {
+          "name": "Fear And Loathing In Gethsemane",
+          "url": "https://www.last.fm/music/Kriegsmaschine/_/Fear+And+Loathing+In+Gethsemane",
+          "duration": "481",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kriegsmaschine",
+            "mbid": "a210cc03-3c4f-41cc-890a-b6641e0ebbdb",
+            "url": "https://www.last.fm/music/Kriegsmaschine"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:22:02.253Z"
+}

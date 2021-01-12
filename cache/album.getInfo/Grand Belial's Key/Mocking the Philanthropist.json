@@ -1,0 +1,302 @@
+{
+  "album": {
+    "name": "Mocking the Philanthropist",
+    "artist": "Grand Belial's Key",
+    "url": "https://www.last.fm/music/Grand+Belial%27s+Key/Mocking+the+Philanthropist",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48d47a96b5e24c6bb342f41d31a16684.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4545",
+    "playcount": "188117",
+    "tracks": {
+      "track": [
+        {
+          "name": "Foul Parody of the Lord's Supper",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Foul+Parody+of+the+Lord%27s+Supper",
+          "duration": "365",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Shemhamforash",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Shemhamforash",
+          "duration": "217",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Reflections of the Coffin Lid",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Reflections+of+the+Coffin+Lid",
+          "duration": "183",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "The Slums of Jerusalem",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/The+Slums+of+Jerusalem",
+          "duration": "407",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Castrate the Redeemer",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Castrate+the+Redeemer",
+          "duration": "481",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Sumerian Fairytale",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Sumerian+Fairytale",
+          "duration": "369",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "At the Blessed Grotto",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/At+the+Blessed+Grotto",
+          "duration": "146",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Savouring the Virgin's Pessary",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Savouring+the+Virgin%27s+Pessary",
+          "duration": "300",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "In Rapture by the Fenrir Moon",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/In+Rapture+by+the+Fenrir+Moon",
+          "duration": "146",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Demonarchy",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Demonarchy",
+          "duration": "302",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "The Centaur",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/The+Centaur",
+          "duration": "81",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "Conspicuous Imagery Adorns the Nunery",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/Conspicuous+Imagery+Adorns+the+Nunery",
+          "duration": "301",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "The Seventh Enochian Key",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/The+Seventh+Enochian+Key",
+          "duration": "253",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        },
+        {
+          "name": "The Holocaust Trumpeter",
+          "url": "https://www.last.fm/music/Grand+Belial%27s+Key/_/The+Holocaust+Trumpeter",
+          "duration": "383",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Grand Belial's Key",
+            "mbid": "dcb42289-58ca-46ad-b9aa-e4676c48d420",
+            "url": "https://www.last.fm/music/Grand+Belial%27s+Key"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        },
+        {
+          "name": "USBM",
+          "url": "https://www.last.fm/tag/USBM"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 1997",
+          "url": "https://www.last.fm/tag/best+of+1997"
+        },
+        {
+          "name": "american black metal",
+          "url": "https://www.last.fm/tag/american+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:29:03.597Z"
+}

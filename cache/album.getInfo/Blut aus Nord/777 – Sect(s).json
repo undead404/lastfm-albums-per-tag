@@ -1,0 +1,166 @@
+{
+  "album": {
+    "name": "777 – Sect(s)",
+    "artist": "Blut aus Nord",
+    "url": "https://www.last.fm/music/Blut+aus+Nord/777+%E2%80%93+Sect(s)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9621b4f996354e39b0fb1fd1270043e4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4202",
+    "playcount": "40056",
+    "tracks": {
+      "track": [
+        {
+          "name": "Epitome I",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+I",
+          "duration": "477",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Epitome II",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+II",
+          "duration": "411",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Epitome 03",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+03",
+          "duration": "292",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Epitome IV",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+IV",
+          "duration": "712",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Epitome V",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+V",
+          "duration": "383",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        },
+        {
+          "name": "Epitome VI",
+          "url": "https://www.last.fm/music/Blut+aus+Nord/_/Epitome+VI",
+          "duration": "451",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Blut aus Nord",
+            "mbid": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+            "url": "https://www.last.fm/music/Blut+aus+Nord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "best of 2011",
+          "url": "https://www.last.fm/tag/best+of+2011"
+        },
+        {
+          "name": "Avant-Garde Black Metal",
+          "url": "https://www.last.fm/tag/Avant-Garde+Black+Metal"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:07:49.478Z"
+}

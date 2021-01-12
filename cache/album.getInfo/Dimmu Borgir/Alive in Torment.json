@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Alive in Torment",
+    "artist": "Dimmu Borgir",
+    "mbid": "8b58f8e9-52ff-3e65-8c4a-ac51245c8765",
+    "url": "https://www.last.fm/music/Dimmu+Borgir/Alive+in+Torment",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2110028f7d514c3caffc87f66a96d52d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "22291",
+    "playcount": "147405",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tormentor of Christian Souls",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Tormentor+of+Christian+Souls",
+          "duration": "339",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Blazing Monoliths of Defiance",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Blazing+Monoliths+of+Defiance",
+          "duration": "278",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Insight and the Catharsis",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Insight+and+the+Catharsis",
+          "duration": "437",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Puritania",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Puritania",
+          "duration": "186",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Maelstrom Mephisto",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Maelstrom+Mephisto",
+          "duration": "282",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2001",
+          "url": "https://www.last.fm/tag/2001"
+        },
+        {
+          "name": "glorious tracks",
+          "url": "https://www.last.fm/tag/glorious+tracks"
+        },
+        {
+          "name": "Angels Metal Zone",
+          "url": "https://www.last.fm/tag/Angels+Metal+Zone"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:49:22.128Z"
+}

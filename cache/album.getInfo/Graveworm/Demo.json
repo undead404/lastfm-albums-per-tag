@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Graveworm",
+    "url": "https://www.last.fm/music/Graveworm/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/16e394e820314b08a3f6443abf11479b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/16e394e820314b08a3f6443abf11479b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/16e394e820314b08a3f6443abf11479b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16e394e820314b08a3f6443abf11479b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16e394e820314b08a3f6443abf11479b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/16e394e820314b08a3f6443abf11479b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "431",
+    "playcount": "3623",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:09:11.164Z"
+}

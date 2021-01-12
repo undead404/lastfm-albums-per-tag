@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Karg Unplugged",
+    "artist": "Karg",
+    "url": "https://www.last.fm/music/Karg/Karg+Unplugged",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06239e6aeaaf8dec6f301d3098aedf7a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "46",
+    "playcount": "821",
+    "tracks": {
+      "track": [
+        {
+          "name": "Koma",
+          "url": "https://www.last.fm/music/Karg/_/Koma",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Moment im Spiegel",
+          "url": "https://www.last.fm/music/Karg/_/Moment+im+Spiegel",
+          "duration": "309",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Spuren im Schnee",
+          "url": "https://www.last.fm/music/Karg/_/Spuren+im+Schnee",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Aufbruch",
+          "url": "https://www.last.fm/music/Karg/_/Aufbruch",
+          "duration": "250",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Eines Finders Frühlingslied",
+          "url": "https://www.last.fm/music/Karg/_/Eines+Finders+Fr%C3%BChlingslied",
+          "duration": "185",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Nimm mir das Licht!",
+          "url": "https://www.last.fm/music/Karg/_/Nimm+mir+das+Licht%21",
+          "duration": "324",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        },
+        {
+          "name": "Sturm deiner Sommer",
+          "url": "https://www.last.fm/music/Karg/_/Sturm+deiner+Sommer",
+          "duration": "298",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:21:43.811Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Leviathan",
+    "artist": "Stormlord",
+    "url": "https://www.last.fm/music/Stormlord/Leviathan",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32c36c3155aa592fb7087cf3c32c81cd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1901",
+    "playcount": "3717",
+    "tracks": {
+      "track": [
+        {
+          "name": "Leviathan",
+          "url": "https://www.last.fm/music/Stormlord/_/Leviathan",
+          "duration": "307",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Stormlord",
+            "mbid": "83c1abfd-352b-453a-9988-362dc802826c",
+            "url": "https://www.last.fm/music/Stormlord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:04:26.854Z"
+}

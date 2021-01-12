@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Imrama",
+    "artist": "Primordial",
+    "mbid": "2694fec6-cded-4577-8341-f397fc5407a7",
+    "url": "https://www.last.fm/music/Primordial/Imrama",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8895c32d3a2a91e54decf5878388d9c8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "20557",
+    "playcount": "368738",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fuil Arsa",
+          "url": "https://www.last.fm/music/Primordial/_/Fuil+Arsa",
+          "duration": "284",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Infernal Summer",
+          "url": "https://www.last.fm/music/Primordial/_/Infernal+Summer",
+          "duration": "372",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Here I Am King",
+          "url": "https://www.last.fm/music/Primordial/_/Here+I+Am+King",
+          "duration": "267",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "The Darkest Flame",
+          "url": "https://www.last.fm/music/Primordial/_/The+Darkest+Flame",
+          "duration": "319",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "The Fires…",
+          "url": "https://www.last.fm/music/Primordial/_/The+Fires%E2%80%A6",
+          "duration": "324",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Mealltach",
+          "url": "https://www.last.fm/music/Primordial/_/Mealltach",
+          "duration": "88",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Let The Sun Set On Life Forever",
+          "url": "https://www.last.fm/music/Primordial/_/Let+The+Sun+Set+On+Life+Forever",
+          "duration": "267",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "To The Ends Of The Earth",
+          "url": "https://www.last.fm/music/Primordial/_/To+The+Ends+Of+The+Earth",
+          "duration": "331",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Beneath A Bronze Sky",
+          "url": "https://www.last.fm/music/Primordial/_/Beneath+A+Bronze+Sky",
+          "duration": "208",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        },
+        {
+          "name": "Awaiting The Dawn…",
+          "url": "https://www.last.fm/music/Primordial/_/Awaiting+The+Dawn%E2%80%A6",
+          "duration": "300",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Primordial",
+            "mbid": "eacf66a8-8ea0-41e4-879e-fcc61bcb03f0",
+            "url": "https://www.last.fm/music/Primordial"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        },
+        {
+          "name": "irish",
+          "url": "https://www.last.fm/tag/irish"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Feb 2009, 05:02",
+      "summary": "Imrama is the debut album of the Irish black metal band Primordial. It was originally released in September 1995 through Cacophonous Records. In 2001, it was re-issued by Hammerheart Records with two bonus tracks. It was reissued again, this time by Metal Blade Records in 2009 as CD/DVD digipack in slipcase. It is a part of collector series of the first 4 albums reissues. Immrama, meaning 'voyages' or literally 'rowings about' refers to a category <a href=\"http://www.last.fm/music/Primordial/Imrama\">Read more on Last.fm</a>.",
+      "content": "Imrama is the debut album of the Irish black metal band Primordial. It was originally released in September 1995 through Cacophonous Records. In 2001, it was re-issued by Hammerheart Records with two bonus tracks. It was reissued again, this time by Metal Blade Records in 2009 as CD/DVD digipack in slipcase. It is a part of collector series of the first 4 albums reissues. Immrama, meaning 'voyages' or literally 'rowings about' refers to a category of medieval Irish Christian literature in which a protagonist sets about voyaging in penance for sins committed. Medieval catelogues of literature see this genre as contrasting with Eachtra, 'expeditions' or 'adventures' in which the protagonist visits the Otherworld of Irish traditional lore. <a href=\"http://www.last.fm/music/Primordial/Imrama\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:04:12.469Z"
+}

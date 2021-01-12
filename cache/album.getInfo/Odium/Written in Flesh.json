@@ -1,0 +1,230 @@
+{
+  "album": {
+    "name": "Written in Flesh",
+    "artist": "Odium",
+    "url": "https://www.last.fm/music/Odium/Written+in+Flesh",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db262e6d1fe94011c0a859fb239c35e0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "23",
+    "playcount": "491",
+    "tracks": {
+      "track": [
+        {
+          "name": "Searching for the exit",
+          "url": "https://www.last.fm/music/Odium/_/Searching+for+the+exit",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Paperhouse",
+          "url": "https://www.last.fm/music/Odium/_/Paperhouse",
+          "duration": "296",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Written in flesh",
+          "url": "https://www.last.fm/music/Odium/_/Written+in+flesh",
+          "duration": "187",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "memories of a trip to come",
+          "url": "https://www.last.fm/music/Odium/_/memories+of+a+trip+to+come",
+          "duration": "118",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "All is Bleeding",
+          "url": "https://www.last.fm/music/Odium/_/All+is+Bleeding",
+          "duration": "277",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "bé:orscype",
+          "url": "https://www.last.fm/music/Odium/_/b%C3%A9:orscype",
+          "duration": "167",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Beyond The Limits",
+          "url": "https://www.last.fm/music/Odium/_/Beyond+The+Limits",
+          "duration": "325",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "as dead as leaves",
+          "url": "https://www.last.fm/music/Odium/_/as+dead+as+leaves",
+          "duration": "330",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Chaotic",
+          "url": "https://www.last.fm/music/Odium/_/Chaotic",
+          "duration": "263",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "[konfident?]",
+          "url": "https://www.last.fm/music/Odium/_/%5Bkonfident%3F%5D",
+          "duration": "444",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "the trip returns",
+          "url": "https://www.last.fm/music/Odium/_/the+trip+returns",
+          "duration": "107",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:59:37.973Z"
+}

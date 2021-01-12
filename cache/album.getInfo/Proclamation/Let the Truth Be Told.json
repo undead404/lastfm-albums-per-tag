@@ -1,0 +1,740 @@
+{
+  "album": {
+    "name": "Let the Truth Be Told",
+    "artist": "Proclamation",
+    "url": "https://www.last.fm/music/Proclamation/Let+the+Truth+Be+Told",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ac4751f7ef84d3e9c2acc155ff074ca.png",
+        "size": ""
+      }
+    ],
+    "listeners": "177",
+    "playcount": "3124",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fake Edge",
+          "url": "https://www.last.fm/music/Proclamation/_/Fake+Edge",
+          "duration": "74",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Closed Mind",
+          "url": "https://www.last.fm/music/Proclamation/_/Closed+Mind",
+          "duration": "58",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Scenester Pride",
+          "url": "https://www.last.fm/music/Proclamation/_/Scenester+Pride",
+          "duration": "91",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Listen Up",
+          "url": "https://www.last.fm/music/Proclamation/_/Listen+Up",
+          "duration": "9",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Just Leave",
+          "url": "https://www.last.fm/music/Proclamation/_/Just+Leave",
+          "duration": "110",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "What Is True",
+          "url": "https://www.last.fm/music/Proclamation/_/What+Is+True",
+          "duration": "97",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Where's The Unity",
+          "url": "https://www.last.fm/music/Proclamation/_/Where%27s+The+Unity",
+          "duration": "90",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Hogan Sucks",
+          "url": "https://www.last.fm/music/Proclamation/_/Hogan+Sucks",
+          "duration": "4",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Fathead",
+          "url": "https://www.last.fm/music/Proclamation/_/Fathead",
+          "duration": "63",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Beantown Beatdown",
+          "url": "https://www.last.fm/music/Proclamation/_/Beantown+Beatdown",
+          "duration": "0",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Two Lives",
+          "url": "https://www.last.fm/music/Proclamation/_/Two+Lives",
+          "duration": "155",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Burnout",
+          "url": "https://www.last.fm/music/Proclamation/_/Burnout",
+          "duration": "49",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Conform",
+          "url": "https://www.last.fm/music/Proclamation/_/Conform",
+          "duration": "144",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Ashtray",
+          "url": "https://www.last.fm/music/Proclamation/_/Ashtray",
+          "duration": "4",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Standing On The Edge",
+          "url": "https://www.last.fm/music/Proclamation/_/Standing+On+The+Edge",
+          "duration": "62",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Words Meant Nothing",
+          "url": "https://www.last.fm/music/Proclamation/_/Words+Meant+Nothing",
+          "duration": "187",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Straight Edge Hardcore",
+          "url": "https://www.last.fm/music/Proclamation/_/Straight+Edge+Hardcore",
+          "duration": "79",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "What it Takes",
+          "url": "https://www.last.fm/music/Proclamation/_/What+it+Takes",
+          "duration": "81",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "In the Family",
+          "url": "https://www.last.fm/music/Proclamation/_/In+the+Family",
+          "duration": "129",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Glorify the Lies",
+          "url": "https://www.last.fm/music/Proclamation/_/Glorify+the+Lies",
+          "duration": "66",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "You Should Play",
+          "url": "https://www.last.fm/music/Proclamation/_/You+Should+Play",
+          "duration": "0",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "On the Rise",
+          "url": "https://www.last.fm/music/Proclamation/_/On+the+Rise",
+          "duration": "100",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Torn Apart",
+          "url": "https://www.last.fm/music/Proclamation/_/Torn+Apart",
+          "duration": "93",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "You Gave In",
+          "url": "https://www.last.fm/music/Proclamation/_/You+Gave+In",
+          "duration": "133",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Proclamation/_/Intro",
+          "duration": "52",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Evade",
+          "url": "https://www.last.fm/music/Proclamation/_/Evade",
+          "duration": "148",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Killing The Youth",
+          "url": "https://www.last.fm/music/Proclamation/_/Killing+The+Youth",
+          "duration": "145",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "On the Rise",
+          "url": "https://www.last.fm/music/Proclamation/_/On+the+Rise",
+          "duration": "100",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Two Lives",
+          "url": "https://www.last.fm/music/Proclamation/_/Two+Lives",
+          "duration": "155",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "You Gave In",
+          "url": "https://www.last.fm/music/Proclamation/_/You+Gave+In",
+          "duration": "133",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "The Promise",
+          "url": "https://www.last.fm/music/Proclamation/_/The+Promise",
+          "duration": "165",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Eyetro",
+          "url": "https://www.last.fm/music/Proclamation/_/Eyetro",
+          "duration": "84",
+          "@attr": {
+            "rank": "32"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Out Of Touch",
+          "url": "https://www.last.fm/music/Proclamation/_/Out+Of+Touch",
+          "duration": "143",
+          "@attr": {
+            "rank": "33"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Drop Dead",
+          "url": "https://www.last.fm/music/Proclamation/_/Drop+Dead",
+          "duration": "70",
+          "@attr": {
+            "rank": "34"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Side By Side",
+          "url": "https://www.last.fm/music/Proclamation/_/Side+By+Side",
+          "duration": "62",
+          "@attr": {
+            "rank": "35"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Thinking Straight",
+          "url": "https://www.last.fm/music/Proclamation/_/Thinking+Straight",
+          "duration": "129",
+          "@attr": {
+            "rank": "36"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Straight Edge Hardcore",
+          "url": "https://www.last.fm/music/Proclamation/_/Straight+Edge+Hardcore",
+          "duration": "79",
+          "@attr": {
+            "rank": "37"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Listen Up",
+          "url": "https://www.last.fm/music/Proclamation/_/Listen+Up",
+          "duration": "9",
+          "@attr": {
+            "rank": "38"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Just Leave",
+          "url": "https://www.last.fm/music/Proclamation/_/Just+Leave",
+          "duration": "110",
+          "@attr": {
+            "rank": "39"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Glorify the Lies",
+          "url": "https://www.last.fm/music/Proclamation/_/Glorify+the+Lies",
+          "duration": "66",
+          "@attr": {
+            "rank": "40"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        },
+        {
+          "name": "Preserve",
+          "url": "https://www.last.fm/music/Proclamation/_/Preserve",
+          "duration": "153",
+          "@attr": {
+            "rank": "41"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Proclamation",
+            "mbid": "791f8906-129a-411d-8597-b3092a8232a2",
+            "url": "https://www.last.fm/music/Proclamation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:27:09.087Z"
+}

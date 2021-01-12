@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Hammerfight",
+    "artist": "Cobalt",
+    "mbid": "e2e44930-ecb1-4ebc-86df-70ef83123ab1",
+    "url": "https://www.last.fm/music/Cobalt/Hammerfight",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/59fa442ced264e6d94b9a5565944e1bf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "399",
+    "playcount": "1898",
+    "tracks": {
+      "track": [
+        {
+          "name": "Angelfangs",
+          "url": "https://www.last.fm/music/Cobalt/_/Angelfangs",
+          "duration": "385",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Lunar Warfare",
+          "url": "https://www.last.fm/music/Cobalt/_/Lunar+Warfare",
+          "duration": "310",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "World on its Knees",
+          "url": "https://www.last.fm/music/Cobalt/_/World+on+its+Knees",
+          "duration": "274",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Hammerfight",
+          "url": "https://www.last.fm/music/Cobalt/_/Hammerfight",
+          "duration": "284",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:20:37.085Z"
+}

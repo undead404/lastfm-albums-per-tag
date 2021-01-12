@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "An Extension Of His Arm And Will",
+    "artist": "Naglfar",
+    "mbid": "b8f91fe0-8f1b-4fdb-a992-cfce167e158c",
+    "url": "https://www.last.fm/music/Naglfar/An+Extension+Of+His+Arm+And+Will",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8fae7ce18d494dcca75d64ad204b50cb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "227",
+    "playcount": "1267",
+    "tracks": {
+      "track": [
+        {
+          "name": "An Extension of His Arm and Will",
+          "url": "https://www.last.fm/music/Naglfar/_/An+Extension+of+His+Arm+and+Will",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        },
+        {
+          "name": "As Long As They Fear",
+          "url": "https://www.last.fm/music/Naglfar/_/As+Long+As+They+Fear",
+          "duration": "298",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Naglfar",
+            "mbid": "320112c6-9a63-4c2b-b0cc-d2b88fce290a",
+            "url": "https://www.last.fm/music/Naglfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:19:39.278Z"
+}

@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Encyclopedia of Evil",
+    "artist": "Bewitched",
+    "mbid": "70463aa4-31dd-4744-b7dd-1f689f076169",
+    "url": "https://www.last.fm/music/Bewitched/Encyclopedia+of+Evil",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71ac54162bcac066a8ccb2e121e89928.png",
+        "size": ""
+      }
+    ],
+    "listeners": "597",
+    "playcount": "6507",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Bewitched/_/Intro",
+          "duration": "42",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Warhead",
+          "url": "https://www.last.fm/music/Bewitched/_/Warhead",
+          "duration": "224",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Sacrifice",
+          "url": "https://www.last.fm/music/Bewitched/_/Sacrifice",
+          "duration": "221",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Evil",
+          "url": "https://www.last.fm/music/Bewitched/_/Evil",
+          "duration": "293",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Circle Of The Tyrants",
+          "url": "https://www.last.fm/music/Bewitched/_/Circle+Of+The+Tyrants",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Come to the Sabbath",
+          "url": "https://www.last.fm/music/Bewitched/_/Come+to+the+Sabbath",
+          "duration": "294",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Hellcult (New Version)",
+          "url": "https://www.last.fm/music/Bewitched/_/Hellcult+(New+Version)",
+          "duration": "175",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:45.639Z"
+}

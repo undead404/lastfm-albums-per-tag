@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Isolation/Transmission",
+    "artist": "Krieg",
+    "url": "https://www.last.fm/music/Krieg/Isolation%2FTransmission",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/145a8843dd234e36ce8e8e6897986d9c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "67",
+    "playcount": "1153",
+    "tracks": {
+      "track": [
+        {
+          "name": "Walk With Them Unnoticed",
+          "url": "https://www.last.fm/music/Krieg/_/Walk+With+Them+Unnoticed",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        },
+        {
+          "name": "To Speak With Ghosts",
+          "url": "https://www.last.fm/music/Krieg/_/To+Speak+With+Ghosts",
+          "duration": "283",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krieg",
+            "mbid": "70419b5b-c50f-495b-95f6-633cbc336b8a",
+            "url": "https://www.last.fm/music/Krieg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:07:04.591Z"
+}

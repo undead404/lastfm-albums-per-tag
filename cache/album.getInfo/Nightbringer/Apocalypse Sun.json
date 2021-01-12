@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Apocalypse Sun",
+    "artist": "Nightbringer",
+    "mbid": "377c0c9e-f3e4-4b55-a9ec-e95d2e9c2123",
+    "url": "https://www.last.fm/music/Nightbringer/Apocalypse+Sun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/42c275c7c01a45e084a087219cdbe8a5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4110",
+    "playcount": "106151",
+    "tracks": {
+      "track": [
+        {
+          "name": "I am I",
+          "url": "https://www.last.fm/music/Nightbringer/_/I+am+I",
+          "duration": "378",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Supplication Before the Throne of Tehom",
+          "url": "https://www.last.fm/music/Nightbringer/_/Supplication+Before+the+Throne+of+Tehom",
+          "duration": "425",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Serpent of the Midnight Sun",
+          "url": "https://www.last.fm/music/Nightbringer/_/Serpent+of+the+Midnight+Sun",
+          "duration": "536",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Upturning the Seventh Chalice",
+          "url": "https://www.last.fm/music/Nightbringer/_/Upturning+the+Seventh+Chalice",
+          "duration": "421",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Excitium",
+          "url": "https://www.last.fm/music/Nightbringer/_/Excitium",
+          "duration": "309",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Goblet of Sulfur and Poison",
+          "url": "https://www.last.fm/music/Nightbringer/_/Goblet+of+Sulfur+and+Poison",
+          "duration": "352",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "The Coils of Sevekh",
+          "url": "https://www.last.fm/music/Nightbringer/_/The+Coils+of+Sevekh",
+          "duration": "256",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Nephal",
+          "url": "https://www.last.fm/music/Nightbringer/_/Nephal",
+          "duration": "388",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "The Utterance of Kasab'el",
+          "url": "https://www.last.fm/music/Nightbringer/_/The+Utterance+of+Kasab%27el",
+          "duration": "280",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Fount of the Nighted God-head",
+          "url": "https://www.last.fm/music/Nightbringer/_/Fount+of+the+Nighted+God-head",
+          "duration": "627",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "american",
+          "url": "https://www.last.fm/tag/american"
+        },
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        },
+        {
+          "name": "Orthodox Black Metal",
+          "url": "https://www.last.fm/tag/Orthodox+Black+Metal"
+        },
+        {
+          "name": "occult black metal",
+          "url": "https://www.last.fm/tag/occult+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:35:46.492Z"
+}

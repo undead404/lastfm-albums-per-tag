@@ -1,0 +1,353 @@
+{
+  "album": {
+    "name": "the dangerous class",
+    "artist": "End",
+    "url": "https://www.last.fm/music/End/the+dangerous+class",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd4d1054b17449c6869241a99cba934c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd4d1054b17449c6869241a99cba934c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd4d1054b17449c6869241a99cba934c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd4d1054b17449c6869241a99cba934c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd4d1054b17449c6869241a99cba934c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd4d1054b17449c6869241a99cba934c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1597",
+    "playcount": "26876",
+    "tracks": {
+      "track": [
+        {
+          "name": "theme from the sick generation",
+          "url": "https://www.last.fm/music/End/_/theme+from+the+sick+generation",
+          "duration": "198",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "jailbait rock",
+          "url": "https://www.last.fm/music/End/_/jailbait+rock",
+          "duration": "218",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "living in a monochromatic world",
+          "url": "https://www.last.fm/music/End/_/living+in+a+monochromatic+world",
+          "duration": "174",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "lsd made a wreck of me",
+          "url": "https://www.last.fm/music/End/_/lsd+made+a+wreck+of+me",
+          "duration": "204",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "the sadist",
+          "url": "https://www.last.fm/music/End/_/the+sadist",
+          "duration": "98",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "misspent youth",
+          "url": "https://www.last.fm/music/End/_/misspent+youth",
+          "duration": "170",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "pills to make you fun",
+          "url": "https://www.last.fm/music/End/_/pills+to+make+you+fun",
+          "duration": "171",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "a fistful of matches",
+          "url": "https://www.last.fm/music/End/_/a+fistful+of+matches",
+          "duration": "159",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "the wretched of the earth",
+          "url": "https://www.last.fm/music/End/_/the+wretched+of+the+earth",
+          "duration": "100",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "a long time dying",
+          "url": "https://www.last.fm/music/End/_/a+long+time+dying",
+          "duration": "219",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "my hippy sex cult",
+          "url": "https://www.last.fm/music/End/_/my+hippy+sex+cult",
+          "duration": "373",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "a rebel from the waist down",
+          "url": "https://www.last.fm/music/End/_/a+rebel+from+the+waist+down",
+          "duration": "162",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "bad girls go to hell",
+          "url": "https://www.last.fm/music/End/_/bad+girls+go+to+hell",
+          "duration": "184",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "a side of dirty",
+          "url": "https://www.last.fm/music/End/_/a+side+of+dirty",
+          "duration": "138",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "everything in excess",
+          "url": "https://www.last.fm/music/End/_/everything+in+excess",
+          "duration": "276",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "dance of the lumpenproles",
+          "url": "https://www.last.fm/music/End/_/dance+of+the+lumpenproles",
+          "duration": "149",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        },
+        {
+          "name": "the dangerous class",
+          "url": "https://www.last.fm/music/End/_/the+dangerous+class",
+          "duration": "321",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "great",
+          "url": "https://www.last.fm/tag/great"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        },
+        {
+          "name": "Hymen Records",
+          "url": "https://www.last.fm/tag/Hymen+Records"
+        },
+        {
+          "name": "Kerrassaan loistavaa",
+          "url": "https://www.last.fm/tag/Kerrassaan+loistavaa"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:28:01.869Z"
+}

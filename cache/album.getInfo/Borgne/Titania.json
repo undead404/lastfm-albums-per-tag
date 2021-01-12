@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Titania",
+    "artist": "Borgne",
+    "mbid": "f55e293a-dc67-47e5-9f2b-18573380e33c",
+    "url": "https://www.last.fm/music/Borgne/Titania",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdc732e15804470eabff8b1d0ee47895.png",
+        "size": ""
+      }
+    ],
+    "listeners": "504",
+    "playcount": "9585",
+    "tracks": {
+      "track": [
+        {
+          "name": "Umbriel",
+          "url": "https://www.last.fm/music/Borgne/_/Umbriel",
+          "duration": "391",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Ersathes",
+          "url": "https://www.last.fm/music/Borgne/_/Ersathes",
+          "duration": "513",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Erthena",
+          "url": "https://www.last.fm/music/Borgne/_/Erthena",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Veiles",
+          "url": "https://www.last.fm/music/Borgne/_/Veiles",
+          "duration": "351",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Titania",
+          "url": "https://www.last.fm/music/Borgne/_/Titania",
+          "duration": "340",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Chiron",
+          "url": "https://www.last.fm/music/Borgne/_/Chiron",
+          "duration": "561",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Svojkleth",
+          "url": "https://www.last.fm/music/Borgne/_/Svojkleth",
+          "duration": "405",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:04:47.744Z"
+}

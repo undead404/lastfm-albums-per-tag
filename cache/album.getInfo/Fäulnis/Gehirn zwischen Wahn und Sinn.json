@@ -1,0 +1,227 @@
+{
+  "album": {
+    "name": "Gehirn zwischen Wahn und Sinn",
+    "artist": "Fäulnis",
+    "mbid": "1ed90d8e-a1e9-45b6-ba24-f1ae9d9d3f1b",
+    "url": "https://www.last.fm/music/F%C3%A4ulnis/Gehirn+zwischen+Wahn+und+Sinn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1fea92f0caa7e10fc68fae1922b319d3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5440",
+    "playcount": "148947",
+    "tracks": {
+      "track": [
+        {
+          "name": "MorgenGrauen",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/MorgenGrauen",
+          "duration": "257",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Angstzustand",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Angstzustand",
+          "duration": "475",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Weiße Wände",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Wei%C3%9Fe+W%C3%A4nde",
+          "duration": "590",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Kopfkrieg",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Kopfkrieg",
+          "duration": "694",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Landgang",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Landgang",
+          "duration": "614",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Trümmer",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Tr%C3%BCmmer",
+          "duration": "301",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Spiegel, Splitter, Schrott",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Spiegel,+Splitter,+Schrott",
+          "duration": "400",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Weltuntergang folgt",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Weltuntergang+folgt",
+          "duration": "316",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "Scheiße,Rückfall",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/Schei%C3%9Fe,R%C3%BCckfall",
+          "duration": "0",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        },
+        {
+          "name": "(aus)Gespien",
+          "url": "https://www.last.fm/music/F%C3%A4ulnis/_/(aus)Gespien",
+          "duration": "92",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fäulnis",
+            "mbid": "1d8857f5-55e1-4645-b490-18a674a5d2ef",
+            "url": "https://www.last.fm/music/F%C3%A4ulnis"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:38:21.861Z"
+}

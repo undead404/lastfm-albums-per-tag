@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "Promo 1993",
+    "artist": "Diabolical Masquerade",
+    "mbid": "0eb43978-a978-4c95-a3de-d943acca0257",
+    "url": "https://www.last.fm/music/Diabolical+Masquerade/Promo+1993",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8afcfd4eb87bc686ae2c0266407504ab.png",
+        "size": ""
+      }
+    ],
+    "listeners": "99",
+    "playcount": "346",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vintergatan Kallar",
+          "url": "https://www.last.fm/music/Diabolical+Masquerade/_/Vintergatan+Kallar",
+          "duration": "101",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diabolical Masquerade",
+            "mbid": "4a7bcfa1-5da5-4aa7-b2d0-b300904a4e9e",
+            "url": "https://www.last.fm/music/Diabolical+Masquerade"
+          }
+        },
+        {
+          "name": "Depraved sentinel of the north",
+          "url": "https://www.last.fm/music/Diabolical+Masquerade/_/Depraved+sentinel+of+the+north",
+          "duration": "329",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diabolical Masquerade",
+            "mbid": "4a7bcfa1-5da5-4aa7-b2d0-b300904a4e9e",
+            "url": "https://www.last.fm/music/Diabolical+Masquerade"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:43:37.704Z"
+}

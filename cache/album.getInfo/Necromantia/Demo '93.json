@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Demo '93",
+    "artist": "Necromantia",
+    "url": "https://www.last.fm/music/Necromantia/Demo+%2793",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0347ca33dd14d909d96f961ed63ead5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "140",
+    "playcount": "438",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Warlock",
+          "url": "https://www.last.fm/music/Necromantia/_/The+Warlock",
+          "duration": "815",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        },
+        {
+          "name": "Les Litanies de Satan",
+          "url": "https://www.last.fm/music/Necromantia/_/Les+Litanies+de+Satan",
+          "duration": "561",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Necromantia",
+            "mbid": "5d997eec-857a-4cd8-9b5d-a95f8032a492",
+            "url": "https://www.last.fm/music/Necromantia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:56:49.817Z"
+}

@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "The Microfilm Album",
+    "artist": "Spektr",
+    "url": "https://www.last.fm/music/Spektr/The+Microfilm+Album",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "32",
+    "playcount": "301",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Underwater Lab",
+          "url": "https://www.last.fm/music/Spektr/_/The+Underwater+Lab",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "Car Chase",
+          "url": "https://www.last.fm/music/Spektr/_/Car+Chase",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "House Search",
+          "url": "https://www.last.fm/music/Spektr/_/House+Search",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "The Rooftop Incident",
+          "url": "https://www.last.fm/music/Spektr/_/The+Rooftop+Incident",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        },
+        {
+          "name": "The Return of Dr.Seven (Theme From)",
+          "url": "https://www.last.fm/music/Spektr/_/The+Return+of+Dr.Seven+(Theme+From)",
+          "duration": "0",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spektr",
+            "mbid": "4de9b034-0079-42da-80e7-c17333786936",
+            "url": "https://www.last.fm/music/Spektr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:10:20.739Z"
+}

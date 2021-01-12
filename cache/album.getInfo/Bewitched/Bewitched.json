@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Bewitched",
+    "artist": "Bewitched",
+    "url": "https://www.last.fm/music/Bewitched/Bewitched",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b81e0cf9c40153afa060d744fbb104a4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "140",
+    "playcount": "1243",
+    "tracks": {
+      "track": [
+        {
+          "name": "Simulateur",
+          "url": "https://www.last.fm/music/Bewitched/_/Simulateur",
+          "duration": "291",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Tide",
+          "url": "https://www.last.fm/music/Bewitched/_/Tide",
+          "duration": "388",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Wrong",
+          "url": "https://www.last.fm/music/Bewitched/_/Wrong",
+          "duration": "192",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Claudine",
+          "url": "https://www.last.fm/music/Bewitched/_/Claudine",
+          "duration": "419",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "John B",
+          "url": "https://www.last.fm/music/Bewitched/_/John+B",
+          "duration": "306",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        },
+        {
+          "name": "Atarte",
+          "url": "https://www.last.fm/music/Bewitched/_/Atarte",
+          "duration": "383",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bewitched",
+            "mbid": "b89fea43-81c3-456f-a002-313d994b4dd1",
+            "url": "https://www.last.fm/music/Bewitched"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:04:53.649Z"
+}

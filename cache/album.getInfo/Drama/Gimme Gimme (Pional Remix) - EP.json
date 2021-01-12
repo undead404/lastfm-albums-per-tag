@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Gimme Gimme (Pional Remix) - EP",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Gimme+Gimme+(Pional+Remix)+-+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "229",
+    "playcount": "530",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gimme Gimme",
+          "url": "https://www.last.fm/music/Drama/_/Gimme+Gimme",
+          "duration": "237",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Gimme Gimme",
+          "url": "https://www.last.fm/music/Drama/_/Gimme+Gimme",
+          "duration": "237",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Years",
+          "url": "https://www.last.fm/music/Drama/_/Years",
+          "duration": "227",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        },
+        {
+          "name": "Hold On",
+          "url": "https://www.last.fm/music/Drama/_/Hold+On",
+          "duration": "222",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:54.368Z"
+}

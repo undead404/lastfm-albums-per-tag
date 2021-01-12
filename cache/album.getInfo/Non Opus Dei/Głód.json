@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Głód",
+    "artist": "Non Opus Dei",
+    "url": "https://www.last.fm/music/Non+Opus+Dei/G%C5%82%C3%B3d",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a07fb20b26323b6e1f96fb80dc409b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "762",
+    "playcount": "7099",
+    "tracks": {
+      "track": [
+        {
+          "name": "Siew",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Siew",
+          "duration": "22",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Po jałowej ziemi",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Po+ja%C5%82owej+ziemi",
+          "duration": "520",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Diabeł posiał głód",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Diabe%C5%82+posia%C5%82+g%C5%82%C3%B3d",
+          "duration": "171",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Głód",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/G%C5%82%C3%B3d",
+          "duration": "89",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Do ołtarzy w piekle",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Do+o%C5%82tarzy+w+piekle",
+          "duration": "620",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Czarci most",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Czarci+most",
+          "duration": "525",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Plon",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Plon",
+          "duration": "239",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:56:24.790Z"
+}

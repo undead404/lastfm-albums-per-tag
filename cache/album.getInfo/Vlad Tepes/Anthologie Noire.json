@@ -1,0 +1,576 @@
+{
+  "album": {
+    "name": "Anthologie Noire",
+    "artist": "Vlad Tepes",
+    "mbid": "8b7e4083-d2a4-4684-a30e-e292cd25e204",
+    "url": "https://www.last.fm/music/Vlad+Tepes/Anthologie+Noire",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4cd67376d58ae48a363893c19ece0beb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "476",
+    "playcount": "13965",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frozen Dead's Kingdom",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Frozen+Dead%27s+Kingdom",
+          "duration": "259",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under the Carpathian Yoke",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+the+Carpathian+Yoke",
+          "duration": "285",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "In Holocaust to the Natural Darkness",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/In+Holocaust+to+the+Natural+Darkness",
+          "duration": "176",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Massacre Song From the Devastated Lands",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Massacre+Song+From+the+Devastated+Lands",
+          "duration": "288",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Drink the Poetry of the Celtic Disciple",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Drink+the+Poetry+of+the+Celtic+Disciple",
+          "duration": "741",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under the Carpathian Yoke",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+the+Carpathian+Yoke",
+          "duration": "285",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Diabolical Reaps",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Diabolical+Reaps",
+          "duration": "225",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Misery Fear and Storm Hunger",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Misery+Fear+and+Storm+Hunger",
+          "duration": "234",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Wladimir's March",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Wladimir%27s+March",
+          "duration": "99",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "War Funeral March",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/War+Funeral+March",
+          "duration": "280",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Walachian Tyrant",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Walachian+Tyrant",
+          "duration": "252",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Dans Notre Chute... / Returning To My Old Battlegrounds",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Dans+Notre+Chute...+%2F+Returning+To+My+Old+Battlegrounds",
+          "duration": "218",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "From the Celtic Moonfrost",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/From+the+Celtic+Moonfrost",
+          "duration": "197",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Bestial Lust",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Bestial+Lust",
+          "duration": "158",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Raven's Hike",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Raven%27s+Hike",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Abyssic & Funeral Symphony: An Ode to Our Ruin",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Abyssic+&+Funeral+Symphony:+An+Ode+to+Our+Ruin",
+          "duration": "228",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "In Holocaust to the Natural Darkness",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/In+Holocaust+to+the+Natural+Darkness",
+          "duration": "176",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Tepes: The Unweeping",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Tepes:+The+Unweeping",
+          "duration": "479",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Nos Terribles Pensées",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Nos+Terribles+Pens%C3%A9es",
+          "duration": "271",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "our soul's worries",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/our+soul%27s+worries",
+          "duration": "235",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Desecrate Jesus Name",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Desecrate+Jesus+Name",
+          "duration": "341",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "The Dark Promise",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/The+Dark+Promise",
+          "duration": "235",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under Ardailles Night",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+Ardailles+Night",
+          "duration": "226",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Twilight Of The Black Holocaust",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Twilight+Of+The+Black+Holocaust",
+          "duration": "350",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Transylvania",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Transylvania",
+          "duration": "390",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Voarmérpébre uatr vèrmyapre",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Voarm%C3%A9rp%C3%A9bre+uatr+v%C3%A8rmyapre",
+          "duration": "247",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Rehearsal 1",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Rehearsal+1",
+          "duration": "53",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Rehearsal 2",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Rehearsal+2",
+          "duration": "264",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Rehearsal 3",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Rehearsal+3",
+          "duration": "180",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Rehearsal 4",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Rehearsal+4",
+          "duration": "278",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Rehearsal 5",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Rehearsal+5",
+          "duration": "289",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:49:39.469Z"
+}

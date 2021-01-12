@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Kutsu",
+    "artist": "Tulus",
+    "url": "https://www.last.fm/music/Tulus/Kutsu",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e482d2f053516bc61927c9d9f9531d6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1227",
+    "playcount": "4215",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kutsu",
+          "url": "https://www.last.fm/music/Tulus/_/Kutsu",
+          "duration": "219",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:33:10.268Z"
+}

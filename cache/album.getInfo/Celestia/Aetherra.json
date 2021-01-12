@@ -1,0 +1,213 @@
+{
+  "album": {
+    "name": "Aetherra",
+    "artist": "Celestia",
+    "url": "https://www.last.fm/music/Celestia/Aetherra",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acf5995edfcab864ec3a90e837c44c71.png",
+        "size": ""
+      }
+    ],
+    "listeners": "272",
+    "playcount": "5470",
+    "tracks": {
+      "track": [
+        {
+          "name": "Endura in Extremis",
+          "url": "https://www.last.fm/music/Celestia/_/Endura+in+Extremis",
+          "duration": "328",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Innocence",
+          "url": "https://www.last.fm/music/Celestia/_/Innocence",
+          "duration": "320",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Frozen Elysium",
+          "url": "https://www.last.fm/music/Celestia/_/Frozen+Elysium",
+          "duration": "360",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Veiled Illusion",
+          "url": "https://www.last.fm/music/Celestia/_/Veiled+Illusion",
+          "duration": "225",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Prison de verre",
+          "url": "https://www.last.fm/music/Celestia/_/Prison+de+verre",
+          "duration": "183",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Voyage dans le temps passé",
+          "url": "https://www.last.fm/music/Celestia/_/Voyage+dans+le+temps+pass%C3%A9",
+          "duration": "172",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Consolamentii",
+          "url": "https://www.last.fm/music/Celestia/_/Consolamentii",
+          "duration": "198",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Discernement Des Justes",
+          "url": "https://www.last.fm/music/Celestia/_/Discernement+Des+Justes",
+          "duration": "232",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Archaic Picture",
+          "url": "https://www.last.fm/music/Celestia/_/Archaic+Picture",
+          "duration": "211",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        },
+        {
+          "name": "Last Sigh",
+          "url": "https://www.last.fm/music/Celestia/_/Last+Sigh",
+          "duration": "391",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Celestia",
+            "mbid": "6a7876b1-a0dd-4a25-91c9-2321ad247af6",
+            "url": "https://www.last.fm/music/Celestia"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:05:50.906Z"
+}

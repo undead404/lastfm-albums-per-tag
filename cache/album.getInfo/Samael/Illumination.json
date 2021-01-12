@@ -1,0 +1,98 @@
+{
+  "album": {
+    "name": "Illumination",
+    "artist": "Samael",
+    "url": "https://www.last.fm/music/Samael/Illumination",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2e31e163db74b41b805da83fb3f65e4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1486",
+    "playcount": "6236",
+    "tracks": {
+      "track": [
+        {
+          "name": "Illumination",
+          "url": "https://www.last.fm/music/Samael/_/Illumination",
+          "duration": "210",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        },
+        {
+          "name": "Virtual War",
+          "url": "https://www.last.fm/music/Samael/_/Virtual+War",
+          "duration": "244",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Samael",
+            "mbid": "6a2ca1ac-408d-49b0-a7f6-cd608f2f684f",
+            "url": "https://www.last.fm/music/Samael"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "industrial metal",
+          "url": "https://www.last.fm/tag/industrial+metal"
+        },
+        {
+          "name": "Dark metal",
+          "url": "https://www.last.fm/tag/Dark+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "swedish",
+          "url": "https://www.last.fm/tag/swedish"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:00:06.659Z"
+}

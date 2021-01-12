@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "Nuclear Alchemy",
+    "artist": "Watain",
+    "url": "https://www.last.fm/music/Watain/Nuclear+Alchemy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb2d9f435d058b4763f66939ddb9e5c6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4064",
+    "playcount": "14611",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nuclear Alchemy",
+          "url": "https://www.last.fm/music/Watain/_/Nuclear+Alchemy",
+          "duration": "190",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        },
+        {
+          "name": "Beyond",
+          "url": "https://www.last.fm/music/Watain/_/Beyond",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Watain",
+            "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+            "url": "https://www.last.fm/music/Watain"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:03:17.678Z"
+}

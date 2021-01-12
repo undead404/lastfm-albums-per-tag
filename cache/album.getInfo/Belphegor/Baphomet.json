@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Baphomet",
+    "artist": "Belphegor",
+    "url": "https://www.last.fm/music/Belphegor/Baphomet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4301762eaad58df813034e8f61586aaa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4301762eaad58df813034e8f61586aaa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4301762eaad58df813034e8f61586aaa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4301762eaad58df813034e8f61586aaa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4301762eaad58df813034e8f61586aaa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4301762eaad58df813034e8f61586aaa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1997",
+    "playcount": "4081",
+    "tracks": {
+      "track": [
+        {
+          "name": "Baphomet",
+          "url": "https://www.last.fm/music/Belphegor/_/Baphomet",
+          "duration": "287",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:04:46.938Z"
+}

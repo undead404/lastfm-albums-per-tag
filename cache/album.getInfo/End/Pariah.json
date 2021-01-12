@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Pariah",
+    "artist": "End",
+    "url": "https://www.last.fm/music/End/Pariah",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/79761b41bcb6fb0a226f440326e2c59d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5261",
+    "playcount": "17832",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pariah",
+          "url": "https://www.last.fm/music/End/_/Pariah",
+          "duration": "209",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "End",
+            "mbid": "e102623a-a232-4a91-b00b-8456bc60e2f1",
+            "url": "https://www.last.fm/music/End"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:54.955Z"
+}

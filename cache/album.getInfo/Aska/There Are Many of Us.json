@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "There Are Many of Us",
+    "artist": "Aska",
+    "url": "https://www.last.fm/music/Aska/There+Are+Many+of+Us",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/58970fb4fc2c4e63a80d1845d970279d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "713",
+    "playcount": "6804",
+    "tracks": {
+      "track": [
+        {
+          "name": "There Are Many of Us",
+          "url": "https://www.last.fm/music/Aska/_/There+Are+Many+of+Us",
+          "duration": "201",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:30.148Z"
+}

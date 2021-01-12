@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Ecstatic Horror",
+    "artist": "Dødsengel",
+    "mbid": "928a1889-e1fd-4923-b43d-57881d1eb8b9",
+    "url": "https://www.last.fm/music/D%C3%B8dsengel/Ecstatic+Horror",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ab6f866b04646dda94a0c60538edb04.png",
+        "size": ""
+      }
+    ],
+    "listeners": "681",
+    "playcount": "4792",
+    "tracks": {
+      "track": [
+        {
+          "name": "Axis Mundi",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Axis+Mundi",
+          "duration": "348",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Unchained and Reborn",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Unchained+and+Reborn",
+          "duration": "397",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "own on vinyl",
+          "url": "https://www.last.fm/tag/own+on+vinyl"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:09:58.093Z"
+}

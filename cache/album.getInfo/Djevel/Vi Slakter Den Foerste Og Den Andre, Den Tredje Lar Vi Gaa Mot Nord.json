@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Vi Slakter Den Foerste Og Den Andre, Den Tredje Lar Vi Gaa Mot Nord",
+    "artist": "Djevel",
+    "url": "https://www.last.fm/music/Djevel/Vi+Slakter+Den+Foerste+Og+Den+Andre,+Den+Tredje+Lar+Vi+Gaa+Mot+Nord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac229df8eeaa18e629faf36f3d97ea66.png",
+        "size": ""
+      }
+    ],
+    "listeners": "201",
+    "playcount": "449",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vi Slakter Den Foerste og Den Andre, Den Tredje Lar Vi Gaa Mot Nord",
+          "url": "https://www.last.fm/music/Djevel/_/Vi+Slakter+Den+Foerste+og+Den+Andre,+Den+Tredje+Lar+Vi+Gaa+Mot+Nord",
+          "duration": "499",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Djevel",
+            "mbid": "a1ae582c-25a9-49dd-be91-ebe0b90eee93",
+            "url": "https://www.last.fm/music/Djevel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:25:34.006Z"
+}

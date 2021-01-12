@@ -1,0 +1,104 @@
+{
+  "album": {
+    "name": "Demo I",
+    "artist": "Burzum",
+    "mbid": "0531e070-351e-4ea3-9d32-f50774ff6540",
+    "url": "https://www.last.fm/music/Burzum/Demo+I",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/70bb937281e1470eb03b7f4e296f05b4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2264",
+    "playcount": "18015",
+    "tracks": {
+      "track": [
+        {
+          "name": "Lost Wisdom",
+          "url": "https://www.last.fm/music/Burzum/_/Lost+Wisdom",
+          "duration": "278",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Black Spell of Destruction",
+          "url": "https://www.last.fm/music/Burzum/_/Black+Spell+of+Destruction",
+          "duration": "341",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        },
+        {
+          "name": "Channeling the Power of Souls into a New God",
+          "url": "https://www.last.fm/music/Burzum/_/Channeling+the+Power+of+Souls+into+a+New+God",
+          "duration": "207",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:49.825Z"
+}

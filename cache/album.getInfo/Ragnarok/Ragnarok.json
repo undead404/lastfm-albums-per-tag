@@ -1,0 +1,193 @@
+{
+  "album": {
+    "name": "Ragnarok",
+    "artist": "Ragnarok",
+    "mbid": "3c141b17-791f-494f-8642-14fa44c497ed",
+    "url": "https://www.last.fm/music/Ragnarok/Ragnarok",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87fa4526ebe74c96bbd0b5703eb024f9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "978",
+    "playcount": "18602",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fenris",
+          "url": "https://www.last.fm/music/Ragnarok/_/Fenris",
+          "duration": "329",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Butterfly Sky",
+          "url": "https://www.last.fm/music/Ragnarok/_/Butterfly+Sky",
+          "duration": "271",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Fire in the Sky",
+          "url": "https://www.last.fm/music/Ragnarok/_/Fire+in+the+Sky",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Rainbow Bridge",
+          "url": "https://www.last.fm/music/Ragnarok/_/Rainbow+Bridge",
+          "duration": "425",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Raga",
+          "url": "https://www.last.fm/music/Ragnarok/_/Raga",
+          "duration": "428",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Caviar Queen",
+          "url": "https://www.last.fm/music/Ragnarok/_/Caviar+Queen",
+          "duration": "215",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Dream",
+          "url": "https://www.last.fm/music/Ragnarok/_/Dream",
+          "duration": "417",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        },
+        {
+          "name": "Dawning Horn",
+          "url": "https://www.last.fm/music/Ragnarok/_/Dawning+Horn",
+          "duration": "234",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ragnarok",
+            "mbid": "d51db6f4-79c4-495f-8409-cda42b063d28",
+            "url": "https://www.last.fm/music/Ragnarok"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Progressive rock",
+          "url": "https://www.last.fm/tag/Progressive+rock"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "New Zealand",
+          "url": "https://www.last.fm/tag/New+Zealand"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:00:33.078Z"
+}

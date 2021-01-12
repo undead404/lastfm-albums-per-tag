@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Southwest Passage",
+    "artist": "Striborg",
+    "mbid": "dfe5f97b-a617-4e7c-86bc-0331beef768c",
+    "url": "https://www.last.fm/music/Striborg/Southwest+Passage",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/90612369d26f4df4a3d5c669db10b2f7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3172",
+    "playcount": "23093",
+    "tracks": {
+      "track": [
+        {
+          "name": "Southwest Passage",
+          "url": "https://www.last.fm/music/Striborg/_/Southwest+Passage",
+          "duration": "418",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "All Contempt Reciprocated",
+          "url": "https://www.last.fm/music/Striborg/_/All+Contempt+Reciprocated",
+          "duration": "409",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Human Extinction",
+          "url": "https://www.last.fm/music/Striborg/_/Human+Extinction",
+          "duration": "553",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Dwelling in the Fullmoon Forests",
+          "url": "https://www.last.fm/music/Striborg/_/Dwelling+in+the+Fullmoon+Forests",
+          "duration": "412",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Obscure and Darkened Contemplation",
+          "url": "https://www.last.fm/music/Striborg/_/Obscure+and+Darkened+Contemplation",
+          "duration": "392",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Requiem for a Lonely Ghost",
+          "url": "https://www.last.fm/music/Striborg/_/Requiem+for+a+Lonely+Ghost",
+          "duration": "200",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:43:22.848Z"
+}

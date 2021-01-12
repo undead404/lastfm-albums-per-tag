@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Far Away from the Sun",
+    "artist": "Sacramentum",
+    "mbid": "0c7df3c7-1942-4fc8-86b4-3c161d1924f3",
+    "url": "https://www.last.fm/music/Sacramentum/Far+Away+from+the+Sun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/784848fa61310555b19ae41399482e3e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/784848fa61310555b19ae41399482e3e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/784848fa61310555b19ae41399482e3e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/784848fa61310555b19ae41399482e3e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/784848fa61310555b19ae41399482e3e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/784848fa61310555b19ae41399482e3e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12976",
+    "playcount": "294225",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fog's Kiss",
+          "url": "https://www.last.fm/music/Sacramentum/_/Fog%27s+Kiss",
+          "duration": "287",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Far Away From the Sun",
+          "url": "https://www.last.fm/music/Sacramentum/_/Far+Away+From+the+Sun",
+          "duration": "313",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Blood Shall Be Spilled",
+          "url": "https://www.last.fm/music/Sacramentum/_/Blood+Shall+Be+Spilled",
+          "duration": "282",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "When Night Surrounds Me",
+          "url": "https://www.last.fm/music/Sacramentum/_/When+Night+Surrounds+Me",
+          "duration": "364",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Cries From a Restless Soul",
+          "url": "https://www.last.fm/music/Sacramentum/_/Cries+From+a+Restless+Soul",
+          "duration": "310",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Obsolete Tears",
+          "url": "https://www.last.fm/music/Sacramentum/_/Obsolete+Tears",
+          "duration": "280",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Beyond All Horizons",
+          "url": "https://www.last.fm/music/Sacramentum/_/Beyond+All+Horizons",
+          "duration": "392",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "The Vision and the Voice",
+          "url": "https://www.last.fm/music/Sacramentum/_/The+Vision+and+the+Voice",
+          "duration": "281",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Darkness Falls for Me (Far Away from the Sun, Pt. 2)",
+          "url": "https://www.last.fm/music/Sacramentum/_/Darkness+Falls+for+Me+(Far+Away+from+the+Sun,+Pt.+2)",
+          "duration": "250",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Jan 2015, 20:44",
+      "summary": "Debut album released May 1996 on CD by Adipocere Records. Cover artwork by Kristian 'Necrolord' Wahlin.\n\nLINEUP:\n\nNisse Karlén - Bass, Vocals, lyrics\n\nAnders Brolycke - Guitars, lyrics (track 5)\n\nNicklas Rudolfsson - Drums, lyrics (track 3)\n\nVERSION HISTORY:\n\nReissued with Finis Malorum in 2005 on CD by Zenor Records (Brazil). \nReissued and remastered on CD, LP & Pic LP by Century Media in January 2013 with 60cm x 60cm poster of the cover artwork and long interview from late 2012. <a href=\"http://www.last.fm/music/Sacramentum/Far+Away+from+the+Sun\">Read more on Last.fm</a>.",
+      "content": "Debut album released May 1996 on CD by Adipocere Records. Cover artwork by Kristian 'Necrolord' Wahlin.\n\nLINEUP:\n\nNisse Karlén - Bass, Vocals, lyrics\n\nAnders Brolycke - Guitars, lyrics (track 5)\n\nNicklas Rudolfsson - Drums, lyrics (track 3)\n\nVERSION HISTORY:\n\nReissued with Finis Malorum in 2005 on CD by Zenor Records (Brazil). \nReissued and remastered on CD, LP & Pic LP by Century Media in January 2013 with 60cm x 60cm poster of the cover artwork and long interview from late 2012. <a href=\"http://www.last.fm/music/Sacramentum/Far+Away+from+the+Sun\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:59:08.383Z"
+}

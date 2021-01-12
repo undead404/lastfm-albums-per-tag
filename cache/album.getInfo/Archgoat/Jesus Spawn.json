@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Jesus Spawn",
+    "artist": "Archgoat",
+    "mbid": "a337eb3d-461b-40ef-a4e3-b68cab73fdf0",
+    "url": "https://www.last.fm/music/Archgoat/Jesus+Spawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/644149ff2ec07d59d58ed4aa404e3a2a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "831",
+    "playcount": "13920",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro (Ripping the Wings)",
+          "url": "https://www.last.fm/music/Archgoat/_/Intro+(Ripping+the+Wings)",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Black Messiah",
+          "url": "https://www.last.fm/music/Archgoat/_/Black+Messiah",
+          "duration": "161",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Death and Necromancy",
+          "url": "https://www.last.fm/music/Archgoat/_/Death+and+Necromancy",
+          "duration": "188",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Rise of the Blackmoon",
+          "url": "https://www.last.fm/music/Archgoat/_/Rise+of+the+Blackmoon",
+          "duration": "166",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Angelcunt (Tales Of Desecration)",
+          "url": "https://www.last.fm/music/Archgoat/_/Angelcunt+(Tales+Of+Desecration)",
+          "duration": "151",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        },
+        {
+          "name": "Jesus Spawn",
+          "url": "https://www.last.fm/music/Archgoat/_/Jesus+Spawn",
+          "duration": "67",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Archgoat",
+            "mbid": "969710a8-0ac1-40b7-a22c-6072254e4214",
+            "url": "https://www.last.fm/music/Archgoat"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Lo-Fi",
+          "url": "https://www.last.fm/tag/Lo-Fi"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "kvlt",
+          "url": "https://www.last.fm/tag/kvlt"
+        },
+        {
+          "name": "extremely lo-fi",
+          "url": "https://www.last.fm/tag/extremely+lo-fi"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:30:30.761Z"
+}

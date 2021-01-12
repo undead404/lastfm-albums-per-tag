@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Grimmige Volksmusik",
+    "artist": "Absurd",
+    "mbid": "5fcd50d4-fdfc-45f8-a3e4-426cf6416320",
+    "url": "https://www.last.fm/music/Absurd/Grimmige+Volksmusik",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d329f12beaa04a73ca7e897374068508.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d329f12beaa04a73ca7e897374068508.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d329f12beaa04a73ca7e897374068508.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d329f12beaa04a73ca7e897374068508.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d329f12beaa04a73ca7e897374068508.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d329f12beaa04a73ca7e897374068508.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5446",
+    "playcount": "142577",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ein Jäger aus Walhall",
+          "url": "https://www.last.fm/music/Absurd/_/Ein+J%C3%A4ger+aus+Walhall",
+          "duration": "205",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Hab mein Pestkarren vollgeladen",
+          "url": "https://www.last.fm/music/Absurd/_/Hab+mein+Pestkarren+vollgeladen",
+          "duration": "174",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Hoch auf dem Panzerwagen",
+          "url": "https://www.last.fm/music/Absurd/_/Hoch+auf+dem+Panzerwagen",
+          "duration": "210",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Aufruf des Schinderhannes",
+          "url": "https://www.last.fm/music/Absurd/_/Aufruf+des+Schinderhannes",
+          "duration": "210",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Des Wotans schwarzer Haufen",
+          "url": "https://www.last.fm/music/Absurd/_/Des+Wotans+schwarzer+Haufen",
+          "duration": "291",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "nsbm",
+          "url": "https://www.last.fm/tag/nsbm"
+        },
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Cock rock",
+          "url": "https://www.last.fm/tag/Cock+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:16.089Z"
+}

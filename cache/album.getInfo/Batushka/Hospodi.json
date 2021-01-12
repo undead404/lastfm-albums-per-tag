@@ -1,0 +1,224 @@
+{
+  "album": {
+    "name": "Hospodi",
+    "artist": "Batushka",
+    "url": "https://www.last.fm/music/Batushka/Hospodi",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65c2f2a1cad8dc3c745dad25d6c0f92f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "18934",
+    "playcount": "290486",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wozglas",
+          "url": "https://www.last.fm/music/Batushka/_/Wozglas",
+          "duration": "153",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Dziewiatyj Czas",
+          "url": "https://www.last.fm/music/Batushka/_/Dziewiatyj+Czas",
+          "duration": "368",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Wieczernia",
+          "url": "https://www.last.fm/music/Batushka/_/Wieczernia",
+          "duration": "331",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Powieczerje",
+          "url": "https://www.last.fm/music/Batushka/_/Powieczerje",
+          "duration": "329",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Polunosznica",
+          "url": "https://www.last.fm/music/Batushka/_/Polunosznica",
+          "duration": "323",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Utrenia",
+          "url": "https://www.last.fm/music/Batushka/_/Utrenia",
+          "duration": "326",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Pierwyj Czas",
+          "url": "https://www.last.fm/music/Batushka/_/Pierwyj+Czas",
+          "duration": "277",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Tretij Czas",
+          "url": "https://www.last.fm/music/Batushka/_/Tretij+Czas",
+          "duration": "299",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Szestoj Czas",
+          "url": "https://www.last.fm/music/Batushka/_/Szestoj+Czas",
+          "duration": "269",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        },
+        {
+          "name": "Liturgiya",
+          "url": "https://www.last.fm/music/Batushka/_/Liturgiya",
+          "duration": "392",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "christian",
+          "url": "https://www.last.fm/tag/christian"
+        },
+        {
+          "name": "fake",
+          "url": "https://www.last.fm/tag/fake"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:14:44.000Z"
+}

@@ -1,0 +1,524 @@
+{
+  "album": {
+    "name": "Live Inferno",
+    "artist": "Emperor",
+    "mbid": "587ecb11-db5d-4cb8-80f7-e73a3f69431a",
+    "url": "https://www.last.fm/music/Emperor/Live+Inferno",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3753a852de1a4fbbcfc9043e142848e9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10633",
+    "playcount": "251185",
+    "tracks": {
+      "track": [
+        {
+          "name": "Infinity Burning (medley)",
+          "url": "https://www.last.fm/music/Emperor/_/Infinity+Burning+(medley)",
+          "duration": "358",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Cosmic Keys to My Creations & Times",
+          "url": "https://www.last.fm/music/Emperor/_/Cosmic+Keys+to+My+Creations+&+Times",
+          "duration": "366",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Thus Spake the Nightspirit",
+          "url": "https://www.last.fm/music/Emperor/_/Thus+Spake+the+Nightspirit",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "An Elegy of Icaros",
+          "url": "https://www.last.fm/music/Emperor/_/An+Elegy+of+Icaros",
+          "duration": "371",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Curse You All Men!",
+          "url": "https://www.last.fm/music/Emperor/_/Curse+You+All+Men%21",
+          "duration": "281",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Wrath of the Tyrant",
+          "url": "https://www.last.fm/music/Emperor/_/Wrath+of+the+Tyrant",
+          "duration": "240",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "With Strength I Burn",
+          "url": "https://www.last.fm/music/Emperor/_/With+Strength+I+Burn",
+          "duration": "513",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Towards the Pantheon",
+          "url": "https://www.last.fm/music/Emperor/_/Towards+the+Pantheon",
+          "duration": "357",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "The Majesty of the Nightsky",
+          "url": "https://www.last.fm/music/Emperor/_/The+Majesty+of+the+Nightsky",
+          "duration": "293",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "The Loss And Curse Of Reverence",
+          "url": "https://www.last.fm/music/Emperor/_/The+Loss+And+Curse+Of+Reverence",
+          "duration": "398",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "In the Wordless Chamber",
+          "url": "https://www.last.fm/music/Emperor/_/In+the+Wordless+Chamber",
+          "duration": "312",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Inno A Satana",
+          "url": "https://www.last.fm/music/Emperor/_/Inno+A+Satana",
+          "duration": "288",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "I Am the Black Wizards",
+          "url": "https://www.last.fm/music/Emperor/_/I+Am+the+Black+Wizards",
+          "duration": "360",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Ye Entrancemperium",
+          "url": "https://www.last.fm/music/Emperor/_/Ye+Entrancemperium",
+          "duration": "367",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Opus A Satana",
+          "url": "https://www.last.fm/music/Emperor/_/Opus+A+Satana",
+          "duration": "257",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Infinity Burning (medley)",
+          "url": "https://www.last.fm/music/Emperor/_/Infinity+Burning+(medley)",
+          "duration": "358",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Cosmic Keys to My Creations & Times",
+          "url": "https://www.last.fm/music/Emperor/_/Cosmic+Keys+to+My+Creations+&+Times",
+          "duration": "366",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Thus Spake the Nightspirit",
+          "url": "https://www.last.fm/music/Emperor/_/Thus+Spake+the+Nightspirit",
+          "duration": "269",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "An Elegy of Icaros",
+          "url": "https://www.last.fm/music/Emperor/_/An+Elegy+of+Icaros",
+          "duration": "371",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Curse You All Men!",
+          "url": "https://www.last.fm/music/Emperor/_/Curse+You+All+Men%21",
+          "duration": "281",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "With Strength I Burn",
+          "url": "https://www.last.fm/music/Emperor/_/With+Strength+I+Burn",
+          "duration": "513",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Towards the Pantheon",
+          "url": "https://www.last.fm/music/Emperor/_/Towards+the+Pantheon",
+          "duration": "357",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "The Majesty of the Nightsky",
+          "url": "https://www.last.fm/music/Emperor/_/The+Majesty+of+the+Nightsky",
+          "duration": "293",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "The Loss And Curse Of Reverence",
+          "url": "https://www.last.fm/music/Emperor/_/The+Loss+And+Curse+Of+Reverence",
+          "duration": "398",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "In the Wordless Chamber",
+          "url": "https://www.last.fm/music/Emperor/_/In+the+Wordless+Chamber",
+          "duration": "312",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "I Am the Black Wizards",
+          "url": "https://www.last.fm/music/Emperor/_/I+Am+the+Black+Wizards",
+          "duration": "360",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        },
+        {
+          "name": "Inno A Satana",
+          "url": "https://www.last.fm/music/Emperor/_/Inno+A+Satana",
+          "duration": "288",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Emperor",
+            "mbid": "fffb7cb6-e9cd-42d0-81d0-60e58f13c7e8",
+            "url": "https://www.last.fm/music/Emperor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:58:24.492Z"
+}

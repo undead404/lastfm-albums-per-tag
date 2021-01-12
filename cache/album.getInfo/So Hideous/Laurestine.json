@@ -1,0 +1,168 @@
+{
+  "album": {
+    "name": "Laurestine",
+    "artist": "So Hideous",
+    "url": "https://www.last.fm/music/So+Hideous/Laurestine",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1843aea02eafca1b09a614e99342096b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1843aea02eafca1b09a614e99342096b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1843aea02eafca1b09a614e99342096b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1843aea02eafca1b09a614e99342096b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1843aea02eafca1b09a614e99342096b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1843aea02eafca1b09a614e99342096b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5006",
+    "playcount": "101572",
+    "tracks": {
+      "track": [
+        {
+          "name": "Yesteryear",
+          "url": "https://www.last.fm/music/So+Hideous/_/Yesteryear",
+          "duration": "451",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Here After",
+          "url": "https://www.last.fm/music/So+Hideous/_/Here+After",
+          "duration": "376",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Relinquish",
+          "url": "https://www.last.fm/music/So+Hideous/_/Relinquish",
+          "duration": "390",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "The Keepsake",
+          "url": "https://www.last.fm/music/So+Hideous/_/The+Keepsake",
+          "duration": "314",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Falling Cedars",
+          "url": "https://www.last.fm/music/So+Hideous/_/Falling+Cedars",
+          "duration": "267",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "The True Pierce",
+          "url": "https://www.last.fm/music/So+Hideous/_/The+True+Pierce",
+          "duration": "357",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "A Faint Whisper",
+          "url": "https://www.last.fm/music/So+Hideous/_/A+Faint+Whisper",
+          "duration": "250",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "post black metal",
+          "url": "https://www.last.fm/tag/post+black+metal"
+        },
+        {
+          "name": "best of 2015",
+          "url": "https://www.last.fm/tag/best+of+2015"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:55:41.087Z"
+}

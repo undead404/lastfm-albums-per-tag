@@ -1,0 +1,176 @@
+{
+  "album": {
+    "name": "Auðn",
+    "artist": "Auðn",
+    "url": "https://www.last.fm/music/Au%C3%B0n/Au%C3%B0n",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbb0eb13c722c2096972f341f6d52b65.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5110",
+    "playcount": "69341",
+    "tracks": {
+      "track": [
+        {
+          "name": "Klerkaveldi",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/Klerkaveldi",
+          "duration": "264",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Undir blóðmána",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/Undir+bl%C3%B3%C3%B0m%C3%A1na",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Sífreri",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/S%C3%ADfreri",
+          "duration": "268",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Feigð",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/Feig%C3%B0",
+          "duration": "315",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Landvættur",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/Landv%C3%A6ttur",
+          "duration": "264",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Þjáning Heillar Þjóðar",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/%C3%9Ej%C3%A1ning+Heillar+%C3%9Ej%C3%B3%C3%B0ar",
+          "duration": "310",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        },
+        {
+          "name": "Auðn",
+          "url": "https://www.last.fm/music/Au%C3%B0n/_/Au%C3%B0n",
+          "duration": "523",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Auðn",
+            "url": "https://www.last.fm/music/Au%C3%B0n"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "epic",
+          "url": "https://www.last.fm/tag/epic"
+        },
+        {
+          "name": "Black",
+          "url": "https://www.last.fm/tag/Black"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:54:44.642Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Skepsis, Pt. I",
+    "artist": "Der Weg einer Freiheit",
+    "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/Skepsis,+Pt.+I",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "168",
+    "playcount": "374",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skepsis, Pt. 1",
+          "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit/_/Skepsis,+Pt.+1",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Der Weg einer Freiheit",
+            "mbid": "2d75fdbd-2158-4ab4-a9ac-eec8d997d70b",
+            "url": "https://www.last.fm/music/Der+Weg+einer+Freiheit"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:59:14.468Z"
+}

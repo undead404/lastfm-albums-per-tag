@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Our Hearts Slow Down",
+    "artist": "Mord'A'Stigmata",
+    "url": "https://www.last.fm/music/Mord%27A%27Stigmata/Our+Hearts+Slow+Down",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e132b3d0371214dc39e99ef85cdf7f9d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1202",
+    "playcount": "11349",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Mantra of Anguish",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/The+Mantra+of+Anguish",
+          "duration": "778",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Those Above",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Those+Above",
+          "duration": "728",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        },
+        {
+          "name": "Our Hearts Slow Down",
+          "url": "https://www.last.fm/music/Mord%27A%27Stigmata/_/Our+Hearts+Slow+Down",
+          "duration": "313",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mord'A'Stigmata",
+            "mbid": "4ce9435f-03d8-4b46-9d3b-5d830f97562b",
+            "url": "https://www.last.fm/music/Mord%27A%27Stigmata"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:09:39.491Z"
+}

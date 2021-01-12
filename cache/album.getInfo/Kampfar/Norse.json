@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Norse",
+    "artist": "Kampfar",
+    "mbid": "8604f573-daa6-4d1f-9910-5e636f728454",
+    "url": "https://www.last.fm/music/Kampfar/Norse",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/645018789cf045ebac5d763f1c92e9a4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3294",
+    "playcount": "37588",
+    "tracks": {
+      "track": [
+        {
+          "name": "Norse",
+          "url": "https://www.last.fm/music/Kampfar/_/Norse",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Troll",
+          "url": "https://www.last.fm/music/Kampfar/_/Troll",
+          "duration": "313",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        },
+        {
+          "name": "Taering",
+          "url": "https://www.last.fm/music/Kampfar/_/Taering",
+          "duration": "80",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kampfar",
+            "mbid": "41b9a72e-c0dc-412d-a041-609cb43642df",
+            "url": "https://www.last.fm/music/Kampfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "pagan metal",
+          "url": "https://www.last.fm/tag/pagan+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:31:35.362Z"
+}

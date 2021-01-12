@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "The Serpentine Offering",
+    "artist": "Dimmu Borgir",
+    "url": "https://www.last.fm/music/Dimmu+Borgir/The+Serpentine+Offering",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c15207b8f57471dae2a7a6840e25cb1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9109",
+    "playcount": "29315",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Serpentine Offering",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Serpentine+Offering",
+          "duration": "309",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Serpentine Offering (Edit)",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Serpentine+Offering+(Edit)",
+          "duration": "218",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Serpentine Offering (Instrumental)",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Serpentine+Offering+(Instrumental)",
+          "duration": "311",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "best of 2007",
+          "url": "https://www.last.fm/tag/best+of+2007"
+        },
+        {
+          "name": "sympho black metal",
+          "url": "https://www.last.fm/tag/sympho+black+metal"
+        },
+        {
+          "name": "Black metal - Dimmu genre",
+          "url": "https://www.last.fm/tag/Black+metal+-+Dimmu+genre"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:49:27.068Z"
+}

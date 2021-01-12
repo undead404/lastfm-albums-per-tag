@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Maailma Uppoaaaa",
+    "artist": "Circle of Ouroborus",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/Maailma+Uppoaaaa",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/940681ba074644f886f6fe6ec9ef3f24.png",
+        "size": ""
+      }
+    ],
+    "listeners": "132",
+    "playcount": "295",
+    "tracks": {
+      "track": [
+        {
+          "name": "Maailma Uppoaaaa",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Maailma+Uppoaaaa",
+          "duration": "1129",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Maailma Uppoaaaa",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Maailma+Uppoaaaa",
+          "duration": "1129",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:22.511Z"
+}

@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Whispers of Twilight",
+    "artist": "Nightfall",
+    "url": "https://www.last.fm/music/Nightfall/Whispers+of+Twilight",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "57",
+    "playcount": "455",
+    "tracks": {
+      "track": [
+        {
+          "name": "Whispers of Twilight - Original Mix",
+          "url": "https://www.last.fm/music/Nightfall/_/Whispers+of+Twilight+-+Original+Mix",
+          "duration": "268",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Whispers of Twilight - Original Edit",
+          "url": "https://www.last.fm/music/Nightfall/_/Whispers+of+Twilight+-+Original+Edit",
+          "duration": "164",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:25.693Z"
+}

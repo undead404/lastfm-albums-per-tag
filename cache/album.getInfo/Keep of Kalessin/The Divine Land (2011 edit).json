@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Divine Land (2011 edit)",
+    "artist": "Keep of Kalessin",
+    "url": "https://www.last.fm/music/Keep+of+Kalessin/The+Divine+Land+(2011+edit)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1254d0c8b914c02fe07ca6cb29d15345.png",
+        "size": ""
+      }
+    ],
+    "listeners": "171",
+    "playcount": "638",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Divine Land (2011 edit)",
+          "url": "https://www.last.fm/music/Keep+of+Kalessin/_/The+Divine+Land+(2011+edit)",
+          "duration": "288",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Keep of Kalessin",
+            "mbid": "75fd76eb-09d8-4567-b24a-5fe43334ed15",
+            "url": "https://www.last.fm/music/Keep+of+Kalessin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:27:13.451Z"
+}

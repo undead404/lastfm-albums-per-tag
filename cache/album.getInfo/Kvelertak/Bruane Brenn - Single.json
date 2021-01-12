@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Bruane Brenn - Single",
+    "artist": "Kvelertak",
+    "url": "https://www.last.fm/music/Kvelertak/Bruane+Brenn+-+Single",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "50",
+    "playcount": "293",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bruane brenn",
+          "url": "https://www.last.fm/music/Kvelertak/_/Bruane+brenn",
+          "duration": "247",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvelertak",
+            "mbid": "61fdc79c-df1a-4999-8d2f-668f18c11283",
+            "url": "https://www.last.fm/music/Kvelertak"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:59:36.988Z"
+}

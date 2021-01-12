@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Promo '97",
+    "artist": "Alghazanth",
+    "mbid": "7b6e6635-a176-4b23-9d3a-0d15b4521e97",
+    "url": "https://www.last.fm/music/Alghazanth/Promo+%2797",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0d1d7af714bb4737b18e99a6da846fa6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "41",
+    "playcount": "264",
+    "tracks": {
+      "track": [
+        {
+          "name": "Of a Stormgrey Vision",
+          "url": "https://www.last.fm/music/Alghazanth/_/Of+a+Stormgrey+Vision",
+          "duration": "286",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Alghazanth",
+            "mbid": "61731e76-9a68-450e-b203-e5dec7840603",
+            "url": "https://www.last.fm/music/Alghazanth"
+          }
+        },
+        {
+          "name": "For the Night I'm Craving",
+          "url": "https://www.last.fm/music/Alghazanth/_/For+the+Night+I%27m+Craving",
+          "duration": "325",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Alghazanth",
+            "mbid": "61731e76-9a68-450e-b203-e5dec7840603",
+            "url": "https://www.last.fm/music/Alghazanth"
+          }
+        },
+        {
+          "name": "Ensnared in Moonshades (Praises Given in Blackness)",
+          "url": "https://www.last.fm/music/Alghazanth/_/Ensnared+in+Moonshades+(Praises+Given+in+Blackness)",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Alghazanth",
+            "mbid": "61731e76-9a68-450e-b203-e5dec7840603",
+            "url": "https://www.last.fm/music/Alghazanth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:45:21.349Z"
+}

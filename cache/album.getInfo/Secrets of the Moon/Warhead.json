@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Warhead",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/Warhead",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25b91d4d3320409aa2aa4445dc63fab9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "534",
+    "playcount": "1644",
+    "tracks": {
+      "track": [
+        {
+          "name": "Warhead",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Warhead",
+          "duration": "299",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        },
+        {
+          "name": "Seven Bells (Edited & Remixed Version)",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Seven+Bells+(Edited+&+Remixed+Version)",
+          "duration": "394",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:34.199Z"
+}

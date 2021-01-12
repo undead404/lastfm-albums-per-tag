@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Confound Eternal",
+    "artist": "Abigail",
+    "mbid": "8af9cecf-35ed-4728-9d8d-b7b189760219",
+    "url": "https://www.last.fm/music/Abigail/Confound+Eternal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98989dbf9bd04485af2665bba4ff1092.png",
+        "size": ""
+      }
+    ],
+    "listeners": "129",
+    "playcount": "421",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mephistopheles",
+          "url": "https://www.last.fm/music/Abigail/_/Mephistopheles",
+          "duration": "240",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Confound Eternal",
+          "url": "https://www.last.fm/music/Abigail/_/Confound+Eternal",
+          "duration": "250",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:06:10.276Z"
+}

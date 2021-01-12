@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Second Evolution",
+    "artist": "Evol",
+    "url": "https://www.last.fm/music/Evol/Second+Evolution",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/39f509004cc74f46ab403770bad4abaa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/39f509004cc74f46ab403770bad4abaa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/39f509004cc74f46ab403770bad4abaa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39f509004cc74f46ab403770bad4abaa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39f509004cc74f46ab403770bad4abaa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/39f509004cc74f46ab403770bad4abaa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2390",
+    "playcount": "34277",
+    "tracks": {
+      "track": [
+        {
+          "name": "GET UP",
+          "url": "https://www.last.fm/music/Evol/_/GET+UP",
+          "duration": "160",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/music/Evol/_/Love",
+          "duration": "200",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Magnet",
+          "url": "https://www.last.fm/music/Evol/_/Magnet",
+          "duration": "212",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "I'm sorry",
+          "url": "https://www.last.fm/music/Evol/_/I%27m+sorry",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "GET UP",
+          "url": "https://www.last.fm/music/Evol/_/GET+UP",
+          "duration": "160",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "GET UP",
+          "url": "https://www.last.fm/music/Evol/_/GET+UP",
+          "duration": "160",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:02:03.249Z"
+}

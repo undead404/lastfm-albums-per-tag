@@ -1,0 +1,125 @@
+{
+  "album": {
+    "name": "Crucify Him",
+    "artist": "Nocternity",
+    "mbid": "3f612b61-b3e5-35c8-9985-95f99efbb085",
+    "url": "https://www.last.fm/music/Nocternity/Crucify+Him",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e9b1a7a1904d97b963934d6f87d1e6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1149",
+    "playcount": "15668",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stella Tenebrarum",
+          "url": "https://www.last.fm/music/Nocternity/_/Stella+Tenebrarum",
+          "duration": "144",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocternity",
+            "mbid": "8a1ac4cc-76e4-4910-9e44-2a4e12d00942",
+            "url": "https://www.last.fm/music/Nocternity"
+          }
+        },
+        {
+          "name": "Crucify Him",
+          "url": "https://www.last.fm/music/Nocternity/_/Crucify+Him",
+          "duration": "395",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocternity",
+            "mbid": "8a1ac4cc-76e4-4910-9e44-2a4e12d00942",
+            "url": "https://www.last.fm/music/Nocternity"
+          }
+        },
+        {
+          "name": "Lunar Innuendo",
+          "url": "https://www.last.fm/music/Nocternity/_/Lunar+Innuendo",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocternity",
+            "mbid": "8a1ac4cc-76e4-4910-9e44-2a4e12d00942",
+            "url": "https://www.last.fm/music/Nocternity"
+          }
+        },
+        {
+          "name": "Perdo Corporem",
+          "url": "https://www.last.fm/music/Nocternity/_/Perdo+Corporem",
+          "duration": "457",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nocternity",
+            "mbid": "8a1ac4cc-76e4-4910-9e44-2a4e12d00942",
+            "url": "https://www.last.fm/music/Nocternity"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "Greek Black Metal",
+          "url": "https://www.last.fm/tag/Greek+Black+Metal"
+        },
+        {
+          "name": "iso666 releases",
+          "url": "https://www.last.fm/tag/iso666+releases"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:43:55.749Z"
+}

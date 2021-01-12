@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Ísafold",
+    "artist": "Sólstafir",
+    "url": "https://www.last.fm/music/S%C3%B3lstafir/%C3%8Dsafold",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/607a4983f5cfdea3ea52ad5b4da9f619.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4781",
+    "playcount": "10915",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ísafold",
+          "url": "https://www.last.fm/music/S%C3%B3lstafir/_/%C3%8Dsafold",
+          "duration": "299",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sólstafir",
+            "mbid": "5f976464-4a48-4c0e-aee4-bb70afaf7a8b",
+            "url": "https://www.last.fm/music/S%C3%B3lstafir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:01:52.430Z"
+}

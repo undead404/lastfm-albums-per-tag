@@ -1,0 +1,244 @@
+{
+  "album": {
+    "name": "Skogen Kaller",
+    "artist": "Massemord",
+    "mbid": "b40329ec-8815-4fec-9dbd-d8293c1c7c6b",
+    "url": "https://www.last.fm/music/Massemord/Skogen+Kaller",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26e372f15f79c562871f221d0c2330a0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26e372f15f79c562871f221d0c2330a0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26e372f15f79c562871f221d0c2330a0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26e372f15f79c562871f221d0c2330a0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26e372f15f79c562871f221d0c2330a0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26e372f15f79c562871f221d0c2330a0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6776",
+    "playcount": "60557",
+    "tracks": {
+      "track": [
+        {
+          "name": "Naar Solen Doer Bak Fjellet",
+          "url": "https://www.last.fm/music/Massemord/_/Naar+Solen+Doer+Bak+Fjellet",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Solen Skinner Ikkje",
+          "url": "https://www.last.fm/music/Massemord/_/Solen+Skinner+Ikkje",
+          "duration": "258",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Lyset Forsvinner",
+          "url": "https://www.last.fm/music/Massemord/_/Lyset+Forsvinner",
+          "duration": "69",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Eternal War",
+          "url": "https://www.last.fm/music/Massemord/_/Eternal+War",
+          "duration": "219",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Skogen Kaller Og Vi Svarer",
+          "url": "https://www.last.fm/music/Massemord/_/Skogen+Kaller+Og+Vi+Svarer",
+          "duration": "351",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "I Have Sipped The Blood...",
+          "url": "https://www.last.fm/music/Massemord/_/I+Have+Sipped+The+Blood...",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Flowers For Your Funeral",
+          "url": "https://www.last.fm/music/Massemord/_/Flowers+For+Your+Funeral",
+          "duration": "243",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Demon Storm",
+          "url": "https://www.last.fm/music/Massemord/_/Demon+Storm",
+          "duration": "279",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Soul Deceiver",
+          "url": "https://www.last.fm/music/Massemord/_/Soul+Deceiver",
+          "duration": "296",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "My Last Breath",
+          "url": "https://www.last.fm/music/Massemord/_/My+Last+Breath",
+          "duration": "334",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Den Gamle Festningen",
+          "url": "https://www.last.fm/music/Massemord/_/Den+Gamle+Festningen",
+          "duration": "325",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "best of 2003",
+          "url": "https://www.last.fm/tag/best+of+2003"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:42:26.722Z"
+}

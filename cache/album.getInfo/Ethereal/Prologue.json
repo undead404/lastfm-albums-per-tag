@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Prologue",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/Prologue",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9e9580892c614e25be6216603676c93c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9e9580892c614e25be6216603676c93c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9e9580892c614e25be6216603676c93c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9580892c614e25be6216603676c93c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9580892c614e25be6216603676c93c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9580892c614e25be6216603676c93c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "164",
+    "playcount": "2589",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Ethereal/_/Intro",
+          "duration": "75",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Pieces of Your Dream",
+          "url": "https://www.last.fm/music/Ethereal/_/Pieces+of+Your+Dream",
+          "duration": "252",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Citadel of Sorrow",
+          "url": "https://www.last.fm/music/Ethereal/_/Citadel+of+Sorrow",
+          "duration": "280",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "SYMPHONY",
+          "url": "https://www.last.fm/music/Ethereal/_/SYMPHONY",
+          "duration": "242",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        },
+        {
+          "name": "Corporate Suicide",
+          "url": "https://www.last.fm/music/Ethereal/_/Corporate+Suicide",
+          "duration": "263",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:09.680Z"
+}

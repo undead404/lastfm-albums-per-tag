@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Inversnaid EP",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Inversnaid+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "14",
+    "playcount": "35",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inversnaid",
+          "url": "https://www.last.fm/music/Lor/_/Inversnaid",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Brain Function",
+          "url": "https://www.last.fm/music/Lor/_/Brain+Function",
+          "duration": "374",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:56.456Z"
+}

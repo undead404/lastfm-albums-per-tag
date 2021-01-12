@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Schnee",
+    "artist": "Paysage d'Hiver",
+    "url": "https://www.last.fm/music/Paysage+d%27Hiver/Schnee",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/634c8ba89fc11d1f2c76de672e88e280.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1150",
+    "playcount": "7118",
+    "tracks": {
+      "track": [
+        {
+          "name": "Schnee (I)",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Schnee+(I)",
+          "duration": "1078",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Schnee (II)",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Schnee+(II)",
+          "duration": "659",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Schnee (III)",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Schnee+(III)",
+          "duration": "1045",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        },
+        {
+          "name": "Schnee IV",
+          "url": "https://www.last.fm/music/Paysage+d%27Hiver/_/Schnee+IV",
+          "duration": "1191",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Paysage d'Hiver",
+            "mbid": "3dbdc630-bdae-484c-994e-4d07183dece4",
+            "url": "https://www.last.fm/music/Paysage+d%27Hiver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:36:41.351Z"
+}

@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Wastes of Life",
+    "artist": "Dodsferd",
+    "url": "https://www.last.fm/music/Dodsferd/Wastes+of+Life",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f1326678248d5c7c534fd2113074382b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f1326678248d5c7c534fd2113074382b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f1326678248d5c7c534fd2113074382b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1326678248d5c7c534fd2113074382b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1326678248d5c7c534fd2113074382b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f1326678248d5c7c534fd2113074382b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1442",
+    "playcount": "9332",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wastes of Life",
+          "url": "https://www.last.fm/music/Dodsferd/_/Wastes+of+Life",
+          "duration": "291",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Sterile Death, Without Mourning",
+          "url": "https://www.last.fm/music/Dodsferd/_/Sterile+Death,+Without+Mourning",
+          "duration": "746",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "The Dead Have No Speech For",
+          "url": "https://www.last.fm/music/Dodsferd/_/The+Dead+Have+No+Speech+For",
+          "duration": "489",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "To the Fall of Man",
+          "url": "https://www.last.fm/music/Dodsferd/_/To+the+Fall+of+Man",
+          "duration": "731",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Graves of Your Creator",
+          "url": "https://www.last.fm/music/Dodsferd/_/Graves+of+Your+Creator",
+          "duration": "661",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:29:25.340Z"
+}

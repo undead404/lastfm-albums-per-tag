@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Von Winterwäldern und Mondscheinsonaten",
+    "artist": "Waldgeflüster",
+    "url": "https://www.last.fm/music/Waldgefl%C3%BCster/Von+Winterw%C3%A4ldern+und+Mondscheinsonaten",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "293",
+    "playcount": "679",
+    "tracks": {
+      "track": [
+        {
+          "name": "Von Winterwäldern und Mondscheinsonaten",
+          "url": "https://www.last.fm/music/Waldgefl%C3%BCster/_/Von+Winterw%C3%A4ldern+und+Mondscheinsonaten",
+          "duration": "591",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Waldgeflüster",
+            "mbid": "ca1174a2-e271-4c62-a122-67ebfafdc211",
+            "url": "https://www.last.fm/music/Waldgefl%C3%BCster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:14:37.742Z"
+}

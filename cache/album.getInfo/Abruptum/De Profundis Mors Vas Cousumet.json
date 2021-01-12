@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "De Profundis Mors Vas Cousumet",
+    "artist": "Abruptum",
+    "mbid": "e7cb1ca3-a850-32b2-9d53-1d0ad289901f",
+    "url": "https://www.last.fm/music/Abruptum/De+Profundis+Mors+Vas+Cousumet",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/56a971c09e93fdb5e5616caccd24d000.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2580",
+    "playcount": "14735",
+    "tracks": {
+      "track": [
+        {
+          "name": "De Profundis Mors Vas Cousumet",
+          "url": "https://www.last.fm/music/Abruptum/_/De+Profundis+Mors+Vas+Cousumet",
+          "duration": "339",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Dödsapparaten",
+          "url": "https://www.last.fm/music/Abruptum/_/D%C3%B6dsapparaten",
+          "duration": "511",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        },
+        {
+          "name": "Massdöd",
+          "url": "https://www.last.fm/music/Abruptum/_/Massd%C3%B6d",
+          "duration": "144",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abruptum",
+            "mbid": "0bf05835-fe5b-4165-8a7e-afb4f274bce3",
+            "url": "https://www.last.fm/music/Abruptum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "noise",
+          "url": "https://www.last.fm/tag/noise"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "beautiful album cover",
+          "url": "https://www.last.fm/tag/beautiful+album+cover"
+        },
+        {
+          "name": "beautiful artwork",
+          "url": "https://www.last.fm/tag/beautiful+artwork"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:35:02.279Z"
+}

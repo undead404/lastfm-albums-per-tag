@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "New Wave Of Black Heavy Metal",
+    "artist": "Darkthrone",
+    "mbid": "5ab52f2f-f60c-48c8-b11b-36bcdc451461",
+    "url": "https://www.last.fm/music/Darkthrone/New+Wave+Of+Black+Heavy+Metal",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80a81d90a51c4029873006146e93b6de.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80a81d90a51c4029873006146e93b6de.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80a81d90a51c4029873006146e93b6de.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80a81d90a51c4029873006146e93b6de.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80a81d90a51c4029873006146e93b6de.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80a81d90a51c4029873006146e93b6de.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2748",
+    "playcount": "17564",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wisdom Of The Dead",
+          "url": "https://www.last.fm/music/Darkthrone/_/Wisdom+Of+The+Dead",
+          "duration": "283",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Canadian Metal",
+          "url": "https://www.last.fm/music/Darkthrone/_/Canadian+Metal",
+          "duration": "284",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Hedninger Fra Helvete",
+          "url": "https://www.last.fm/music/Darkthrone/_/Hedninger+Fra+Helvete",
+          "duration": "312",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        },
+        {
+          "name": "Bad Attitude",
+          "url": "https://www.last.fm/music/Darkthrone/_/Bad+Attitude",
+          "duration": "107",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkthrone",
+            "mbid": "af8fd97c-db72-4e30-b2aa-30ebd0c4f1a0",
+            "url": "https://www.last.fm/music/Darkthrone"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2007",
+          "url": "https://www.last.fm/tag/2007"
+        },
+        {
+          "name": "black heavy metal",
+          "url": "https://www.last.fm/tag/black+heavy+metal"
+        },
+        {
+          "name": "free waterfalls favorite albums",
+          "url": "https://www.last.fm/tag/free+waterfalls+favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:51:50.805Z"
+}

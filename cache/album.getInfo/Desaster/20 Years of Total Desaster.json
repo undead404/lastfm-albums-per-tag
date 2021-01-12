@@ -1,0 +1,587 @@
+{
+  "album": {
+    "name": "20 Years of Total Desaster",
+    "artist": "Desaster",
+    "url": "https://www.last.fm/music/Desaster/20+Years+of+Total+Desaster",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/294b5012b3264c229146d6eba184a993.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/294b5012b3264c229146d6eba184a993.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/294b5012b3264c229146d6eba184a993.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/294b5012b3264c229146d6eba184a993.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/294b5012b3264c229146d6eba184a993.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/294b5012b3264c229146d6eba184a993.png",
+        "size": ""
+      }
+    ],
+    "listeners": "47",
+    "playcount": "1248",
+    "tracks": {
+      "track": [
+        {
+          "name": "Twilight (Intro)",
+          "url": "https://www.last.fm/music/Desaster/_/Twilight+(Intro)",
+          "duration": "180",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "The Final Desaster",
+          "url": "https://www.last.fm/music/Desaster/_/The+Final+Desaster",
+          "duration": "307",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "And The Powers Above",
+          "url": "https://www.last.fm/music/Desaster/_/And+The+Powers+Above",
+          "duration": "235",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Face Of Darkness",
+          "url": "https://www.last.fm/music/Desaster/_/Face+Of+Darkness",
+          "duration": "206",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Into A Magical Night",
+          "url": "https://www.last.fm/music/Desaster/_/Into+A+Magical+Night",
+          "duration": "271",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Northern Breeze",
+          "url": "https://www.last.fm/music/Desaster/_/Northern+Breeze",
+          "duration": "197",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Witchcraft",
+          "url": "https://www.last.fm/music/Desaster/_/Witchcraft",
+          "duration": "136",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Dawn (Outro)",
+          "url": "https://www.last.fm/music/Desaster/_/Dawn+(Outro)",
+          "duration": "72",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Countess Bathory",
+          "url": "https://www.last.fm/music/Desaster/_/Countess+Bathory",
+          "duration": "241",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Porter of Hellgate/Morbid Tales",
+          "url": "https://www.last.fm/music/Desaster/_/Porter+of+Hellgate%2FMorbid+Tales",
+          "duration": "0",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Hymn to Forgotten Lands",
+          "url": "https://www.last.fm/music/Desaster/_/Hymn+to+Forgotten+Lands",
+          "duration": "177",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "In A Winter Battle",
+          "url": "https://www.last.fm/music/Desaster/_/In+A+Winter+Battle",
+          "duration": "329",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Tears Of An Old Wizard",
+          "url": "https://www.last.fm/music/Desaster/_/Tears+Of+An+Old+Wizard",
+          "duration": "367",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Lost In The Ages",
+          "url": "https://www.last.fm/music/Desaster/_/Lost+In+The+Ages",
+          "duration": "291",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "As The Deadworld Calls",
+          "url": "https://www.last.fm/music/Desaster/_/As+The+Deadworld+Calls",
+          "duration": "279",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Leaving The Hall Of Kings",
+          "url": "https://www.last.fm/music/Desaster/_/Leaving+The+Hall+Of+Kings",
+          "duration": "106",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Hate and Violence",
+          "url": "https://www.last.fm/music/Desaster/_/Hate+and+Violence",
+          "duration": "0",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "God is Dead",
+          "url": "https://www.last.fm/music/Desaster/_/God+is+Dead",
+          "duration": "238",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Infernal Voices",
+          "url": "https://www.last.fm/music/Desaster/_/Infernal+Voices",
+          "duration": "197",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Souls Of Infernity",
+          "url": "https://www.last.fm/music/Desaster/_/Souls+Of+Infernity",
+          "duration": "268",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Hell-Born",
+          "url": "https://www.last.fm/music/Desaster/_/Hell-Born",
+          "duration": "198",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Medi-Evil Rites",
+          "url": "https://www.last.fm/music/Desaster/_/Medi-Evil+Rites",
+          "duration": "306",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Vengeance Knows No Bound",
+          "url": "https://www.last.fm/music/Desaster/_/Vengeance+Knows+No+Bound",
+          "duration": "214",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Intro (Decade Of Desaster)",
+          "url": "https://www.last.fm/music/Desaster/_/Intro+(Decade+Of+Desaster)",
+          "duration": "64",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "The Witches' Rune",
+          "url": "https://www.last.fm/music/Desaster/_/The+Witches%27+Rune",
+          "duration": "236",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Ride On For Revenge",
+          "url": "https://www.last.fm/music/Desaster/_/Ride+On+For+Revenge",
+          "duration": "277",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Burning Crosses",
+          "url": "https://www.last.fm/music/Desaster/_/Burning+Crosses",
+          "duration": "271",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "The Hill Of A Thousand Souls",
+          "url": "https://www.last.fm/music/Desaster/_/The+Hill+Of+A+Thousand+Souls",
+          "duration": "348",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Tormentor",
+          "url": "https://www.last.fm/music/Desaster/_/Tormentor",
+          "duration": "171",
+          "@attr": {
+            "rank": "33"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Infernal",
+          "url": "https://www.last.fm/music/Desaster/_/Infernal",
+          "duration": "0",
+          "@attr": {
+            "rank": "34"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Odin",
+          "url": "https://www.last.fm/music/Desaster/_/Odin",
+          "duration": "0",
+          "@attr": {
+            "rank": "35"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Sataniac",
+          "url": "https://www.last.fm/music/Desaster/_/Sataniac",
+          "duration": "271",
+          "@attr": {
+            "rank": "36"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:58:06.663Z"
+}

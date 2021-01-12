@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Fairytales",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Fairytales",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe95edab767b455bc51f429cbd10d6cc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21",
+    "playcount": "1090",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:59.705Z"
+}

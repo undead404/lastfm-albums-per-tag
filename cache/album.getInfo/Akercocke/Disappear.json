@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Disappear",
+    "artist": "Akercocke",
+    "url": "https://www.last.fm/music/Akercocke/Disappear",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4b2e385a72ec3a135e777d3b448c52f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "958",
+    "playcount": "2060",
+    "tracks": {
+      "track": [
+        {
+          "name": "Disappear",
+          "url": "https://www.last.fm/music/Akercocke/_/Disappear",
+          "duration": "422",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akercocke",
+            "mbid": "fc1abced-ff90-4a42-9998-2e18cceef041",
+            "url": "https://www.last.fm/music/Akercocke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:28:30.868Z"
+}

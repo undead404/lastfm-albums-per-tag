@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Jen EP",
+    "artist": "Flame",
+    "url": "https://www.last.fm/music/Flame/Jen+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f7121ada89b44b5c838d294e6e404801.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f7121ada89b44b5c838d294e6e404801.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f7121ada89b44b5c838d294e6e404801.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7121ada89b44b5c838d294e6e404801.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7121ada89b44b5c838d294e6e404801.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7121ada89b44b5c838d294e6e404801.png",
+        "size": ""
+      }
+    ],
+    "listeners": "204",
+    "playcount": "1516",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fucking Robot - Original mix",
+          "url": "https://www.last.fm/music/Flame/_/Fucking+Robot+-+Original+mix",
+          "duration": "363",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Jen - Original mix",
+          "url": "https://www.last.fm/music/Flame/_/Jen+-+Original+mix",
+          "duration": "340",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Traffic Light - Original mix",
+          "url": "https://www.last.fm/music/Flame/_/Traffic+Light+-+Original+mix",
+          "duration": "372",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:01:46.006Z"
+}

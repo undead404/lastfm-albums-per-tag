@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Blue Horizon",
+    "artist": "Trident",
+    "url": "https://www.last.fm/music/Trident/Blue+Horizon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f65f924585e6421aa36b687312c3bb8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "105",
+    "playcount": "1151",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blue Horizon",
+          "url": "https://www.last.fm/music/Trident/_/Blue+Horizon",
+          "duration": "259",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trident",
+            "mbid": "d510a5a1-c80d-4a1b-a90e-4e6d78bf96c6",
+            "url": "https://www.last.fm/music/Trident"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "girls",
+          "url": "https://www.last.fm/tag/girls"
+        },
+        {
+          "name": "JPop",
+          "url": "https://www.last.fm/tag/JPop"
+        },
+        {
+          "name": "Asian",
+          "url": "https://www.last.fm/tag/Asian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:35:48.597Z"
+}

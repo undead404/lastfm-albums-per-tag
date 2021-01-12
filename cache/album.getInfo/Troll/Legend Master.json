@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Legend Master",
+    "artist": "Troll",
+    "url": "https://www.last.fm/music/Troll/Legend+Master",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3058448446db56ec18ef4215d50704b4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3058448446db56ec18ef4215d50704b4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3058448446db56ec18ef4215d50704b4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3058448446db56ec18ef4215d50704b4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3058448446db56ec18ef4215d50704b4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3058448446db56ec18ef4215d50704b4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "572",
+    "playcount": "4741",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Flight of the Dragonship",
+          "url": "https://www.last.fm/music/Troll/_/The+Flight+of+the+Dragonship",
+          "duration": "617",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Legend Master, Book I: Proverbs of Hell",
+          "url": "https://www.last.fm/music/Troll/_/Legend+Master,+Book+I:+Proverbs+of+Hell",
+          "duration": "513",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Legend Master, Book II: Three Evil Words",
+          "url": "https://www.last.fm/music/Troll/_/Legend+Master,+Book+II:+Three+Evil+Words",
+          "duration": "528",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "The Door",
+          "url": "https://www.last.fm/music/Troll/_/The+Door",
+          "duration": "754",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Building My Temple",
+          "url": "https://www.last.fm/music/Troll/_/Building+My+Temple",
+          "duration": "654",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "doom metal",
+          "url": "https://www.last.fm/tag/doom+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:13:40.812Z"
+}

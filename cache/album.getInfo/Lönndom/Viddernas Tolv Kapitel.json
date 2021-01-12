@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Viddernas Tolv Kapitel",
+    "artist": "Lönndom",
+    "mbid": "cbba1a08-23d2-4e73-9ffd-c587c0a4b6aa",
+    "url": "https://www.last.fm/music/L%C3%B6nndom/Viddernas+Tolv+Kapitel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bf7061107f4d41fcc17965f95a3b3e27.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2173",
+    "playcount": "90771",
+    "tracks": {
+      "track": [
+        {
+          "name": "Välkommen Ut",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/V%C3%A4lkommen+Ut",
+          "duration": "247",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "I Vattnets Flöde",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/I+Vattnets+Fl%C3%B6de",
+          "duration": "382",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Skaldekonst Om Ljusets återkomst",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Skaldekonst+Om+Ljusets+%C3%A5terkomst",
+          "duration": "396",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "En Vår är Kommen",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/En+V%C3%A5r+%C3%A4r+Kommen",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Vindaflykt",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Vindaflykt",
+          "duration": "552",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Uttorkad Vare Forsen",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Uttorkad+Vare+Forsen",
+          "duration": "339",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Höstdagar",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/H%C3%B6stdagar",
+          "duration": "334",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Hjärtats Tolfte Månad",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Hj%C3%A4rtats+Tolfte+M%C3%A5nad",
+          "duration": "224",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Dröj Kvar",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Dr%C3%B6j+Kvar",
+          "duration": "256",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Vakande Torn",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Vakande+Torn",
+          "duration": "215",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "I Fälens ände",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/I+F%C3%A4lens+%C3%A4nde",
+          "duration": "247",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        },
+        {
+          "name": "Det Vita Ljuset I Mörkret",
+          "url": "https://www.last.fm/music/L%C3%B6nndom/_/Det+Vita+Ljuset+I+M%C3%B6rkret",
+          "duration": "164",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lönndom",
+            "mbid": "4dfb443e-e5a1-4669-88a4-422b0f08c714",
+            "url": "https://www.last.fm/music/L%C3%B6nndom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "dark folk",
+          "url": "https://www.last.fm/tag/dark+folk"
+        },
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        },
+        {
+          "name": "ulveresque",
+          "url": "https://www.last.fm/tag/ulveresque"
+        },
+        {
+          "name": "atmospheric dark folk",
+          "url": "https://www.last.fm/tag/atmospheric+dark+folk"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Jan 2012, 14:14",
+      "summary": "CD (EISEN 047)\n\nVinyl edition released in 2012:\n- Solid gatefold sleeve, printed on the rough cardboard side.\n- Double white vinyl, white innersleeves.\n- Feat. new design and illustrations of renown Sami artist R.Pantze \n- Artbooklet covering selected works of R.Pantze, accompanied by description directly from the artist. \n- A2 sized Poster. <a href=\"http://www.last.fm/music/L%C3%B6nndom/Viddernas+Tolv+Kapitel\">Read more on Last.fm</a>.",
+      "content": "CD (EISEN 047)\n\nVinyl edition released in 2012:\n- Solid gatefold sleeve, printed on the rough cardboard side.\n- Double white vinyl, white innersleeves.\n- Feat. new design and illustrations of renown Sami artist R.Pantze \n- Artbooklet covering selected works of R.Pantze, accompanied by description directly from the artist. \n- A2 sized Poster. <a href=\"http://www.last.fm/music/L%C3%B6nndom/Viddernas+Tolv+Kapitel\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T15:58:05.140Z"
+}

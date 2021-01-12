@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Frost Music",
+    "artist": "Frost",
+    "url": "https://www.last.fm/music/Frost/Frost+Music",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/162820a9b3a34504857d372d400d4fc3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/162820a9b3a34504857d372d400d4fc3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/162820a9b3a34504857d372d400d4fc3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/162820a9b3a34504857d372d400d4fc3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/162820a9b3a34504857d372d400d4fc3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/162820a9b3a34504857d372d400d4fc3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "317",
+    "playcount": "1636",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:39:08.257Z"
+}

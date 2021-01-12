@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Wieczernia",
+    "artist": "Batushka",
+    "url": "https://www.last.fm/music/Batushka/Wieczernia",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26542a8da9faca8833e9a20db43cf5bb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4277",
+    "playcount": "10921",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wieczernia",
+          "url": "https://www.last.fm/music/Batushka/_/Wieczernia",
+          "duration": "331",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Batushka",
+            "url": "https://www.last.fm/music/Batushka"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:14:45.409Z"
+}

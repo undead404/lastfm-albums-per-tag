@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Sounds of Discovery and Apollo 11",
+    "artist": "Darkspace",
+    "url": "https://www.last.fm/music/Darkspace/Sounds+of+Discovery+and+Apollo+11",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/57ff7e02c6e5c100446e8924198fb12b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "233",
+    "playcount": "376",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sounds of Discovery and Apollo 11",
+          "url": "https://www.last.fm/music/Darkspace/_/Sounds+of+Discovery+and+Apollo+11",
+          "duration": "260",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkspace",
+            "mbid": "2e1651f0-539c-4078-8175-e3c34f82fd43",
+            "url": "https://www.last.fm/music/Darkspace"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:40:38.013Z"
+}

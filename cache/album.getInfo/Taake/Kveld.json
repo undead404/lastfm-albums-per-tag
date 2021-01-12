@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "Kveld",
+    "artist": "Taake",
+    "mbid": "ef9f8053-bc3c-4ec3-9d55-82d034456777",
+    "url": "https://www.last.fm/music/Taake/Kveld",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/603e552dca6b4ba08f04b924585076c2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/603e552dca6b4ba08f04b924585076c2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/603e552dca6b4ba08f04b924585076c2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/603e552dca6b4ba08f04b924585076c2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/603e552dca6b4ba08f04b924585076c2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/603e552dca6b4ba08f04b924585076c2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7268",
+    "playcount": "72252",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nordbundet",
+          "url": "https://www.last.fm/music/Taake/_/Nordbundet",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Motpol",
+          "url": "https://www.last.fm/music/Taake/_/Motpol",
+          "duration": "312",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Hordalands doedskvad 1",
+          "url": "https://www.last.fm/music/Taake/_/Hordalands+doedskvad+1",
+          "duration": "490",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Over Bjoergvin Graater Himmerik 4",
+          "url": "https://www.last.fm/music/Taake/_/Over+Bjoergvin+Graater+Himmerik+4",
+          "duration": "392",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        },
+        {
+          "name": "Nattestid Ser Porten Vid 1",
+          "url": "https://www.last.fm/music/Taake/_/Nattestid+Ser+Porten+Vid+1",
+          "duration": "357",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Taake",
+            "mbid": "52d858dc-d61d-4572-b70f-cc467d1612d8",
+            "url": "https://www.last.fm/music/Taake"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "ep",
+          "url": "https://www.last.fm/tag/ep"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:10:25.141Z"
+}

@@ -1,0 +1,439 @@
+{
+  "album": {
+    "name": "Imperator",
+    "artist": "Dødsengel",
+    "mbid": "a67d5b82-e46a-4920-8ddc-e2167105cdb4",
+    "url": "https://www.last.fm/music/D%C3%B8dsengel/Imperator",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81761664f88a436a9df06d435401a384.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81761664f88a436a9df06d435401a384.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81761664f88a436a9df06d435401a384.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81761664f88a436a9df06d435401a384.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81761664f88a436a9df06d435401a384.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81761664f88a436a9df06d435401a384.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3827",
+    "playcount": "153137",
+    "tracks": {
+      "track": [
+        {
+          "name": "XXV",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/XXV",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Sun on Earth",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Sun+on+Earth",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "ΣΕΙΡHΝΕΣ",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/%CE%A3%CE%95%CE%99%CE%A1H%CE%9D%CE%95%CE%A3",
+          "duration": "116",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "No Beginning, No End",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/No+Beginning,+No+End",
+          "duration": "432",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Momentum: On the Devil & Death",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Momentum:+On+the+Devil+&+Death",
+          "duration": "426",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Holy Metamorphosis",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Holy+Metamorphosis",
+          "duration": "512",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Apoph-Ra",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Apoph-Ra",
+          "duration": "293",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Pneuma: Sidpa Bardo",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Pneuma:+Sidpa+Bardo",
+          "duration": "122",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Hymn To Pan",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Hymn+To+Pan",
+          "duration": "678",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Asphyxia",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Asphyxia",
+          "duration": "536",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Leap",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Leap",
+          "duration": "316",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Stellar Masturbation",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Stellar+Masturbation",
+          "duration": "349",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "The Serpent's Head",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/The+Serpent%27s+Head",
+          "duration": "528",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Towers of Derinkuyu",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Towers+of+Derinkuyu",
+          "duration": "571",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Upon THE BEAST She Rideth",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Upon+THE+BEAST+She+Rideth",
+          "duration": "509",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Ascending Beyond Good and Evil",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Ascending+Beyond+Good+and+Evil",
+          "duration": "486",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "YOUR GLORY",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/YOUR+GLORY",
+          "duration": "257",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "ATTAINMENT",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/ATTAINMENT",
+          "duration": "251",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Κεφαληα: Sabbath Of The Goat",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/%CE%9A%CE%B5%CF%86%CE%B1%CE%BB%CE%B7%CE%B1:+Sabbath+Of+The+Goat",
+          "duration": "249",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "Darkness",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/Darkness",
+          "duration": "1005",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "The Supreme Ritual",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/The+Supreme+Ritual",
+          "duration": "647",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        },
+        {
+          "name": "XXV",
+          "url": "https://www.last.fm/music/D%C3%B8dsengel/_/XXV",
+          "duration": "258",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødsengel",
+            "mbid": "a27116ca-f3fe-4b80-99bf-8cce31afc086",
+            "url": "https://www.last.fm/music/D%C3%B8dsengel"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        },
+        {
+          "name": "obloga",
+          "url": "https://www.last.fm/tag/obloga"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:09:51.945Z"
+}

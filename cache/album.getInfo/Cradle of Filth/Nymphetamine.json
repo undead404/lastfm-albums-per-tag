@@ -1,0 +1,308 @@
+{
+  "album": {
+    "name": "Nymphetamine",
+    "artist": "Cradle of Filth",
+    "mbid": "b7bea46d-8986-363c-8f81-458b81e8944b",
+    "url": "https://www.last.fm/music/Cradle+of+Filth/Nymphetamine",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67f4308c12b14445b21b13cc7b7fd675.png",
+        "size": ""
+      }
+    ],
+    "listeners": "179354",
+    "playcount": "4380662",
+    "tracks": {
+      "track": [
+        {
+          "name": "Satyriasis",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Satyriasis",
+          "duration": "101",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Gilded Cunt",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Gilded+Cunt",
+          "duration": "247",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Nemesis",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Nemesis",
+          "duration": "438",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Gabrielle",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Gabrielle",
+          "duration": "327",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Absinthe With Faust",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Absinthe+With+Faust",
+          "duration": "314",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Nymphetamine (Overdose)",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Nymphetamine+(Overdose)",
+          "duration": "555",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Painting Flowers White Never Suited My Palette",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Painting+Flowers+White+Never+Suited+My+Palette",
+          "duration": "116",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Medusa and Hemlock",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Medusa+and+Hemlock",
+          "duration": "283",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Coffin Fodder",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Coffin+Fodder",
+          "duration": "318",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "English Fire",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/English+Fire",
+          "duration": "285",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Filthy Little Secret",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Filthy+Little+Secret",
+          "duration": "376",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Swansong for a Raven",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Swansong+for+a+Raven",
+          "duration": "428",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Mother of Abominations",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Mother+of+Abominations",
+          "duration": "452",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Nymphetamine Fix",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Nymphetamine+Fix",
+          "duration": "301",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "Gothic Metal",
+          "url": "https://www.last.fm/tag/Gothic+Metal"
+        },
+        {
+          "name": "Extreme Gothic Metal",
+          "url": "https://www.last.fm/tag/Extreme+Gothic+Metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Sep 2008, 08:15",
+      "summary": "Nymphetamine is the sixth studio album, released on September 28, 2004. Nymphetamine marks the first and last appearance of guitarist James Mcilroy (as \"Germs Warfare\") on a Cradle of Filth album.\n\nThe title is a portmanteau of \"nymphomaniac\" and \"amphetamine\", and Dani Filth explained the track itself as referring to \"a drug-like addiction to the woman in question, with her insidious vampyre qualities literally bringing her lover back from the brink of the spiritual grave, only to bury him further on the strength of a whim. <a href=\"http://www.last.fm/music/Cradle+of+Filth/Nymphetamine\">Read more on Last.fm</a>.",
+      "content": "Nymphetamine is the sixth studio album, released on September 28, 2004. Nymphetamine marks the first and last appearance of guitarist James Mcilroy (as \"Germs Warfare\") on a Cradle of Filth album.\n\nThe title is a portmanteau of \"nymphomaniac\" and \"amphetamine\", and Dani Filth explained the track itself as referring to \"a drug-like addiction to the woman in question, with her insidious vampyre qualities literally bringing her lover back from the brink of the spiritual grave, only to bury him further on the strength of a whim. The album is written in the style of Edgar Allan Poe's works, and leaves one thinking that, despite the character's inner agonies, he is really a welcome submissive who readily enjoys the terrible highs and lows of his relationship with this alluring and filthy, depreciative succubus.\"\n\nIt was nominated for a 2005 Grammy award in the Best Metal Performance category, and appears on the album twice; in a three-part, nine minute version -\"Nymphetamine (Overdose)\" - and again in a shortened five minute version - \"Nymphetamine Fix\" - as a bonus track. A video was released for the \"Fix\" version, and this track also appears on the soundtrack for the film Resident Evil: Apocalypse.\n <a href=\"http://www.last.fm/music/Cradle+of+Filth/Nymphetamine\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:48:44.099Z"
+}

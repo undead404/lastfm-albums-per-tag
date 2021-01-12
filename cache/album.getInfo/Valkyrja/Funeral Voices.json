@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Funeral Voices",
+    "artist": "Valkyrja",
+    "url": "https://www.last.fm/music/Valkyrja/Funeral+Voices",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b97bd9315a4d46019e9139939ceb842d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "157",
+    "playcount": "2389",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hordes of Valkyrja",
+          "url": "https://www.last.fm/music/Valkyrja/_/Hordes+of+Valkyrja",
+          "duration": "54",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Valkyrja",
+            "mbid": "f59674fa-115b-4e0d-9ecb-2fae0166e716",
+            "url": "https://www.last.fm/music/Valkyrja"
+          }
+        },
+        {
+          "name": "Ancient tyrants",
+          "url": "https://www.last.fm/music/Valkyrja/_/Ancient+tyrants",
+          "duration": "328",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Valkyrja",
+            "mbid": "f59674fa-115b-4e0d-9ecb-2fae0166e716",
+            "url": "https://www.last.fm/music/Valkyrja"
+          }
+        },
+        {
+          "name": "Another prophet to the wolves",
+          "url": "https://www.last.fm/music/Valkyrja/_/Another+prophet+to+the+wolves",
+          "duration": "254",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Valkyrja",
+            "mbid": "f59674fa-115b-4e0d-9ecb-2fae0166e716",
+            "url": "https://www.last.fm/music/Valkyrja"
+          }
+        },
+        {
+          "name": "The last suffer",
+          "url": "https://www.last.fm/music/Valkyrja/_/The+last+suffer",
+          "duration": "50",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Valkyrja",
+            "mbid": "f59674fa-115b-4e0d-9ecb-2fae0166e716",
+            "url": "https://www.last.fm/music/Valkyrja"
+          }
+        },
+        {
+          "name": "Frostland",
+          "url": "https://www.last.fm/music/Valkyrja/_/Frostland",
+          "duration": "302",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Valkyrja",
+            "mbid": "f59674fa-115b-4e0d-9ecb-2fae0166e716",
+            "url": "https://www.last.fm/music/Valkyrja"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:33:43.598Z"
+}

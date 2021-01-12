@@ -1,0 +1,75 @@
+{
+  "album": {
+    "name": "You Ain't Coming Back",
+    "artist": "Zeal and Ardor",
+    "url": "https://www.last.fm/music/Zeal+and+Ardor/You+Ain%27t+Coming+Back",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f181564c3a9c57cf09bf10ede69b04cb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "23",
+    "playcount": "51",
+    "tracks": {
+      "track": [
+        {
+          "name": "You Ain't Coming Back",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/You+Ain%27t+Coming+Back",
+          "duration": "198",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        },
+        {
+          "name": "You Ain't Coming Back (Instrumental)",
+          "url": "https://www.last.fm/music/Zeal+and+Ardor/_/You+Ain%27t+Coming+Back+(Instrumental)",
+          "duration": "198",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Zeal and Ardor",
+            "url": "https://www.last.fm/music/Zeal+and+Ardor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:00:13.277Z"
+}

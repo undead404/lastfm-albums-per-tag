@@ -1,0 +1,159 @@
+{
+  "album": {
+    "name": "In Blackest Ruin",
+    "artist": "Armagedda",
+    "mbid": "c29a9ea9-cd85-4fef-a191-6fea4e1c1776",
+    "url": "https://www.last.fm/music/Armagedda/In+Blackest+Ruin",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0592f320edbb37b8bf1e948caf1550b7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "770",
+    "playcount": "8515",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro (Fire Walk With Me)",
+          "url": "https://www.last.fm/music/Armagedda/_/Intro+(Fire+Walk+With+Me)",
+          "duration": "50",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Horde Of Demons",
+          "url": "https://www.last.fm/music/Armagedda/_/Horde+Of+Demons",
+          "duration": "153",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Whore of God",
+          "url": "https://www.last.fm/music/Armagedda/_/Whore+of+God",
+          "duration": "163",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Pain",
+          "url": "https://www.last.fm/music/Armagedda/_/Pain",
+          "duration": "227",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Wrapped by Darkness",
+          "url": "https://www.last.fm/music/Armagedda/_/Wrapped+by+Darkness",
+          "duration": "222",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        },
+        {
+          "name": "Satan My Master",
+          "url": "https://www.last.fm/music/Armagedda/_/Satan+My+Master",
+          "duration": "148",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ep",
+          "url": "https://www.last.fm/tag/ep"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:19:04.408Z"
+}

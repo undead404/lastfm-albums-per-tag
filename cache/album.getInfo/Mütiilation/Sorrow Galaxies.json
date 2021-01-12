@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Sorrow Galaxies",
+    "artist": "Mütiilation",
+    "mbid": "b7ff5f0c-2a4a-4641-8cd9-925486a865ac",
+    "url": "https://www.last.fm/music/M%C3%BCtiilation/Sorrow+Galaxies",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/33050218f3d141d9ac0619deed59b4bd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3339",
+    "playcount": "39748",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cosmic Seeds of Anger & Dementia",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Cosmic+Seeds+of+Anger+&+Dementia",
+          "duration": "759",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "The Coffin of Lost Innocence",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/The+Coffin+of+Lost+Innocence",
+          "duration": "603",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Cesium Syndrome 86",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Cesium+Syndrome+86",
+          "duration": "568",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        },
+        {
+          "name": "Acceptance of My Decay",
+          "url": "https://www.last.fm/music/M%C3%BCtiilation/_/Acceptance+of+My+Decay",
+          "duration": "747",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mütiilation",
+            "mbid": "49cd3ff0-cabe-4bae-a378-ac13419559b4",
+            "url": "https://www.last.fm/music/M%C3%BCtiilation"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        },
+        {
+          "name": "Suicidal Black Metal",
+          "url": "https://www.last.fm/tag/Suicidal+Black+Metal"
+        },
+        {
+          "name": "best ever",
+          "url": "https://www.last.fm/tag/best+ever"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:05:55.750Z"
+}

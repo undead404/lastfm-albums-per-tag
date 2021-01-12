@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Hole",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/Hole",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0cf0513f2f65238a2c61277712115b61.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0cf0513f2f65238a2c61277712115b61.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0cf0513f2f65238a2c61277712115b61.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0cf0513f2f65238a2c61277712115b61.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0cf0513f2f65238a2c61277712115b61.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0cf0513f2f65238a2c61277712115b61.png",
+        "size": ""
+      }
+    ],
+    "listeners": "114",
+    "playcount": "223",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hole",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Hole",
+          "duration": "405",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:43.889Z"
+}

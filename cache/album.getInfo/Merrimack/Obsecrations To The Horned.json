@@ -1,0 +1,367 @@
+{
+  "album": {
+    "name": "Obsecrations To The Horned",
+    "artist": "Merrimack",
+    "mbid": "4406d77b-8639-4896-93be-aca553ece68d",
+    "url": "https://www.last.fm/music/Merrimack/Obsecrations+To+The+Horned",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f840b200ac614245ac6fc2b437200e64.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f840b200ac614245ac6fc2b437200e64.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f840b200ac614245ac6fc2b437200e64.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f840b200ac614245ac6fc2b437200e64.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f840b200ac614245ac6fc2b437200e64.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f840b200ac614245ac6fc2b437200e64.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1453",
+    "playcount": "23311",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Merrimack/_/Intro",
+          "duration": "41",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Asgard, Kingdom of Nordic Gods",
+          "url": "https://www.last.fm/music/Merrimack/_/Asgard,+Kingdom+of+Nordic+Gods",
+          "duration": "300",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Unholy god of the Past",
+          "url": "https://www.last.fm/music/Merrimack/_/Unholy+god+of+the+Past",
+          "duration": "355",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "The Myth of Avallon",
+          "url": "https://www.last.fm/music/Merrimack/_/The+Myth+of+Avallon",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Interlude I",
+          "url": "https://www.last.fm/music/Merrimack/_/Interlude+I",
+          "duration": "251",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Running to the Dark",
+          "url": "https://www.last.fm/music/Merrimack/_/Running+to+the+Dark",
+          "duration": "262",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Interlude II",
+          "url": "https://www.last.fm/music/Merrimack/_/Interlude+II",
+          "duration": "28",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Maleus Maleficarum",
+          "url": "https://www.last.fm/music/Merrimack/_/Maleus+Maleficarum",
+          "duration": "293",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Interlude III",
+          "url": "https://www.last.fm/music/Merrimack/_/Interlude+III",
+          "duration": "20",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Merrimack/_/Outro",
+          "duration": "87",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Eresia",
+          "url": "https://www.last.fm/music/Merrimack/_/Eresia",
+          "duration": "383",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Apostasy",
+          "url": "https://www.last.fm/music/Merrimack/_/Apostasy",
+          "duration": "158",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "The Sabbath's Celebration",
+          "url": "https://www.last.fm/music/Merrimack/_/The+Sabbath%27s+Celebration",
+          "duration": "286",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Farewell to My Land",
+          "url": "https://www.last.fm/music/Merrimack/_/Farewell+to+My+Land",
+          "duration": "337",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Merrimack/_/Intro",
+          "duration": "41",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Noigel",
+          "url": "https://www.last.fm/music/Merrimack/_/Noigel",
+          "duration": "328",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Paedophilic Orgasmatron",
+          "url": "https://www.last.fm/music/Merrimack/_/Paedophilic+Orgasmatron",
+          "duration": "359",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Live the Lie",
+          "url": "https://www.last.fm/music/Merrimack/_/Live+the+Lie",
+          "duration": "302",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        },
+        {
+          "name": "Sanctum Regum",
+          "url": "https://www.last.fm/music/Merrimack/_/Sanctum+Regum",
+          "duration": "272",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Merrimack",
+            "mbid": "b4ecc576-1e98-4edf-9f42-d5ebff4052f9",
+            "url": "https://www.last.fm/music/Merrimack"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:49:38.394Z"
+}

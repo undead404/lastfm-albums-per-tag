@@ -1,0 +1,157 @@
+{
+  "album": {
+    "name": "The Burning Deed Of Deceit",
+    "artist": "Thunderbolt",
+    "mbid": "80447d13-bc86-45e4-ac03-a53d9aad4aa7",
+    "url": "https://www.last.fm/music/Thunderbolt/The+Burning+Deed+Of+Deceit",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bf01e21d4684f8eadbfc22db9bc278e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1293",
+    "playcount": "25484",
+    "tracks": {
+      "track": [
+        {
+          "name": "Die With Your Religion",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Die+With+Your+Religion",
+          "duration": "455",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Lord Of Creation",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Lord+Of+Creation",
+          "duration": "450",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "...Where The Plague Touches...",
+          "url": "https://www.last.fm/music/Thunderbolt/_/...Where+The+Plague+Touches...",
+          "duration": "497",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Key To The Century Of Death",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Key+To+The+Century+Of+Death",
+          "duration": "392",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Blood Of The Victorious King",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Blood+Of+The+Victorious+King",
+          "duration": "610",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "The One Who Sleeps",
+          "url": "https://www.last.fm/music/Thunderbolt/_/The+One+Who+Sleeps",
+          "duration": "420",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2003",
+          "url": "https://www.last.fm/tag/best+of+2003"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:05:13.713Z"
+}

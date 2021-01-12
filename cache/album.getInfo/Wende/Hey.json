@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Hey",
+    "artist": "Wende",
+    "url": "https://www.last.fm/music/Wende/Hey",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/996f943a2f7644ba8532709d03193a2f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/996f943a2f7644ba8532709d03193a2f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/996f943a2f7644ba8532709d03193a2f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/996f943a2f7644ba8532709d03193a2f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/996f943a2f7644ba8532709d03193a2f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/996f943a2f7644ba8532709d03193a2f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "126",
+    "playcount": "202",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:34:25.732Z"
+}

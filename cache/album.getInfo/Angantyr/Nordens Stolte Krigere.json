@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Nordens Stolte Krigere",
+    "artist": "Angantyr",
+    "mbid": "3b4a271c-5436-461f-bb0b-a9c00c6768ab",
+    "url": "https://www.last.fm/music/Angantyr/Nordens+Stolte+Krigere",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d74608a3d47f41c786e46df20bce02a1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "493",
+    "playcount": "4002",
+    "tracks": {
+      "track": [
+        {
+          "name": "Den store krig",
+          "url": "https://www.last.fm/music/Angantyr/_/Den+store+krig",
+          "duration": "662",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Flammernes hævn",
+          "url": "https://www.last.fm/music/Angantyr/_/Flammernes+h%C3%A6vn",
+          "duration": "307",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        },
+        {
+          "name": "Nordens stolte krigere",
+          "url": "https://www.last.fm/music/Angantyr/_/Nordens+stolte+krigere",
+          "duration": "522",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Angantyr",
+            "mbid": "ba9a513b-9903-4dd8-9248-477087bd95db",
+            "url": "https://www.last.fm/music/Angantyr"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:30:25.707Z"
+}

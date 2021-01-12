@@ -1,0 +1,95 @@
+{
+  "album": {
+    "name": "Vorväter",
+    "artist": "Bilskirnir",
+    "mbid": "f8f29114-f349-4aab-80fc-d98a108eab82",
+    "url": "https://www.last.fm/music/Bilskirnir/Vorv%C3%A4ter",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/273b16b0f97a4d8a8868b77f604c5af5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "300",
+    "playcount": "2395",
+    "tracks": {
+      "track": [
+        {
+          "name": "Feuer und Schwert",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Feuer+und+Schwert",
+          "duration": "164",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Vorväter",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Vorv%C3%A4ter",
+          "duration": "239",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        },
+        {
+          "name": "Asa-Tyr",
+          "url": "https://www.last.fm/music/Bilskirnir/_/Asa-Tyr",
+          "duration": "357",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bilskirnir",
+            "mbid": "62398c97-cea4-4cf9-b285-196efe49d83f",
+            "url": "https://www.last.fm/music/Bilskirnir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:19:09.368Z"
+}

@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Alma Enamorada",
+    "artist": "Abigail",
+    "mbid": "1cf36d22-6123-489f-b1de-744ff99fc164",
+    "url": "https://www.last.fm/music/Abigail/Alma+Enamorada",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5f5067c5c9c4b7396bb8c26f2a18abe.png",
+        "size": ""
+      }
+    ],
+    "listeners": "331",
+    "playcount": "2224",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bésame El Alma",
+          "url": "https://www.last.fm/music/Abigail/_/B%C3%A9same+El+Alma",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Si Hay Sueños Hay Caminos",
+          "url": "https://www.last.fm/music/Abigail/_/Si+Hay+Sue%C3%B1os+Hay+Caminos",
+          "duration": "207",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Pídeme Un Beso",
+          "url": "https://www.last.fm/music/Abigail/_/P%C3%ADdeme+Un+Beso",
+          "duration": "179",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Lindo",
+          "url": "https://www.last.fm/music/Abigail/_/Lindo",
+          "duration": "243",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Si Me Quieres Tú, Más Yo",
+          "url": "https://www.last.fm/music/Abigail/_/Si+Me+Quieres+T%C3%BA,+M%C3%A1s+Yo",
+          "duration": "235",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Noches Y Días",
+          "url": "https://www.last.fm/music/Abigail/_/Noches+Y+D%C3%ADas",
+          "duration": "220",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Alma Enamorada",
+          "url": "https://www.last.fm/music/Abigail/_/Alma+Enamorada",
+          "duration": "240",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Piel de Azúcar",
+          "url": "https://www.last.fm/music/Abigail/_/Piel+de+Az%C3%BAcar",
+          "duration": "214",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Todo",
+          "url": "https://www.last.fm/music/Abigail/_/Todo",
+          "duration": "209",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Alcoba De Fuego",
+          "url": "https://www.last.fm/music/Abigail/_/Alcoba+De+Fuego",
+          "duration": "201",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        },
+        {
+          "name": "Aquella Noche",
+          "url": "https://www.last.fm/music/Abigail/_/Aquella+Noche",
+          "duration": "231",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Abigail",
+            "mbid": "f496490f-8c8c-4bec-a7c2-9dc8311d0955",
+            "url": "https://www.last.fm/music/Abigail"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:05:55.228Z"
+}

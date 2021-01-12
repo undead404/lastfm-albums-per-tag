@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Man Of Wisdom EP",
+    "artist": "Sect",
+    "url": "https://www.last.fm/music/Sect/Man+Of+Wisdom+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "52",
+    "playcount": "318",
+    "tracks": {
+      "track": [
+        {
+          "name": "Man Of Wisdom",
+          "url": "https://www.last.fm/music/Sect/_/Man+Of+Wisdom",
+          "duration": "459",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Hi Fi All Around",
+          "url": "https://www.last.fm/music/Sect/_/Hi+Fi+All+Around",
+          "duration": "357",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "SECTsy",
+          "url": "https://www.last.fm/music/Sect/_/SECTsy",
+          "duration": "408",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:23:37.592Z"
+}

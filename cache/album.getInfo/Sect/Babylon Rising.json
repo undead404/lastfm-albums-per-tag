@@ -1,0 +1,244 @@
+{
+  "album": {
+    "name": "Babylon Rising",
+    "artist": "Sect",
+    "mbid": "da4b6ca2-cde0-4e65-9f68-a21dfd4297e7",
+    "url": "https://www.last.fm/music/Sect/Babylon+Rising",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f963dd075dd0457f9868d0f2fcaff868.png",
+        "size": ""
+      }
+    ],
+    "listeners": "249",
+    "playcount": "5138",
+    "tracks": {
+      "track": [
+        {
+          "name": "Judgement",
+          "url": "https://www.last.fm/music/Sect/_/Judgement",
+          "duration": "150",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Imperium In Imperio",
+          "url": "https://www.last.fm/music/Sect/_/Imperium+In+Imperio",
+          "duration": "253",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Babylon's Reconstruction",
+          "url": "https://www.last.fm/music/Sect/_/Babylon%27s+Reconstruction",
+          "duration": "265",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "The Age Of Lost Chances",
+          "url": "https://www.last.fm/music/Sect/_/The+Age+Of+Lost+Chances",
+          "duration": "192",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Relief",
+          "url": "https://www.last.fm/music/Sect/_/Relief",
+          "duration": "193",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Rascals Show",
+          "url": "https://www.last.fm/music/Sect/_/Rascals+Show",
+          "duration": "241",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Crisis Identity",
+          "url": "https://www.last.fm/music/Sect/_/Crisis+Identity",
+          "duration": "218",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Valles Lacrimarum",
+          "url": "https://www.last.fm/music/Sect/_/Valles+Lacrimarum",
+          "duration": "253",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Martyrs A.D.",
+          "url": "https://www.last.fm/music/Sect/_/Martyrs+A.D.",
+          "duration": "214",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Nothing But Misery",
+          "url": "https://www.last.fm/music/Sect/_/Nothing+But+Misery",
+          "duration": "271",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        },
+        {
+          "name": "Autumn",
+          "url": "https://www.last.fm/music/Sect/_/Autumn",
+          "duration": "233",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sect",
+            "mbid": "cb63c0eb-b223-4015-8ec9-81b3680f0b53",
+            "url": "https://www.last.fm/music/Sect"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "modern classical",
+          "url": "https://www.last.fm/tag/modern+classical"
+        },
+        {
+          "name": "martial industrial",
+          "url": "https://www.last.fm/tag/martial+industrial"
+        },
+        {
+          "name": "neoclassical",
+          "url": "https://www.last.fm/tag/neoclassical"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:23:27.046Z"
+}

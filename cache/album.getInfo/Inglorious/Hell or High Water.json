@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Hell or High Water",
+    "artist": "Inglorious",
+    "url": "https://www.last.fm/music/Inglorious/Hell+or+High+Water",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae2a372eafe03b118595c4d5e8ebe8a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "489",
+    "playcount": "892",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hell or High Water",
+          "url": "https://www.last.fm/music/Inglorious/_/Hell+or+High+Water",
+          "duration": "203",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inglorious",
+            "url": "https://www.last.fm/music/Inglorious"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:45:25.936Z"
+}

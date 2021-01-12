@@ -1,0 +1,141 @@
+{
+  "album": {
+    "name": "Wordfall",
+    "artist": "Nachtmystium",
+    "url": "https://www.last.fm/music/Nachtmystium/Wordfall",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7bdb47336472967bb84d2e5bd2f2056.png",
+        "size": ""
+      }
+    ],
+    "listeners": "644",
+    "playcount": "3549",
+    "tracks": {
+      "track": [
+        {
+          "name": "Worldfall",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Worldfall",
+          "duration": "430",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Depravity",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Depravity",
+          "duration": "294",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Solitary Voyage - Re-Recorded from Demise",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Solitary+Voyage+-+Re-Recorded+from+Demise",
+          "duration": "384",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Roseclouds Of Holocaust - Death in June Cover",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Roseclouds+Of+Holocaust+-+Death+in+June+Cover",
+          "duration": "200",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "IV - Goatsnake Cover",
+          "url": "https://www.last.fm/music/Nachtmystium/_/IV+-+Goatsnake+Cover",
+          "duration": "269",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:22:27.600Z"
+}

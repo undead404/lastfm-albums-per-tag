@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Apocryphal Tales (Demo 1993)",
+    "artist": "Bal-Sagoth",
+    "url": "https://www.last.fm/music/Bal-Sagoth/Apocryphal+Tales+(Demo+1993)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/057404072c50495ac91e630945661601.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/057404072c50495ac91e630945661601.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/057404072c50495ac91e630945661601.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/057404072c50495ac91e630945661601.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/057404072c50495ac91e630945661601.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/057404072c50495ac91e630945661601.png",
+        "size": ""
+      }
+    ],
+    "listeners": "114",
+    "playcount": "2045",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Intro",
+          "duration": "104",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "Dreaming of Atlantean Spires",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Dreaming+of+Atlantean+Spires",
+          "duration": "375",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "By the Blaze of the Fire Jewels",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/By+the+Blaze+of+the+Fire+Jewels",
+          "duration": "304",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "A Shadow on the Mist",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/A+Shadow+on+the+Mist",
+          "duration": "325",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "Hyperborean Requiem",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Hyperborean+Requiem",
+          "duration": "31",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        },
+        {
+          "name": "Beyond Hatheg-Kla",
+          "url": "https://www.last.fm/music/Bal-Sagoth/_/Beyond+Hatheg-Kla",
+          "duration": "377",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bal-Sagoth",
+            "mbid": "be0e9a66-3ac8-4f9d-adb4-0c8e6a373388",
+            "url": "https://www.last.fm/music/Bal-Sagoth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "90's",
+          "url": "https://www.last.fm/tag/90%27s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:27:42.033Z"
+}

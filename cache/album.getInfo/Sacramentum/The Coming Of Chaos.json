@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "The Coming Of Chaos",
+    "artist": "Sacramentum",
+    "mbid": "1129efee-3849-4eb9-96ad-dfe04ef23cd7",
+    "url": "https://www.last.fm/music/Sacramentum/The+Coming+Of+Chaos",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8a075790fd894e6fbea20dfa93b579e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6172",
+    "playcount": "70551",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dreamdeath",
+          "url": "https://www.last.fm/music/Sacramentum/_/Dreamdeath",
+          "duration": "334",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "...As Obsidian",
+          "url": "https://www.last.fm/music/Sacramentum/_/...As+Obsidian",
+          "duration": "307",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Awaken Chaos",
+          "url": "https://www.last.fm/music/Sacramentum/_/Awaken+Chaos",
+          "duration": "296",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Burning Lust",
+          "url": "https://www.last.fm/music/Sacramentum/_/Burning+Lust",
+          "duration": "292",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Abyss Of Time",
+          "url": "https://www.last.fm/music/Sacramentum/_/Abyss+Of+Time",
+          "duration": "152",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Portal Of Blood",
+          "url": "https://www.last.fm/music/Sacramentum/_/Portal+Of+Blood",
+          "duration": "262",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "Black Destiny",
+          "url": "https://www.last.fm/music/Sacramentum/_/Black+Destiny",
+          "duration": "268",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "To The Sound Of Storms",
+          "url": "https://www.last.fm/music/Sacramentum/_/To+The+Sound+Of+Storms",
+          "duration": "297",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        },
+        {
+          "name": "The Coming Of Chaos",
+          "url": "https://www.last.fm/music/Sacramentum/_/The+Coming+Of+Chaos",
+          "duration": "801",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sacramentum",
+            "mbid": "67673557-2310-41d3-83b9-e6e0cb1d65d5",
+            "url": "https://www.last.fm/music/Sacramentum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "16 May 2015, 12:09",
+      "summary": "The second full length album by the Swedish black/death/thrash metal band, recorded at Los Angered recordings, June 1997. Released on CD & Pic LP by Century Media Records (Century Black for US market), 11 September 1997. Later reissued as a 2CD Abyss of Time by Century Media in 2008. \nLINEUP:\nAnders Brolycke - Guitars\nNisse Karlén - Vocals, Bass\nNicklas Rudolfsson - Drums\neveryone contributed lyrics <a href=\"http://www.last.fm/music/Sacramentum/The+Coming+Of+Chaos\">Read more on Last.fm</a>.",
+      "content": "The second full length album by the Swedish black/death/thrash metal band, recorded at Los Angered recordings, June 1997. Released on CD & Pic LP by Century Media Records (Century Black for US market), 11 September 1997. Later reissued as a 2CD Abyss of Time by Century Media in 2008. \nLINEUP:\nAnders Brolycke - Guitars\nNisse Karlén - Vocals, Bass\nNicklas Rudolfsson - Drums\neveryone contributed lyrics <a href=\"http://www.last.fm/music/Sacramentum/The+Coming+Of+Chaos\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:59:08.880Z"
+}

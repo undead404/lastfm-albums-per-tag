@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Complainte d'une Agonie Céleste",
+    "artist": "Mortifera",
+    "mbid": "1918da14-a918-4845-8a8c-8adae01eeb7c",
+    "url": "https://www.last.fm/music/Mortifera/Complainte+d%27une+Agonie+C%C3%A9leste",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f70889e47a77c76561f746fb52e3a07.png",
+        "size": ""
+      }
+    ],
+    "listeners": "143",
+    "playcount": "1520",
+    "tracks": {
+      "track": [
+        {
+          "name": "L'Influence d'Alhena",
+          "url": "https://www.last.fm/music/Mortifera/_/L%27Influence+d%27Alhena",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortifera",
+            "mbid": "b85c41b1-4274-4496-800f-6ab96820d116",
+            "url": "https://www.last.fm/music/Mortifera"
+          }
+        },
+        {
+          "name": "Sépulcre de Mortt-Vastiia Necroiion",
+          "url": "https://www.last.fm/music/Mortifera/_/S%C3%A9pulcre+de+Mortt-Vastiia+Necroiion",
+          "duration": "211",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortifera",
+            "mbid": "b85c41b1-4274-4496-800f-6ab96820d116",
+            "url": "https://www.last.fm/music/Mortifera"
+          }
+        },
+        {
+          "name": "Complainte D'Une Agonie Céleste",
+          "url": "https://www.last.fm/music/Mortifera/_/Complainte+D%27Une+Agonie+C%C3%A9leste",
+          "duration": "313",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortifera",
+            "mbid": "b85c41b1-4274-4496-800f-6ab96820d116",
+            "url": "https://www.last.fm/music/Mortifera"
+          }
+        },
+        {
+          "name": "Abstracte-Negotion-Ressurectiay",
+          "url": "https://www.last.fm/music/Mortifera/_/Abstracte-Negotion-Ressurectiay",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mortifera",
+            "mbid": "b85c41b1-4274-4496-800f-6ab96820d116",
+            "url": "https://www.last.fm/music/Mortifera"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:07:43.468Z"
+}

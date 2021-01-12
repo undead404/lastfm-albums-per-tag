@@ -1,0 +1,86 @@
+{
+  "album": {
+    "name": "Gînd a-prins",
+    "artist": "Negură Bunget",
+    "url": "https://www.last.fm/music/Negur%C4%83+Bunget/G%C3%AEnd+a-prins",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19be7cbfa8f04bd2ab0a816f400cc5fb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "553",
+    "playcount": "2315",
+    "tracks": {
+      "track": [
+        {
+          "name": "Curgerea muntelui",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Curgerea+muntelui",
+          "duration": "324",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Tăul fără fund",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/T%C4%83ul+f%C4%83r%C4%83+fund",
+          "duration": "277",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:21:33.245Z"
+}

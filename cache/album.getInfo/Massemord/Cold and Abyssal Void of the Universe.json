@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Cold and Abyssal Void of the Universe",
+    "artist": "Massemord",
+    "url": "https://www.last.fm/music/Massemord/Cold+and+Abyssal+Void+of+the+Universe",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32a307b064f8487cc8e675dc6716e0cc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "24",
+    "playcount": "250",
+    "tracks": {
+      "track": [
+        {
+          "name": "Negative",
+          "url": "https://www.last.fm/music/Massemord/_/Negative",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Faceless angels",
+          "url": "https://www.last.fm/music/Massemord/_/Faceless+angels",
+          "duration": "223",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Down",
+          "url": "https://www.last.fm/music/Massemord/_/Down",
+          "duration": "174",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Black blood",
+          "url": "https://www.last.fm/music/Massemord/_/Black+blood",
+          "duration": "329",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Failing",
+          "url": "https://www.last.fm/music/Massemord/_/Failing",
+          "duration": "287",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        },
+        {
+          "name": "Cold and Abyssal Void",
+          "url": "https://www.last.fm/music/Massemord/_/Cold+and+Abyssal+Void",
+          "duration": "320",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Massemord",
+            "mbid": "5b1c192e-1dc9-4327-82ac-6a23ebc2a10b",
+            "url": "https://www.last.fm/music/Massemord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:42:45.763Z"
+}

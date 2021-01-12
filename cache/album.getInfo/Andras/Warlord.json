@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Warlord",
+    "artist": "Andras",
+    "mbid": "a948b2a4-1640-44b2-8c73-ba02fcc6ce4c",
+    "url": "https://www.last.fm/music/Andras/Warlord",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ab555d8fa492467d94acee0607f05f00.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ab555d8fa492467d94acee0607f05f00.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ab555d8fa492467d94acee0607f05f00.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab555d8fa492467d94acee0607f05f00.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab555d8fa492467d94acee0607f05f00.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ab555d8fa492467d94acee0607f05f00.png",
+        "size": ""
+      }
+    ],
+    "listeners": "910",
+    "playcount": "21196",
+    "tracks": {
+      "track": [
+        {
+          "name": "Eye Of The Seer",
+          "url": "https://www.last.fm/music/Andras/_/Eye+Of+The+Seer",
+          "duration": "444",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Heathen Vengeance",
+          "url": "https://www.last.fm/music/Andras/_/Heathen+Vengeance",
+          "duration": "318",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Flag Of Decline",
+          "url": "https://www.last.fm/music/Andras/_/Flag+Of+Decline",
+          "duration": "438",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Warlord",
+          "url": "https://www.last.fm/music/Andras/_/Warlord",
+          "duration": "405",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Bastards Forward",
+          "url": "https://www.last.fm/music/Andras/_/Bastards+Forward",
+          "duration": "220",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Schwertgenossen",
+          "url": "https://www.last.fm/music/Andras/_/Schwertgenossen",
+          "duration": "273",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "In Oblivion",
+          "url": "https://www.last.fm/music/Andras/_/In+Oblivion",
+          "duration": "463",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Bastion Felsenheim",
+          "url": "https://www.last.fm/music/Andras/_/Bastion+Felsenheim",
+          "duration": "232",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Portrait",
+          "url": "https://www.last.fm/music/Andras/_/Portrait",
+          "duration": "197",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        },
+        {
+          "name": "Nemesis",
+          "url": "https://www.last.fm/music/Andras/_/Nemesis",
+          "duration": "289",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Andras",
+            "mbid": "fc40ee63-3b25-40a9-a785-ae37de1d623f",
+            "url": "https://www.last.fm/music/Andras"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        },
+        {
+          "name": "Top20 of 2010",
+          "url": "https://www.last.fm/tag/Top20+of+2010"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:24:32.476Z"
+}

@@ -1,0 +1,189 @@
+{
+  "album": {
+    "name": "Arma Christi",
+    "artist": "Urgehal",
+    "mbid": "f3a2fb90-aa88-3007-b99f-83e0a5d11a7f",
+    "url": "https://www.last.fm/music/Urgehal/Arma+Christi",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bd3fadcd43a74dbee1c5ac3013054525.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4128",
+    "playcount": "71077",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blood Hunt",
+          "url": "https://www.last.fm/music/Urgehal/_/Blood+Hunt",
+          "duration": "226",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "The Night Armageddon Comes",
+          "url": "https://www.last.fm/music/Urgehal/_/The+Night+Armageddon+Comes",
+          "duration": "507",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Embraced by Cold",
+          "url": "https://www.last.fm/music/Urgehal/_/Embraced+by+Cold",
+          "duration": "441",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "The Eternal Eclipse",
+          "url": "https://www.last.fm/music/Urgehal/_/The+Eternal+Eclipse",
+          "duration": "346",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Conjuring the Hordes of Blasphemy",
+          "url": "https://www.last.fm/music/Urgehal/_/Conjuring+the+Hordes+of+Blasphemy",
+          "duration": "313",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Maatte Blodet Flomme",
+          "url": "https://www.last.fm/music/Urgehal/_/Maatte+Blodet+Flomme",
+          "duration": "278",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Evocation of the Satanic ascendancy",
+          "url": "https://www.last.fm/music/Urgehal/_/Evocation+of+the+Satanic+ascendancy",
+          "duration": "382",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        },
+        {
+          "name": "Dethronation of God",
+          "url": "https://www.last.fm/music/Urgehal/_/Dethronation+of+God",
+          "duration": "347",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Urgehal",
+            "mbid": "ee6ccef6-e558-44b6-b059-dbbb5b913b24",
+            "url": "https://www.last.fm/music/Urgehal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:48:03.173Z"
+}

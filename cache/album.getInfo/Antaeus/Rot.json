@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Rot",
+    "artist": "Antaeus",
+    "url": "https://www.last.fm/music/Antaeus/Rot",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/285cd652600a4199891f0c91c762b941.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/285cd652600a4199891f0c91c762b941.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/285cd652600a4199891f0c91c762b941.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/285cd652600a4199891f0c91c762b941.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/285cd652600a4199891f0c91c762b941.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/285cd652600a4199891f0c91c762b941.png",
+        "size": ""
+      }
+    ],
+    "listeners": "336",
+    "playcount": "2029",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rot",
+          "url": "https://www.last.fm/music/Antaeus/_/Rot",
+          "duration": "336",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antaeus",
+            "mbid": "86e4ecee-d1a3-4d95-91d5-e097aaf18620",
+            "url": "https://www.last.fm/music/Antaeus"
+          }
+        },
+        {
+          "name": "Whenever I'll Lay",
+          "url": "https://www.last.fm/music/Antaeus/_/Whenever+I%27ll+Lay",
+          "duration": "184",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Antaeus",
+            "mbid": "86e4ecee-d1a3-4d95-91d5-e097aaf18620",
+            "url": "https://www.last.fm/music/Antaeus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:19:39.500Z"
+}

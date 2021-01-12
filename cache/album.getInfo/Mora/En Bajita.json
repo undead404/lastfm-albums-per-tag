@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "En Bajita",
+    "artist": "Mora",
+    "url": "https://www.last.fm/music/Mora/En+Bajita",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "74",
+    "playcount": "109",
+    "tracks": {
+      "track": [
+        {
+          "name": "En Bajita",
+          "url": "https://www.last.fm/music/Mora/_/En+Bajita",
+          "duration": "115",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mora",
+            "mbid": "5fd0d57d-238a-4161-bcd4-12c22fe92556",
+            "url": "https://www.last.fm/music/Mora"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:54:40.817Z"
+}

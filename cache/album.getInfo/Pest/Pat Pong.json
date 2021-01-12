@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Pat Pong",
+    "artist": "Pest",
+    "url": "https://www.last.fm/music/Pest/Pat+Pong",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/918f808a97d7f9373b35c84cb630e5c7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2448",
+    "playcount": "7136",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pat Pong",
+          "url": "https://www.last.fm/music/Pest/_/Pat+Pong",
+          "duration": "327",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Pat Pong (Diesler mix)",
+          "url": "https://www.last.fm/music/Pest/_/Pat+Pong+(Diesler+mix)",
+          "duration": "356",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Pat Pong - Solid Groove Mix",
+          "url": "https://www.last.fm/music/Pest/_/Pat+Pong+-+Solid+Groove+Mix",
+          "duration": "355",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        },
+        {
+          "name": "Chimps",
+          "url": "https://www.last.fm/music/Pest/_/Chimps",
+          "duration": "324",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Pest",
+            "mbid": "e78b6124-f2f2-4fac-a3f2-8caa14b651e7",
+            "url": "https://www.last.fm/music/Pest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "chillout",
+          "url": "https://www.last.fm/tag/chillout"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "ninja tune",
+          "url": "https://www.last.fm/tag/ninja+tune"
+        },
+        {
+          "name": "smooth",
+          "url": "https://www.last.fm/tag/smooth"
+        },
+        {
+          "name": "deep house",
+          "url": "https://www.last.fm/tag/deep+house"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:58:44.853Z"
+}

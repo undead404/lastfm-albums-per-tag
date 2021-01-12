@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Requiem",
+    "artist": "I Shalt Become",
+    "mbid": "8c083046-d3de-4378-bfe1-2b94f80ed87a",
+    "url": "https://www.last.fm/music/I+Shalt+Become/Requiem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/32389d34b4564b2db032009173236653.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/32389d34b4564b2db032009173236653.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/32389d34b4564b2db032009173236653.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32389d34b4564b2db032009173236653.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32389d34b4564b2db032009173236653.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/32389d34b4564b2db032009173236653.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3293",
+    "playcount": "76567",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Intro",
+          "duration": "150",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "An Atteridgeville Horror",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/An+Atteridgeville+Horror",
+          "duration": "151",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Cleansed",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Cleansed",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Enigma",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Enigma",
+          "duration": "354",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Corpse in the Forest",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Corpse+in+the+Forest",
+          "duration": "241",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Seven Days to Dead",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Seven+Days+to+Dead",
+          "duration": "166",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "The Casket Letters",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/The+Casket+Letters",
+          "duration": "168",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Beggars Belief",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Beggars+Belief",
+          "duration": "322",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Want",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Want",
+          "duration": "311",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/I+Shalt+Become/_/Outro",
+          "duration": "313",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "I Shalt Become",
+            "mbid": "b1b79bbd-eeff-4813-bbce-cc4bfabca7a8",
+            "url": "https://www.last.fm/music/I+Shalt+Become"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "Darker Than Black",
+          "url": "https://www.last.fm/tag/Darker+Than+Black"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:15:20.433Z"
+}

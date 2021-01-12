@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Nihilistic Estrangement",
+    "artist": "Forgotten Tomb",
+    "url": "https://www.last.fm/music/Forgotten+Tomb/Nihilistic+Estrangement",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31c42e4a8c118d27efdde9ce381d6637.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4279",
+    "playcount": "23887",
+    "tracks": {
+      "track": [
+        {
+          "name": "Active Shooter",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Active+Shooter",
+          "duration": "512",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Iris' House, Pt. I",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Iris%27+House,+Pt.+I",
+          "duration": "321",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Iris' House, Pt. II",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Iris%27+House,+Pt.+II",
+          "duration": "374",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Distrust³",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Distrust%C2%B3",
+          "duration": "362",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "Nihilistic Estrangement",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/Nihilistic+Estrangement",
+          "duration": "523",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        },
+        {
+          "name": "RBMK",
+          "url": "https://www.last.fm/music/Forgotten+Tomb/_/RBMK",
+          "duration": "348",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forgotten Tomb",
+            "mbid": "6cdda84f-1703-4618-aecf-decc6218497f",
+            "url": "https://www.last.fm/music/Forgotten+Tomb"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:35:06.875Z"
+}

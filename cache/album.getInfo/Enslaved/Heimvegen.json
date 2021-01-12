@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Heimvegen",
+    "artist": "Enslaved",
+    "url": "https://www.last.fm/music/Enslaved/Heimvegen",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "2020",
+    "playcount": "4712",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heimvegen",
+          "url": "https://www.last.fm/music/Enslaved/_/Heimvegen",
+          "duration": "338",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Enslaved",
+            "mbid": "aa486a81-b927-4aa9-83c4-7fbc91c3a8fa",
+            "url": "https://www.last.fm/music/Enslaved"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:56:38.275Z"
+}

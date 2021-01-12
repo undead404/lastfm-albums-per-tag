@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Veronica's Room",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/Veronica%27s+Room",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/45ff9b3f7c258f86b72fc777301a5344.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1336",
+    "playcount": "3189",
+    "tracks": {
+      "track": [
+        {
+          "name": "Veronica's Room",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Veronica%27s+Room",
+          "duration": "298",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:29.256Z"
+}

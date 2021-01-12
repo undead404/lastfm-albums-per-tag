@@ -1,0 +1,87 @@
+{
+  "album": {
+    "name": "Kevät / Värimyrsky",
+    "artist": "Oranssi Pazuzu",
+    "url": "https://www.last.fm/music/Oranssi+Pazuzu/Kev%C3%A4t+%2F+V%C3%A4rimyrsky",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caa2a6321ecf1c911ccd9f71c63a17e5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3103",
+    "playcount": "13316",
+    "tracks": {
+      "track": [
+        {
+          "name": "Kevät",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/Kev%C3%A4t",
+          "duration": "321",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        },
+        {
+          "name": "Värimyrsky",
+          "url": "https://www.last.fm/music/Oranssi+Pazuzu/_/V%C3%A4rimyrsky",
+          "duration": "598",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Oranssi Pazuzu",
+            "mbid": "e9d2cdf6-d485-4074-9a53-9990c9a4d8b1",
+            "url": "https://www.last.fm/music/Oranssi+Pazuzu"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Dec 2017, 15:08",
+      "summary": "From Oranssi Pazuzu: \"Although not “new” in every sense of the word - the first song ‘Kevät’ was recorded during Valonielu sessions in 2013, but left out from the album because it’s darker mood didn’t quite seem to fit in with the other songs’ more cosmic approach. The second, ‘Värimyrsky’, is also an older and more nihilistic one, that we have been playing with for a long time, and now finally decided to record it in our home cave with the help from our Brother-in-Wastement Jussi Saarivuori.\"  <a href=\"http://www.last.fm/music/Oranssi+Pazuzu/Kev%C3%A4t+%2F+V%C3%A4rimyrsky\">Read more on Last.fm</a>.",
+      "content": "From Oranssi Pazuzu: \"Although not “new” in every sense of the word - the first song ‘Kevät’ was recorded during Valonielu sessions in 2013, but left out from the album because it’s darker mood didn’t quite seem to fit in with the other songs’ more cosmic approach. The second, ‘Värimyrsky’, is also an older and more nihilistic one, that we have been playing with for a long time, and now finally decided to record it in our home cave with the help from our Brother-in-Wastement Jussi Saarivuori.\"  <a href=\"http://www.last.fm/music/Oranssi+Pazuzu/Kev%C3%A4t+%2F+V%C3%A4rimyrsky\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:24:05.535Z"
+}

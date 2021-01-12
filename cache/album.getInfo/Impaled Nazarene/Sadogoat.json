@@ -1,0 +1,89 @@
+{
+  "album": {
+    "name": "Sadogoat",
+    "artist": "Impaled Nazarene",
+    "mbid": "97b3be4c-a320-445e-8ae7-065322ea606a",
+    "url": "https://www.last.fm/music/Impaled+Nazarene/Sadogoat",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4988f07b8f6940598396faa5d6bd0486.png",
+        "size": ""
+      }
+    ],
+    "listeners": "696",
+    "playcount": "2917",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ghost Riders",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Ghost+Riders",
+          "duration": "160",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        },
+        {
+          "name": "Sadogoat",
+          "url": "https://www.last.fm/music/Impaled+Nazarene/_/Sadogoat",
+          "duration": "188",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Impaled Nazarene",
+            "mbid": "2228019e-67b4-4d2e-a101-f2d5dcaf892f",
+            "url": "https://www.last.fm/music/Impaled+Nazarene"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:13:31.769Z"
+}

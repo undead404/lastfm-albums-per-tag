@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Filete.",
+    "artist": "Mora",
+    "url": "https://www.last.fm/music/Mora/Filete.",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcb1961197daf91dd7b304ba27093b4f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7336",
+    "playcount": "13828",
+    "tracks": {
+      "track": [
+        {
+          "name": "Filete.",
+          "url": "https://www.last.fm/music/Mora/_/Filete.",
+          "duration": "120",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mora",
+            "mbid": "5fd0d57d-238a-4161-bcd4-12c22fe92556",
+            "url": "https://www.last.fm/music/Mora"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:54:12.909Z"
+}

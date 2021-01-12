@@ -1,0 +1,150 @@
+{
+  "album": {
+    "name": "Ashes of Old",
+    "artist": "Evil",
+    "url": "https://www.last.fm/music/Evil/Ashes+of+Old",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72b4109ba65d45e9c53ea36aa2dee931.png",
+        "size": ""
+      }
+    ],
+    "listeners": "193",
+    "playcount": "5148",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Return of Darkest Wolves (Intro) / When the Pillars of Heaven Will Fall",
+          "url": "https://www.last.fm/music/Evil/_/The+Return+of+Darkest+Wolves+(Intro)+%2F+When+the+Pillars+of+Heaven+Will+Fall",
+          "duration": "681",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "In the Bottomless Pit",
+          "url": "https://www.last.fm/music/Evil/_/In+the+Bottomless+Pit",
+          "duration": "336",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Medieval Spells in the Ancient Vastlands/Triumph of Sword",
+          "url": "https://www.last.fm/music/Evil/_/Medieval+Spells+in+the+Ancient+Vastlands%2FTriumph+of+Sword",
+          "duration": "529",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Gates to Oblivion",
+          "url": "https://www.last.fm/music/Evil/_/Gates+to+Oblivion",
+          "duration": "467",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "The Wolf Order",
+          "url": "https://www.last.fm/music/Evil/_/The+Wolf+Order",
+          "duration": "294",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        },
+        {
+          "name": "Ashes of Old",
+          "url": "https://www.last.fm/music/Evil/_/Ashes+of+Old",
+          "duration": "726",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evil",
+            "mbid": "f23a30b7-6301-4f3d-aa21-cd320dc3dd62",
+            "url": "https://www.last.fm/music/Evil"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:49:52.755Z"
+}

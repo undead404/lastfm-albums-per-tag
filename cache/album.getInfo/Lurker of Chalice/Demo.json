@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Lurker of Chalice",
+    "url": "https://www.last.fm/music/Lurker+of+Chalice/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/080d8319c539445888073ec1b7889c0c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/080d8319c539445888073ec1b7889c0c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/080d8319c539445888073ec1b7889c0c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/080d8319c539445888073ec1b7889c0c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/080d8319c539445888073ec1b7889c0c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/080d8319c539445888073ec1b7889c0c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "216",
+    "playcount": "4553",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:46:47.107Z"
+}

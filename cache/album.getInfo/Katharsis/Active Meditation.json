@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Active Meditation",
+    "artist": "Katharsis",
+    "url": "https://www.last.fm/music/Katharsis/Active+Meditation",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bee5c084764fa96769089a27b85fc2a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "107",
+    "playcount": "203",
+    "tracks": {
+      "track": [
+        {
+          "name": "Over Time",
+          "url": "https://www.last.fm/music/Katharsis/_/Over+Time",
+          "duration": "396",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Katharsis",
+            "mbid": "07ae66cc-f2c8-4b3b-9026-574daa50f9cf",
+            "url": "https://www.last.fm/music/Katharsis"
+          }
+        },
+        {
+          "name": "Active Meditation",
+          "url": "https://www.last.fm/music/Katharsis/_/Active+Meditation",
+          "duration": "430",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Katharsis",
+            "mbid": "07ae66cc-f2c8-4b3b-9026-574daa50f9cf",
+            "url": "https://www.last.fm/music/Katharsis"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:09.227Z"
+}

@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Raped By Svarttjern",
+    "artist": "Svarttjern",
+    "url": "https://www.last.fm/music/Svarttjern/Raped+By+Svarttjern",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba7b3f7b91944ddebe9f0976640c75e9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "233",
+    "playcount": "2959",
+    "tracks": {
+      "track": [
+        {
+          "name": "Satanic Perfection",
+          "url": "https://www.last.fm/music/Svarttjern/_/Satanic+Perfection",
+          "duration": "245",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "i am the path",
+          "url": "https://www.last.fm/music/Svarttjern/_/i+am+the+path",
+          "duration": "253",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Winds of Incantation",
+          "url": "https://www.last.fm/music/Svarttjern/_/Winds+of+Incantation",
+          "duration": "189",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Human Dust, Hail Yourself",
+          "url": "https://www.last.fm/music/Svarttjern/_/Human+Dust,+Hail+Yourself",
+          "duration": "365",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        },
+        {
+          "name": "Raped By Svarttjern",
+          "url": "https://www.last.fm/music/Svarttjern/_/Raped+By+Svarttjern",
+          "duration": "209",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:49.224Z"
+}

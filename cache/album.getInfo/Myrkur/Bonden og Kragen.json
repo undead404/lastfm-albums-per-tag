@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Bonden og Kragen",
+    "artist": "Myrkur",
+    "url": "https://www.last.fm/music/Myrkur/Bonden+og+Kragen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87d576a09908fcb240800aed60b594b8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87d576a09908fcb240800aed60b594b8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87d576a09908fcb240800aed60b594b8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87d576a09908fcb240800aed60b594b8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87d576a09908fcb240800aed60b594b8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87d576a09908fcb240800aed60b594b8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10501",
+    "playcount": "38911",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bonden og kragen",
+          "url": "https://www.last.fm/music/Myrkur/_/Bonden+og+kragen",
+          "duration": "153",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "hipster",
+          "url": "https://www.last.fm/tag/hipster"
+        },
+        {
+          "name": "Burzum",
+          "url": "https://www.last.fm/tag/Burzum"
+        },
+        {
+          "name": "songs to play after you sit for an hour waiting for a bus",
+          "url": "https://www.last.fm/tag/songs+to+play+after+you+sit+for+an+hour+waiting+for+a+bus"
+        },
+        {
+          "name": "hipsturd",
+          "url": "https://www.last.fm/tag/hipsturd"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:11:51.867Z"
+}

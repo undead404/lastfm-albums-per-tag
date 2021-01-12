@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Pamięć i Przeznaczenie",
+    "artist": "Graveland",
+    "mbid": "3ae6c766-04fe-4133-92ac-7899a151c537",
+    "url": "https://www.last.fm/music/Graveland/Pami%C4%99%C4%87+i+Przeznaczenie",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f89b4b17fb4522d96ab3f84c6e6cf6.png",
+        "size": ""
+      }
+    ],
+    "listeners": "669",
+    "playcount": "9235",
+    "tracks": {
+      "track": [
+        {
+          "name": "Los Wojownika",
+          "url": "https://www.last.fm/music/Graveland/_/Los+Wojownika",
+          "duration": "542",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Klejnot Atlantów",
+          "url": "https://www.last.fm/music/Graveland/_/Klejnot+Atlant%C3%B3w",
+          "duration": "607",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Pamięć i Przeznaczenie",
+          "url": "https://www.last.fm/music/Graveland/_/Pami%C4%99%C4%87+i+Przeznaczenie",
+          "duration": "590",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Legion Gigantów",
+          "url": "https://www.last.fm/music/Graveland/_/Legion+Gigant%C3%B3w",
+          "duration": "578",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        },
+        {
+          "name": "Runy Przebudzenia",
+          "url": "https://www.last.fm/music/Graveland/_/Runy+Przebudzenia",
+          "duration": "571",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Graveland",
+            "mbid": "bee4943f-f762-4ae1-a27a-a3c15069b616",
+            "url": "https://www.last.fm/music/Graveland"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:40:15.339Z"
+}

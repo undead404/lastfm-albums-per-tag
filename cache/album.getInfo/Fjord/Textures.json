@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Textures",
+    "artist": "Fjord",
+    "url": "https://www.last.fm/music/Fjord/Textures",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5bced05db88cca6bde7ed047a27aeed4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "14513",
+    "playcount": "57853",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Get It Now",
+          "url": "https://www.last.fm/music/Fjord/_/I+Get+It+Now",
+          "duration": "208",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Blue",
+          "url": "https://www.last.fm/music/Fjord/_/Blue",
+          "duration": "199",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Jealous",
+          "url": "https://www.last.fm/music/Fjord/_/Jealous",
+          "duration": "204",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Shapes",
+          "url": "https://www.last.fm/music/Fjord/_/Shapes",
+          "duration": "196",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Hey Hey, My My (Into The Black)(Neil Young Cover)",
+          "url": "https://www.last.fm/music/Fjord/_/Hey+Hey,+My+My+(Into+The+Black)(Neil+Young+Cover)",
+          "duration": "244",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        },
+        {
+          "name": "Irrational",
+          "url": "https://www.last.fm/music/Fjord/_/Irrational",
+          "duration": "216",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Fjord",
+            "mbid": "65972dfa-14a8-4cdc-80e6-d50206ab1b43",
+            "url": "https://www.last.fm/music/Fjord"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:03:35.903Z"
+}

@@ -1,0 +1,132 @@
+{
+  "album": {
+    "name": "Call Of The Wild",
+    "artist": "Deströyer 666",
+    "url": "https://www.last.fm/music/Destr%C3%B6yer+666/Call+Of+The+Wild",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfb3cfcbf3b4315bb10afd2fc46f6a1e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2731",
+    "playcount": "23171",
+    "tracks": {
+      "track": [
+        {
+          "name": "Violence Is Golden",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Violence+Is+Golden",
+          "duration": "269",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Stone By Stone",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Stone+By+Stone",
+          "duration": "217",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Call Of The Wild",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Call+Of+The+Wild",
+          "duration": "285",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Trialed By Fire",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Trialed+By+Fire",
+          "duration": "430",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "blackened thrash metal",
+          "url": "https://www.last.fm/tag/blackened+thrash+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "trash metal",
+          "url": "https://www.last.fm/tag/trash+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:47.624Z"
+}

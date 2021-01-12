@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Closer",
+    "artist": "Frost",
+    "url": "https://www.last.fm/music/Frost/Closer",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb8fc8f978da33627813c25900d87355.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb8fc8f978da33627813c25900d87355.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb8fc8f978da33627813c25900d87355.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb8fc8f978da33627813c25900d87355.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb8fc8f978da33627813c25900d87355.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb8fc8f978da33627813c25900d87355.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1216",
+    "playcount": "4098",
+    "tracks": {
+      "track": [
+        {
+          "name": "Closer",
+          "url": "https://www.last.fm/music/Frost/_/Closer",
+          "duration": "257",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Frost",
+            "mbid": "f2796d87-1f6b-4c3f-a8d1-5b6b2e6d04db",
+            "url": "https://www.last.fm/music/Frost"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:38:59.879Z"
+}

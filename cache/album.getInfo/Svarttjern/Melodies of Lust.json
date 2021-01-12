@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Melodies of Lust",
+    "artist": "Svarttjern",
+    "url": "https://www.last.fm/music/Svarttjern/Melodies+of+Lust",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a31c0bcbb7e50502cb8b31a571a3aaa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1488",
+    "playcount": "2923",
+    "tracks": {
+      "track": [
+        {
+          "name": "Melodies of Lust",
+          "url": "https://www.last.fm/music/Svarttjern/_/Melodies+of+Lust",
+          "duration": "369",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Svarttjern",
+            "mbid": "c8229399-f6af-4e47-ae39-1601d3d30f3b",
+            "url": "https://www.last.fm/music/Svarttjern"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:41:46.382Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Frithgeard",
+    "artist": "Winterfylleth",
+    "url": "https://www.last.fm/music/Winterfylleth/Frithgeard",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/585acf74d973bd29c030a1fc46b29804.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/585acf74d973bd29c030a1fc46b29804.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/585acf74d973bd29c030a1fc46b29804.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/585acf74d973bd29c030a1fc46b29804.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/585acf74d973bd29c030a1fc46b29804.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/585acf74d973bd29c030a1fc46b29804.png",
+        "size": ""
+      }
+    ],
+    "listeners": "377",
+    "playcount": "596",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frithgeard",
+          "url": "https://www.last.fm/music/Winterfylleth/_/Frithgeard",
+          "duration": "224",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Winterfylleth",
+            "mbid": "59c00a37-e7e7-4375-9324-61214a7bdba5",
+            "url": "https://www.last.fm/music/Winterfylleth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:41.580Z"
+}

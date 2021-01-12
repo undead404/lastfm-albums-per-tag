@@ -1,0 +1,66 @@
+{
+  "album": {
+    "name": "Traditional",
+    "artist": "Krallice",
+    "mbid": "1d880837-2580-4eef-8937-38eb0cc5d27a",
+    "url": "https://www.last.fm/music/Krallice/Traditional",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/773da92f49b65f35a2ae874c880f65b8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "67",
+    "playcount": "315",
+    "tracks": {
+      "track": [
+        {
+          "name": "Traditional",
+          "url": "https://www.last.fm/music/Krallice/_/Traditional",
+          "duration": "204",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Krallice",
+            "mbid": "b4e4b359-76a3-447e-be1d-80a24887134e",
+            "url": "https://www.last.fm/music/Krallice"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "20 Apr 2016, 20:21",
+      "summary": "Single-sided flexi-single included with an issue of Decibel magazine. The song is a cover of hardcore band Rorschach's \"Traditional\". <a href=\"http://www.last.fm/music/Krallice/Traditional\">Read more on Last.fm</a>.",
+      "content": "Single-sided flexi-single included with an issue of Decibel magazine. The song is a cover of hardcore band Rorschach's \"Traditional\". <a href=\"http://www.last.fm/music/Krallice/Traditional\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:01:35.527Z"
+}

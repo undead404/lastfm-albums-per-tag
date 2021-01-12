@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Unholyunion",
+    "artist": "Christ Agony",
+    "mbid": "8bd9ac24-51ed-4443-bbe5-c09230b8274b",
+    "url": "https://www.last.fm/music/Christ+Agony/Unholyunion",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e170c161a71f57ef23be0a027fc6a3fa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1331",
+    "playcount": "14178",
+    "tracks": {
+      "track": [
+        {
+          "name": "Inceremonical (Prophetical part II)",
+          "url": "https://www.last.fm/music/Christ+Agony/_/Inceremonical+(Prophetical+part+II)",
+          "duration": "784",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Christ Agony",
+            "mbid": "cf4cd16e-4aa8-4ad4-a050-5eed689f2ba7",
+            "url": "https://www.last.fm/music/Christ+Agony"
+          }
+        },
+        {
+          "name": "Darkthurnal (Eternal Shouts)",
+          "url": "https://www.last.fm/music/Christ+Agony/_/Darkthurnal+(Eternal+Shouts)",
+          "duration": "906",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Christ Agony",
+            "mbid": "cf4cd16e-4aa8-4ad4-a050-5eed689f2ba7",
+            "url": "https://www.last.fm/music/Christ+Agony"
+          }
+        },
+        {
+          "name": "Dies Irae",
+          "url": "https://www.last.fm/music/Christ+Agony/_/Dies+Irae",
+          "duration": "597",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Christ Agony",
+            "mbid": "cf4cd16e-4aa8-4ad4-a050-5eed689f2ba7",
+            "url": "https://www.last.fm/music/Christ+Agony"
+          }
+        },
+        {
+          "name": "Ritualus Sceptrus (Mystery, Prophetical Part I)",
+          "url": "https://www.last.fm/music/Christ+Agony/_/Ritualus+Sceptrus+(Mystery,+Prophetical+Part+I)",
+          "duration": "862",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Christ Agony",
+            "mbid": "cf4cd16e-4aa8-4ad4-a050-5eed689f2ba7",
+            "url": "https://www.last.fm/music/Christ+Agony"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:30:57.947Z"
+}

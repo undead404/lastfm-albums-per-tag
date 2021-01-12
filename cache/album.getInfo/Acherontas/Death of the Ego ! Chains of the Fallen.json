@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Death of the Ego / Chains of the Fallen",
+    "artist": "Acherontas",
+    "url": "https://www.last.fm/music/Acherontas/Death+of+the+Ego+%2F+Chains+of+the+Fallen",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9016c00261acbd4fa2d395d4fa666d4f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "725",
+    "playcount": "4210",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wasteland Revived",
+          "url": "https://www.last.fm/music/Acherontas/_/Wasteland+Revived",
+          "duration": "242",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        },
+        {
+          "name": "Death Of The Ego",
+          "url": "https://www.last.fm/music/Acherontas/_/Death+Of+The+Ego",
+          "duration": "489",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        },
+        {
+          "name": "Dispossession",
+          "url": "https://www.last.fm/music/Acherontas/_/Dispossession",
+          "duration": "336",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        },
+        {
+          "name": "Chains of the Fallen",
+          "url": "https://www.last.fm/music/Acherontas/_/Chains+of+the+Fallen",
+          "duration": "479",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        },
+        {
+          "name": "Sentient Flames Consume",
+          "url": "https://www.last.fm/music/Acherontas/_/Sentient+Flames+Consume",
+          "duration": "437",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:49:07.593Z"
+}

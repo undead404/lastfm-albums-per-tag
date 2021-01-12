@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Bethlehem",
+    "artist": "Bethlehem",
+    "mbid": "44259bb2-b5bd-4e3c-a4fa-79cd22f94e13",
+    "url": "https://www.last.fm/music/Bethlehem/Bethlehem",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2af0b7ec11e385c8aedccbeea5f5ddd1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10512",
+    "playcount": "138368",
+    "tracks": {
+      "track": [
+        {
+          "name": "Think It Over",
+          "url": "https://www.last.fm/music/Bethlehem/_/Think+It+Over",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Lover",
+          "url": "https://www.last.fm/music/Bethlehem/_/Lover",
+          "duration": "243",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Desert Song (Cloud By Day)",
+          "url": "https://www.last.fm/music/Bethlehem/_/Desert+Song+(Cloud+By+Day)",
+          "duration": "220",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Holy Ghost Blues",
+          "url": "https://www.last.fm/music/Bethlehem/_/Holy+Ghost+Blues",
+          "duration": "159",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Dead Reckoning",
+          "url": "https://www.last.fm/music/Bethlehem/_/Dead+Reckoning",
+          "duration": "226",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Night Rider",
+          "url": "https://www.last.fm/music/Bethlehem/_/Night+Rider",
+          "duration": "184",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "This Road",
+          "url": "https://www.last.fm/music/Bethlehem/_/This+Road",
+          "duration": "196",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "No Good Excuse",
+          "url": "https://www.last.fm/music/Bethlehem/_/No+Good+Excuse",
+          "duration": "242",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Just A Prayer Away",
+          "url": "https://www.last.fm/music/Bethlehem/_/Just+A+Prayer+Away",
+          "duration": "237",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Pilgrims",
+          "url": "https://www.last.fm/music/Bethlehem/_/Pilgrims",
+          "duration": "282",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "depressive black metal",
+          "url": "https://www.last.fm/tag/depressive+black+metal"
+        },
+        {
+          "name": "Black Doom Metal",
+          "url": "https://www.last.fm/tag/Black+Doom+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:03.950Z"
+}

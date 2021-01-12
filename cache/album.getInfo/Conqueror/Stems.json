@@ -1,0 +1,192 @@
+{
+  "album": {
+    "name": "Stems",
+    "artist": "Conqueror",
+    "url": "https://www.last.fm/music/Conqueror/Stems",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28e01018392049e6c9b077aa401f83d9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28e01018392049e6c9b077aa401f83d9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28e01018392049e6c9b077aa401f83d9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28e01018392049e6c9b077aa401f83d9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28e01018392049e6c9b077aa401f83d9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28e01018392049e6c9b077aa401f83d9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "68",
+    "playcount": "1000",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gina",
+          "url": "https://www.last.fm/music/Conqueror/_/Gina",
+          "duration": "672",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Di Notte",
+          "url": "https://www.last.fm/music/Conqueror/_/Di+Notte",
+          "duration": "445",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "False Idee",
+          "url": "https://www.last.fm/music/Conqueror/_/False+Idee",
+          "duration": "459",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Un'altra Realtà",
+          "url": "https://www.last.fm/music/Conqueror/_/Un%27altra+Realt%C3%A0",
+          "duration": "385",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Sole al Buio",
+          "url": "https://www.last.fm/music/Conqueror/_/Sole+al+Buio",
+          "duration": "400",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "C'est la Vie",
+          "url": "https://www.last.fm/music/Conqueror/_/C%27est+la+Vie",
+          "duration": "340",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Sigurtà",
+          "url": "https://www.last.fm/music/Conqueror/_/Sigurt%C3%A0",
+          "duration": "565",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        },
+        {
+          "name": "Echi di Verità",
+          "url": "https://www.last.fm/music/Conqueror/_/Echi+di+Verit%C3%A0",
+          "duration": "450",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Conqueror",
+            "mbid": "fa7cfa7e-7acd-49ca-8bea-45783d95f218",
+            "url": "https://www.last.fm/music/Conqueror"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "Progressive rock",
+          "url": "https://www.last.fm/tag/Progressive+rock"
+        },
+        {
+          "name": "y2k prog",
+          "url": "https://www.last.fm/tag/y2k+prog"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:00:06.340Z"
+}

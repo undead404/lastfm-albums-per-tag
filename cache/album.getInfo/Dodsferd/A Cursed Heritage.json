@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "A Cursed Heritage",
+    "artist": "Dodsferd",
+    "url": "https://www.last.fm/music/Dodsferd/A+Cursed+Heritage",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6be33c1a6574bd7ad2ba83ec3ae7e1c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1079",
+    "playcount": "12229",
+    "tracks": {
+      "track": [
+        {
+          "name": "Exile",
+          "url": "https://www.last.fm/music/Dodsferd/_/Exile",
+          "duration": "116",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "In The Ground Of Your Beseeching",
+          "url": "https://www.last.fm/music/Dodsferd/_/In+The+Ground+Of+Your+Beseeching",
+          "duration": "456",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "As The Light Revealed His Wound",
+          "url": "https://www.last.fm/music/Dodsferd/_/As+The+Light+Revealed+His+Wound",
+          "duration": "372",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "The Empty Desolation",
+          "url": "https://www.last.fm/music/Dodsferd/_/The+Empty+Desolation",
+          "duration": "332",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Drowned In Silence",
+          "url": "https://www.last.fm/music/Dodsferd/_/Drowned+In+Silence",
+          "duration": "173",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Disposable Human Wastes",
+          "url": "https://www.last.fm/music/Dodsferd/_/Disposable+Human+Wastes",
+          "duration": "76",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Deserted",
+          "url": "https://www.last.fm/music/Dodsferd/_/Deserted",
+          "duration": "267",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:29:26.851Z"
+}

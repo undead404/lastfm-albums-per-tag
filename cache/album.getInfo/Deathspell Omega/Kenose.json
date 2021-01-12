@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Kenose",
+    "artist": "Deathspell Omega",
+    "url": "https://www.last.fm/music/Deathspell+Omega/Kenose",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f831fbbcb1144675b86c93c6d2695534.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4197",
+    "playcount": "47216",
+    "tracks": {
+      "track": [
+        {
+          "name": "I",
+          "url": "https://www.last.fm/music/Deathspell+Omega/_/I",
+          "duration": "945",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deathspell Omega",
+            "mbid": "37ea73dd-a48c-4659-8b9d-5c77bd9cbd12",
+            "url": "https://www.last.fm/music/Deathspell+Omega"
+          }
+        },
+        {
+          "name": "II",
+          "url": "https://www.last.fm/music/Deathspell+Omega/_/II",
+          "duration": "685",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deathspell Omega",
+            "mbid": "37ea73dd-a48c-4659-8b9d-5c77bd9cbd12",
+            "url": "https://www.last.fm/music/Deathspell+Omega"
+          }
+        },
+        {
+          "name": "III",
+          "url": "https://www.last.fm/music/Deathspell+Omega/_/III",
+          "duration": "549",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deathspell Omega",
+            "mbid": "37ea73dd-a48c-4659-8b9d-5c77bd9cbd12",
+            "url": "https://www.last.fm/music/Deathspell+Omega"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "french black metal",
+          "url": "https://www.last.fm/tag/french+black+metal"
+        },
+        {
+          "name": "sixth house cvlt",
+          "url": "https://www.last.fm/tag/sixth+house+cvlt"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:02:25.738Z"
+}

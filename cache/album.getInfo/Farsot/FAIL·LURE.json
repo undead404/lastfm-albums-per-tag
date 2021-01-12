@@ -1,0 +1,171 @@
+{
+  "album": {
+    "name": "FAIL·LURE",
+    "artist": "Farsot",
+    "url": "https://www.last.fm/music/Farsot/FAIL%C2%B7LURE",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/153f9594e6dd46da52970cc28f0c3222.png",
+        "size": ""
+      }
+    ],
+    "listeners": "267",
+    "playcount": "3504",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vitriolic",
+          "url": "https://www.last.fm/music/Farsot/_/Vitriolic",
+          "duration": "545",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "Circular Stains",
+          "url": "https://www.last.fm/music/Farsot/_/Circular+Stains",
+          "duration": "513",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "With Obsidian Hands",
+          "url": "https://www.last.fm/music/Farsot/_/With+Obsidian+Hands",
+          "duration": "564",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "Undercurrents",
+          "url": "https://www.last.fm/music/Farsot/_/Undercurrents",
+          "duration": "498",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "The Antagonist",
+          "url": "https://www.last.fm/music/Farsot/_/The+Antagonist",
+          "duration": "405",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "A Hundred to Nothing",
+          "url": "https://www.last.fm/music/Farsot/_/A+Hundred+to+Nothing",
+          "duration": "343",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        },
+        {
+          "name": "Watertower Conspiracy",
+          "url": "https://www.last.fm/music/Farsot/_/Watertower+Conspiracy",
+          "duration": "1230",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Farsot",
+            "mbid": "ac1b43e3-3c82-4308-b9dd-28bc24ceb250",
+            "url": "https://www.last.fm/music/Farsot"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "concept album",
+          "url": "https://www.last.fm/tag/concept+album"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:42:23.690Z"
+}

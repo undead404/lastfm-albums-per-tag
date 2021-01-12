@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Solitude Hymns",
+    "artist": "Mayhem",
+    "url": "https://www.last.fm/music/Mayhem/Solitude+Hymns",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4efee84e1308ae0cff1658f416c2ef76.png",
+        "size": ""
+      }
+    ],
+    "listeners": "31559",
+    "playcount": "82827",
+    "tracks": {
+      "track": [
+        {
+          "name": "Solitude Hymns",
+          "url": "https://www.last.fm/music/Mayhem/_/Solitude+Hymns",
+          "duration": "188",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mayhem",
+            "mbid": "ec277bdf-319f-4097-8d2f-39a94f2ea575",
+            "url": "https://www.last.fm/music/Mayhem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:53:00.172Z"
+}

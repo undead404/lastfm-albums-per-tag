@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Gnosis",
+    "artist": "Spectral Lore",
+    "url": "https://www.last.fm/music/Spectral+Lore/Gnosis",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d9e592e3d344fe5f32383dd0ee50d17.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4881",
+    "playcount": "46317",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dualism",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Dualism",
+          "duration": "532",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Gnosis' Journey Through The Ages",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Gnosis%27+Journey+Through+The+Ages",
+          "duration": "554",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Averroes' Search",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Averroes%27+Search",
+          "duration": "472",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "A God made of Flesh and Consciousness",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/A+God+made+of+Flesh+and+Consciousness",
+          "duration": "845",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "For Aleppo",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/For+Aleppo",
+          "duration": "562",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "avantgarde",
+          "url": "https://www.last.fm/tag/avantgarde"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "Gnosticism",
+          "url": "https://www.last.fm/tag/Gnosticism"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:11:59.765Z"
+}

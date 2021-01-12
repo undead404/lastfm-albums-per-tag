@@ -1,0 +1,116 @@
+{
+  "album": {
+    "name": "Dark Space III I",
+    "artist": "Darkspace",
+    "mbid": "7d20314b-2d1f-4c00-84ba-53d973044096",
+    "url": "https://www.last.fm/music/Darkspace/Dark+Space+III+I",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e850b2b9c2424137c1f402dcbd9c7e4e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "9642",
+    "playcount": "112820",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dark 4.18",
+          "url": "https://www.last.fm/music/Darkspace/_/Dark+4.18",
+          "duration": "1644",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkspace",
+            "mbid": "2e1651f0-539c-4078-8175-e3c34f82fd43",
+            "url": "https://www.last.fm/music/Darkspace"
+          }
+        },
+        {
+          "name": "Dark 4.19",
+          "url": "https://www.last.fm/music/Darkspace/_/Dark+4.19",
+          "duration": "1111",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkspace",
+            "mbid": "2e1651f0-539c-4078-8175-e3c34f82fd43",
+            "url": "https://www.last.fm/music/Darkspace"
+          }
+        },
+        {
+          "name": "Dark 4.20",
+          "url": "https://www.last.fm/music/Darkspace/_/Dark+4.20",
+          "duration": "1104",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkspace",
+            "mbid": "2e1651f0-539c-4078-8175-e3c34f82fd43",
+            "url": "https://www.last.fm/music/Darkspace"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:40:30.461Z"
+}

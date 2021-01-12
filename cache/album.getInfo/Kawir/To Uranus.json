@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "To Uranus",
+    "artist": "Kawir",
+    "mbid": "bdc2e0d5-408a-495a-b9d2-ee0fc27898b7",
+    "url": "https://www.last.fm/music/Kawir/To+Uranus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdbcbba4365448a48bc974a4f3a4483e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "840",
+    "playcount": "12003",
+    "tracks": {
+      "track": [
+        {
+          "name": "To Uranus",
+          "url": "https://www.last.fm/music/Kawir/_/To+Uranus",
+          "duration": "395",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Sword of Dardanus",
+          "url": "https://www.last.fm/music/Kawir/_/Sword+of+Dardanus",
+          "duration": "451",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Kouretes",
+          "url": "https://www.last.fm/music/Kawir/_/Kouretes",
+          "duration": "440",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Sinn (The Blazing Queen)",
+          "url": "https://www.last.fm/music/Kawir/_/Sinn+(The+Blazing+Queen)",
+          "duration": "399",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Eumenides",
+          "url": "https://www.last.fm/music/Kawir/_/Eumenides",
+          "duration": "345",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        },
+        {
+          "name": "Adored Cry of Olympus",
+          "url": "https://www.last.fm/music/Kawir/_/Adored+Cry+of+Olympus",
+          "duration": "203",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kawir",
+            "mbid": "bbd2c220-221e-4d3e-8475-9109a85579f4",
+            "url": "https://www.last.fm/music/Kawir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2010",
+          "url": "https://www.last.fm/tag/2010"
+        },
+        {
+          "name": "best of 2010",
+          "url": "https://www.last.fm/tag/best+of+2010"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "greek mythology",
+          "url": "https://www.last.fm/tag/greek+mythology"
+        },
+        {
+          "name": "pagan black metal",
+          "url": "https://www.last.fm/tag/pagan+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:27:50.174Z"
+}

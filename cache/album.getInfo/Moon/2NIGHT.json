@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "2NIGHT",
+    "artist": "Moon",
+    "url": "https://www.last.fm/music/Moon/2NIGHT",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67a8bad3ebc545b3c53a9f5f67d98243.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2731",
+    "playcount": "17955",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fade Away",
+          "url": "https://www.last.fm/music/Moon/_/Fade+Away",
+          "duration": "165",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        },
+        {
+          "name": "2NIGHT",
+          "url": "https://www.last.fm/music/Moon/_/2NIGHT",
+          "duration": "181",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Moon",
+            "mbid": "ffdf8fcf-733e-476f-96e4-6448e3d35d8c",
+            "url": "https://www.last.fm/music/Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:25.569Z"
+}

@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Conjuring The Dead",
+    "artist": "Belphegor",
+    "mbid": "c1fad667-9898-4f94-8325-21b26a44c97b",
+    "url": "https://www.last.fm/music/Belphegor/Conjuring+The+Dead",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fbc2161217a4c67cc5bceea4a51d994.png",
+        "size": ""
+      }
+    ],
+    "listeners": "20999",
+    "playcount": "383667",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gasmask Terror",
+          "url": "https://www.last.fm/music/Belphegor/_/Gasmask+Terror",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Conjuring the Dead",
+          "url": "https://www.last.fm/music/Belphegor/_/Conjuring+the+Dead",
+          "duration": "271",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "In Death",
+          "url": "https://www.last.fm/music/Belphegor/_/In+Death",
+          "duration": "251",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Rex Tremendae Majestatis",
+          "url": "https://www.last.fm/music/Belphegor/_/Rex+Tremendae+Majestatis",
+          "duration": "319",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Black Winged Torment",
+          "url": "https://www.last.fm/music/Belphegor/_/Black+Winged+Torment",
+          "duration": "204",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "The Eyes",
+          "url": "https://www.last.fm/music/Belphegor/_/The+Eyes",
+          "duration": "77",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Legions of Destruction",
+          "url": "https://www.last.fm/music/Belphegor/_/Legions+of+Destruction",
+          "duration": "266",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Flesh, Bones And Blood",
+          "url": "https://www.last.fm/music/Belphegor/_/Flesh,+Bones+And+Blood",
+          "duration": "210",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Lucifer, Take Her!",
+          "url": "https://www.last.fm/music/Belphegor/_/Lucifer,+Take+Her%21",
+          "duration": "168",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        },
+        {
+          "name": "Pactum In Aeternum",
+          "url": "https://www.last.fm/music/Belphegor/_/Pactum+In+Aeternum",
+          "duration": "199",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belphegor",
+            "mbid": "a41cc6b0-ff0c-4331-9add-907025607e95",
+            "url": "https://www.last.fm/music/Belphegor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Mar 2017, 10:48",
+      "summary": "Conjuring the Dead is the tenth studio album by the Austrian blackened death metal band Belphegor. It was released on August 5, 2014, through Nuclear Blast. The album was recorded by Erik Rutan at Mana Recording Studios in USA. The album was preceded by the digital download single \"Gasmask Terror\", which was released on July 1, 2014. Earlier, on June 25, a lyric video for the same song was released.\n\nA music video was shot for the title track, which was directed by Walter Fanninger. <a href=\"http://www.last.fm/music/Belphegor/Conjuring+The+Dead\">Read more on Last.fm</a>.",
+      "content": "Conjuring the Dead is the tenth studio album by the Austrian blackened death metal band Belphegor. It was released on August 5, 2014, through Nuclear Blast. The album was recorded by Erik Rutan at Mana Recording Studios in USA. The album was preceded by the digital download single \"Gasmask Terror\", which was released on July 1, 2014. Earlier, on June 25, a lyric video for the same song was released.\n\nA music video was shot for the title track, which was directed by Walter Fanninger. The album features cover art by Septicflesh bassist Seth Siro Anton. <a href=\"http://www.last.fm/music/Belphegor/Conjuring+The+Dead\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:04:40.241Z"
+}

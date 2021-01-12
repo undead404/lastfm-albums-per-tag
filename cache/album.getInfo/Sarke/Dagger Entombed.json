@@ -1,0 +1,69 @@
+{
+  "album": {
+    "name": "Dagger Entombed",
+    "artist": "Sarke",
+    "url": "https://www.last.fm/music/Sarke/Dagger+Entombed",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2bec30e031d3cf2b82a17898395174c9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1150",
+    "playcount": "2049",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dagger Entombed",
+          "url": "https://www.last.fm/music/Sarke/_/Dagger+Entombed",
+          "duration": "245",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:37:25.521Z"
+}

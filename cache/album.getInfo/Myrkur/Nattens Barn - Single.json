@@ -1,0 +1,73 @@
+{
+  "album": {
+    "name": "Nattens Barn - Single",
+    "artist": "Myrkur",
+    "url": "https://www.last.fm/music/Myrkur/Nattens+Barn+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9e9f42b159e7836230645b44b16ae8f0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "758",
+    "playcount": "1905",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nattens Barn",
+          "url": "https://www.last.fm/music/Myrkur/_/Nattens+Barn",
+          "duration": "355",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Myrkur",
+            "mbid": "66d4b54b-77f1-4310-a45c-60972fb47ecc",
+            "url": "https://www.last.fm/music/Myrkur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Burzum",
+          "url": "https://www.last.fm/tag/Burzum"
+        },
+        {
+          "name": "mmpps",
+          "url": "https://www.last.fm/tag/mmpps"
+        },
+        {
+          "name": "songs to play after you sit for an hour waiting for a bus",
+          "url": "https://www.last.fm/tag/songs+to+play+after+you+sit+for+an+hour+waiting+for+a+bus"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:12:02.392Z"
+}

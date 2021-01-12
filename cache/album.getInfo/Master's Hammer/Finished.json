@@ -1,0 +1,184 @@
+{
+  "album": {
+    "name": "Finished",
+    "artist": "Master's Hammer",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Finished",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/258a0e3e5129c3bd4637b969508822c0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "312",
+    "playcount": "4653",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Intro",
+          "duration": "54",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Duše Nesmrtelných",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Du%C5%A1e+Nesmrteln%C3%BDch",
+          "duration": "215",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vzývání úterní",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vz%C3%BDv%C3%A1n%C3%AD+%C3%BAtern%C3%AD",
+          "duration": "182",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Jáma pekel",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/J%C3%A1ma+pekel",
+          "duration": "256",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Lucifer",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Lucifer",
+          "duration": "231",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Za Smlouvou Pekelnou",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Za+Smlouvou+Pekelnou",
+          "duration": "225",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Přivítej Smrt",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/P%C5%99iv%C3%ADtej+Smrt",
+          "duration": "333",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Šánečto",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C5%A0%C3%A1ne%C4%8Dto",
+          "duration": "209",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 Nov 2020, 06:33",
+      "summary": "The second demo of Czech black metal band Master's Hammer, originally released on cassette tape in 1988. Remastered in 2003 together with The Mass as Demo Collection #2 and available on Bandcamp.\nTotal length is 1:19:52 min, having an extra \"Intro\" track, and \"Duše nesmrtelných\", \"Vzývání úterní\", \"Šánečto\" are separated in two parts each.\n\n\"Šánečto\" is \"Otčenáš\" (Our Father) reversed, lyrics are also reversed.\n\nLine-up:\nFranz J.B.  Štorm - vocals, guitars <a href=\"http://www.last.fm/music/Master%27s+Hammer/Finished\">Read more on Last.fm</a>.",
+      "content": "The second demo of Czech black metal band Master's Hammer, originally released on cassette tape in 1988. Remastered in 2003 together with The Mass as Demo Collection #2 and available on Bandcamp.\nTotal length is 1:19:52 min, having an extra \"Intro\" track, and \"Duše nesmrtelných\", \"Vzývání úterní\", \"Šánečto\" are separated in two parts each.\n\n\"Šánečto\" is \"Otčenáš\" (Our Father) reversed, lyrics are also reversed.\n\nLine-up:\nFranz J.B.  Štorm - vocals, guitars\nMila Krovina - guitars\nMilan Bathory Fibiger - bass\nFerenc Feco - drums\nUlric For - timpani, cymbal <a href=\"http://www.last.fm/music/Master%27s+Hammer/Finished\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:23:48.461Z"
+}

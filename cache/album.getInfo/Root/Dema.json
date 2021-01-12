@@ -1,0 +1,614 @@
+{
+  "album": {
+    "name": "Dema",
+    "artist": "Root",
+    "mbid": "3a1476df-e285-4997-a491-03f2f123a67f",
+    "url": "https://www.last.fm/music/Root/Dema",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a769909508c5009b8e147931f6cf9ed.png",
+        "size": ""
+      }
+    ],
+    "listeners": "121",
+    "playcount": "3249",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro (Beethoven Allegro)",
+          "url": "https://www.last.fm/music/Root/_/Intro+(Beethoven+Allegro)",
+          "duration": "48",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Litanie K Satanovi",
+          "url": "https://www.last.fm/music/Root/_/Litanie+K+Satanovi",
+          "duration": "148",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Sedm jezdců",
+          "url": "https://www.last.fm/music/Root/_/Sedm+jezdc%C5%AF",
+          "duration": "223",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Píseň pro Satana",
+          "url": "https://www.last.fm/music/Root/_/P%C3%ADse%C5%88+pro+Satana",
+          "duration": "215",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Hřbitov",
+          "url": "https://www.last.fm/music/Root/_/H%C5%99bitov",
+          "duration": "226",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "7 synů satana",
+          "url": "https://www.last.fm/music/Root/_/7+syn%C5%AF+satana",
+          "duration": "218",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "... A Země Se Otevřela",
+          "url": "https://www.last.fm/music/Root/_/...+A+Zem%C4%9B+Se+Otev%C5%99ela",
+          "duration": "287",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Král Dogra",
+          "url": "https://www.last.fm/music/Root/_/Kr%C3%A1l+Dogra",
+          "duration": "354",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Volání O Pomoc",
+          "url": "https://www.last.fm/music/Root/_/Vol%C3%A1n%C3%AD+O+Pomoc",
+          "duration": "627",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Dogrova říše",
+          "url": "https://www.last.fm/music/Root/_/Dogrova+%C5%99%C3%AD%C5%A1e",
+          "duration": "179",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Intro (Příchod Poslů)",
+          "url": "https://www.last.fm/music/Root/_/Intro+(P%C5%99%C3%ADchod+Posl%C5%AF)",
+          "duration": "113",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Rootanův pochod",
+          "url": "https://www.last.fm/music/Root/_/Rootan%C5%AFv+pochod",
+          "duration": "89",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Poslové Z Temnot",
+          "url": "https://www.last.fm/music/Root/_/Poslov%C3%A9+Z+Temnot",
+          "duration": "197",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Útěk a trest",
+          "url": "https://www.last.fm/music/Root/_/%C3%9At%C4%9Bk+a+trest",
+          "duration": "79",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "666",
+          "url": "https://www.last.fm/music/Root/_/666",
+          "duration": "265",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Stín prokletí",
+          "url": "https://www.last.fm/music/Root/_/St%C3%ADn+proklet%C3%AD",
+          "duration": "324",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Otvírání hrobu",
+          "url": "https://www.last.fm/music/Root/_/Otv%C3%ADr%C3%A1n%C3%AD+hrobu",
+          "duration": "41",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Prázdný Hrob",
+          "url": "https://www.last.fm/music/Root/_/Pr%C3%A1zdn%C3%BD+Hrob",
+          "duration": "439",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Zrození Rootanova syna",
+          "url": "https://www.last.fm/music/Root/_/Zrozen%C3%AD+Rootanova+syna",
+          "duration": "18",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Root/_/Outro",
+          "duration": "38",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Procitnutí",
+          "url": "https://www.last.fm/music/Root/_/Procitnut%C3%AD",
+          "duration": "162",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Soud",
+          "url": "https://www.last.fm/music/Root/_/Soud",
+          "duration": "297",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Zjevení",
+          "url": "https://www.last.fm/music/Root/_/Zjeven%C3%AD",
+          "duration": "274",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Aralyon",
+          "url": "https://www.last.fm/music/Root/_/Aralyon",
+          "duration": "189",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Výslech",
+          "url": "https://www.last.fm/music/Root/_/V%C3%BDslech",
+          "duration": "76",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Upálení",
+          "url": "https://www.last.fm/music/Root/_/Up%C3%A1len%C3%AD",
+          "duration": "244",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Cesta Zkázy",
+          "url": "https://www.last.fm/music/Root/_/Cesta+Zk%C3%A1zy",
+          "duration": "395",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Procitnutí 2",
+          "url": "https://www.last.fm/music/Root/_/Procitnut%C3%AD+2",
+          "duration": "99",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "... A Země Se Otevřela",
+          "url": "https://www.last.fm/music/Root/_/...+A+Zem%C4%9B+Se+Otev%C5%99ela",
+          "duration": "287",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Píseň Pro Rootana",
+          "url": "https://www.last.fm/music/Root/_/P%C3%ADse%C5%88+Pro+Rootana",
+          "duration": "250",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "7 černých jezdců",
+          "url": "https://www.last.fm/music/Root/_/7+%C4%8Dern%C3%BDch+jezdc%C5%AF",
+          "duration": "182",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Volání O Pomoc",
+          "url": "https://www.last.fm/music/Root/_/Vol%C3%A1n%C3%AD+O+Pomoc",
+          "duration": "627",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        },
+        {
+          "name": "Hřbitov",
+          "url": "https://www.last.fm/music/Root/_/H%C5%99bitov",
+          "duration": "226",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Root",
+            "mbid": "f2ac51c7-0d5e-405c-891f-62319f37c536",
+            "url": "https://www.last.fm/music/Root"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:42:10.772Z"
+}

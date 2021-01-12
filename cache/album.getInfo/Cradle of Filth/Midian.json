@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Midian",
+    "artist": "Cradle of Filth",
+    "mbid": "78a9253e-0fbc-4aff-ade7-774da2756eb2",
+    "url": "https://www.last.fm/music/Cradle+of+Filth/Midian",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80851305d15888d28074fe9a3eba851d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80851305d15888d28074fe9a3eba851d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80851305d15888d28074fe9a3eba851d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80851305d15888d28074fe9a3eba851d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80851305d15888d28074fe9a3eba851d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80851305d15888d28074fe9a3eba851d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "173972",
+    "playcount": "3081202",
+    "tracks": {
+      "track": [
+        {
+          "name": "At the Gates of Midian",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/At+the+Gates+of+Midian",
+          "duration": "141",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Cthulhu Dawn",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Cthulhu+Dawn",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Saffron's Curse",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Saffron%27s+Curse",
+          "duration": "393",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Death Magick for Adepts",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Death+Magick+for+Adepts",
+          "duration": "354",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Lord Abortion",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Lord+Abortion",
+          "duration": "412",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Amor E Morte",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Amor+E+Morte",
+          "duration": "404",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Creatures That Kissed in Cold Mirrors",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Creatures+That+Kissed+in+Cold+Mirrors",
+          "duration": "181",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Her Ghost in the Fog",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Her+Ghost+in+the+Fog",
+          "duration": "453",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Satanic Mantra",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Satanic+Mantra",
+          "duration": "51",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Tearing the Veil from Grace",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Tearing+the+Veil+from+Grace",
+          "duration": "493",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        },
+        {
+          "name": "Tortured Soul Asylum",
+          "url": "https://www.last.fm/music/Cradle+of+Filth/_/Tortured+Soul+Asylum",
+          "duration": "467",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cradle of Filth",
+            "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+            "url": "https://www.last.fm/music/Cradle+of+Filth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "Gothic Metal",
+          "url": "https://www.last.fm/tag/Gothic+Metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Sep 2010, 16:46",
+      "summary": "Midian is the fourth studio album by Cradle of Filth, released on Halloween 2000. At the time it was considered their most commercial and accessible album to date. It is inspired by Clive Barker's novel Cabal and his subsequent film version Nightbreed, and Doug Bradley - who had a small role in the film but is better known as Pinhead from Barker's Hellraiser and its sequels — provides narration on some tracks. While keyboards remain prominent, Midian is more guitar-oriented than its predecessors. The cover art was created by JK Potter. <a href=\"http://www.last.fm/music/Cradle+of+Filth/Midian\">Read more on Last.fm</a>.",
+      "content": "Midian is the fourth studio album by Cradle of Filth, released on Halloween 2000. At the time it was considered their most commercial and accessible album to date. It is inspired by Clive Barker's novel Cabal and his subsequent film version Nightbreed, and Doug Bradley - who had a small role in the film but is better known as Pinhead from Barker's Hellraiser and its sequels — provides narration on some tracks. While keyboards remain prominent, Midian is more guitar-oriented than its predecessors. The cover art was created by JK Potter. <a href=\"http://www.last.fm/music/Cradle+of+Filth/Midian\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:48:45.639Z"
+}

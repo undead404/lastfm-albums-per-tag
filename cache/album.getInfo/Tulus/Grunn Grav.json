@@ -1,0 +1,69 @@
+{
+  "album": {
+    "name": "Grunn Grav",
+    "artist": "Tulus",
+    "url": "https://www.last.fm/music/Tulus/Grunn+Grav",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/343b5657f2973ec90be6ce84d2faafee.png",
+        "size": ""
+      }
+    ],
+    "listeners": "126",
+    "playcount": "226",
+    "tracks": {
+      "track": [
+        {
+          "name": "Grunn Grav",
+          "url": "https://www.last.fm/music/Tulus/_/Grunn+Grav",
+          "duration": "166",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Tulus",
+            "mbid": "704371d3-c46f-484c-bbcc-5bc9ddd22c8d",
+            "url": "https://www.last.fm/music/Tulus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:33:23.016Z"
+}

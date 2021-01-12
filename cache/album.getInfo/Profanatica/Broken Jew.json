@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Broken Jew",
+    "artist": "Profanatica",
+    "mbid": "559b52af-f253-421a-8e13-7cb569ea2c02",
+    "url": "https://www.last.fm/music/Profanatica/Broken+Jew",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3bc8c13abd164628a3c1565d0eef90b8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "258",
+    "playcount": "1521",
+    "tracks": {
+      "track": [
+        {
+          "name": "Broken Jew",
+          "url": "https://www.last.fm/music/Profanatica/_/Broken+Jew",
+          "duration": "189",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanatica",
+            "mbid": "9c55a73f-bbc2-4e50-8b5b-6aca01296694",
+            "url": "https://www.last.fm/music/Profanatica"
+          }
+        },
+        {
+          "name": "Fuck the Messiah",
+          "url": "https://www.last.fm/music/Profanatica/_/Fuck+the+Messiah",
+          "duration": "186",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Profanatica",
+            "mbid": "9c55a73f-bbc2-4e50-8b5b-6aca01296694",
+            "url": "https://www.last.fm/music/Profanatica"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:58:24.227Z"
+}

@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "Urban Negativism",
+    "artist": "Vanhelga",
+    "url": "https://www.last.fm/music/Vanhelga/Urban+Negativism",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/667e6f65605248cbc8bd991e0d8bebd2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "505",
+    "playcount": "5695",
+    "tracks": {
+      "track": [
+        {
+          "name": "Through My Veins",
+          "url": "https://www.last.fm/music/Vanhelga/_/Through+My+Veins",
+          "duration": "182",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Depraverad Avsky",
+          "url": "https://www.last.fm/music/Vanhelga/_/Depraverad+Avsky",
+          "duration": "420",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        },
+        {
+          "name": "Resignation",
+          "url": "https://www.last.fm/music/Vanhelga/_/Resignation",
+          "duration": "283",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vanhelga",
+            "mbid": "20365b56-cd76-4f49-8e1d-87251724bbd8",
+            "url": "https://www.last.fm/music/Vanhelga"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "depressive rock",
+          "url": "https://www.last.fm/tag/depressive+rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:51:10.083Z"
+}

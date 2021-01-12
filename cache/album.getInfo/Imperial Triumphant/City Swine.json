@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "City Swine",
+    "artist": "Imperial Triumphant",
+    "url": "https://www.last.fm/music/Imperial+Triumphant/City+Swine",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ce257d334c857381a1d08fbcf2ade9dc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1496",
+    "playcount": "2735",
+    "tracks": {
+      "track": [
+        {
+          "name": "City Swine",
+          "url": "https://www.last.fm/music/Imperial+Triumphant/_/City+Swine",
+          "duration": "417",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperial Triumphant",
+            "mbid": "d475788f-837d-4f96-9eec-2f5e32d7d163",
+            "url": "https://www.last.fm/music/Imperial+Triumphant"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:45:39.811Z"
+}

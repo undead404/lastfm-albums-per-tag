@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "kicks",
+    "artist": "Aska",
+    "mbid": "d77474e2-c375-4bfe-a103-d8f8b7344524",
+    "url": "https://www.last.fm/music/Aska/kicks",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8e941bb56f54a39bce0ca46d5624fe4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "260",
+    "playcount": "13609",
+    "tracks": {
+      "track": [
+        {
+          "name": "No Way",
+          "url": "https://www.last.fm/music/Aska/_/No+Way",
+          "duration": "357",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Girl",
+          "url": "https://www.last.fm/music/Aska/_/Girl",
+          "duration": "301",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Now",
+          "url": "https://www.last.fm/music/Aska/_/Now",
+          "duration": "286",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "In My Circle",
+          "url": "https://www.last.fm/music/Aska/_/In+My+Circle",
+          "duration": "320",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "遊星",
+          "url": "https://www.last.fm/music/Aska/_/%E9%81%8A%E6%98%9F",
+          "duration": "272",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "馬を下りた王様",
+          "url": "https://www.last.fm/music/Aska/_/%E9%A6%AC%E3%82%92%E4%B8%8B%E3%82%8A%E3%81%9F%E7%8E%8B%E6%A7%98",
+          "duration": "257",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "同じ時代を",
+          "url": "https://www.last.fm/music/Aska/_/%E5%90%8C%E3%81%98%E6%99%82%E4%BB%A3%E3%82%92",
+          "duration": "241",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Tattoo",
+          "url": "https://www.last.fm/music/Aska/_/Tattoo",
+          "duration": "277",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Kicks Street",
+          "url": "https://www.last.fm/music/Aska/_/Kicks+Street",
+          "duration": "265",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "花は咲いたか",
+          "url": "https://www.last.fm/music/Aska/_/%E8%8A%B1%E3%81%AF%E5%92%B2%E3%81%84%E3%81%9F%E3%81%8B",
+          "duration": "262",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "Girl (Another)",
+          "url": "https://www.last.fm/music/Aska/_/Girl+(Another)",
+          "duration": "94",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:41.082Z"
+}

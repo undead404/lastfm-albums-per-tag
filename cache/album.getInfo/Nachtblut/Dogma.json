@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Dogma",
+    "artist": "Nachtblut",
+    "mbid": "11824c51-4dbd-4f4e-a9ad-4c489d6c9db5",
+    "url": "https://www.last.fm/music/Nachtblut/Dogma",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a58ea3d0caa4417c489b04c0ecdeea9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2191",
+    "playcount": "66796",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dogma",
+          "url": "https://www.last.fm/music/Nachtblut/_/Dogma",
+          "duration": "230",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Der Weg Ist Das Ziel",
+          "url": "https://www.last.fm/music/Nachtblut/_/Der+Weg+Ist+Das+Ziel",
+          "duration": "274",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Ich trinke Blut",
+          "url": "https://www.last.fm/music/Nachtblut/_/Ich+trinke+Blut",
+          "duration": "249",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Eiskönigin",
+          "url": "https://www.last.fm/music/Nachtblut/_/Eisk%C3%B6nigin",
+          "duration": "228",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Rache",
+          "url": "https://www.last.fm/music/Nachtblut/_/Rache",
+          "duration": "317",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Mein Herz In Ihren Händen",
+          "url": "https://www.last.fm/music/Nachtblut/_/Mein+Herz+In+Ihren+H%C3%A4nden",
+          "duration": "281",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Mordlust",
+          "url": "https://www.last.fm/music/Nachtblut/_/Mordlust",
+          "duration": "245",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Macht",
+          "url": "https://www.last.fm/music/Nachtblut/_/Macht",
+          "duration": "279",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Bußsakrament",
+          "url": "https://www.last.fm/music/Nachtblut/_/Bu%C3%9Fsakrament",
+          "duration": "312",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Vulva",
+          "url": "https://www.last.fm/music/Nachtblut/_/Vulva",
+          "duration": "277",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Die Schritte",
+          "url": "https://www.last.fm/music/Nachtblut/_/Die+Schritte",
+          "duration": "286",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        },
+        {
+          "name": "dark wave",
+          "url": "https://www.last.fm/tag/dark+wave"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:40:24.887Z"
+}

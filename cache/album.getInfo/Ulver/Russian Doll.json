@@ -1,0 +1,65 @@
+{
+  "album": {
+    "name": "Russian Doll",
+    "artist": "Ulver",
+    "url": "https://www.last.fm/music/Ulver/Russian+Doll",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/323b4137863ff0e1afecbb417122f4cf.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11730",
+    "playcount": "47247",
+    "tracks": {
+      "track": [
+        {
+          "name": "Russian Doll",
+          "url": "https://www.last.fm/music/Ulver/_/Russian+Doll",
+          "duration": "243",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:10.470Z"
+}

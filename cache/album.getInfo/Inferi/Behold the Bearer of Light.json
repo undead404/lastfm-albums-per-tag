@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Behold the Bearer of Light",
+    "artist": "Inferi",
+    "url": "https://www.last.fm/music/Inferi/Behold+the+Bearer+of+Light",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c011ce0796dbaa36623d7533e29d9be.png",
+        "size": ""
+      }
+    ],
+    "listeners": "970",
+    "playcount": "3011",
+    "tracks": {
+      "track": [
+        {
+          "name": "Behold the Bearer of Light",
+          "url": "https://www.last.fm/music/Inferi/_/Behold+the+Bearer+of+Light",
+          "duration": "391",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferi",
+            "mbid": "7408e3bd-87a9-41f5-be26-05c3777fa97b",
+            "url": "https://www.last.fm/music/Inferi"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:19.355Z"
+}

@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Defiance",
+    "artist": "Deströyer 666",
+    "mbid": "7543d45b-640e-4023-8a43-cf09b7ffc264",
+    "url": "https://www.last.fm/music/Destr%C3%B6yer+666/Defiance",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ec3eb80be024b9d80c0fe937cef2e5c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "13634",
+    "playcount": "418098",
+    "tracks": {
+      "track": [
+        {
+          "name": "Weapons of Conquest",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Weapons+of+Conquest",
+          "duration": "183",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "I Am Not Deceived",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/I+Am+Not+Deceived",
+          "duration": "277",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Blood for Blood",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Blood+for+Blood",
+          "duration": "314",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "The Barricades Are Breaking",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/The+Barricades+Are+Breaking",
+          "duration": "218",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "A Stand Defiant",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/A+Stand+Defiant",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Path to Conflict",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Path+to+Conflict",
+          "duration": "277",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "A Thousand Plagues",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/A+Thousand+Plagues",
+          "duration": "264",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Human All Too Human",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Human+All+Too+Human",
+          "duration": "364",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        },
+        {
+          "name": "Sermon to the Dead",
+          "url": "https://www.last.fm/music/Destr%C3%B6yer+666/_/Sermon+to+the+Dead",
+          "duration": "304",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Deströyer 666",
+            "mbid": "18b25143-dd86-4170-afed-7a7970310d1c",
+            "url": "https://www.last.fm/music/Destr%C3%B6yer+666"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "best of 2009",
+          "url": "https://www.last.fm/tag/best+of+2009"
+        },
+        {
+          "name": "blackened thrash metal",
+          "url": "https://www.last.fm/tag/blackened+thrash+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:44.115Z"
+}

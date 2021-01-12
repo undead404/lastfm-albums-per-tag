@@ -1,0 +1,239 @@
+{
+  "album": {
+    "name": "Eonian",
+    "artist": "Dimmu Borgir",
+    "url": "https://www.last.fm/music/Dimmu+Borgir/Eonian",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/95c8ad03b7f550b59701b1dfd0b4525a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "36342",
+    "playcount": "800087",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Unveiling",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Unveiling",
+          "duration": "347",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Interdimensional Summit",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Interdimensional+Summit",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "ÆTheric",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/%C3%86Theric",
+          "duration": "327",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Council of Wolves and Snakes",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Council+of+Wolves+and+Snakes",
+          "duration": "319",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "The Empyrean Phoenix",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/The+Empyrean+Phoenix",
+          "duration": "284",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Lightbringer",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Lightbringer",
+          "duration": "366",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "I Am Sovereign",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/I+Am+Sovereign",
+          "duration": "408",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Archaic Correspondence",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Archaic+Correspondence",
+          "duration": "295",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Alpha Aeon Omega",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Alpha+Aeon+Omega",
+          "duration": "318",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        },
+        {
+          "name": "Rite of Passage",
+          "url": "https://www.last.fm/music/Dimmu+Borgir/_/Rite+of+Passage",
+          "duration": "316",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dimmu Borgir",
+            "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+            "url": "https://www.last.fm/music/Dimmu+Borgir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "symphonic metal",
+          "url": "https://www.last.fm/tag/symphonic+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "pop punk",
+          "url": "https://www.last.fm/tag/pop+punk"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 May 2018, 10:16",
+      "summary": "Eonian is the tenth studio album by Norwegian black metal band Dimmu Borgir, which was released on May 4, 2018.\nProduction of Eonian originally started at least in 2012 but faced many delays for years after. However, it was given an eventual Official release date of May 4, 2018, which ended up being their first original studio album in nearly 8 years following 2010's Abrahadabra. The band self-produced the album while the engineering was handled by Jens Bogren. <a href=\"http://www.last.fm/music/Dimmu+Borgir/Eonian\">Read more on Last.fm</a>.",
+      "content": "Eonian is the tenth studio album by Norwegian black metal band Dimmu Borgir, which was released on May 4, 2018.\nProduction of Eonian originally started at least in 2012 but faced many delays for years after. However, it was given an eventual Official release date of May 4, 2018, which ended up being their first original studio album in nearly 8 years following 2010's Abrahadabra. The band self-produced the album while the engineering was handled by Jens Bogren. Dimmu Borgir had to re-sign to their current label Nuclear Blast and reflect on communication during the eight year gap. During this gap, three of the band members became fathers and focused on their family life. When describing the album's sound, Silenoz stated that the symphonic metal parts are more symphonic while the black metal sound of Dimmu is more black metal this time around. In April, Dimmu Borgir announced limited tour dates for the month of August 2018 with the band playing shows in Las Vegas, Chicago, Toronto, and New York City. \n\nThe first single from the album, 'Interdimensional Summit' was released on February 23, 2018 on 7 inch vinyl with an accompanying promotional video. The song received a mixed reception from fans due to its inclusion of folk metal elements to the music. The second single, 'Council of Wolves and Snakes' was released on March 30, 2018 with an accompanying music video.\n <a href=\"http://www.last.fm/music/Dimmu+Borgir/Eonian\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:49:21.034Z"
+}

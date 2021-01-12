@@ -1,0 +1,267 @@
+{
+  "album": {
+    "name": "Hibakusha",
+    "artist": "Inferno",
+    "url": "https://www.last.fm/music/Inferno/Hibakusha",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38e95eb6acdc458f0daaf18e58b5a372.png",
+        "size": ""
+      }
+    ],
+    "listeners": "104",
+    "playcount": "2052",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hibakusha",
+          "url": "https://www.last.fm/music/Inferno/_/Hibakusha",
+          "duration": "157",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Ein Glücklicher Narr",
+          "url": "https://www.last.fm/music/Inferno/_/Ein+Gl%C3%BCcklicher+Narr",
+          "duration": "126",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Ich Liebe Nur Mich",
+          "url": "https://www.last.fm/music/Inferno/_/Ich+Liebe+Nur+Mich",
+          "duration": "189",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Dein Bester Freund",
+          "url": "https://www.last.fm/music/Inferno/_/Dein+Bester+Freund",
+          "duration": "131",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Des Wahnsinns fette Beute",
+          "url": "https://www.last.fm/music/Inferno/_/Des+Wahnsinns+fette+Beute",
+          "duration": "148",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "7 Jahre",
+          "url": "https://www.last.fm/music/Inferno/_/7+Jahre",
+          "duration": "86",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Ein Tag Im Schatten",
+          "url": "https://www.last.fm/music/Inferno/_/Ein+Tag+Im+Schatten",
+          "duration": "167",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Es reicht",
+          "url": "https://www.last.fm/music/Inferno/_/Es+reicht",
+          "duration": "195",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Das Spiel Der Grossen",
+          "url": "https://www.last.fm/music/Inferno/_/Das+Spiel+Der+Grossen",
+          "duration": "112",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "VVV",
+          "url": "https://www.last.fm/music/Inferno/_/VVV",
+          "duration": "160",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Deine Rache Kommt",
+          "url": "https://www.last.fm/music/Inferno/_/Deine+Rache+Kommt",
+          "duration": "82",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Macht das Spaß",
+          "url": "https://www.last.fm/music/Inferno/_/Macht+das+Spa%C3%9F",
+          "duration": "212",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "Gewußt Wie",
+          "url": "https://www.last.fm/music/Inferno/_/Gewu%C3%9Ft+Wie",
+          "duration": "130",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        },
+        {
+          "name": "No one rules!",
+          "url": "https://www.last.fm/music/Inferno/_/No+one+rules%21",
+          "duration": "152",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inferno",
+            "url": "https://www.last.fm/music/Inferno"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:36:45.740Z"
+}

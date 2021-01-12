@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Demo",
+    "artist": "Kvist",
+    "url": "https://www.last.fm/music/Kvist/Demo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c50cbbd62e05b97cfe3ee90a9d2d41d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "319",
+    "playcount": "2483",
+    "tracks": {
+      "track": [
+        {
+          "name": "Forbannet Være Jorden Jeg Går På",
+          "url": "https://www.last.fm/music/Kvist/_/Forbannet+V%C3%A6re+Jorden+Jeg+G%C3%A5r+P%C3%A5",
+          "duration": "351",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Mørk, Skjebnesvanger Og Erotisk Lokkende",
+          "url": "https://www.last.fm/music/Kvist/_/M%C3%B8rk,+Skjebnesvanger+Og+Erotisk+Lokkende",
+          "duration": "252",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Svartedal",
+          "url": "https://www.last.fm/music/Kvist/_/Svartedal",
+          "duration": "222",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        },
+        {
+          "name": "Vettenetter",
+          "url": "https://www.last.fm/music/Kvist/_/Vettenetter",
+          "duration": "364",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kvist",
+            "mbid": "6b93e809-9221-4979-b6a8-854e58c2067e",
+            "url": "https://www.last.fm/music/Kvist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:36:11.421Z"
+}

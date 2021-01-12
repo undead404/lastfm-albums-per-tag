@@ -1,0 +1,300 @@
+{
+  "album": {
+    "name": "Revolution, I Think It's Called Inspiration",
+    "artist": "Inquisition",
+    "mbid": "c375f219-aafd-47ef-95bf-756f714eac96",
+    "url": "https://www.last.fm/music/Inquisition/Revolution,+I+Think+It%27s+Called+Inspiration",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7172e2b66ee12e0e977d210afd145065.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7172e2b66ee12e0e977d210afd145065.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7172e2b66ee12e0e977d210afd145065.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7172e2b66ee12e0e977d210afd145065.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7172e2b66ee12e0e977d210afd145065.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7172e2b66ee12e0e977d210afd145065.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1576",
+    "playcount": "24554",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pulse",
+          "url": "https://www.last.fm/music/Inquisition/_/Pulse",
+          "duration": "175",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Mute",
+          "url": "https://www.last.fm/music/Inquisition/_/Mute",
+          "duration": "160",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Fuse",
+          "url": "https://www.last.fm/music/Inquisition/_/Fuse",
+          "duration": "83",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Idle Kids",
+          "url": "https://www.last.fm/music/Inquisition/_/Idle+Kids",
+          "duration": "174",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Hotel X (Idle Kids Part Two)",
+          "url": "https://www.last.fm/music/Inquisition/_/Hotel+X+(Idle+Kids+Part+Two)",
+          "duration": "104",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Warning",
+          "url": "https://www.last.fm/music/Inquisition/_/Warning",
+          "duration": "161",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Uproar",
+          "url": "https://www.last.fm/music/Inquisition/_/Uproar",
+          "duration": "197",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "We Got a Bomb",
+          "url": "https://www.last.fm/music/Inquisition/_/We+Got+a+Bomb",
+          "duration": "217",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Open Letter",
+          "url": "https://www.last.fm/music/Inquisition/_/Open+Letter",
+          "duration": "204",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Strike Anywhere",
+          "url": "https://www.last.fm/music/Inquisition/_/Strike+Anywhere",
+          "duration": "181",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Doubting Thomas",
+          "url": "https://www.last.fm/music/Inquisition/_/Doubting+Thomas",
+          "duration": "228",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Greta Brickman vs. The City",
+          "url": "https://www.last.fm/music/Inquisition/_/Greta+Brickman+vs.+The+City",
+          "duration": "160",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Copsong",
+          "url": "https://www.last.fm/music/Inquisition/_/Copsong",
+          "duration": "279",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        },
+        {
+          "name": "Bulletproof / Hungry Like a Wolf",
+          "url": "https://www.last.fm/music/Inquisition/_/Bulletproof+%2F+Hungry+Like+a+Wolf",
+          "duration": "416",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Inquisition",
+            "mbid": "8e996c1a-c3bc-4ab1-83a8-a7fa07511685",
+            "url": "https://www.last.fm/music/Inquisition"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "punk rock",
+          "url": "https://www.last.fm/tag/punk+rock"
+        },
+        {
+          "name": "not black metal",
+          "url": "https://www.last.fm/tag/not+black+metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Nov 2008, 00:45",
+      "summary": "Inquisition RVA originally released this album on Florida label Pop a Wheelie Records.\nThis is actually the second full length from the band, the other being \"The Broken Songs\" which was self released. <a href=\"http://www.last.fm/music/Inquisition/Revolution,+I+Think+It%27s+Called+Inspiration\">Read more on Last.fm</a>.",
+      "content": "Inquisition RVA originally released this album on Florida label Pop a Wheelie Records.\nThis is actually the second full length from the band, the other being \"The Broken Songs\" which was self released. <a href=\"http://www.last.fm/music/Inquisition/Revolution,+I+Think+It%27s+Called+Inspiration\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:10:55.734Z"
+}

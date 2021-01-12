@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Crushing Some Belgian Scum",
+    "artist": "Nargaroth",
+    "mbid": "423eb792-d705-4c61-affd-77edcd9a65f6",
+    "url": "https://www.last.fm/music/Nargaroth/Crushing+Some+Belgian+Scum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aed138fe5673418aaf7eb0130766d7e0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2150",
+    "playcount": "16088",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Metal ist Krieg",
+          "url": "https://www.last.fm/music/Nargaroth/_/Black+Metal+ist+Krieg",
+          "duration": "303",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Possessed by Black Fucking Metal",
+          "url": "https://www.last.fm/music/Nargaroth/_/Possessed+by+Black+Fucking+Metal",
+          "duration": "394",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "I Burn for You",
+          "url": "https://www.last.fm/music/Nargaroth/_/I+Burn+for+You",
+          "duration": "178",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Von Traum Die Meschheit Zu Töten",
+          "url": "https://www.last.fm/music/Nargaroth/_/Von+Traum+Die+Meschheit+Zu+T%C3%B6ten",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:19:09.968Z"
+}

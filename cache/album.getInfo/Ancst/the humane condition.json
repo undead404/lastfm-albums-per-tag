@@ -1,0 +1,99 @@
+{
+  "album": {
+    "name": "the humane condition",
+    "artist": "Ancst",
+    "mbid": "ec854eaa-6fde-40e4-992d-1dd46295b3df",
+    "url": "https://www.last.fm/music/Ancst/the+humane+condition",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6f378b90895038c0ded3d64964f13afa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6f378b90895038c0ded3d64964f13afa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6f378b90895038c0ded3d64964f13afa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f378b90895038c0ded3d64964f13afa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f378b90895038c0ded3d64964f13afa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f378b90895038c0ded3d64964f13afa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "422",
+    "playcount": "2910",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ascetic",
+          "url": "https://www.last.fm/music/Ancst/_/Ascetic",
+          "duration": "388",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        },
+        {
+          "name": "Entropie",
+          "url": "https://www.last.fm/music/Ancst/_/Entropie",
+          "duration": "335",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "hardcore",
+          "url": "https://www.last.fm/tag/hardcore"
+        },
+        {
+          "name": "german",
+          "url": "https://www.last.fm/tag/german"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:58:57.794Z"
+}

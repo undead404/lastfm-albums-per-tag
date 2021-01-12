@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "The Dust & Darkness",
+    "artist": "Black Funeral",
+    "url": "https://www.last.fm/music/Black+Funeral/The+Dust+&+Darkness",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "13",
+    "playcount": "73",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dankuis Daganzipas (Dark Earth)",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Dankuis+Daganzipas+(Dark+Earth)",
+          "duration": "302",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Alanni Goddes Of The Underworld",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Alanni+Goddes+Of+The+Underworld",
+          "duration": "204",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Kemosh Of The Dust And Darkness",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Kemosh+Of+The+Dust+And+Darkness",
+          "duration": "222",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Mistress of the Pit",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Mistress+of+the+Pit",
+          "duration": "242",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:50:59.426Z"
+}

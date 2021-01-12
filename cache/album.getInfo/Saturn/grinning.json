@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "grinning",
+    "artist": "Saturn",
+    "url": "https://www.last.fm/music/Saturn/grinning",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db2a75bef7a4d2d418a262cfcdada749.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2314",
+    "playcount": "16186",
+    "tracks": {
+      "track": [
+        {
+          "name": "grinning",
+          "url": "https://www.last.fm/music/Saturn/_/grinning",
+          "duration": "145",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Saturn",
+            "mbid": "a44efa31-2056-4582-bd0f-5cc4ad3f0336",
+            "url": "https://www.last.fm/music/Saturn"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:44:58.133Z"
+}

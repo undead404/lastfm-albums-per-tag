@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Back To Hell",
+    "artist": "Nazgul",
+    "url": "https://www.last.fm/music/Nazgul/Back+To+Hell",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d932f47310c747b490a38f61738a009f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d932f47310c747b490a38f61738a009f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d932f47310c747b490a38f61738a009f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d932f47310c747b490a38f61738a009f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d932f47310c747b490a38f61738a009f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d932f47310c747b490a38f61738a009f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "540",
+    "playcount": "1356",
+    "tracks": {
+      "track": [
+        {
+          "name": "Back To Hell - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Back+To+Hell+-+Original+Mix",
+          "duration": "444",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Gran Michelet - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Gran+Michelet+-+Original+Mix",
+          "duration": "369",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Possessed Robot - Original Mix",
+          "url": "https://www.last.fm/music/Nazgul/_/Possessed+Robot+-+Original+Mix",
+          "duration": "415",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:08:36.044Z"
+}

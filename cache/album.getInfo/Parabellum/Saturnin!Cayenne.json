@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Saturnin/Cayenne",
+    "artist": "Parabellum",
+    "url": "https://www.last.fm/music/Parabellum/Saturnin%2FCayenne",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "83",
+    "playcount": "264",
+    "tracks": {
+      "track": [
+        {
+          "name": "Saturnin",
+          "url": "https://www.last.fm/music/Parabellum/_/Saturnin",
+          "duration": "165",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Cayenne",
+          "url": "https://www.last.fm/music/Parabellum/_/Cayenne",
+          "duration": "273",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:46:12.724Z"
+}

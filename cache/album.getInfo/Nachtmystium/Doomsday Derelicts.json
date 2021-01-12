@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Doomsday Derelicts",
+    "artist": "Nachtmystium",
+    "mbid": "ac90f2c9-a0b7-43bd-92ef-e2756dcf6031",
+    "url": "https://www.last.fm/music/Nachtmystium/Doomsday+Derelicts",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f944e7fdb8a149159b0c62d40fbb7b31.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3941",
+    "playcount": "52599",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bones",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Bones",
+          "duration": "170",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Life of Fire",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Life+of+Fire",
+          "duration": "244",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Hellish Overdose",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Hellish+Overdose",
+          "duration": "304",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        },
+        {
+          "name": "Pitch Black Cadence",
+          "url": "https://www.last.fm/music/Nachtmystium/_/Pitch+Black+Cadence",
+          "duration": "279",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtmystium",
+            "mbid": "7b8d0768-7bef-4c01-ba61-1150e72b49bc",
+            "url": "https://www.last.fm/music/Nachtmystium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "not owned",
+          "url": "https://www.last.fm/tag/not+owned"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:22:18.251Z"
+}

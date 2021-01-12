@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Black Rites in the Black Nights",
+    "artist": "Vreid",
+    "url": "https://www.last.fm/music/Vreid/Black+Rites+in+the+Black+Nights",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8da02796533049b7329d832866e6f07f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8da02796533049b7329d832866e6f07f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8da02796533049b7329d832866e6f07f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8da02796533049b7329d832866e6f07f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8da02796533049b7329d832866e6f07f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8da02796533049b7329d832866e6f07f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3996",
+    "playcount": "11009",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Rites in the Black Nights",
+          "url": "https://www.last.fm/music/Vreid/_/Black+Rites+in+the+Black+Nights",
+          "duration": "386",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vreid",
+            "mbid": "cc35096c-fce2-4c1e-aa07-a223f612de67",
+            "url": "https://www.last.fm/music/Vreid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:38:36.173Z"
+}

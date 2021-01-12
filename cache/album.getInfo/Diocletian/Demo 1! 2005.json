@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Demo 1: 2005",
+    "artist": "Diocletian",
+    "url": "https://www.last.fm/music/Diocletian/Demo+1:+2005",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f9afcedeb914a2bec15ff45f89ba23.png",
+        "size": ""
+      }
+    ],
+    "listeners": "28",
+    "playcount": "208",
+    "tracks": {
+      "track": [
+        {
+          "name": "Annihilation Ritual",
+          "url": "https://www.last.fm/music/Diocletian/_/Annihilation+Ritual",
+          "duration": "343",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Infinite Destruction",
+          "url": "https://www.last.fm/music/Diocletian/_/Infinite+Destruction",
+          "duration": "381",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Doom Cult",
+          "url": "https://www.last.fm/music/Diocletian/_/Doom+Cult",
+          "duration": "191",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Annihilation Ritual",
+          "url": "https://www.last.fm/music/Diocletian/_/Annihilation+Ritual",
+          "duration": "343",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Infinite Destruction",
+          "url": "https://www.last.fm/music/Diocletian/_/Infinite+Destruction",
+          "duration": "381",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Doom Cult",
+          "url": "https://www.last.fm/music/Diocletian/_/Doom+Cult",
+          "duration": "191",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:44:32.157Z"
+}

@@ -1,0 +1,171 @@
+{
+  "album": {
+    "name": "Tenant",
+    "artist": "Ludicra",
+    "url": "https://www.last.fm/music/Ludicra/Tenant",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ce8b89aeab4f39280914cab538a9c2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1437",
+    "playcount": "11861",
+    "tracks": {
+      "track": [
+        {
+          "name": "Stagnant Pond",
+          "url": "https://www.last.fm/music/Ludicra/_/Stagnant+Pond",
+          "duration": "441",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "A Larger Silence",
+          "url": "https://www.last.fm/music/Ludicra/_/A+Larger+Silence",
+          "duration": "396",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "In Stable",
+          "url": "https://www.last.fm/music/Ludicra/_/In+Stable",
+          "duration": "353",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "The Undercaste",
+          "url": "https://www.last.fm/music/Ludicra/_/The+Undercaste",
+          "duration": "593",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Clean White Void",
+          "url": "https://www.last.fm/music/Ludicra/_/Clean+White+Void",
+          "duration": "317",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "Truth Won't Set You Free",
+          "url": "https://www.last.fm/music/Ludicra/_/Truth+Won%27t+Set+You+Free",
+          "duration": "556",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        },
+        {
+          "name": "The Tenant",
+          "url": "https://www.last.fm/music/Ludicra/_/The+Tenant",
+          "duration": "399",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ludicra",
+            "mbid": "6cdaf09d-ccd8-466f-8972-b5e9cb4c2f52",
+            "url": "https://www.last.fm/music/Ludicra"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:55:50.908Z"
+}

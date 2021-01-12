@@ -1,0 +1,82 @@
+{
+  "album": {
+    "name": "Likeim - Single",
+    "artist": "Carpathian Forest",
+    "url": "https://www.last.fm/music/Carpathian+Forest/Likeim+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dea3055bce33f3a1051525f60d5ae922.png",
+        "size": ""
+      }
+    ],
+    "listeners": "134",
+    "playcount": "596",
+    "tracks": {
+      "track": [
+        {
+          "name": "Likeim",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Likeim",
+          "duration": "165",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "All My Friends Are Dead [Explicit]",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/All+My+Friends+Are+Dead+%5BExplicit%5D",
+          "duration": "164",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:08:50.511Z"
+}

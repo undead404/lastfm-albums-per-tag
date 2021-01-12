@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "I Am The Storm",
+    "artist": "Ad Infinitum",
+    "url": "https://www.last.fm/music/Ad+Infinitum/I+Am+The+Storm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/064aa66aa6e775fec630cd7057d0e674.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2986",
+    "playcount": "13800",
+    "tracks": {
+      "track": [
+        {
+          "name": "I Am The Storm",
+          "url": "https://www.last.fm/music/Ad+Infinitum/_/I+Am+The+Storm",
+          "duration": "263",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Infinitum",
+            "mbid": "c8833923-20fc-4c3b-a77b-888e5b3d1deb",
+            "url": "https://www.last.fm/music/Ad+Infinitum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:20:23.068Z"
+}

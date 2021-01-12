@@ -1,0 +1,52 @@
+{
+  "album": {
+    "name": "Mocking the Philantrophist",
+    "artist": "Grand Belial's Key",
+    "mbid": "10c1e0fe-6b08-455d-9c19-3047a6fbd7b7",
+    "url": "https://www.last.fm/music/Grand+Belial%27s+Key/Mocking+the+Philantrophist",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/147e5e28e6e04ac24308ebf99b3216f4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "834",
+    "playcount": "26242",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        },
+        {
+          "name": "USBM",
+          "url": "https://www.last.fm/tag/USBM"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:29:05.001Z"
+}

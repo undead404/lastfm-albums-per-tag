@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Tod, Wo Bleibt Dein Frieden?",
+    "artist": "Karg",
+    "url": "https://www.last.fm/music/Karg/Tod,+Wo+Bleibt+Dein+Frieden%3F",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/032d8e70c335669982fc96be8811035d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/032d8e70c335669982fc96be8811035d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/032d8e70c335669982fc96be8811035d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/032d8e70c335669982fc96be8811035d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/032d8e70c335669982fc96be8811035d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/032d8e70c335669982fc96be8811035d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "524",
+    "playcount": "1373",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tod, wo bleibt dein Frieden",
+          "url": "https://www.last.fm/music/Karg/_/Tod,+wo+bleibt+dein+Frieden",
+          "duration": "464",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Karg",
+            "mbid": "e9087af4-bbf6-4d02-a4fe-8155d93cee77",
+            "url": "https://www.last.fm/music/Karg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:21:37.052Z"
+}

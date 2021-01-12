@@ -1,0 +1,200 @@
+{
+  "album": {
+    "name": "Til Et Annet...",
+    "artist": "Trelldom",
+    "url": "https://www.last.fm/music/Trelldom/Til+Et+Annet...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/afd95534e47a1675f273a0b0a5104eb0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11548",
+    "playcount": "113847",
+    "tracks": {
+      "track": [
+        {
+          "name": "Vender meg mot ett kommende",
+          "url": "https://www.last.fm/music/Trelldom/_/Vender+meg+mot+ett+kommende",
+          "duration": "221",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Slave til en kommende natt",
+          "url": "https://www.last.fm/music/Trelldom/_/Slave+til+en+kommende+natt",
+          "duration": "344",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Min død til ende",
+          "url": "https://www.last.fm/music/Trelldom/_/Min+d%C3%B8d+til+ende",
+          "duration": "300",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Til Et Annet...",
+          "url": "https://www.last.fm/music/Trelldom/_/Til+Et+Annet...",
+          "duration": "279",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Til is skal eg forbli",
+          "url": "https://www.last.fm/music/Trelldom/_/Til+is+skal+eg+forbli",
+          "duration": "248",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Svinfylking - til krig",
+          "url": "https://www.last.fm/music/Trelldom/_/Svinfylking+-+til+krig",
+          "duration": "332",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Høyt opp i dypet",
+          "url": "https://www.last.fm/music/Trelldom/_/H%C3%B8yt+opp+i+dypet",
+          "duration": "310",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        },
+        {
+          "name": "Sonar dreyri",
+          "url": "https://www.last.fm/music/Trelldom/_/Sonar+dreyri",
+          "duration": "649",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Trelldom",
+            "mbid": "58d4fa13-842b-44d4-a138-6e9a2bc43936",
+            "url": "https://www.last.fm/music/Trelldom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        },
+        {
+          "name": "90s",
+          "url": "https://www.last.fm/tag/90s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:35:25.738Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Abbadon",
+    "artist": "Aura Noir",
+    "url": "https://www.last.fm/music/Aura+Noir/Abbadon",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a7df73c7bba4f61cf32a652b5c5d702.png",
+        "size": ""
+      }
+    ],
+    "listeners": "520",
+    "playcount": "961",
+    "tracks": {
+      "track": [
+        {
+          "name": "Abbadon",
+          "url": "https://www.last.fm/music/Aura+Noir/_/Abbadon",
+          "duration": "242",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aura Noir",
+            "mbid": "3cfa1f83-4ef9-42d8-8ad9-0377a2c8fcbb",
+            "url": "https://www.last.fm/music/Aura+Noir"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:41:05.775Z"
+}

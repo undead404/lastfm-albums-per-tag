@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Wisdom Tusk",
+    "artist": "Forest",
+    "url": "https://www.last.fm/music/Forest/Wisdom+Tusk",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f52940331c40e8b28c88df76c2447ba1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "125",
+    "playcount": "699",
+    "tracks": {
+      "track": [
+        {
+          "name": "All I Have",
+          "url": "https://www.last.fm/music/Forest/_/All+I+Have",
+          "duration": "231",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Box",
+          "url": "https://www.last.fm/music/Forest/_/Box",
+          "duration": "197",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "September",
+          "url": "https://www.last.fm/music/Forest/_/September",
+          "duration": "115",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "Knots",
+          "url": "https://www.last.fm/music/Forest/_/Knots",
+          "duration": "148",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:33:24.772Z"
+}

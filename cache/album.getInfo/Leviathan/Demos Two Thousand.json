@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "Demos Two Thousand",
+    "artist": "Leviathan",
+    "mbid": "5947b602-b475-45e4-96b8-2911dee699d9",
+    "url": "https://www.last.fm/music/Leviathan/Demos+Two+Thousand",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/23a6d24da84743fa8bb24e66ad216d73.png",
+        "size": ""
+      }
+    ],
+    "listeners": "486",
+    "playcount": "6581",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sodomize the Golden",
+          "url": "https://www.last.fm/music/Leviathan/_/Sodomize+the+Golden",
+          "duration": "269",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        },
+        {
+          "name": "Intro / Give War a Chance",
+          "url": "https://www.last.fm/music/Leviathan/_/Intro+%2F+Give+War+a+Chance",
+          "duration": "492",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        },
+        {
+          "name": "Opaque",
+          "url": "https://www.last.fm/music/Leviathan/_/Opaque",
+          "duration": "322",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        },
+        {
+          "name": "Mudhole",
+          "url": "https://www.last.fm/music/Leviathan/_/Mudhole",
+          "duration": "259",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        },
+        {
+          "name": "Prevail in Decay",
+          "url": "https://www.last.fm/music/Leviathan/_/Prevail+in+Decay",
+          "duration": "212",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        },
+        {
+          "name": "Thy Lacerations",
+          "url": "https://www.last.fm/music/Leviathan/_/Thy+Lacerations",
+          "duration": "249",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Leviathan",
+            "mbid": "f6482c2a-e7a0-496d-a874-af6060896af5",
+            "url": "https://www.last.fm/music/Leviathan"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "tapes",
+          "url": "https://www.last.fm/tag/tapes"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:18:21.691Z"
+}

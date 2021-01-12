@@ -1,0 +1,185 @@
+{
+  "album": {
+    "name": "Klatwa",
+    "artist": "Hellveto",
+    "mbid": "8af2926f-4287-4ca6-9006-54051b032ec7",
+    "url": "https://www.last.fm/music/Hellveto/Klatwa",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba13f1fb42b04326c3d4e527470f86d7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1034",
+    "playcount": "16682",
+    "tracks": {
+      "track": [
+        {
+          "name": "Odwrócona opaczność",
+          "url": "https://www.last.fm/music/Hellveto/_/Odwr%C3%B3cona+opaczno%C5%9B%C4%87",
+          "duration": "522",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Płonący Panteon",
+          "url": "https://www.last.fm/music/Hellveto/_/P%C5%82on%C4%85cy+Panteon",
+          "duration": "294",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Raj Zatraconych",
+          "url": "https://www.last.fm/music/Hellveto/_/Raj+Zatraconych",
+          "duration": "351",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Klątwa",
+          "url": "https://www.last.fm/music/Hellveto/_/Kl%C4%85twa",
+          "duration": "473",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Pod znakiem błyskawicy",
+          "url": "https://www.last.fm/music/Hellveto/_/Pod+znakiem+b%C5%82yskawicy",
+          "duration": "399",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Kwintesencja opaczności",
+          "url": "https://www.last.fm/music/Hellveto/_/Kwintesencja+opaczno%C5%9Bci",
+          "duration": "104",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Zapomniany",
+          "url": "https://www.last.fm/music/Hellveto/_/Zapomniany",
+          "duration": "341",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        },
+        {
+          "name": "Klątwa (first unofficial version)",
+          "url": "https://www.last.fm/music/Hellveto/_/Kl%C4%85twa+(first+unofficial+version)",
+          "duration": "379",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hellveto",
+            "mbid": "23f937e2-5ed7-4534-912c-bb71e63e43ad",
+            "url": "https://www.last.fm/music/Hellveto"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:21:42.091Z"
+}

@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Infernal voices",
+    "artist": "Desaster",
+    "mbid": "bbdb4cb2-3fc9-4750-9bd9-0639e011d871",
+    "url": "https://www.last.fm/music/Desaster/Infernal+voices",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0201cede10354e75a00c3445544d12cc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0201cede10354e75a00c3445544d12cc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0201cede10354e75a00c3445544d12cc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0201cede10354e75a00c3445544d12cc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0201cede10354e75a00c3445544d12cc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0201cede10354e75a00c3445544d12cc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "281",
+    "playcount": "2117",
+    "tracks": {
+      "track": [
+        {
+          "name": "Infernal Voices",
+          "url": "https://www.last.fm/music/Desaster/_/Infernal+Voices",
+          "duration": "197",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Fields Of Triumph",
+          "url": "https://www.last.fm/music/Desaster/_/Fields+Of+Triumph",
+          "duration": "338",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        },
+        {
+          "name": "Before The Creation Of Time",
+          "url": "https://www.last.fm/music/Desaster/_/Before+The+Creation+Of+Time",
+          "duration": "202",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Desaster",
+            "mbid": "09ff9713-9d4d-4d4e-a8b2-c3bdeb318006",
+            "url": "https://www.last.fm/music/Desaster"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "old school black metal",
+          "url": "https://www.last.fm/tag/old+school+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:57:52.454Z"
+}

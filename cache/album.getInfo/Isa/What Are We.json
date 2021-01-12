@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "What Are We",
+    "artist": "Isa",
+    "url": "https://www.last.fm/music/Isa/What+Are+We",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bfec468220fa4c8dcc90e1e8e5be6f76.png",
+        "size": ""
+      }
+    ],
+    "listeners": "651",
+    "playcount": "2549",
+    "tracks": {
+      "track": [
+        {
+          "name": "What are we",
+          "url": "https://www.last.fm/music/Isa/_/What+are+we",
+          "duration": "213",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Isa",
+            "mbid": "bc44f45f-d2fa-4092-bf12-034a6c37aa29",
+            "url": "https://www.last.fm/music/Isa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:32:16.583Z"
+}

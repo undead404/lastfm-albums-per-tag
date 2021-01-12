@@ -1,0 +1,117 @@
+{
+  "album": {
+    "name": "Last Supper...",
+    "artist": "Morbid",
+    "mbid": "98dd1ae2-a5aa-45cb-adcc-3ef43e9cbe36",
+    "url": "https://www.last.fm/music/Morbid/Last+Supper...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2b538d5cd46247728cedc3c01263323f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2b538d5cd46247728cedc3c01263323f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2b538d5cd46247728cedc3c01263323f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b538d5cd46247728cedc3c01263323f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b538d5cd46247728cedc3c01263323f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2b538d5cd46247728cedc3c01263323f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "166",
+    "playcount": "1042",
+    "tracks": {
+      "track": [
+        {
+          "name": "Sickness Of Humanity",
+          "url": "https://www.last.fm/music/Morbid/_/Sickness+Of+Humanity",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Beyond The Last Midnight",
+          "url": "https://www.last.fm/music/Morbid/_/Beyond+The+Last+Midnight",
+          "duration": "217",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Terror!!",
+          "url": "https://www.last.fm/music/Morbid/_/Terror%21%21",
+          "duration": "285",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "The Bond Tune",
+          "url": "https://www.last.fm/music/Morbid/_/The+Bond+Tune",
+          "duration": "106",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "1988",
+          "url": "https://www.last.fm/tag/1988"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:46:09.656Z"
+}

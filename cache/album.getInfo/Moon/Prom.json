@@ -1,0 +1,42 @@
+{
+  "album": {
+    "name": "Prom",
+    "artist": "Moon",
+    "url": "https://www.last.fm/music/Moon/Prom",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b22cdc69cc8249e9976fd00d309fb2bd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "454",
+    "playcount": "1306",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:36.819Z"
+}

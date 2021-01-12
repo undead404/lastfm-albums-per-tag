@@ -1,0 +1,231 @@
+{
+  "album": {
+    "name": "Witching Hour",
+    "artist": "Venom",
+    "mbid": "aa099bc2-99ad-4466-94fa-0f2f9d0577d3",
+    "url": "https://www.last.fm/music/Venom/Witching+Hour",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47376c0972ed16f7be4ac178050f1c52.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3266",
+    "playcount": "13213",
+    "tracks": {
+      "track": [
+        {
+          "name": "Angel Dust",
+          "url": "https://www.last.fm/music/Venom/_/Angel+Dust",
+          "duration": "159",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Megalomania",
+          "url": "https://www.last.fm/music/Venom/_/Megalomania",
+          "duration": "325",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Prime Evil",
+          "url": "https://www.last.fm/music/Venom/_/Prime+Evil",
+          "duration": "281",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Buried Alive",
+          "url": "https://www.last.fm/music/Venom/_/Buried+Alive",
+          "duration": "252",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Civilised",
+          "url": "https://www.last.fm/music/Venom/_/Civilised",
+          "duration": "218",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Welcome to Hell",
+          "url": "https://www.last.fm/music/Venom/_/Welcome+to+Hell",
+          "duration": "192",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Skool Daze",
+          "url": "https://www.last.fm/music/Venom/_/Skool+Daze",
+          "duration": "262",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Live Like an Angel (Die Like a Devil)",
+          "url": "https://www.last.fm/music/Venom/_/Live+Like+an+Angel+(Die+Like+a+Devil)",
+          "duration": "235",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Witching Hour",
+          "url": "https://www.last.fm/music/Venom/_/Witching+Hour",
+          "duration": "256",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Countess Bathory",
+          "url": "https://www.last.fm/music/Venom/_/Countess+Bathory",
+          "duration": "288",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://www.last.fm/music/Venom/_/Bloodlust",
+          "duration": "177",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:59:03.846Z"
+}

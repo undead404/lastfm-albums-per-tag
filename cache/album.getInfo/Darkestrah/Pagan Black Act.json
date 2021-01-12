@@ -1,0 +1,66 @@
+{
+  "album": {
+    "name": "Pagan Black Act",
+    "artist": "Darkestrah",
+    "mbid": "fddc2443-d775-4c30-864e-93ce21ddefdb",
+    "url": "https://www.last.fm/music/Darkestrah/Pagan+Black+Act",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d1c064b77c724296a9955b7285687f71.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d1c064b77c724296a9955b7285687f71.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d1c064b77c724296a9955b7285687f71.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1c064b77c724296a9955b7285687f71.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1c064b77c724296a9955b7285687f71.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d1c064b77c724296a9955b7285687f71.png",
+        "size": ""
+      }
+    ],
+    "listeners": "281",
+    "playcount": "643",
+    "tracks": {
+      "track": [
+        {
+          "name": "Shaitan Akbar!",
+          "url": "https://www.last.fm/music/Darkestrah/_/Shaitan+Akbar%21",
+          "duration": "1828",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Darkestrah",
+            "mbid": "024250e8-5a01-45d0-8418-e0e24fce26af",
+            "url": "https://www.last.fm/music/Darkestrah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "pagan blackmetal",
+          "url": "https://www.last.fm/tag/pagan+blackmetal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:16:46.350Z"
+}

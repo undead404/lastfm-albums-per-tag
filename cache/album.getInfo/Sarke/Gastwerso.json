@@ -1,0 +1,188 @@
+{
+  "album": {
+    "name": "Gastwerso",
+    "artist": "Sarke",
+    "url": "https://www.last.fm/music/Sarke/Gastwerso",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/148b0dde49db8e088c2df47a5adf9df3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2547",
+    "playcount": "23776",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ghost War",
+          "url": "https://www.last.fm/music/Sarke/_/Ghost+War",
+          "duration": "200",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Echoes From The Ancient Crucifix",
+          "url": "https://www.last.fm/music/Sarke/_/Echoes+From+The+Ancient+Crucifix",
+          "duration": "196",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Mausoleum",
+          "url": "https://www.last.fm/music/Sarke/_/Mausoleum",
+          "duration": "333",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "The Endless Wait",
+          "url": "https://www.last.fm/music/Sarke/_/The+Endless+Wait",
+          "duration": "289",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Ties Of Blood",
+          "url": "https://www.last.fm/music/Sarke/_/Ties+Of+Blood",
+          "duration": "195",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "In The Flames",
+          "url": "https://www.last.fm/music/Sarke/_/In+The+Flames",
+          "duration": "246",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Rebellious Bastard",
+          "url": "https://www.last.fm/music/Sarke/_/Rebellious+Bastard",
+          "duration": "257",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        },
+        {
+          "name": "Cribs Hand",
+          "url": "https://www.last.fm/music/Sarke/_/Cribs+Hand",
+          "duration": "359",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sarke",
+            "mbid": "bb7a4a86-24eb-4ca2-9bdd-451fd137f93a",
+            "url": "https://www.last.fm/music/Sarke"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:37:23.875Z"
+}

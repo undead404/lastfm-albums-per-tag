@@ -1,0 +1,558 @@
+{
+  "album": {
+    "name": "Year Of The Goat",
+    "artist": "Morbid",
+    "mbid": "6633bcb5-a154-479c-8aa1-b34ded42cbbb",
+    "url": "https://www.last.fm/music/Morbid/Year+Of+The+Goat",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e9034783d8140d9b8c000253e9aa664.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7187",
+    "playcount": "114638",
+    "tracks": {
+      "track": [
+        {
+          "name": "My Dark Subconscious [\"December Moon\" demo 1986]",
+          "url": "https://www.last.fm/music/Morbid/_/My+Dark+Subconscious+%5B%22December+Moon%22+demo+1986%5D",
+          "duration": "280",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings Of Funeral [\"December Moon\" demo 1986]",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+Of+Funeral+%5B%22December+Moon%22+demo+1986%5D",
+          "duration": "226",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "From The Dark [\"December Moon\" demo 1986]",
+          "url": "https://www.last.fm/music/Morbid/_/From+The+Dark+%5B%22December+Moon%22+demo+1986%5D",
+          "duration": "360",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Disgusting Semla [\"December Moon\" demo 1986]",
+          "url": "https://www.last.fm/music/Morbid/_/Disgusting+Semla+%5B%22December+Moon%22+demo+1986%5D",
+          "duration": "199",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "My Dark Subconscious",
+          "url": "https://www.last.fm/music/Morbid/_/My+Dark+Subconscious",
+          "duration": "281",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings of Funeral",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+of+Funeral",
+          "duration": "242",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Tragic Dream / From the Dark",
+          "url": "https://www.last.fm/music/Morbid/_/Tragic+Dream+%2F+From+the+Dark",
+          "duration": "513",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Citythrasher (Rehearsal)",
+          "url": "https://www.last.fm/music/Morbid/_/Citythrasher+(Rehearsal)",
+          "duration": "66",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Deathexecution",
+          "url": "https://www.last.fm/music/Morbid/_/Deathexecution",
+          "duration": "280",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Disgusting Semla",
+          "url": "https://www.last.fm/music/Morbid/_/Disgusting+Semla",
+          "duration": "150",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Intro - Crucifix Masturbation (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Intro+-+Crucifix+Masturbation+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "191",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "My Dark Subconscious (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/My+Dark+Subconscious+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "285",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Deathexecution (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Deathexecution+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "279",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings Of Funeral (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+Of+Funeral+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "242",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Citythrasher (Schnabelkäse) (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Citythrasher+(Schnabelk%C3%A4se)+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "78",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Necrodead (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Necrodead+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "181",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Tragic Dream (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Tragic+Dream+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "75",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Disgusting Semla (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Disgusting+Semla+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "109",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "From The Dark (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/From+The+Dark+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "393",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings Of Funeral (Live At Birkagården, Stockholm, October 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+Of+Funeral+(Live+At+Birkag%C3%A5rden,+Stockholm,+October+23rd+1987)",
+          "duration": "242",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Deathexecution [live at Ultrahuset, Stockholm, April 26th 1987]",
+          "url": "https://www.last.fm/music/Morbid/_/Deathexecution+%5Blive+at+Ultrahuset,+Stockholm,+April+26th+1987%5D",
+          "duration": "298",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "From The Dark (Live At Ultrahuset, Stockholm, April 26th 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/From+The+Dark+(Live+At+Ultrahuset,+Stockholm,+April+26th+1987)",
+          "duration": "484",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Necrodead (Live At Ultrahuset, Stockholm, April 26th 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Necrodead+(Live+At+Ultrahuset,+Stockholm,+April+26th+1987)",
+          "duration": "190",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Disgusting Semla (Live At Ultrahuset, Stockholm, April 26th 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Disgusting+Semla+(Live+At+Ultrahuset,+Stockholm,+April+26th+1987)",
+          "duration": "152",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Wings Of Funeral (Live At Ultrahuset, Stockholm, November 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Wings+Of+Funeral+(Live+At+Ultrahuset,+Stockholm,+November+23rd+1987)",
+          "duration": "221",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Citythrasher (Live At Ultrahuset, Stockholm, November 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Citythrasher+(Live+At+Ultrahuset,+Stockholm,+November+23rd+1987)",
+          "duration": "85",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Deathexecution (Live At Ultrahuset, Stockholm, November 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Deathexecution+(Live+At+Ultrahuset,+Stockholm,+November+23rd+1987)",
+          "duration": "304",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "My Dark Subconscious (Live At Ultrahuset, Stockholm, November 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/My+Dark+Subconscious+(Live+At+Ultrahuset,+Stockholm,+November+23rd+1987)",
+          "duration": "290",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        },
+        {
+          "name": "Necrodead (Live At Ultrahuset, Stockholm, November 23rd 1987)",
+          "url": "https://www.last.fm/music/Morbid/_/Necrodead+(Live+At+Ultrahuset,+Stockholm,+November+23rd+1987)",
+          "duration": "192",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Morbid",
+            "mbid": "adfb1bc2-02b6-46d0-9425-72495005241b",
+            "url": "https://www.last.fm/music/Morbid"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "80s",
+          "url": "https://www.last.fm/tag/80s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:45:57.778Z"
+}

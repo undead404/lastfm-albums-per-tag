@@ -1,0 +1,146 @@
+{
+  "album": {
+    "name": "Domfeldt",
+    "artist": "Slagmaur",
+    "mbid": "606c8530-a4a0-4ad2-a4d9-8331c34e19c2",
+    "url": "https://www.last.fm/music/Slagmaur/Domfeldt",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a21841a71f9d4671a8efdc6b601f2a5e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "741",
+    "playcount": "15325",
+    "tracks": {
+      "track": [
+        {
+          "name": "Retten Er Satt",
+          "url": "https://www.last.fm/music/Slagmaur/_/Retten+Er+Satt",
+          "duration": "125",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        },
+        {
+          "name": "Vandalens Hevn",
+          "url": "https://www.last.fm/music/Slagmaur/_/Vandalens+Hevn",
+          "duration": "316",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        },
+        {
+          "name": "Gnager",
+          "url": "https://www.last.fm/music/Slagmaur/_/Gnager",
+          "duration": "297",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        },
+        {
+          "name": "SIDS",
+          "url": "https://www.last.fm/music/Slagmaur/_/SIDS",
+          "duration": "458",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        },
+        {
+          "name": "SKAMDEM",
+          "url": "https://www.last.fm/music/Slagmaur/_/SKAMDEM",
+          "duration": "294",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        },
+        {
+          "name": "Aautofonienes Kommandør",
+          "url": "https://www.last.fm/music/Slagmaur/_/Aautofonienes+Kommand%C3%B8r",
+          "duration": "358",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Slagmaur",
+            "mbid": "0e9b3d85-252b-4848-8b0c-bd6a43f15100",
+            "url": "https://www.last.fm/music/Slagmaur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:05:17.285Z"
+}

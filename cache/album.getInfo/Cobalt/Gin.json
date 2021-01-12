@@ -1,0 +1,235 @@
+{
+  "album": {
+    "name": "Gin",
+    "artist": "Cobalt",
+    "mbid": "17aeba3b-bc8b-48bd-84ec-21ab1fff123c",
+    "url": "https://www.last.fm/music/Cobalt/Gin",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/527551c4761cdc5bdff321fce2fd720a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "12519",
+    "playcount": "434061",
+    "tracks": {
+      "track": [
+        {
+          "name": "Gin",
+          "url": "https://www.last.fm/music/Cobalt/_/Gin",
+          "duration": "444",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Dry Body",
+          "url": "https://www.last.fm/music/Cobalt/_/Dry+Body",
+          "duration": "534",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Arsonry",
+          "url": "https://www.last.fm/music/Cobalt/_/Arsonry",
+          "duration": "346",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Throat",
+          "url": "https://www.last.fm/music/Cobalt/_/Throat",
+          "duration": "118",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Stomach",
+          "url": "https://www.last.fm/music/Cobalt/_/Stomach",
+          "duration": "404",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "A Clean, Well Lighted Place",
+          "url": "https://www.last.fm/music/Cobalt/_/A+Clean,+Well+Lighted+Place",
+          "duration": "220",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Pregnant Insect",
+          "url": "https://www.last.fm/music/Cobalt/_/Pregnant+Insect",
+          "duration": "362",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Two-Thumbed Fist",
+          "url": "https://www.last.fm/music/Cobalt/_/Two-Thumbed+Fist",
+          "duration": "597",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "The Old Man Who Lied For His Entire Life",
+          "url": "https://www.last.fm/music/Cobalt/_/The+Old+Man+Who+Lied+For+His+Entire+Life",
+          "duration": "127",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "A Starved Horror",
+          "url": "https://www.last.fm/music/Cobalt/_/A+Starved+Horror",
+          "duration": "312",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "2009",
+          "url": "https://www.last.fm/tag/2009"
+        },
+        {
+          "name": "Progressive metal",
+          "url": "https://www.last.fm/tag/Progressive+metal"
+        },
+        {
+          "name": "favorite albums",
+          "url": "https://www.last.fm/tag/favorite+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:20:31.889Z"
+}

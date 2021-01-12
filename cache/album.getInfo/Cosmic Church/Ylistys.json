@@ -1,0 +1,185 @@
+{
+  "album": {
+    "name": "Ylistys",
+    "artist": "Cosmic Church",
+    "mbid": "92071222-bbe9-4390-8e13-3c9cf946d5e7",
+    "url": "https://www.last.fm/music/Cosmic+Church/Ylistys",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/239222dd5effbce2c19f887c35d1e79d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3050",
+    "playcount": "65554",
+    "tracks": {
+      "track": [
+        {
+          "name": "Luon Perustani Sinun Kallioosi",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/Luon+Perustani+Sinun+Kallioosi",
+          "duration": "701",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Näkyjä Indigolähteeltä",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/N%C3%A4kyj%C3%A4+Indigol%C3%A4hteelt%C3%A4",
+          "duration": "420",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Ennen",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/Ennen",
+          "duration": "868",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Maailmojen Peilin Takaa",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/Maailmojen+Peilin+Takaa",
+          "duration": "572",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Lupaus Äänettömälle Äänelle",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/Lupaus+%C3%84%C3%A4nett%C3%B6m%C3%A4lle+%C3%84%C3%A4nelle",
+          "duration": "892",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Kätketyn Tulen Vartija",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/K%C3%A4tketyn+Tulen+Vartija",
+          "duration": "568",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        },
+        {
+          "name": "Täydellisen valon äärellä",
+          "url": "https://www.last.fm/music/Cosmic+Church/_/T%C3%A4ydellisen+valon+%C3%A4%C3%A4rell%C3%A4",
+          "duration": "516",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cosmic Church",
+            "mbid": "a7fdd528-150b-4ffa-807f-890e96a86dde",
+            "url": "https://www.last.fm/music/Cosmic+Church"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Finnish Black Metal",
+          "url": "https://www.last.fm/tag/Finnish+Black+Metal"
+        },
+        {
+          "name": "favourite albums",
+          "url": "https://www.last.fm/tag/favourite+albums"
+        },
+        {
+          "name": "creamed my pants",
+          "url": "https://www.last.fm/tag/creamed+my+pants"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Oct 2013, 10:18",
+      "summary": "Released 11.10.2013\n\nTracklist:\n\n1. Luon perustani Sinun kallioosi (11:40)\n2. Näkyjä Indigolähteeltä (07:00)\n3. Ennen (14:28)\n4. Maailmojen peilin takaa (09:32)\n5. Lupaus äänettömälle äänelle (14:52)\n6. Kätketyn tulen vartija (09:28)\n7. Täydellisen valon äärellä (08:35)\n\nTotal length: 01:15:35\n\nLine-up:\n\nLuxixul Sumering Auter - Drums, Guitars, Bass, Synth. Vocals\nRauta (Circle of Ouroborus) - Lead Guitars, Clean Vocals\n\nAll material originally written and composed by Luxixul Sumering Auter 2009 - 2011 <a href=\"http://www.last.fm/music/Cosmic+Church/Ylistys\">Read more on Last.fm</a>.",
+      "content": "Released 11.10.2013\n\nTracklist:\n\n1. Luon perustani Sinun kallioosi (11:40)\n2. Näkyjä Indigolähteeltä (07:00)\n3. Ennen (14:28)\n4. Maailmojen peilin takaa (09:32)\n5. Lupaus äänettömälle äänelle (14:52)\n6. Kätketyn tulen vartija (09:28)\n7. Täydellisen valon äärellä (08:35)\n\nTotal length: 01:15:35\n\nLine-up:\n\nLuxixul Sumering Auter - Drums, Guitars, Bass, Synth. Vocals\nRauta (Circle of Ouroborus) - Lead Guitars, Clean Vocals\n\nAll material originally written and composed by Luxixul Sumering Auter 2009 - 2011\nAdditional compositions and arragements by L.S.A. & Rauta 2012 - 2013\n\nRecorded in Temple of Azazel and Elemental Cavern between July 2012 - February 2013.\nMixed in Elemental Cavern February 2013 <a href=\"http://www.last.fm/music/Cosmic+Church/Ylistys\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T15:02:32.766Z"
+}

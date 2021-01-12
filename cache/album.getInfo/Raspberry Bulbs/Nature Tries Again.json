@@ -1,0 +1,218 @@
+{
+  "album": {
+    "name": "Nature Tries Again",
+    "artist": "Raspberry Bulbs",
+    "mbid": "0d5262db-81f4-41aa-940e-e0481bf7a0ad",
+    "url": "https://www.last.fm/music/Raspberry+Bulbs/Nature+Tries+Again",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae3cf6596201481fbe8898d34fa7f19d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1699",
+    "playcount": "43026",
+    "tracks": {
+      "track": [
+        {
+          "name": "What it is Between Us",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/What+it+is+Between+Us",
+          "duration": "126",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Life on the Level",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Life+on+the+Level",
+          "duration": "116",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "The Center of the Earth",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/The+Center+of+the+Earth",
+          "duration": "177",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Outside In",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Outside+In",
+          "duration": "156",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Face in the Cave",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Face+in+the+Cave",
+          "duration": "111",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Tissue in the Bloodstream",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Tissue+in+the+Bloodstream",
+          "duration": "96",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Will I Ever Speak the Truth",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Will+I+Ever+Speak+the+Truth",
+          "duration": "168",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Taken Apart",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Taken+Apart",
+          "duration": "224",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        },
+        {
+          "name": "Outro",
+          "url": "https://www.last.fm/music/Raspberry+Bulbs/_/Outro",
+          "duration": "103",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Raspberry Bulbs",
+            "mbid": "10d9bfef-7210-4bc2-bce5-1cb53e8016bb",
+            "url": "https://www.last.fm/music/Raspberry+Bulbs"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "hardcore punk",
+          "url": "https://www.last.fm/tag/hardcore+punk"
+        },
+        {
+          "name": "blackened punk",
+          "url": "https://www.last.fm/tag/blackened+punk"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "Stoner Rock",
+          "url": "https://www.last.fm/tag/Stoner+Rock"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:31:30.212Z"
+}

@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Portraits",
+    "artist": "Evol",
+    "mbid": "bde687c8-70b4-4334-9024-fc44c363bbab",
+    "url": "https://www.last.fm/music/Evol/Portraits",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4bd48159a6de02fb066630b185e2b6ef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2049",
+    "playcount": "39549",
+    "tracks": {
+      "track": [
+        {
+          "name": "Overture",
+          "url": "https://www.last.fm/music/Evol/_/Overture",
+          "duration": "215",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Portraits",
+          "url": "https://www.last.fm/music/Evol/_/Portraits",
+          "duration": "369",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Ancient Abbey",
+          "url": "https://www.last.fm/music/Evol/_/Ancient+Abbey",
+          "duration": "365",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Inquisition Begins",
+          "url": "https://www.last.fm/music/Evol/_/Inquisition+Begins",
+          "duration": "103",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Once Upon a Time...",
+          "url": "https://www.last.fm/music/Evol/_/Once+Upon+a+Time...",
+          "duration": "370",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Il Principle Di Anghista",
+          "url": "https://www.last.fm/music/Evol/_/Il+Principle+Di+Anghista",
+          "duration": "392",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "March for EVOL",
+          "url": "https://www.last.fm/music/Evol/_/March+for+EVOL",
+          "duration": "165",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Il Castello Evitato",
+          "url": "https://www.last.fm/music/Evol/_/Il+Castello+Evitato",
+          "duration": "221",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Il Chierico Grigio",
+          "url": "https://www.last.fm/music/Evol/_/Il+Chierico+Grigio",
+          "duration": "368",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Grigia Signora",
+          "url": "https://www.last.fm/music/Evol/_/Grigia+Signora",
+          "duration": "360",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Tower of the Necromancer",
+          "url": "https://www.last.fm/music/Evol/_/Tower+of+the+Necromancer",
+          "duration": "316",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Epilogue (Fading Back)",
+          "url": "https://www.last.fm/music/Evol/_/Epilogue+(Fading+Back)",
+          "duration": "102",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:02:05.038Z"
+}

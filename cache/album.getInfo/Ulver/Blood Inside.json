@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Blood Inside",
+    "artist": "Ulver",
+    "mbid": "1827a150-50d3-322f-88e8-23855fd9cd3b",
+    "url": "https://www.last.fm/music/Ulver/Blood+Inside",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d8d0a3c83f8a4ab66eb38bdd9ca227fa.png",
+        "size": ""
+      }
+    ],
+    "listeners": "72952",
+    "playcount": "1801162",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dressed In Black",
+          "url": "https://www.last.fm/music/Ulver/_/Dressed+In+Black",
+          "duration": "426",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "For The Love Of God",
+          "url": "https://www.last.fm/music/Ulver/_/For+The+Love+Of+God",
+          "duration": "251",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Christmas",
+          "url": "https://www.last.fm/music/Ulver/_/Christmas",
+          "duration": "375",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Blinded By Blood",
+          "url": "https://www.last.fm/music/Ulver/_/Blinded+By+Blood",
+          "duration": "383",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "It Is Not Sound",
+          "url": "https://www.last.fm/music/Ulver/_/It+Is+Not+Sound",
+          "duration": "277",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "The Truth",
+          "url": "https://www.last.fm/music/Ulver/_/The+Truth",
+          "duration": "242",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "In The Red",
+          "url": "https://www.last.fm/music/Ulver/_/In+The+Red",
+          "duration": "211",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Your Call",
+          "url": "https://www.last.fm/music/Ulver/_/Your+Call",
+          "duration": "367",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        },
+        {
+          "name": "Operator",
+          "url": "https://www.last.fm/music/Ulver/_/Operator",
+          "duration": "217",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "Avant-Garde",
+          "url": "https://www.last.fm/tag/Avant-Garde"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "2005",
+          "url": "https://www.last.fm/tag/2005"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Feb 2009, 10:22",
+      "summary": "Experimental rock influenced by jazz, classical music, industrial music, and electronica. <a href=\"http://www.last.fm/music/Ulver/Blood+Inside\">Read more on Last.fm</a>.",
+      "content": "Experimental rock influenced by jazz, classical music, industrial music, and electronica. <a href=\"http://www.last.fm/music/Ulver/Blood+Inside\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:49:54.437Z"
+}

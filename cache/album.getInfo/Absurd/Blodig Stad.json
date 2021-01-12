@@ -1,0 +1,142 @@
+{
+  "album": {
+    "name": "Blodig Stad",
+    "artist": "Absurd",
+    "mbid": "90eadca8-e633-44d3-a83f-7c45746fcac9",
+    "url": "https://www.last.fm/music/Absurd/Blodig+Stad",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36e83f770a964070be50cb5469516475.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36e83f770a964070be50cb5469516475.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36e83f770a964070be50cb5469516475.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e83f770a964070be50cb5469516475.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e83f770a964070be50cb5469516475.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36e83f770a964070be50cb5469516475.png",
+        "size": ""
+      }
+    ],
+    "listeners": "345",
+    "playcount": "4222",
+    "tracks": {
+      "track": [
+        {
+          "name": "Blodig stad",
+          "url": "https://www.last.fm/music/Absurd/_/Blodig+stad",
+          "duration": "70",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Fred på jorden",
+          "url": "https://www.last.fm/music/Absurd/_/Fred+p%C3%A5+jorden",
+          "duration": "65",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Bojkotta Coca Cola",
+          "url": "https://www.last.fm/music/Absurd/_/Bojkotta+Coca+Cola",
+          "duration": "84",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Statens Maktspel",
+          "url": "https://www.last.fm/music/Absurd/_/Statens+Maktspel",
+          "duration": "103",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        },
+        {
+          "name": "Anarki Nu!",
+          "url": "https://www.last.fm/music/Absurd/_/Anarki+Nu%21",
+          "duration": "128",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absurd",
+            "mbid": "ebf20501-a439-449d-add2-868f552fbc42",
+            "url": "https://www.last.fm/music/Absurd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "hardcore punk",
+          "url": "https://www.last.fm/tag/hardcore+punk"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "Swedish Punk",
+          "url": "https://www.last.fm/tag/Swedish+Punk"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:16:26.334Z"
+}

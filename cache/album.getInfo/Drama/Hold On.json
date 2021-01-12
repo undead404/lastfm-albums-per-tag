@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Hold On",
+    "artist": "Drama",
+    "url": "https://www.last.fm/music/Drama/Hold+On",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ab92bf19377a78829b582ebf0545487.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ab92bf19377a78829b582ebf0545487.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ab92bf19377a78829b582ebf0545487.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ab92bf19377a78829b582ebf0545487.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ab92bf19377a78829b582ebf0545487.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ab92bf19377a78829b582ebf0545487.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4610",
+    "playcount": "13484",
+    "tracks": {
+      "track": [
+        {
+          "name": "Hold On",
+          "url": "https://www.last.fm/music/Drama/_/Hold+On",
+          "duration": "222",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Drama",
+            "mbid": "ca7176f8-cb2d-455d-8742-9afd950a5bfa",
+            "url": "https://www.last.fm/music/Drama"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:39:34.556Z"
+}

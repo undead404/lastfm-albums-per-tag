@@ -1,0 +1,52 @@
+{
+  "album": {
+    "name": "Wave",
+    "artist": "...and Oceans",
+    "mbid": "ce29b86a-fecb-4c54-a0c2-779fb555ebe0",
+    "url": "https://www.last.fm/music/...and+Oceans/Wave",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/24dd8bff2fe0990e96d08cc7f38ff28e.png",
+        "size": ""
+      }
+    ],
+    "listeners": "176",
+    "playcount": "1597",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "gothenburg metal",
+          "url": "https://www.last.fm/tag/gothenburg+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:21:16.826Z"
+}

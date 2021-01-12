@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Ego Dominus Tuus",
+    "artist": "Nightbringer",
+    "mbid": "05ccb805-d37f-4eed-9eb2-71d8d57c8b68",
+    "url": "https://www.last.fm/music/Nightbringer/Ego+Dominus+Tuus",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d3ac7997b2e6705eac770b744c774528.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d3ac7997b2e6705eac770b744c774528.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d3ac7997b2e6705eac770b744c774528.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3ac7997b2e6705eac770b744c774528.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3ac7997b2e6705eac770b744c774528.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d3ac7997b2e6705eac770b744c774528.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6280",
+    "playcount": "155449",
+    "tracks": {
+      "track": [
+        {
+          "name": "Prayer of Naphal",
+          "url": "https://www.last.fm/music/Nightbringer/_/Prayer+of+Naphal",
+          "duration": "120",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Et Nox Illuminatio mea in Deliciis Meis",
+          "url": "https://www.last.fm/music/Nightbringer/_/Et+Nox+Illuminatio+mea+in+Deliciis+Meis",
+          "duration": "540",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Lantern of Eden's Night",
+          "url": "https://www.last.fm/music/Nightbringer/_/Lantern+of+Eden%27s+Night",
+          "duration": "569",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Things which are Naught",
+          "url": "https://www.last.fm/music/Nightbringer/_/Things+which+are+Naught",
+          "duration": "336",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "I am the Gateway",
+          "url": "https://www.last.fm/music/Nightbringer/_/I+am+the+Gateway",
+          "duration": "452",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Call of the Exile",
+          "url": "https://www.last.fm/music/Nightbringer/_/Call+of+the+Exile",
+          "duration": "265",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Where Fire never Dreamt of Man",
+          "url": "https://www.last.fm/music/Nightbringer/_/Where+Fire+never+Dreamt+of+Man",
+          "duration": "400",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "The Witchfires of Tubal-Qayin",
+          "url": "https://www.last.fm/music/Nightbringer/_/The+Witchfires+of+Tubal-Qayin",
+          "duration": "463",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "Salvation Is the Son of Leviathan (Alabas in memoriam)",
+          "url": "https://www.last.fm/music/Nightbringer/_/Salvation+Is+the+Son+of+Leviathan+(Alabas+in+memoriam)",
+          "duration": "367",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        },
+        {
+          "name": "The Otherness of Being",
+          "url": "https://www.last.fm/music/Nightbringer/_/The+Otherness+of+Being",
+          "duration": "763",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightbringer",
+            "mbid": "517dc861-6230-4d17-a21f-e417314ec697",
+            "url": "https://www.last.fm/music/Nightbringer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "Daemon Worship",
+          "url": "https://www.last.fm/tag/Daemon+Worship"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Sep 2014, 08:58",
+      "summary": " <a href=\"http://www.last.fm/music/Nightbringer/Ego+Dominus+Tuus\">Read more on Last.fm</a>.",
+      "content": " <a href=\"http://www.last.fm/music/Nightbringer/Ego+Dominus+Tuus\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:35:45.414Z"
+}

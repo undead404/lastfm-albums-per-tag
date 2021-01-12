@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Option",
+    "artist": "Nazgul",
+    "url": "https://www.last.fm/music/Nazgul/Option",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "7",
+    "playcount": "8",
+    "tracks": {
+      "track": [
+        {
+          "name": "Option",
+          "url": "https://www.last.fm/music/Nazgul/_/Option",
+          "duration": "314",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        },
+        {
+          "name": "Antichrist",
+          "url": "https://www.last.fm/music/Nazgul/_/Antichrist",
+          "duration": "309",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nazgul",
+            "mbid": "74594917-3d89-492f-84d7-a4cc43c88f26",
+            "url": "https://www.last.fm/music/Nazgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:09:00.897Z"
+}

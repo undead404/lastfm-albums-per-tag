@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Antik (Snippet Promo Version)",
+    "artist": "Nachtblut",
+    "url": "https://www.last.fm/music/Nachtblut/Antik+(Snippet+Promo+Version)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "30",
+    "playcount": "255",
+    "tracks": {
+      "track": [
+        {
+          "name": "Antik",
+          "url": "https://www.last.fm/music/Nachtblut/_/Antik",
+          "duration": "234",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        },
+        {
+          "name": "Die Blutgräfin",
+          "url": "https://www.last.fm/music/Nachtblut/_/Die+Blutgr%C3%A4fin",
+          "duration": "319",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nachtblut",
+            "mbid": "0bd05469-5bdf-41b4-b674-532696b77108",
+            "url": "https://www.last.fm/music/Nachtblut"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:40:38.180Z"
+}

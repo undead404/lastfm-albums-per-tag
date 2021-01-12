@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Isa",
+    "artist": "Dark Fortress",
+    "url": "https://www.last.fm/music/Dark+Fortress/Isa",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fadb05b4a07f3f7c915ad05cc1e667b3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1914",
+    "playcount": "4048",
+    "tracks": {
+      "track": [
+        {
+          "name": "Isa",
+          "url": "https://www.last.fm/music/Dark+Fortress/_/Isa",
+          "duration": "458",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dark Fortress",
+            "mbid": "5074ddf4-3d57-49d9-a0b8-c36afe60a475",
+            "url": "https://www.last.fm/music/Dark+Fortress"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:22:48.417Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Marching On Versailles - Single",
+    "artist": "Ad Infinitum",
+    "url": "https://www.last.fm/music/Ad+Infinitum/Marching%C2%A0On+Versailles+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5badfdcbafcb54fac54d82ff8a660c12.png",
+        "size": ""
+      }
+    ],
+    "listeners": "85",
+    "playcount": "317",
+    "tracks": {
+      "track": [
+        {
+          "name": "Marching On Versailles",
+          "url": "https://www.last.fm/music/Ad+Infinitum/_/Marching+On+Versailles",
+          "duration": "231",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ad Infinitum",
+            "mbid": "c8833923-20fc-4c3b-a77b-888e5b3d1deb",
+            "url": "https://www.last.fm/music/Ad+Infinitum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:20:31.598Z"
+}

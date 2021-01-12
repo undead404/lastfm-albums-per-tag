@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Pain - Rehearsal 1999",
+    "artist": "Brocken Moon",
+    "url": "https://www.last.fm/music/Brocken+Moon/Pain+-+Rehearsal+1999",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/014d19d24bbc9d5273351f227a69dd36.png",
+        "size": ""
+      }
+    ],
+    "listeners": "33",
+    "playcount": "71",
+    "tracks": {
+      "track": [
+        {
+          "name": "Pain",
+          "url": "https://www.last.fm/music/Brocken+Moon/_/Pain",
+          "duration": "1128",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Brocken Moon",
+            "mbid": "ebd990ed-63c9-4988-be4d-b16ff1a6dd81",
+            "url": "https://www.last.fm/music/Brocken+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:07:43.135Z"
+}

@@ -1,0 +1,370 @@
+{
+  "album": {
+    "name": "Good Intentions",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/Good+Intentions",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2422fa86178338176cf9117aba49b2de.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2422fa86178338176cf9117aba49b2de.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2422fa86178338176cf9117aba49b2de.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2422fa86178338176cf9117aba49b2de.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2422fa86178338176cf9117aba49b2de.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2422fa86178338176cf9117aba49b2de.png",
+        "size": ""
+      }
+    ],
+    "listeners": "67868",
+    "playcount": "1390572",
+    "tracks": {
+      "track": [
+        {
+          "name": "Good Intentions (Intro)",
+          "url": "https://www.last.fm/music/NAV/_/Good+Intentions+(Intro)",
+          "duration": "155",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "No Debate",
+          "url": "https://www.last.fm/music/NAV/_/No+Debate",
+          "duration": "128",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "My Business",
+          "url": "https://www.last.fm/music/NAV/_/My+Business",
+          "duration": "199",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Turks",
+          "url": "https://www.last.fm/music/NAV/_/Turks",
+          "duration": "161",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Brown Boy",
+          "url": "https://www.last.fm/music/NAV/_/Brown+Boy",
+          "duration": "134",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Status",
+          "url": "https://www.last.fm/music/NAV/_/Status",
+          "duration": "174",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Codeine",
+          "url": "https://www.last.fm/music/NAV/_/Codeine",
+          "duration": "188",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Saint Laurenttt",
+          "url": "https://www.last.fm/music/NAV/_/Saint+Laurenttt",
+          "duration": "170",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Coast To Coast",
+          "url": "https://www.last.fm/music/NAV/_/Coast+To+Coast",
+          "duration": "153",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Run It Up",
+          "url": "https://www.last.fm/music/NAV/_/Run+It+Up",
+          "duration": "179",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Spend It",
+          "url": "https://www.last.fm/music/NAV/_/Spend+It",
+          "duration": "159",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Recap",
+          "url": "https://www.last.fm/music/NAV/_/Recap",
+          "duration": "143",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "She Hurtin",
+          "url": "https://www.last.fm/music/NAV/_/She+Hurtin",
+          "duration": "186",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Overdose",
+          "url": "https://www.last.fm/music/NAV/_/Overdose",
+          "duration": "177",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Did You Wrong",
+          "url": "https://www.last.fm/music/NAV/_/Did+You+Wrong",
+          "duration": "149",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "My Space",
+          "url": "https://www.last.fm/music/NAV/_/My+Space",
+          "duration": "175",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "No Ice",
+          "url": "https://www.last.fm/music/NAV/_/No+Ice",
+          "duration": "181",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        },
+        {
+          "name": "Proud Of Me?",
+          "url": "https://www.last.fm/music/NAV/_/Proud+Of+Me%3F",
+          "duration": "176",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:52:03.095Z"
+}

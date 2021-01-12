@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Little Boy",
+    "artist": "Ulver",
+    "url": "https://www.last.fm/music/Ulver/Little+Boy",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/748dd4bfa4517d2a94ddd2ac39759902.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8381",
+    "playcount": "21727",
+    "tracks": {
+      "track": [
+        {
+          "name": "Little Boy",
+          "url": "https://www.last.fm/music/Ulver/_/Little+Boy",
+          "duration": "322",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ulver",
+            "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+            "url": "https://www.last.fm/music/Ulver"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:50:12.537Z"
+}

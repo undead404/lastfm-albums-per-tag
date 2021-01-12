@@ -1,0 +1,51 @@
+{
+  "album": {
+    "name": "Ash Nazg",
+    "artist": "Abigor",
+    "url": "https://www.last.fm/music/Abigor/Ash+Nazg",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80c2aa61b82b3a981eadbb7355de0d2b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "427",
+    "playcount": "2373",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:42:16.745Z"
+}

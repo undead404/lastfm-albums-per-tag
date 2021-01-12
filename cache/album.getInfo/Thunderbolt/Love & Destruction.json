@@ -1,0 +1,211 @@
+{
+  "album": {
+    "name": "Love & Destruction",
+    "artist": "Thunderbolt",
+    "mbid": "85fba0e4-2193-429b-a7d9-9a58895fb7e1",
+    "url": "https://www.last.fm/music/Thunderbolt/Love+&+Destruction",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f0884752981a51928028e4e2de839a72.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f0884752981a51928028e4e2de839a72.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f0884752981a51928028e4e2de839a72.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0884752981a51928028e4e2de839a72.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0884752981a51928028e4e2de839a72.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0884752981a51928028e4e2de839a72.png",
+        "size": ""
+      }
+    ],
+    "listeners": "587",
+    "playcount": "6926",
+    "tracks": {
+      "track": [
+        {
+          "name": "Heavy Metal Thunder",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Heavy+Metal+Thunder",
+          "duration": "283",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Bad Boys",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Bad+Boys",
+          "duration": "291",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Love & Destruction",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Love+&+Destruction",
+          "duration": "318",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Hi-Fidelity Heartbreak",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Hi-Fidelity+Heartbreak",
+          "duration": "300",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Metallic Depression",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Metallic+Depression",
+          "duration": "297",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "It's A Hard Life (But...)",
+          "url": "https://www.last.fm/music/Thunderbolt/_/It%27s+A+Hard+Life+(But...)",
+          "duration": "253",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Call Out The Lions",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Call+Out+The+Lions",
+          "duration": "278",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "We Will Survive",
+          "url": "https://www.last.fm/music/Thunderbolt/_/We+Will+Survive",
+          "duration": "252",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        },
+        {
+          "name": "Sin, Sex & Spandex",
+          "url": "https://www.last.fm/music/Thunderbolt/_/Sin,+Sex+&+Spandex",
+          "duration": "254",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Thunderbolt",
+            "mbid": "ca6e4ae6-5f4e-4431-a288-0d134bd8c9cb",
+            "url": "https://www.last.fm/music/Thunderbolt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "My collection",
+          "url": "https://www.last.fm/tag/My+collection"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:05:15.725Z"
+}

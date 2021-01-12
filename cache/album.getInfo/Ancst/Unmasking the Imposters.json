@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Unmasking the Imposters",
+    "artist": "Ancst",
+    "url": "https://www.last.fm/music/Ancst/Unmasking+the+Imposters",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c9db89bc32a78dedeb29bc1bd61aae0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "152",
+    "playcount": "282",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unmasking the Imposters",
+          "url": "https://www.last.fm/music/Ancst/_/Unmasking+the+Imposters",
+          "duration": "182",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ancst",
+            "mbid": "3a278619-272e-4394-b31f-e20517ba8f6f",
+            "url": "https://www.last.fm/music/Ancst"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:59:03.850Z"
+}

@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "Credo",
+    "artist": "Akitsa",
+    "url": "https://www.last.fm/music/Akitsa/Credo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72ace9bc9741f7243a8138b3613d19d8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2872",
+    "playcount": "32377",
+    "tracks": {
+      "track": [
+        {
+          "name": "Siècle Pastoral",
+          "url": "https://www.last.fm/music/Akitsa/_/Sie%CC%80cle+Pastoral",
+          "duration": "591",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Voies cataclysmiques",
+          "url": "https://www.last.fm/music/Akitsa/_/Voies+cataclysmiques",
+          "duration": "296",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Le monde et ma bile",
+          "url": "https://www.last.fm/music/Akitsa/_/Le+monde+et+ma+bile",
+          "duration": "343",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Espoir vassal",
+          "url": "https://www.last.fm/music/Akitsa/_/Espoir+vassal",
+          "duration": "434",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Vestiges Fortifiés",
+          "url": "https://www.last.fm/music/Akitsa/_/Vestiges+Fortifie%CC%81s",
+          "duration": "246",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        },
+        {
+          "name": "Credo",
+          "url": "https://www.last.fm/music/Akitsa/_/Credo",
+          "duration": "597",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Akitsa",
+            "mbid": "0cc3a34f-abda-455a-a7a1-10a2aa989a90",
+            "url": "https://www.last.fm/music/Akitsa"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "canadian black metal",
+          "url": "https://www.last.fm/tag/canadian+black+metal"
+        },
+        {
+          "name": "Canadian Raw Black Metal",
+          "url": "https://www.last.fm/tag/Canadian+Raw+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:03:25.419Z"
+}

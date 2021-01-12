@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Peste Noire",
+    "artist": "Peste Noire",
+    "mbid": "84a7012e-4859-4577-8db7-b227d83a8f70",
+    "url": "https://www.last.fm/music/Peste+Noire/Peste+Noire",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a0f7d8c37ba4401c467c0c5b772e659.png",
+        "size": ""
+      }
+    ],
+    "listeners": "7146",
+    "playcount": "276153",
+    "tracks": {
+      "track": [
+        {
+          "name": "Le retour de la peste",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Le+retour+de+la+peste",
+          "duration": "232",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Démonarque",
+          "url": "https://www.last.fm/music/Peste+Noire/_/D%C3%A9monarque",
+          "duration": "463",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "La bêche et l'épée - contre l'usurier",
+          "url": "https://www.last.fm/music/Peste+Noire/_/La+b%C3%AAche+et+l%27%C3%A9p%C3%A9e+-+contre+l%27usurier",
+          "duration": "490",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Niquez vos villes",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Niquez+vos+villes",
+          "duration": "407",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Le Clebs Noir - De Pontgibaud",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Le+Clebs+Noir+-+De+Pontgibaud",
+          "duration": "315",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Ode",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Ode",
+          "duration": "257",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "La Blonde",
+          "url": "https://www.last.fm/music/Peste+Noire/_/La+Blonde",
+          "duration": "249",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        },
+        {
+          "name": "Moins trente degrés Celsius",
+          "url": "https://www.last.fm/music/Peste+Noire/_/Moins+trente+degr%C3%A9s+Celsius",
+          "duration": "387",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Peste Noire",
+            "mbid": "85479612-e784-4653-8f86-4ebdc89d929d",
+            "url": "https://www.last.fm/music/Peste+Noire"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Avant-Garde Black Metal",
+          "url": "https://www.last.fm/tag/Avant-Garde+Black+Metal"
+        },
+        {
+          "name": "french black metal",
+          "url": "https://www.last.fm/tag/french+black+metal"
+        },
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:13:46.784Z"
+}

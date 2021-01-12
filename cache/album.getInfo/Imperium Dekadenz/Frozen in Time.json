@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Frozen in Time",
+    "artist": "Imperium Dekadenz",
+    "url": "https://www.last.fm/music/Imperium+Dekadenz/Frozen+in+Time",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/941ce421f3e389095206ea61f8acd0f0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "510",
+    "playcount": "1178",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frozen In Time",
+          "url": "https://www.last.fm/music/Imperium+Dekadenz/_/Frozen+In+Time",
+          "duration": "442",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Imperium Dekadenz",
+            "mbid": "b48171f3-f0ff-4fa9-b760-4c898b96f71e",
+            "url": "https://www.last.fm/music/Imperium+Dekadenz"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:56:53.691Z"
+}

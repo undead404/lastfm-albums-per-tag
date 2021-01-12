@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Darkness (Demo)",
+    "artist": "Funeral Mist",
+    "url": "https://www.last.fm/music/Funeral+Mist/Darkness+(Demo)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9655158b8de4acc89bd09ec52c9abcd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "332",
+    "playcount": "5702",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "demo",
+          "url": "https://www.last.fm/tag/demo"
+        },
+        {
+          "name": "swedish black metal",
+          "url": "https://www.last.fm/tag/swedish+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:37:08.923Z"
+}

@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Jagd",
+    "artist": "Nagelfar",
+    "mbid": "56348e53-b393-4f62-a901-7ae358ed2468",
+    "url": "https://www.last.fm/music/Nagelfar/Jagd",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12e7cd696e80c27f8ff6ab0d1d9ca0a7.png",
+        "size": ""
+      }
+    ],
+    "listeners": "750",
+    "playcount": "6981",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skölls Jagd",
+          "url": "https://www.last.fm/music/Nagelfar/_/Sk%C3%B6lls+Jagd",
+          "duration": "526",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Nacht der Rache",
+          "url": "https://www.last.fm/music/Nagelfar/_/Nacht+der+Rache",
+          "duration": "438",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        },
+        {
+          "name": "Srontgorrth - Kapitel 2: Die Existenz jenseits der Tore",
+          "url": "https://www.last.fm/music/Nagelfar/_/Srontgorrth+-+Kapitel+2:+Die+Existenz+jenseits+der+Tore",
+          "duration": "1244",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nagelfar",
+            "mbid": "c2707589-5231-4f9a-b029-5b758c355627",
+            "url": "https://www.last.fm/music/Nagelfar"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "18 Oct 2012, 14:22",
+      "summary": "\"Jagd\" (\"Hunt\") is the second demo released by Nagelfar. <a href=\"http://www.last.fm/music/Nagelfar/Jagd\">Read more on Last.fm</a>.",
+      "content": "\"Jagd\" (\"Hunt\") is the second demo released by Nagelfar. <a href=\"http://www.last.fm/music/Nagelfar/Jagd\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T14:06:16.831Z"
+}

@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "IPSOS",
+    "artist": "Circle of Ouroborus",
+    "url": "https://www.last.fm/music/Circle+of+Ouroborus/IPSOS",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67fbd34b2235403b80bda295ad822f59.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67fbd34b2235403b80bda295ad822f59.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67fbd34b2235403b80bda295ad822f59.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67fbd34b2235403b80bda295ad822f59.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67fbd34b2235403b80bda295ad822f59.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67fbd34b2235403b80bda295ad822f59.png",
+        "size": ""
+      }
+    ],
+    "listeners": "377",
+    "playcount": "2653",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Visitor",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/The+Visitor",
+          "duration": "384",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "There, The Mirror World",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/There,+The+Mirror+World",
+          "duration": "343",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        },
+        {
+          "name": "Your Air Becomes My Water",
+          "url": "https://www.last.fm/music/Circle+of+Ouroborus/_/Your+Air+Becomes+My+Water",
+          "duration": "697",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Circle of Ouroborus",
+            "mbid": "3bdc4bf0-2bf2-44e9-ae9d-bed6ed4c6424",
+            "url": "https://www.last.fm/music/Circle+of+Ouroborus"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:55:11.960Z"
+}

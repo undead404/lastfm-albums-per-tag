@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Tempest EP",
+    "artist": "Cobalt",
+    "url": "https://www.last.fm/music/Cobalt/Tempest+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2137914be5fa4e8ead4ab3e3784c2161.png",
+        "size": ""
+      }
+    ],
+    "listeners": "33",
+    "playcount": "58",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tempest",
+          "url": "https://www.last.fm/music/Cobalt/_/Tempest",
+          "duration": "380",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Sunglasses in Monza",
+          "url": "https://www.last.fm/music/Cobalt/_/Sunglasses+in+Monza",
+          "duration": "277",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        },
+        {
+          "name": "Uncertainty",
+          "url": "https://www.last.fm/music/Cobalt/_/Uncertainty",
+          "duration": "466",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Cobalt",
+            "mbid": "bb46448e-f7cd-4485-8048-3d1a5f7dcaa0",
+            "url": "https://www.last.fm/music/Cobalt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:20:48.049Z"
+}

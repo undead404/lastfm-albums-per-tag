@@ -1,0 +1,129 @@
+{
+  "album": {
+    "name": "Musta Uni",
+    "artist": "Sielunvihollinen",
+    "mbid": "8719dc25-0e8b-472a-914e-850d5357f9cd",
+    "url": "https://www.last.fm/music/Sielunvihollinen/Musta+Uni",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b6cbf45db7fa49c5ab8ad0cb9c697c96.png",
+        "size": ""
+      }
+    ],
+    "listeners": "257",
+    "playcount": "5080",
+    "tracks": {
+      "track": [
+        {
+          "name": "Musta Uni",
+          "url": "https://www.last.fm/music/Sielunvihollinen/_/Musta+Uni",
+          "duration": "190",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sielunvihollinen",
+            "mbid": "6000acbf-a8ea-4dc6-b866-550ac1ac3660",
+            "url": "https://www.last.fm/music/Sielunvihollinen"
+          }
+        },
+        {
+          "name": "Kylmän Syleilyyn",
+          "url": "https://www.last.fm/music/Sielunvihollinen/_/Kylm%C3%A4n+Syleilyyn",
+          "duration": "313",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sielunvihollinen",
+            "mbid": "6000acbf-a8ea-4dc6-b866-550ac1ac3660",
+            "url": "https://www.last.fm/music/Sielunvihollinen"
+          }
+        },
+        {
+          "name": "Maaksi Tuleva",
+          "url": "https://www.last.fm/music/Sielunvihollinen/_/Maaksi+Tuleva",
+          "duration": "293",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sielunvihollinen",
+            "mbid": "6000acbf-a8ea-4dc6-b866-550ac1ac3660",
+            "url": "https://www.last.fm/music/Sielunvihollinen"
+          }
+        },
+        {
+          "name": "Valtakunta, Voima ja Kunnia!",
+          "url": "https://www.last.fm/music/Sielunvihollinen/_/Valtakunta,+Voima+ja+Kunnia%21",
+          "duration": "249",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sielunvihollinen",
+            "mbid": "6000acbf-a8ea-4dc6-b866-550ac1ac3660",
+            "url": "https://www.last.fm/music/Sielunvihollinen"
+          }
+        },
+        {
+          "name": "Tämä kansa, Tämä maa",
+          "url": "https://www.last.fm/music/Sielunvihollinen/_/T%C3%A4m%C3%A4+kansa,+T%C3%A4m%C3%A4+maa",
+          "duration": "233",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sielunvihollinen",
+            "mbid": "6000acbf-a8ea-4dc6-b866-550ac1ac3660",
+            "url": "https://www.last.fm/music/Sielunvihollinen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:59:50.274Z"
+}

@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Sweetcure EP",
+    "artist": "Forest",
+    "url": "https://www.last.fm/music/Forest/Sweetcure+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bd0fb58be154045a74436f0be35766c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bd0fb58be154045a74436f0be35766c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bd0fb58be154045a74436f0be35766c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bd0fb58be154045a74436f0be35766c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bd0fb58be154045a74436f0be35766c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bd0fb58be154045a74436f0be35766c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "246",
+    "playcount": "1459",
+    "tracks": {
+      "track": [
+        {
+          "name": "Good People",
+          "url": "https://www.last.fm/music/Forest/_/Good+People",
+          "duration": "241",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "John",
+          "url": "https://www.last.fm/music/Forest/_/John",
+          "duration": "219",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "The Great Greens",
+          "url": "https://www.last.fm/music/Forest/_/The+Great+Greens",
+          "duration": "244",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        },
+        {
+          "name": "The Travelling Circus",
+          "url": "https://www.last.fm/music/Forest/_/The+Travelling+Circus",
+          "duration": "207",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Forest",
+            "mbid": "cfbfd647-a326-4d68-856a-65e9b06eec2d",
+            "url": "https://www.last.fm/music/Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:33:17.094Z"
+}

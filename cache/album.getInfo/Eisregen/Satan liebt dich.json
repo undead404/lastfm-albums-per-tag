@@ -1,0 +1,168 @@
+{
+  "album": {
+    "name": "Satan liebt dich",
+    "artist": "Eisregen",
+    "url": "https://www.last.fm/music/Eisregen/Satan+liebt+dich",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ef8c4a1d7d3b7ba7894116118e8e4e60.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1408",
+    "playcount": "8308",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fahlmondmörder",
+          "url": "https://www.last.fm/music/Eisregen/_/Fahlmondm%C3%B6rder",
+          "duration": "238",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Satan liebt dich",
+          "url": "https://www.last.fm/music/Eisregen/_/Satan+liebt+dich",
+          "duration": "251",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Onkel Fritze",
+          "url": "https://www.last.fm/music/Eisregen/_/Onkel+Fritze",
+          "duration": "186",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Menschenmetzger Fritz (Transilvanian Beef Club)",
+          "url": "https://www.last.fm/music/Eisregen/_/Menschenmetzger+Fritz+(Transilvanian+Beef+Club)",
+          "duration": "186",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "For God Your Soul",
+          "url": "https://www.last.fm/music/Eisregen/_/For+God+Your+Soul",
+          "duration": "382",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "Mein Eichensarg (Schirenc plays Eisregen)",
+          "url": "https://www.last.fm/music/Eisregen/_/Mein+Eichensarg+(Schirenc+plays+Eisregen)",
+          "duration": "229",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        },
+        {
+          "name": "13 Russische Krebsschweine",
+          "url": "https://www.last.fm/music/Eisregen/_/13+Russische+Krebsschweine",
+          "duration": "262",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Eisregen",
+            "mbid": "343b54e2-9b1b-4bb9-8d0f-06c3942c3c67",
+            "url": "https://www.last.fm/music/Eisregen"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:11:30.241Z"
+}

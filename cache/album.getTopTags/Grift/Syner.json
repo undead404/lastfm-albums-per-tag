@@ -1,0 +1,31 @@
+{
+  "toptags": {
+    "tag": [
+      {
+        "count": 100,
+        "name": "my albums",
+        "url": "https://www.last.fm/tag/my+albums"
+      },
+      {
+        "count": 100,
+        "name": "2015",
+        "url": "https://www.last.fm/tag/2015"
+      },
+      {
+        "count": 100,
+        "name": "best of 2015",
+        "url": "https://www.last.fm/tag/best+of+2015"
+      },
+      {
+        "count": 100,
+        "name": "best albums of the 2010s",
+        "url": "https://www.last.fm/tag/best+albums+of+the+2010s"
+      }
+    ],
+    "@attr": {
+      "artist": "Grift",
+      "album": "Syner"
+    }
+  },
+  "createdAt": "2021-01-11T15:07:48.003Z"
+}

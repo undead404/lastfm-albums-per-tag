@@ -1,0 +1,154 @@
+{
+  "album": {
+    "name": "Dziwki Dwie",
+    "artist": "Non Opus Dei",
+    "url": "https://www.last.fm/music/Non+Opus+Dei/Dziwki+Dwie",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cb4219997974a2fab2d15907298e18a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cb4219997974a2fab2d15907298e18a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cb4219997974a2fab2d15907298e18a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cb4219997974a2fab2d15907298e18a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cb4219997974a2fab2d15907298e18a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cb4219997974a2fab2d15907298e18a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "522",
+    "playcount": "4738",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dziwki dwie",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Dziwki+dwie",
+          "duration": "351",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Kres hańby",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Kres+ha%C5%84by",
+          "duration": "222",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Szaleniec, głupiec, opętany",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Szaleniec,+g%C5%82upiec,+op%C4%99tany",
+          "duration": "303",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Obustronne Oczy Patrzą",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Obustronne+Oczy+Patrz%C4%85",
+          "duration": "400",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Kat Kota",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Kat+Kota",
+          "duration": "461",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        },
+        {
+          "name": "Czyj to głos?",
+          "url": "https://www.last.fm/music/Non+Opus+Dei/_/Czyj+to+g%C5%82os%3F",
+          "duration": "148",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Non Opus Dei",
+            "mbid": "a2168067-2426-42b1-91a0-1d41f628fadf",
+            "url": "https://www.last.fm/music/Non+Opus+Dei"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:56:25.634Z"
+}

@@ -1,0 +1,269 @@
+{
+  "album": {
+    "name": "Strange Old Brew",
+    "artist": "Carpathian Forest",
+    "mbid": "57028857-c038-469d-9476-5dee0cd5be6d",
+    "url": "https://www.last.fm/music/Carpathian+Forest/Strange+Old+Brew",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcf77e5338cc5938665da0f04297ee09.png",
+        "size": ""
+      }
+    ],
+    "listeners": "29240",
+    "playcount": "579496",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro - Damnation Chant",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Intro+-+Damnation+Chant",
+          "duration": "61",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Bloodcleansing",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Bloodcleansing",
+          "duration": "163",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Mask of the Slave",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Mask+of+the+Slave",
+          "duration": "252",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Martyr / Sacrificulum",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Martyr+%2F+Sacrificulum",
+          "duration": "206",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Thanatology",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Thanatology",
+          "duration": "280",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "The Suicide Song",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/The+Suicide+Song",
+          "duration": "219",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "House of the Whipcord",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/House+of+the+Whipcord",
+          "duration": "238",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Cloak of Midnight",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Cloak+of+Midnight",
+          "duration": "328",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Return of the Freezing Winds",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Return+of+the+Freezing+Winds",
+          "duration": "188",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "Theme from Nekromantikk",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/Theme+from+Nekromantikk",
+          "duration": "184",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "The Good Old Enema Treatment",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/The+Good+Old+Enema+Treatment",
+          "duration": "112",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        },
+        {
+          "name": "He's Turning Blue",
+          "url": "https://www.last.fm/music/Carpathian+Forest/_/He%27s+Turning+Blue",
+          "duration": "173",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Carpathian Forest",
+            "mbid": "69fa5c49-12ec-4c86-a238-4e07cc6d1a7d",
+            "url": "https://www.last.fm/music/Carpathian+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "True Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/True+Norwegian+Black+Metal"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "grim",
+          "url": "https://www.last.fm/tag/grim"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:08:26.469Z"
+}

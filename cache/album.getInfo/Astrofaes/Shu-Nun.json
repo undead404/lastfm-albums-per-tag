@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Shu-Nun",
+    "artist": "Astrofaes",
+    "mbid": "5d4548e7-0765-4707-8ec0-cdcf309448fe",
+    "url": "https://www.last.fm/music/Astrofaes/Shu-Nun",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74f41fb3e4b8466b84344f05c85db8cd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "174",
+    "playcount": "1226",
+    "tracks": {
+      "track": [
+        {
+          "name": "Shu-Nun",
+          "url": "https://www.last.fm/music/Astrofaes/_/Shu-Nun",
+          "duration": "314",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        },
+        {
+          "name": "Nun-Birdu",
+          "url": "https://www.last.fm/music/Astrofaes/_/Nun-Birdu",
+          "duration": "320",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Astrofaes",
+            "mbid": "d0111215-cd21-4610-b49f-835182a1448e",
+            "url": "https://www.last.fm/music/Astrofaes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:41:45.017Z"
+}

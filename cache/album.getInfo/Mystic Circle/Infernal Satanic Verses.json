@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Infernal Satanic Verses",
+    "artist": "Mystic Circle",
+    "mbid": "975233ae-5c7d-4f01-84be-7084f232b446",
+    "url": "https://www.last.fm/music/Mystic+Circle/Infernal+Satanic+Verses",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0a2ba0a6c8443a7c359a1d4904a45eb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2071",
+    "playcount": "31948",
+    "tracks": {
+      "track": [
+        {
+          "name": "intro - the Dæmon's Call",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/intro+-+the+D%C3%A6mon%27s+Call",
+          "duration": "104",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "Indestructable Power of Darkness",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/Indestructable+Power+of+Darkness",
+          "duration": "413",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "Hordes of the Underworld",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/Hordes+of+the+Underworld",
+          "duration": "398",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "The Devilstone",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/The+Devilstone",
+          "duration": "420",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "Thorns of Lies",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/Thorns+of+Lies",
+          "duration": "401",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "One With the Antichrist",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/One+With+the+Antichrist",
+          "duration": "444",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "Black Legions",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/Black+Legions",
+          "duration": "419",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        },
+        {
+          "name": "Fallen Christian Empire",
+          "url": "https://www.last.fm/music/Mystic+Circle/_/Fallen+Christian+Empire",
+          "duration": "425",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mystic Circle",
+            "mbid": "d29c3f94-55cc-414a-8cf2-6126e26e5a24",
+            "url": "https://www.last.fm/music/Mystic+Circle"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "Symphonic Black Metal",
+          "url": "https://www.last.fm/tag/Symphonic+Black+Metal"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "satanic themes",
+          "url": "https://www.last.fm/tag/satanic+themes"
+        },
+        {
+          "name": "Female fronted metal",
+          "url": "https://www.last.fm/tag/Female+fronted+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:38:52.245Z"
+}

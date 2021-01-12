@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "The Offering of Hemlock",
+    "artist": "Acherontas",
+    "url": "https://www.last.fm/music/Acherontas/The+Offering+of+Hemlock",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b3b92b0b5c558190cbb54c4c34b5711b.png",
+        "size": ""
+      }
+    ],
+    "listeners": "372",
+    "playcount": "588",
+    "tracks": {
+      "track": [
+        {
+          "name": "The Offering of Hemlock",
+          "url": "https://www.last.fm/music/Acherontas/_/The+Offering+of+Hemlock",
+          "duration": "297",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Acherontas",
+            "mbid": "9c1341c0-739e-4a0a-a1d2-45c8b201fb4d",
+            "url": "https://www.last.fm/music/Acherontas"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:49:12.713Z"
+}

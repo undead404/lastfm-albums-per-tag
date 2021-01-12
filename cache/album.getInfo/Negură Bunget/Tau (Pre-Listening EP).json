@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Tau (Pre-Listening EP)",
+    "artist": "Negură Bunget",
+    "url": "https://www.last.fm/music/Negur%C4%83+Bunget/Tau+(Pre-Listening+EP)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "455",
+    "playcount": "1500",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nametenie",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Nametenie",
+          "duration": "616",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Curgerea muntelui",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Curgerea+muntelui",
+          "duration": "324",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        },
+        {
+          "name": "Schimniceste",
+          "url": "https://www.last.fm/music/Negur%C4%83+Bunget/_/Schimniceste",
+          "duration": "368",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Negură Bunget",
+            "mbid": "aeeeaab0-7262-4eef-aa80-198c98b2ba95",
+            "url": "https://www.last.fm/music/Negur%C4%83+Bunget"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:21:35.207Z"
+}

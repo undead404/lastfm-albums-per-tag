@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Winter of Humanity",
+    "artist": "Lutomysl",
+    "url": "https://www.last.fm/music/Lutomysl/Winter+of+Humanity",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b50f4523f46cac401357b2c94659bc5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "277",
+    "playcount": "3890",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cold",
+          "url": "https://www.last.fm/music/Lutomysl/_/Cold",
+          "duration": "359",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Your Pain",
+          "url": "https://www.last.fm/music/Lutomysl/_/Your+Pain",
+          "duration": "282",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "The Light of Solitude",
+          "url": "https://www.last.fm/music/Lutomysl/_/The+Light+of+Solitude",
+          "duration": "276",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Winter of Humanity",
+          "url": "https://www.last.fm/music/Lutomysl/_/Winter+of+Humanity",
+          "duration": "266",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Gradually we'll all go into Non-Existence",
+          "url": "https://www.last.fm/music/Lutomysl/_/Gradually+we%27ll+all+go+into+Non-Existence",
+          "duration": "329",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Every New Dawn",
+          "url": "https://www.last.fm/music/Lutomysl/_/Every+New+Dawn",
+          "duration": "346",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        },
+        {
+          "name": "Together with Time",
+          "url": "https://www.last.fm/music/Lutomysl/_/Together+with+Time",
+          "duration": "298",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:06:23.527Z"
+}

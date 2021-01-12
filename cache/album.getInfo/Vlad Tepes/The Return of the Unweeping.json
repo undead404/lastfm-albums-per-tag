@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "The Return of the Unweeping",
+    "artist": "Vlad Tepes",
+    "url": "https://www.last.fm/music/Vlad+Tepes/The+Return+of+the+Unweeping",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dad2e09f4a1a4691890c6bd23458f5d1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "272",
+    "playcount": "3177",
+    "tracks": {
+      "track": [
+        {
+          "name": "Frozen Dead's Kingdom",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Frozen+Dead%27s+Kingdom",
+          "duration": "259",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under the Carpathian Yoke",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+the+Carpathian+Yoke",
+          "duration": "285",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "In Holocaust to the Natural Darkness",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/In+Holocaust+to+the+Natural+Darkness",
+          "duration": "176",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Massacre Song From the Devastated Lands",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Massacre+Song+From+the+Devastated+Lands",
+          "duration": "288",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:49:48.681Z"
+}

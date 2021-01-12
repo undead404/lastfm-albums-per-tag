@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Son Of The Northwind",
+    "artist": "Goatmoon",
+    "mbid": "e51916d6-3454-4ae1-be9e-b71f052c9bb4",
+    "url": "https://www.last.fm/music/Goatmoon/Son+Of+The+Northwind",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eaa02bce99054305bd5840fd79970324.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eaa02bce99054305bd5840fd79970324.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eaa02bce99054305bd5840fd79970324.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa02bce99054305bd5840fd79970324.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa02bce99054305bd5840fd79970324.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa02bce99054305bd5840fd79970324.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1049",
+    "playcount": "12743",
+    "tracks": {
+      "track": [
+        {
+          "name": "Son of the Northwind",
+          "url": "https://www.last.fm/music/Goatmoon/_/Son+of+the+Northwind",
+          "duration": "280",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        },
+        {
+          "name": "Puiden Tuolla Puolen",
+          "url": "https://www.last.fm/music/Goatmoon/_/Puiden+Tuolla+Puolen",
+          "duration": "169",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Goatmoon",
+            "mbid": "4331da4f-052e-42b1-aba9-e69ebeb328ee",
+            "url": "https://www.last.fm/music/Goatmoon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 Nov 2012, 17:43",
+      "summary": "1.\t Son of the Northwind\t04:40\t \n2.\t Puiden Tuolla Puolen\t02:49\t <a href=\"http://www.last.fm/music/Goatmoon/Son+Of+The+Northwind\">Read more on Last.fm</a>.",
+      "content": "1.\t Son of the Northwind\t04:40\t \n2.\t Puiden Tuolla Puolen\t02:49\t <a href=\"http://www.last.fm/music/Goatmoon/Son+Of+The+Northwind\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:00:05.371Z"
+}

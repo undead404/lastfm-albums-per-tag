@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Moribund",
+    "artist": "Koldbrann",
+    "mbid": "99964aee-966b-427a-b7a1-5f7d20b8c1ce",
+    "url": "https://www.last.fm/music/Koldbrann/Moribund",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be0c85af188f419fb805e64093295b02.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be0c85af188f419fb805e64093295b02.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be0c85af188f419fb805e64093295b02.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be0c85af188f419fb805e64093295b02.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be0c85af188f419fb805e64093295b02.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be0c85af188f419fb805e64093295b02.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10964",
+    "playcount": "167156",
+    "tracks": {
+      "track": [
+        {
+          "name": "Alt er Befengt",
+          "url": "https://www.last.fm/music/Koldbrann/_/Alt+er+Befengt",
+          "duration": "361",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "I Suveren Forakt",
+          "url": "https://www.last.fm/music/Koldbrann/_/I+Suveren+Forakt",
+          "duration": "398",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Steinet til Jorden",
+          "url": "https://www.last.fm/music/Koldbrann/_/Steinet+til+Jorden",
+          "duration": "358",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Djevelens Treskeverk",
+          "url": "https://www.last.fm/music/Koldbrann/_/Djevelens+Treskeverk",
+          "duration": "361",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Smell of Vitriol",
+          "url": "https://www.last.fm/music/Koldbrann/_/Smell+of+Vitriol",
+          "duration": "343",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Moribund",
+          "url": "https://www.last.fm/music/Koldbrann/_/Moribund",
+          "duration": "337",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Av Sjel Stagnert",
+          "url": "https://www.last.fm/music/Koldbrann/_/Av+Sjel+Stagnert",
+          "duration": "400",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Til Skiringsheim",
+          "url": "https://www.last.fm/music/Koldbrann/_/Til+Skiringsheim",
+          "duration": "134",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Fullt Spekter Dominans",
+          "url": "https://www.last.fm/music/Koldbrann/_/Fullt+Spekter+Dominans",
+          "duration": "252",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Skvadron",
+          "url": "https://www.last.fm/music/Koldbrann/_/Skvadron",
+          "duration": "403",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Bestial Swarm",
+          "url": "https://www.last.fm/music/Koldbrann/_/Bestial+Swarm",
+          "duration": "231",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2006",
+          "url": "https://www.last.fm/tag/2006"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "best of 2006",
+          "url": "https://www.last.fm/tag/best+of+2006"
+        },
+        {
+          "name": "norwegian",
+          "url": "https://www.last.fm/tag/norwegian"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:21:10.649Z"
+}

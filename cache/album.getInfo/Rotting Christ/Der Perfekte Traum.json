@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Der Perfekte Traum",
+    "artist": "Rotting Christ",
+    "mbid": "4a72b719-e8cb-4eae-abfe-4194bf5613a8",
+    "url": "https://www.last.fm/music/Rotting+Christ/Der+Perfekte+Traum",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4842309aceaa4f1d97d1586046ab618d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "3503",
+    "playcount": "42013",
+    "tracks": {
+      "track": [
+        {
+          "name": "Der Perfekte Traum",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Der+Perfekte+Traum",
+          "duration": "268",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Moonlight",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Moonlight",
+          "duration": "257",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Shadows Follow (live)",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Shadows+Follow+(live)",
+          "duration": "281",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Diastric Alchemy (live)",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Diastric+Alchemy+(live)",
+          "duration": "275",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "A Dynasty From The Ice (live)",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/A+Dynasty+From+The+Ice+(live)",
+          "duration": "274",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The First Field Of The Battle (live)",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+First+Field+Of+The+Battle+(live)",
+          "duration": "377",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "King Of A Stellar War (live)",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/King+Of+A+Stellar+War+(live)",
+          "duration": "414",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:54:07.355Z"
+}

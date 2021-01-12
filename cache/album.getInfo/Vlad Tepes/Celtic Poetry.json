@@ -1,0 +1,121 @@
+{
+  "album": {
+    "name": "Celtic Poetry",
+    "artist": "Vlad Tepes",
+    "mbid": "0c6057c3-e324-4743-b236-d4e5fd2c7288",
+    "url": "https://www.last.fm/music/Vlad+Tepes/Celtic+Poetry",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e2bf2f2fd61b4449922f6b30bc3c7220.png",
+        "size": ""
+      }
+    ],
+    "listeners": "949",
+    "playcount": "7657",
+    "tracks": {
+      "track": [
+        {
+          "name": "Drink the Poetry of the Celtic Disciple",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Drink+the+Poetry+of+the+Celtic+Disciple",
+          "duration": "741",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Under the Carpathian Yoke",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Under+the+Carpathian+Yoke",
+          "duration": "285",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Diabolical Reaps",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Diabolical+Reaps",
+          "duration": "225",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        },
+        {
+          "name": "Misery Fear and Storm Hunger",
+          "url": "https://www.last.fm/music/Vlad+Tepes/_/Misery+Fear+and+Storm+Hunger",
+          "duration": "234",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vlad Tepes",
+            "mbid": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+            "url": "https://www.last.fm/music/Vlad+Tepes"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "raw black metal",
+          "url": "https://www.last.fm/tag/raw+black+metal"
+        },
+        {
+          "name": "french raw black metal",
+          "url": "https://www.last.fm/tag/french+raw+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:49:34.573Z"
+}

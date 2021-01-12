@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Odium",
+    "artist": "Odium",
+    "url": "https://www.last.fm/music/Odium/Odium",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dc5c1aeb43a34fe19e4e2bebb2323a88.png",
+        "size": ""
+      }
+    ],
+    "listeners": "63",
+    "playcount": "1045",
+    "tracks": {
+      "track": [
+        {
+          "name": "Headrush",
+          "url": "https://www.last.fm/music/Odium/_/Headrush",
+          "duration": "303",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Odium",
+          "url": "https://www.last.fm/music/Odium/_/Odium",
+          "duration": "317",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Chronic Madness",
+          "url": "https://www.last.fm/music/Odium/_/Chronic+Madness",
+          "duration": "303",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Thursday 3pm",
+          "url": "https://www.last.fm/music/Odium/_/Thursday+3pm",
+          "duration": "368",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Addiction",
+          "url": "https://www.last.fm/music/Odium/_/Addiction",
+          "duration": "237",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "The Giving",
+          "url": "https://www.last.fm/music/Odium/_/The+Giving",
+          "duration": "519",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Level 7",
+          "url": "https://www.last.fm/music/Odium/_/Level+7",
+          "duration": "191",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Demons Of Chaos",
+          "url": "https://www.last.fm/music/Odium/_/Demons+Of+Chaos",
+          "duration": "368",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:59:27.791Z"
+}

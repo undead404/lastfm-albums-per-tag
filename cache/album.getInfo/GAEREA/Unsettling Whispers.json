@@ -1,0 +1,176 @@
+{
+  "album": {
+    "name": "Unsettling Whispers",
+    "artist": "GAEREA",
+    "url": "https://www.last.fm/music/GAEREA/Unsettling+Whispers",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da4e9bc3f77e4b4413dddb4ead0c98bc.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4431",
+    "playcount": "60873",
+    "tracks": {
+      "track": [
+        {
+          "name": "Svn",
+          "url": "https://www.last.fm/music/GAEREA/_/Svn",
+          "duration": "380",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Absent",
+          "url": "https://www.last.fm/music/GAEREA/_/Absent",
+          "duration": "313",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Whispers",
+          "url": "https://www.last.fm/music/GAEREA/_/Whispers",
+          "duration": "514",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Lifeless Immortality",
+          "url": "https://www.last.fm/music/GAEREA/_/Lifeless+Immortality",
+          "duration": "320",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Extension to Nothingness",
+          "url": "https://www.last.fm/music/GAEREA/_/Extension+to+Nothingness",
+          "duration": "342",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Cycle of Decay",
+          "url": "https://www.last.fm/music/GAEREA/_/Cycle+of+Decay",
+          "duration": "285",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        },
+        {
+          "name": "Catharsis",
+          "url": "https://www.last.fm/music/GAEREA/_/Catharsis",
+          "duration": "350",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "GAEREA",
+            "url": "https://www.last.fm/music/GAEREA"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:29:57.297Z"
+}

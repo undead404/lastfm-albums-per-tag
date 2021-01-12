@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Tulppaani (Joulusingle 2007)",
+    "artist": "Ajattara",
+    "url": "https://www.last.fm/music/Ajattara/Tulppaani+(Joulusingle+2007)",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "50",
+    "playcount": "116",
+    "tracks": {
+      "track": [
+        {
+          "name": "Tulppaani - Single Version",
+          "url": "https://www.last.fm/music/Ajattara/_/Tulppaani+-+Single+Version",
+          "duration": "272",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        },
+        {
+          "name": "Joulupukki Puree Ja Lyö - Single Version",
+          "url": "https://www.last.fm/music/Ajattara/_/Joulupukki+Puree+Ja+Ly%C3%B6+-+Single+Version",
+          "duration": "125",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ajattara",
+            "mbid": "a63d9089-482d-4689-9ef1-df4eab9a96ab",
+            "url": "https://www.last.fm/music/Ajattara"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:17:52.345Z"
+}

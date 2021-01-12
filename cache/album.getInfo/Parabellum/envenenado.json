@@ -1,0 +1,384 @@
+{
+  "album": {
+    "name": "envenenado",
+    "artist": "Parabellum",
+    "mbid": "4072a11f-6fec-47a5-bf92-59c7e8e3c6a5",
+    "url": "https://www.last.fm/music/Parabellum/envenenado",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d49d7e8e35dd49a993e59f38bee0fbca.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1236",
+    "playcount": "17220",
+    "tracks": {
+      "track": [
+        {
+          "name": "Botas Dais Asko (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Botas+Dais+Asko+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Nos Engañan (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Nos+Enga%C3%B1an+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Envenenado (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Envenenado+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Mira Que No Lo Ves (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Mira+Que+No+Lo+Ves+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Díme tú (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/D%C3%ADme+t%C3%BA+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Kontra el Rinkón (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Kontra+el+Rink%C3%B3n+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Kuerpo a Kuerpo (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Kuerpo+a+Kuerpo+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Las paredes (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Las+paredes+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Una Kanción de Amor (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Una+Kanci%C3%B3n+de+Amor+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Bronka en el Bar (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Bronka+en+el+Bar+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Imaginas (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Imaginas+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "La Locura - Original",
+          "url": "https://www.last.fm/music/Parabellum/_/La+Locura+-+Original",
+          "duration": "232",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "La nieve (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/La+nieve+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "En pie de guerra (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/En+pie+de+guerra+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Verdad o mentira (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Verdad+o+mentira+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "La Vela Se Apaga (Original)",
+          "url": "https://www.last.fm/music/Parabellum/_/La+Vela+Se+Apaga+(Original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Tu indiferencia (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Tu+indiferencia+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Sacrificio al Cerdo (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Sacrificio+al+Cerdo+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "Anoche Dijiste Adiós (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/Anoche+Dijiste+Adi%C3%B3s+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        },
+        {
+          "name": "No Lo Pienses Más (original)",
+          "url": "https://www.last.fm/music/Parabellum/_/No+Lo+Pienses+M%C3%A1s+(original)",
+          "duration": "0",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Parabellum",
+            "mbid": "2393a9df-4742-4083-b191-31b292a1c5bc",
+            "url": "https://www.last.fm/music/Parabellum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:45:50.919Z"
+}

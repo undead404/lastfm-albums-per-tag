@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "Demain, après la Lune...",
+    "artist": "Quintessence",
+    "url": "https://www.last.fm/music/Quintessence/Demain,+apr%C3%A8s+la+Lune...",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "63",
+    "playcount": "381",
+    "tracks": {
+      "track": [
+        {
+          "name": "Demain",
+          "url": "https://www.last.fm/music/Quintessence/_/Demain",
+          "duration": "281",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Celestial",
+          "url": "https://www.last.fm/music/Quintessence/_/Celestial",
+          "duration": "279",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        },
+        {
+          "name": "Libération",
+          "url": "https://www.last.fm/music/Quintessence/_/Lib%C3%A9ration",
+          "duration": "404",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Quintessence",
+            "mbid": "d6e4be8c-483e-4daa-b181-6932210f411a",
+            "url": "https://www.last.fm/music/Quintessence"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:52:28.035Z"
+}

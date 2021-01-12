@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Promo 2001",
+    "artist": "Woods of Infinity",
+    "mbid": "5a87822f-9d84-4e73-8e74-487c9378dc09",
+    "url": "https://www.last.fm/music/Woods+of+Infinity/Promo+2001",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d6c76ae48d2343a5c3d75cddfb02f075.png",
+        "size": ""
+      }
+    ],
+    "listeners": "112",
+    "playcount": "1191",
+    "tracks": {
+      "track": [
+        {
+          "name": "Excrucior",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Excrucior",
+          "duration": "441",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "My First Victim",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/My+First+Victim",
+          "duration": "242",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Worship Us",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Worship+Us",
+          "duration": "259",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Cancerous Jesus Christ",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Cancerous+Jesus+Christ",
+          "duration": "300",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Stolthet",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Stolthet",
+          "duration": "421",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        },
+        {
+          "name": "Kedjard vid kommande år",
+          "url": "https://www.last.fm/music/Woods+of+Infinity/_/Kedjard+vid+kommande+%C3%A5r",
+          "duration": "697",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Woods of Infinity",
+            "mbid": "1a759bbc-5cb4-4133-9d05-2cfe99d91918",
+            "url": "https://www.last.fm/music/Woods+of+Infinity"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "2001",
+          "url": "https://www.last.fm/tag/2001"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:11:36.625Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Perfect Timing (Intro)",
+    "artist": "NAV",
+    "url": "https://www.last.fm/music/NAV/Perfect+Timing+(Intro)",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a7ff2ac490fcc99c000759f4077c66f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2113",
+    "playcount": "9073",
+    "tracks": {
+      "track": [
+        {
+          "name": "Perfect Timing (Intro)",
+          "url": "https://www.last.fm/music/NAV/_/Perfect+Timing+(Intro)",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "NAV",
+            "mbid": "8cc34dfe-aa43-4245-bc3b-8b09bc76df65",
+            "url": "https://www.last.fm/music/NAV"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T11:52:09.484Z"
+}

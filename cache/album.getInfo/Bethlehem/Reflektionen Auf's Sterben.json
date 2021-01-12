@@ -1,0 +1,155 @@
+{
+  "album": {
+    "name": "Reflektionen Auf's Sterben",
+    "artist": "Bethlehem",
+    "mbid": "07b074a0-dac1-484b-8bc6-f74e304ddb56",
+    "url": "https://www.last.fm/music/Bethlehem/Reflektionen+Auf%27s+Sterben",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ecba1509ce78aa4b0ced0c164341d4c8.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1346",
+    "playcount": "19241",
+    "tracks": {
+      "track": [
+        {
+          "name": "Wolfsstunde (Vargtimmen)",
+          "url": "https://www.last.fm/music/Bethlehem/_/Wolfsstunde+(Vargtimmen)",
+          "duration": "289",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Yesterday I Still Had A Beer Today",
+          "url": "https://www.last.fm/music/Bethlehem/_/Yesterday+I+Still+Had+A+Beer+Today",
+          "duration": "308",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Angst atmet Mord",
+          "url": "https://www.last.fm/music/Bethlehem/_/Angst+atmet+Mord",
+          "duration": "200",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "You Must Play With Yourself",
+          "url": "https://www.last.fm/music/Bethlehem/_/You+Must+Play+With+Yourself",
+          "duration": "260",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Vargtimmen",
+          "url": "https://www.last.fm/music/Bethlehem/_/Vargtimmen",
+          "duration": "226",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        },
+        {
+          "name": "Reflektionen Auf's Sterben",
+          "url": "https://www.last.fm/music/Bethlehem/_/Reflektionen+Auf%27s+Sterben",
+          "duration": "124",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Bethlehem",
+            "mbid": "45ec8daf-e54f-4773-be87-407d950b8ae7",
+            "url": "https://www.last.fm/music/Bethlehem"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:36:10.105Z"
+}

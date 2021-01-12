@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Function & Origin",
+    "artist": "Lor",
+    "url": "https://www.last.fm/music/Lor/Function+&+Origin",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "69",
+    "playcount": "143",
+    "tracks": {
+      "track": [
+        {
+          "name": "Function",
+          "url": "https://www.last.fm/music/Lor/_/Function",
+          "duration": "316",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        },
+        {
+          "name": "Origin",
+          "url": "https://www.last.fm/music/Lor/_/Origin",
+          "duration": "352",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lor",
+            "mbid": "12428979-ae13-4577-8a09-706dbee73d38",
+            "url": "https://www.last.fm/music/Lor"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:13:46.780Z"
+}

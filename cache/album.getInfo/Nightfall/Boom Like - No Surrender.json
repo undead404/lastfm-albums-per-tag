@@ -1,0 +1,111 @@
+{
+  "album": {
+    "name": "Boom Like - No Surrender",
+    "artist": "Nightfall",
+    "url": "https://www.last.fm/music/Nightfall/Boom+Like+-+No+Surrender",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "71",
+    "playcount": "142",
+    "tracks": {
+      "track": [
+        {
+          "name": "No Surrender",
+          "url": "https://www.last.fm/music/Nightfall/_/No+Surrender",
+          "duration": "337",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Boom Like",
+          "url": "https://www.last.fm/music/Nightfall/_/Boom+Like",
+          "duration": "174",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "No Surrender",
+          "url": "https://www.last.fm/music/Nightfall/_/No+Surrender",
+          "duration": "337",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        },
+        {
+          "name": "Boom Like",
+          "url": "https://www.last.fm/music/Nightfall/_/Boom+Like",
+          "duration": "174",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nightfall",
+            "mbid": "b0252545-31bd-44d6-9d42-82cf484f48a9",
+            "url": "https://www.last.fm/music/Nightfall"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:48:23.171Z"
+}

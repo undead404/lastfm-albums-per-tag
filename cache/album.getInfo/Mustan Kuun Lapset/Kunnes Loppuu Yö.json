@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "...Kunnes Loppuu Yö",
+    "artist": "Mustan Kuun Lapset",
+    "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/...Kunnes+Loppuu+Y%C3%B6",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c80135c3c094553a3d51119da34223c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c80135c3c094553a3d51119da34223c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c80135c3c094553a3d51119da34223c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c80135c3c094553a3d51119da34223c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c80135c3c094553a3d51119da34223c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c80135c3c094553a3d51119da34223c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15",
+    "playcount": "77",
+    "tracks": {
+      "track": [
+        {
+          "name": "Talven kylmää valoa",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Talven+kylm%C3%A4%C3%A4+valoa",
+          "duration": "212",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        },
+        {
+          "name": "Taivas ja Maa",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/Taivas+ja+Maa",
+          "duration": "282",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        },
+        {
+          "name": "...Kunnes Loppuu Yö",
+          "url": "https://www.last.fm/music/Mustan+Kuun+Lapset/_/...Kunnes+Loppuu+Y%C3%B6",
+          "duration": "235",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mustan Kuun Lapset",
+            "mbid": "33d18890-b6eb-443b-a200-a7018b34af08",
+            "url": "https://www.last.fm/music/Mustan+Kuun+Lapset"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:14:19.621Z"
+}

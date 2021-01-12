@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "4 The People",
+    "artist": "Ethereal",
+    "url": "https://www.last.fm/music/Ethereal/4+The+People",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9abdbca8974e3b2cebab99c0004a9ef.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2792",
+    "playcount": "13137",
+    "tracks": {
+      "track": [
+        {
+          "name": "4 The People",
+          "url": "https://www.last.fm/music/Ethereal/_/4+The+People",
+          "duration": "306",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ethereal",
+            "mbid": "dfda3788-93ee-4242-a486-f4abad7cc748",
+            "url": "https://www.last.fm/music/Ethereal"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:32:46.690Z"
+}

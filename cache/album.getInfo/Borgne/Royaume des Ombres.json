@@ -1,0 +1,163 @@
+{
+  "album": {
+    "name": "Royaume des Ombres",
+    "artist": "Borgne",
+    "mbid": "b6e58cf3-1ad3-4852-82a8-f711b4c6e4e8",
+    "url": "https://www.last.fm/music/Borgne/Royaume+des+Ombres",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/37fd5fe4b3ad4a3bbf84bbe7aa7251b2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1447",
+    "playcount": "26946",
+    "tracks": {
+      "track": [
+        {
+          "name": "Fall of the Lost Souls",
+          "url": "https://www.last.fm/music/Borgne/_/Fall+of+the+Lost+Souls",
+          "duration": "298",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Suffer As I Paid My Grave",
+          "url": "https://www.last.fm/music/Borgne/_/Suffer+As+I+Paid+My+Grave",
+          "duration": "668",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "In the Realm of the Living I'm Dead",
+          "url": "https://www.last.fm/music/Borgne/_/In+the+Realm+of+the+Living+I%27m+Dead",
+          "duration": "708",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "Only the Dead Can be Heard",
+          "url": "https://www.last.fm/music/Borgne/_/Only+the+Dead+Can+be+Heard",
+          "duration": "533",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "All These Screams Through Me",
+          "url": "https://www.last.fm/music/Borgne/_/All+These+Screams+Through+Me",
+          "duration": "797",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        },
+        {
+          "name": "The Last Thing You Will See",
+          "url": "https://www.last.fm/music/Borgne/_/The+Last+Thing+You+Will+See",
+          "duration": "501",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Borgne",
+            "mbid": "eb18ed4d-30f5-45ca-a0fe-ef6e878522ca",
+            "url": "https://www.last.fm/music/Borgne"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        },
+        {
+          "name": "check out - friends",
+          "url": "https://www.last.fm/tag/check+out+-+friends"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T16:04:41.078Z"
+}

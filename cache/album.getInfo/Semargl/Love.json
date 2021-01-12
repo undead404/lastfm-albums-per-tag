@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "Love",
+    "artist": "Semargl",
+    "mbid": "9edbb503-fd5f-4234-a915-02ce3ba4a822",
+    "url": "https://www.last.fm/music/Semargl/Love",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96487b141b6b408fc0e2f1e15720893f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1246",
+    "playcount": "20760",
+    "tracks": {
+      "track": [
+        {
+          "name": "Poison",
+          "url": "https://www.last.fm/music/Semargl/_/Poison",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "It Is Empty",
+          "url": "https://www.last.fm/music/Semargl/_/It+Is+Empty",
+          "duration": "366",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Eternity",
+          "url": "https://www.last.fm/music/Semargl/_/Eternity",
+          "duration": "314",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Devil Loves You",
+          "url": "https://www.last.fm/music/Semargl/_/Devil+Loves+You",
+          "duration": "357",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Only Time",
+          "url": "https://www.last.fm/music/Semargl/_/Only+Time",
+          "duration": "296",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Everything Will Be Fine",
+          "url": "https://www.last.fm/music/Semargl/_/Everything+Will+Be+Fine",
+          "duration": "307",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Discolove",
+          "url": "https://www.last.fm/music/Semargl/_/Discolove",
+          "duration": "280",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Big Plan",
+          "url": "https://www.last.fm/music/Semargl/_/Big+Plan",
+          "duration": "202",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "From Me",
+          "url": "https://www.last.fm/music/Semargl/_/From+Me",
+          "duration": "206",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "I Just Need You",
+          "url": "https://www.last.fm/music/Semargl/_/I+Just+Need+You",
+          "duration": "277",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        },
+        {
+          "name": "Let Me Light a Fire",
+          "url": "https://www.last.fm/music/Semargl/_/Let+Me+Light+a+Fire",
+          "duration": "271",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Semargl",
+            "mbid": "3b3da3cd-0ad6-48ff-9b50-c996e6d4f53f",
+            "url": "https://www.last.fm/music/Semargl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "Brutal Death Metal with Nordic Influence and guest vocalist satan",
+          "url": "https://www.last.fm/tag/Brutal+Death+Metal+with+Nordic+Influence+and+guest+vocalist+satan"
+        },
+        {
+          "name": "true neo-satanic pop",
+          "url": "https://www.last.fm/tag/true+neo-satanic+pop"
+        },
+        {
+          "name": "satanic pop",
+          "url": "https://www.last.fm/tag/satanic+pop"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:37:23.792Z"
+}

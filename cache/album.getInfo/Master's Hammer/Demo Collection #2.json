@@ -1,0 +1,400 @@
+{
+  "album": {
+    "name": "Demo Collection #2",
+    "artist": "Master's Hammer",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Demo+Collection+%232",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc483d60edad419fa51a008d1e5d74da.png",
+        "size": ""
+      }
+    ],
+    "listeners": "46",
+    "playcount": "1458",
+    "tracks": {
+      "track": [
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Intro",
+          "duration": "54",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Duše Nesmrtelných 1",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Du%C5%A1e+Nesmrteln%C3%BDch+1",
+          "duration": "78",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Duše Nesmrtelných",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Du%C5%A1e+Nesmrteln%C3%BDch",
+          "duration": "215",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Za Smlouvou Pekelnou",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Za+Smlouvou+Pekelnou",
+          "duration": "225",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Jáma pekel",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/J%C3%A1ma+pekel",
+          "duration": "256",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Přivítej Smrt",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/P%C5%99iv%C3%ADtej+Smrt",
+          "duration": "333",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Šánečto 1",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C5%A0%C3%A1ne%C4%8Dto+1",
+          "duration": "200",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Šánečto 2",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C5%A0%C3%A1ne%C4%8Dto+2",
+          "duration": "207",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vzývání Úterní 1",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vz%C3%BDv%C3%A1n%C3%AD+%C3%9Atern%C3%AD+1",
+          "duration": "181",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "vzývání úterní 2",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/vz%C3%BDv%C3%A1n%C3%AD+%C3%BAtern%C3%AD+2",
+          "duration": "177",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Lucifer",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Lucifer",
+          "duration": "231",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Intro",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Intro",
+          "duration": "54",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Zapálili Jsme Onen Svět",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Zap%C3%A1lili+Jsme+Onen+Sv%C4%9Bt",
+          "duration": "281",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Signum Diabolis",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Signum+Diabolis",
+          "duration": "215",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Černá Svatozář",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C4%8Cern%C3%A1+Svatoz%C3%A1%C5%99",
+          "duration": "352",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "skryté síly",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/skryt%C3%A9+s%C3%ADly",
+          "duration": "199",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Věčný Návrat",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/V%C4%9B%C4%8Dn%C3%BD+N%C3%A1vrat",
+          "duration": "201",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "The Mass",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/The+Mass",
+          "duration": "191",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vykoupení",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vykoupen%C3%AD",
+          "duration": "332",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "(Kolem kotle)",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/(Kolem+kotle)",
+          "duration": "40",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Kolem Kotle",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Kolem+Kotle",
+          "duration": "456",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:24:04.384Z"
+}

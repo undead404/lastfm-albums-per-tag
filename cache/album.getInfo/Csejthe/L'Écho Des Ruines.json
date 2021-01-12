@@ -1,0 +1,151 @@
+{
+  "album": {
+    "name": "L'Écho Des Ruines",
+    "artist": "Csejthe",
+    "mbid": "c0d81e54-3d97-451c-9235-fe3d34989401",
+    "url": "https://www.last.fm/music/Csejthe/L%27%C3%89cho+Des+Ruines",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4db30a623a9d476caafded84ccc4de80.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4db30a623a9d476caafded84ccc4de80.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4db30a623a9d476caafded84ccc4de80.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4db30a623a9d476caafded84ccc4de80.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4db30a623a9d476caafded84ccc4de80.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4db30a623a9d476caafded84ccc4de80.png",
+        "size": ""
+      }
+    ],
+    "listeners": "52",
+    "playcount": "407",
+    "tracks": {
+      "track": [
+        {
+          "name": "L'écho des ruines",
+          "url": "https://www.last.fm/music/Csejthe/_/L%27%C3%A9cho+des+ruines",
+          "duration": "226",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        },
+        {
+          "name": "La mort du prince noir",
+          "url": "https://www.last.fm/music/Csejthe/_/La+mort+du+prince+noir",
+          "duration": "428",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        },
+        {
+          "name": "La redoutable ascendance",
+          "url": "https://www.last.fm/music/Csejthe/_/La+redoutable+ascendance",
+          "duration": "352",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        },
+        {
+          "name": "Bator",
+          "url": "https://www.last.fm/music/Csejthe/_/Bator",
+          "duration": "339",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        },
+        {
+          "name": "Destin Funeste",
+          "url": "https://www.last.fm/music/Csejthe/_/Destin+Funeste",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        },
+        {
+          "name": "Réflexion",
+          "url": "https://www.last.fm/music/Csejthe/_/R%C3%A9flexion",
+          "duration": "203",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Csejthe",
+            "mbid": "d5850753-96a4-42b2-97a1-778d1881fac4",
+            "url": "https://www.last.fm/music/Csejthe"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "atmospheric black metal",
+          "url": "https://www.last.fm/tag/atmospheric+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:18:56.062Z"
+}

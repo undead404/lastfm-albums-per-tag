@@ -1,0 +1,79 @@
+{
+  "album": {
+    "name": "Ritual",
+    "artist": "Hate Forest",
+    "url": "https://www.last.fm/music/Hate+Forest/Ritual",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d77d7302fce549fe85a56117652cb6e2.png",
+        "size": ""
+      }
+    ],
+    "listeners": "388",
+    "playcount": "2132",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black God",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Black+God",
+          "duration": "386",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        },
+        {
+          "name": "Burning Churches",
+          "url": "https://www.last.fm/music/Hate+Forest/_/Burning+Churches",
+          "duration": "270",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Hate Forest",
+            "mbid": "2e3a78d1-c6f7-4d40-b131-bd8ac845b730",
+            "url": "https://www.last.fm/music/Hate+Forest"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:03:03.863Z"
+}

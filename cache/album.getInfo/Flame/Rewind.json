@@ -1,0 +1,418 @@
+{
+  "album": {
+    "name": "Rewind",
+    "artist": "Flame",
+    "mbid": "f94e6f74-2afd-387e-8758-2d0dbed28451",
+    "url": "https://www.last.fm/music/Flame/Rewind",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/840736bbf5224dbc9225ec6d683ed911.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1296",
+    "playcount": "18664",
+    "tracks": {
+      "track": [
+        {
+          "name": "Show (intro)",
+          "url": "https://www.last.fm/music/Flame/_/Show+(intro)",
+          "duration": "93",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "No Silence",
+          "url": "https://www.last.fm/music/Flame/_/No+Silence",
+          "duration": "247",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Uh-Oh",
+          "url": "https://www.last.fm/music/Flame/_/Uh-Oh",
+          "duration": "255",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "So Sweet",
+          "url": "https://www.last.fm/music/Flame/_/So+Sweet",
+          "duration": "238",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Rewind",
+          "url": "https://www.last.fm/music/Flame/_/Rewind",
+          "duration": "222",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Gotta Notice",
+          "url": "https://www.last.fm/music/Flame/_/Gotta+Notice",
+          "duration": "220",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "We Need You",
+          "url": "https://www.last.fm/music/Flame/_/We+Need+You",
+          "duration": "244",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Commercial",
+          "url": "https://www.last.fm/music/Flame/_/Commercial",
+          "duration": "92",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Context",
+          "url": "https://www.last.fm/music/Flame/_/Context",
+          "duration": "224",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "War of the Minds",
+          "url": "https://www.last.fm/music/Flame/_/War+of+the+Minds",
+          "duration": "301",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Give Us the Truth, Part 2",
+          "url": "https://www.last.fm/music/Flame/_/Give+Us+the+Truth,+Part+2",
+          "duration": "274",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "The Godhead",
+          "url": "https://www.last.fm/music/Flame/_/The+Godhead",
+          "duration": "256",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Let's Go",
+          "url": "https://www.last.fm/music/Flame/_/Let%27s+Go",
+          "duration": "193",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Racial Diversity",
+          "url": "https://www.last.fm/music/Flame/_/Racial+Diversity",
+          "duration": "231",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "To My Heart",
+          "url": "https://www.last.fm/music/Flame/_/To+My+Heart",
+          "duration": "250",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Break Bread",
+          "url": "https://www.last.fm/music/Flame/_/Break+Bread",
+          "duration": "221",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Welcome",
+          "url": "https://www.last.fm/music/Flame/_/Welcome",
+          "duration": "165",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Sola Scriptura",
+          "url": "https://www.last.fm/music/Flame/_/Sola+Scriptura",
+          "duration": "155",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Cross Movement",
+          "url": "https://www.last.fm/music/Flame/_/Cross+Movement",
+          "duration": "223",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "Show (outro)",
+          "url": "https://www.last.fm/music/Flame/_/Show+(outro)",
+          "duration": "126",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        },
+        {
+          "name": "We Preach Christ",
+          "url": "https://www.last.fm/music/Flame/_/We+Preach+Christ",
+          "duration": "213",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Flame",
+            "mbid": "e94977e2-517b-4341-aee6-c6d19f90d80f",
+            "url": "https://www.last.fm/music/Flame"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "arthur",
+          "url": "https://www.last.fm/tag/arthur"
+        },
+        {
+          "name": "real life rhymes",
+          "url": "https://www.last.fm/tag/real+life+rhymes"
+        },
+        {
+          "name": "lyrics to learn from",
+          "url": "https://www.last.fm/tag/lyrics+to+learn+from"
+        },
+        {
+          "name": "missionary flows",
+          "url": "https://www.last.fm/tag/missionary+flows"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:01:32.408Z"
+}

@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Varulv",
+    "artist": "Black Funeral",
+    "url": "https://www.last.fm/music/Black+Funeral/Varulv",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6870e4f21df450fd173e379b2d98403d.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6870e4f21df450fd173e379b2d98403d.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6870e4f21df450fd173e379b2d98403d.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6870e4f21df450fd173e379b2d98403d.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6870e4f21df450fd173e379b2d98403d.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6870e4f21df450fd173e379b2d98403d.png",
+        "size": ""
+      }
+    ],
+    "listeners": "21",
+    "playcount": "217",
+    "tracks": {
+      "track": [
+        {
+          "name": "1476",
+          "url": "https://www.last.fm/music/Black+Funeral/_/1476",
+          "duration": "332",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "May The Black Earth Spew Thee Up",
+          "url": "https://www.last.fm/music/Black+Funeral/_/May+The+Black+Earth+Spew+Thee+Up",
+          "duration": "203",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Moyset, Of The Left Hand Thy Shall Kiss",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Moyset,+Of+The+Left+Hand+Thy+Shall+Kiss",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Varulv",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Varulv",
+          "duration": "245",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Srobar (Bathed In Violence)",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Srobar+(Bathed+In+Violence)",
+          "duration": "0",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        },
+        {
+          "name": "Lamb (VON Cover)",
+          "url": "https://www.last.fm/music/Black+Funeral/_/Lamb+(VON+Cover)",
+          "duration": "0",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Black Funeral",
+            "mbid": "22e981ec-110f-4a8c-a73c-1746eac4ca12",
+            "url": "https://www.last.fm/music/Black+Funeral"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:50:56.566Z"
+}

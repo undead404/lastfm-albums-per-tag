@@ -1,0 +1,108 @@
+{
+  "album": {
+    "name": "Promo 1994",
+    "artist": "Dødheimsgard",
+    "mbid": "d7b4dafd-0f3a-4ef0-ab8b-a23008e292ad",
+    "url": "https://www.last.fm/music/D%C3%B8dheimsgard/Promo+1994",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00d3d2facf6243118ebd6c01531845b0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "47",
+    "playcount": "175",
+    "tracks": {
+      "track": [
+        {
+          "name": "En krig å seire",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/En+krig+%C3%A5+seire",
+          "duration": "298",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Starcave, Depths and Chained",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/Starcave,+Depths+and+Chained",
+          "duration": "221",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        },
+        {
+          "name": "Når vi har dolket Guds hjerte",
+          "url": "https://www.last.fm/music/D%C3%B8dheimsgard/_/N%C3%A5r+vi+har+dolket+Guds+hjerte",
+          "duration": "287",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dødheimsgard",
+            "mbid": "fa6b8030-067f-4f80-8ba3-8585b9cb9cfd",
+            "url": "https://www.last.fm/music/D%C3%B8dheimsgard"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:47:38.225Z"
+}

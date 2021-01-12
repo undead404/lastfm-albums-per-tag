@@ -1,0 +1,167 @@
+{
+  "album": {
+    "name": "Sentinel",
+    "artist": "Spectral Lore",
+    "mbid": "467ca70a-6de2-43ce-a265-2b22c2f0baff",
+    "url": "https://www.last.fm/music/Spectral+Lore/Sentinel",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af1438d0cc5d4d1e9643da783f488014.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1000",
+    "playcount": "13095",
+    "tracks": {
+      "track": [
+        {
+          "name": "All Devouring Earth",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/All+Devouring+Earth",
+          "duration": "609",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "The Dejection of Arjuna",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/The+Dejection+of+Arjuna",
+          "duration": "447",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "The Coming of Age",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/The+Coming+of+Age",
+          "duration": "359",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Quest for the Supramental",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Quest+for+the+Supramental",
+          "duration": "675",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "My Ascension into the Celestial Spheres",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/My+Ascension+into+the+Celestial+Spheres",
+          "duration": "608",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        },
+        {
+          "name": "Atlus (a world within a world)",
+          "url": "https://www.last.fm/music/Spectral+Lore/_/Atlus+(a+world+within+a+world)",
+          "duration": "1833",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Spectral Lore",
+            "mbid": "e1d419d5-4726-43a0-bfe2-c4c2f504128c",
+            "url": "https://www.last.fm/music/Spectral+Lore"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2012",
+          "url": "https://www.last.fm/tag/2012"
+        },
+        {
+          "name": "10s",
+          "url": "https://www.last.fm/tag/10s"
+        },
+        {
+          "name": "progressive black metal",
+          "url": "https://www.last.fm/tag/progressive+black+metal"
+        },
+        {
+          "name": "beautiful album covers",
+          "url": "https://www.last.fm/tag/beautiful+album+covers"
+        },
+        {
+          "name": "great album covers",
+          "url": "https://www.last.fm/tag/great+album+covers"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:12:03.459Z"
+}

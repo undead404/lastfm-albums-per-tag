@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "On the Mission",
+    "artist": "Clandestine Blaze",
+    "mbid": "5353fa62-dc1e-3dbd-91da-70879b3b3842",
+    "url": "https://www.last.fm/music/Clandestine+Blaze/On+the+Mission",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2b2720f65ee4e5eb726dd59e3862601.png",
+        "size": ""
+      }
+    ],
+    "listeners": "464",
+    "playcount": "2437",
+    "tracks": {
+      "track": [
+        {
+          "name": "On The Mission",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/On+The+Mission",
+          "duration": "327",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        },
+        {
+          "name": "Tearing Down Jerusalem",
+          "url": "https://www.last.fm/music/Clandestine+Blaze/_/Tearing+Down+Jerusalem",
+          "duration": "395",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Clandestine Blaze",
+            "mbid": "7fbd3cf5-b39c-4b0a-9802-a41f0d452d5c",
+            "url": "https://www.last.fm/music/Clandestine+Blaze"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:38:02.169Z"
+}

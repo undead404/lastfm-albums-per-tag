@@ -1,0 +1,78 @@
+{
+  "album": {
+    "name": "Another Two of Your Scars and the World is Dead",
+    "artist": "Dodsferd",
+    "mbid": "1487a217-b4fd-4c3c-bf48-e65f7d6d469e",
+    "url": "https://www.last.fm/music/Dodsferd/Another+Two+of+Your+Scars+and+the+World+is+Dead",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09078cb124a44941822d5088a1a7a8e4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "75",
+    "playcount": "1534",
+    "tracks": {
+      "track": [
+        {
+          "name": "Only Thorns Can Embrace Your Condemned Throne",
+          "url": "https://www.last.fm/music/Dodsferd/_/Only+Thorns+Can+Embrace+Your+Condemned+Throne",
+          "duration": "420",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        },
+        {
+          "name": "Another two of your scars and the world is dead",
+          "url": "https://www.last.fm/music/Dodsferd/_/Another+two+of+your+scars+and+the+world+is+dead",
+          "duration": "295",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Dodsferd",
+            "mbid": "80cdb074-a72b-4572-afd5-1e06227eeb77",
+            "url": "https://www.last.fm/music/Dodsferd"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:29:40.151Z"
+}

@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Domedagens triumf",
+    "artist": "Armagedda",
+    "url": "https://www.last.fm/music/Armagedda/Domedagens+triumf",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5a2149145ba17e9500cd43f5442afdba.png",
+        "size": ""
+      }
+    ],
+    "listeners": "317",
+    "playcount": "1014",
+    "tracks": {
+      "track": [
+        {
+          "name": "Domedagens Triumf",
+          "url": "https://www.last.fm/music/Armagedda/_/Domedagens+Triumf",
+          "duration": "338",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Armagedda",
+            "mbid": "765134ee-706c-4410-a309-caf90c35d168",
+            "url": "https://www.last.fm/music/Armagedda"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:19:08.952Z"
+}

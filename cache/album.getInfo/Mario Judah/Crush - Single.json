@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Crush - Single",
+    "artist": "Mario Judah",
+    "url": "https://www.last.fm/music/Mario+Judah/Crush+-+Single",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/298d41af96f967ccebd65fd86d4e11bb.png",
+        "size": ""
+      }
+    ],
+    "listeners": "240",
+    "playcount": "655",
+    "tracks": {
+      "track": [
+        {
+          "name": "Crush",
+          "url": "https://www.last.fm/music/Mario+Judah/_/Crush",
+          "duration": "102",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mario Judah",
+            "url": "https://www.last.fm/music/Mario+Judah"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:27:26.762Z"
+}

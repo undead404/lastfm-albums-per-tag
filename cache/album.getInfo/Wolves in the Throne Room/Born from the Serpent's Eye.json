@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Born from the Serpent's Eye",
+    "artist": "Wolves in the Throne Room",
+    "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/Born+from+the+Serpent%27s+Eye",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a79a40f7737bab963e48441cb96f085.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a79a40f7737bab963e48441cb96f085.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a79a40f7737bab963e48441cb96f085.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a79a40f7737bab963e48441cb96f085.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a79a40f7737bab963e48441cb96f085.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a79a40f7737bab963e48441cb96f085.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1599",
+    "playcount": "3566",
+    "tracks": {
+      "track": [
+        {
+          "name": "Born from the Serpent's Eye",
+          "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room/_/Born+from+the+Serpent%27s+Eye",
+          "duration": "576",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Wolves in the Throne Room",
+            "mbid": "e9452446-7702-4853-96ce-5dfe6748d3fb",
+            "url": "https://www.last.fm/music/Wolves+in+the+Throne+Room"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:09:31.391Z"
+}

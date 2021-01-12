@@ -1,0 +1,145 @@
+{
+  "album": {
+    "name": "Blackwave",
+    "artist": "Striborg",
+    "url": "https://www.last.fm/music/Striborg/Blackwave",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77fa1f3490be393115e138c6b72ae3df.png",
+        "size": ""
+      }
+    ],
+    "listeners": "412",
+    "playcount": "2683",
+    "tracks": {
+      "track": [
+        {
+          "name": "Trapped in a Void of the Night",
+          "url": "https://www.last.fm/music/Striborg/_/Trapped+in+a+Void+of+the+Night",
+          "duration": "356",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "The Overwhelming Presence of Life",
+          "url": "https://www.last.fm/music/Striborg/_/The+Overwhelming+Presence+of+Life",
+          "duration": "342",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Delusions of Grandeur",
+          "url": "https://www.last.fm/music/Striborg/_/Delusions+of+Grandeur",
+          "duration": "334",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Making the World Cold",
+          "url": "https://www.last.fm/music/Striborg/_/Making+the+World+Cold",
+          "duration": "244",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "All Alone in a Room Filled with Souls",
+          "url": "https://www.last.fm/music/Striborg/_/All+Alone+in+a+Room+Filled+with+Souls",
+          "duration": "308",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        },
+        {
+          "name": "Penance Stare",
+          "url": "https://www.last.fm/music/Striborg/_/Penance+Stare",
+          "duration": "486",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Striborg",
+            "mbid": "22bb4fbf-cf3d-4d8f-bbbd-08d0c0003c6b",
+            "url": "https://www.last.fm/music/Striborg"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:43:34.212Z"
+}

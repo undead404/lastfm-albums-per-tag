@@ -1,0 +1,591 @@
+{
+  "album": {
+    "name": "Lucifer Over Athens",
+    "artist": "Rotting Christ",
+    "url": "https://www.last.fm/music/Rotting+Christ/Lucifer+Over+Athens",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f18e9d3388e567ce2541442d70da975.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f18e9d3388e567ce2541442d70da975.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f18e9d3388e567ce2541442d70da975.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f18e9d3388e567ce2541442d70da975.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f18e9d3388e567ce2541442d70da975.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f18e9d3388e567ce2541442d70da975.png",
+        "size": ""
+      }
+    ],
+    "listeners": "8334",
+    "playcount": "158697",
+    "tracks": {
+      "track": [
+        {
+          "name": "X Ξ Σ",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/X+%CE%9E+%CE%A3",
+          "duration": "340",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "dub-saĝ-ta-ke",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/dub-sa%C4%9D-ta-ke",
+          "duration": "177",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Athanati Este",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Athanati+Este",
+          "duration": "340",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Κατά τον δαίμονα εαυτού",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/%CE%9A%CE%B1%CF%84%CE%AC+%CF%84%CE%BF%CE%BD+%CE%B4%CE%B1%CE%AF%CE%BC%CE%BF%CE%BD%CE%B1+%CE%B5%CE%B1%CF%85%CF%84%CE%BF%CF%8D",
+          "duration": "288",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Nemecic",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Nemecic",
+          "duration": "259",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "After Dark I Feel",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/After+Dark+I+Feel",
+          "duration": "271",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Sorrowfull Farewell",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Sorrowfull+Farewell",
+          "duration": "294",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Among Two Storms",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Among+Two+Storms",
+          "duration": "249",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Gloria De Domino Inferni",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Gloria+De+Domino+Inferni",
+          "duration": "97",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Feast Of The Grand Whore",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Feast+Of+The+Grand+Whore",
+          "duration": "201",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The Nereid of Esgalduin",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+Nereid+of+Esgalduin",
+          "duration": "227",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Forest of N'Gai",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Forest+of+N%27Gai",
+          "duration": "271",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The Sign Of Evil Existence",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+Sign+Of+Evil+Existence",
+          "duration": "120",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Transform All Suffering Into Plagues",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Transform+All+Suffering+Into+Plagues",
+          "duration": "325",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Fgmenth, Thy Gift",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Fgmenth,+Thy+Gift",
+          "duration": "285",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Societas Satanas",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Societas+Satanas",
+          "duration": "231",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Demonon Vrosis",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Demonon+Vrosis",
+          "duration": "295",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Quintessence",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Quintessence",
+          "duration": "289",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The Call Of The Aethyrs",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+Call+Of+The+Aethyrs",
+          "duration": "275",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "In Yumen/Xibalba",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/In+Yumen%2FXibalba",
+          "duration": "384",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Grandis Spiritus Diavolos",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Grandis+Spiritus+Diavolos",
+          "duration": "352",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Welcome To Hel",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Welcome+To+Hel",
+          "duration": "268",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "King of a Stellar War",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/King+of+a+Stellar+War",
+          "duration": "378",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Archon",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Archon",
+          "duration": "251",
+          "@attr": {
+            "rank": "24"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Exiled Archangels",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Exiled+Archangels",
+          "duration": "307",
+          "@attr": {
+            "rank": "25"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Dive The Deepest Abyss",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Dive+The+Deepest+Abyss",
+          "duration": "350",
+          "@attr": {
+            "rank": "26"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The Fourth Knight Of Revelation",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+Fourth+Knight+Of+Revelation",
+          "duration": "409",
+          "@attr": {
+            "rank": "27"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "The Sign of Prime Creation",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/The+Sign+of+Prime+Creation",
+          "duration": "204",
+          "@attr": {
+            "rank": "28"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Non Serviam",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Non+Serviam",
+          "duration": "314",
+          "@attr": {
+            "rank": "29"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Enuma Elish",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Enuma+Elish",
+          "duration": "279",
+          "@attr": {
+            "rank": "30"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        },
+        {
+          "name": "Noctis Era",
+          "url": "https://www.last.fm/music/Rotting+Christ/_/Noctis+Era",
+          "duration": "287",
+          "@attr": {
+            "rank": "31"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Rotting Christ",
+            "mbid": "2d576cfe-7669-4af0-a66a-86c8362f47c5",
+            "url": "https://www.last.fm/music/Rotting+Christ"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "Greek",
+          "url": "https://www.last.fm/tag/Greek"
+        },
+        {
+          "name": "greece",
+          "url": "https://www.last.fm/tag/greece"
+        },
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:53:58.666Z"
+}

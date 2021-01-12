@@ -1,0 +1,248 @@
+{
+  "album": {
+    "name": "Vertigo",
+    "artist": "Koldbrann",
+    "mbid": "18455daf-81b1-4bba-8ce4-af6eb5a3e036",
+    "url": "https://www.last.fm/music/Koldbrann/Vertigo",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cda90dcea5e74b068486d86c538fc16f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5848",
+    "playcount": "75595",
+    "tracks": {
+      "track": [
+        {
+          "name": "IntroVertigo",
+          "url": "https://www.last.fm/music/Koldbrann/_/IntroVertigo",
+          "duration": "354",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Totalt Sjelelig Bankerott",
+          "url": "https://www.last.fm/music/Koldbrann/_/Totalt+Sjelelig+Bankerott",
+          "duration": "346",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Hjertets Holodomor",
+          "url": "https://www.last.fm/music/Koldbrann/_/Hjertets+Holodomor",
+          "duration": "40",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Drammen",
+          "url": "https://www.last.fm/music/Koldbrann/_/Drammen",
+          "duration": "335",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Stolichnaya Smert",
+          "url": "https://www.last.fm/music/Koldbrann/_/Stolichnaya+Smert",
+          "duration": "286",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Terminal Transnistrii",
+          "url": "https://www.last.fm/music/Koldbrann/_/Terminal+Transnistrii",
+          "duration": "46",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Phantom Kosmonaut",
+          "url": "https://www.last.fm/music/Koldbrann/_/Phantom+Kosmonaut",
+          "duration": "357",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Goat Lodge",
+          "url": "https://www.last.fm/music/Koldbrann/_/Goat+Lodge",
+          "duration": "397",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "I Eklipsens Skimmer",
+          "url": "https://www.last.fm/music/Koldbrann/_/I+Eklipsens+Skimmer",
+          "duration": "262",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Sans soleil",
+          "url": "https://www.last.fm/music/Koldbrann/_/Sans+soleil",
+          "duration": "48",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        },
+        {
+          "name": "Inertia Corridors",
+          "url": "https://www.last.fm/music/Koldbrann/_/Inertia+Corridors",
+          "duration": "416",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Koldbrann",
+            "mbid": "6b0be592-4316-4bf0-906d-1a58bd2fd75f",
+            "url": "https://www.last.fm/music/Koldbrann"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "Norwegian Black Metal",
+          "url": "https://www.last.fm/tag/Norwegian+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:21:11.788Z"
+}

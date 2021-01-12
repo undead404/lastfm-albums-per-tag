@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Take The Hit EP",
+    "artist": "Odium",
+    "url": "https://www.last.fm/music/Odium/Take+The+Hit+EP",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81b73826aede696d7fd1dabd2b49ad54.png",
+        "size": ""
+      }
+    ],
+    "listeners": "441",
+    "playcount": "2444",
+    "tracks": {
+      "track": [
+        {
+          "name": "Take The Hit",
+          "url": "https://www.last.fm/music/Odium/_/Take+The+Hit",
+          "duration": "152",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Just Tell Me",
+          "url": "https://www.last.fm/music/Odium/_/Just+Tell+Me",
+          "duration": "229",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "8 Times",
+          "url": "https://www.last.fm/music/Odium/_/8+Times",
+          "duration": "251",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Nightmare",
+          "url": "https://www.last.fm/music/Odium/_/Nightmare",
+          "duration": "223",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        },
+        {
+          "name": "Fight",
+          "url": "https://www.last.fm/music/Odium/_/Fight",
+          "duration": "263",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Odium",
+            "mbid": "622b6ad9-3ef3-4e65-b067-017fb298d644",
+            "url": "https://www.last.fm/music/Odium"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:59:17.062Z"
+}

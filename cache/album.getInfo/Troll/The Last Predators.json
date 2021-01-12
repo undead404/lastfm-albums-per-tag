@@ -1,0 +1,252 @@
+{
+  "album": {
+    "name": "The Last Predators",
+    "artist": "Troll",
+    "mbid": "b74bf88a-9128-4385-b77a-2d1d1cf123b7",
+    "url": "https://www.last.fm/music/Troll/The+Last+Predators",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6ce0c78b8caf3944faa22042dd8ea341.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2310",
+    "playcount": "50954",
+    "tracks": {
+      "track": [
+        {
+          "name": "Bastards Last Breath (Intro)",
+          "url": "https://www.last.fm/music/Troll/_/Bastards+Last+Breath+(Intro)",
+          "duration": "70",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Fall of the Marbeled Galaxy",
+          "url": "https://www.last.fm/music/Troll/_/Fall+of+the+Marbeled+Galaxy",
+          "duration": "189",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Seierens stråler",
+          "url": "https://www.last.fm/music/Troll/_/Seierens+str%C3%A5ler",
+          "duration": "176",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Mending The Instinct",
+          "url": "https://www.last.fm/music/Troll/_/Mending+The+Instinct",
+          "duration": "231",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Colony X-11: Inflict Mythical Mayhem",
+          "url": "https://www.last.fm/music/Troll/_/Colony+X-11:+Inflict+Mythical+Mayhem",
+          "duration": "185",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "My Glance Into the Narrow Room",
+          "url": "https://www.last.fm/music/Troll/_/My+Glance+Into+the+Narrow+Room",
+          "duration": "154",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Eyes as in I",
+          "url": "https://www.last.fm/music/Troll/_/Eyes+as+in+I",
+          "duration": "152",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "A.T.The Riddle",
+          "url": "https://www.last.fm/music/Troll/_/A.T.The+Riddle",
+          "duration": "221",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "The Last Predators",
+          "url": "https://www.last.fm/music/Troll/_/The+Last+Predators",
+          "duration": "243",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Frelserens visjoner",
+          "url": "https://www.last.fm/music/Troll/_/Frelserens+visjoner",
+          "duration": "142",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        },
+        {
+          "name": "Spor 11",
+          "url": "https://www.last.fm/music/Troll/_/Spor+11",
+          "duration": "56",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Troll",
+            "mbid": "e885fea3-0d26-4e8e-995f-612554380628",
+            "url": "https://www.last.fm/music/Troll"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "cute",
+          "url": "https://www.last.fm/tag/cute"
+        },
+        {
+          "name": "viking metal",
+          "url": "https://www.last.fm/tag/viking+metal"
+        },
+        {
+          "name": "girls",
+          "url": "https://www.last.fm/tag/girls"
+        },
+        {
+          "name": "girl pop",
+          "url": "https://www.last.fm/tag/girl+pop"
+        },
+        {
+          "name": "industrial black metal",
+          "url": "https://www.last.fm/tag/industrial+black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:13:36.574Z"
+}

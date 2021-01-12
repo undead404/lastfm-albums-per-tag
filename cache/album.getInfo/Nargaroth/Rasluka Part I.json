@@ -1,0 +1,133 @@
+{
+  "album": {
+    "name": "Rasluka Part I",
+    "artist": "Nargaroth",
+    "mbid": "00cfff8f-de0d-37ea-8ef5-8eef743d3e45",
+    "url": "https://www.last.fm/music/Nargaroth/Rasluka+Part+I",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d54accfc023447e694e85d13c1d4bc0c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5917",
+    "playcount": "65167",
+    "tracks": {
+      "track": [
+        {
+          "name": "Introduction: Trauermarsch",
+          "url": "https://www.last.fm/music/Nargaroth/_/Introduction:+Trauermarsch",
+          "duration": "219",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Rasluka",
+          "url": "https://www.last.fm/music/Nargaroth/_/Rasluka",
+          "duration": "585",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Wo die Kraniche zieh'n",
+          "url": "https://www.last.fm/music/Nargaroth/_/Wo+die+Kraniche+zieh%27n",
+          "duration": "409",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        },
+        {
+          "name": "Tränen Eines Mannes",
+          "url": "https://www.last.fm/music/Nargaroth/_/Tr%C3%A4nen+Eines+Mannes",
+          "duration": "599",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Nargaroth",
+            "mbid": "b4b6743e-45b2-4c36-bcde-e5037ffa0b7a",
+            "url": "https://www.last.fm/music/Nargaroth"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "albums I own",
+          "url": "https://www.last.fm/tag/albums+I+own"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        },
+        {
+          "name": "2004",
+          "url": "https://www.last.fm/tag/2004"
+        },
+        {
+          "name": "wishlist",
+          "url": "https://www.last.fm/tag/wishlist"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:19:06.102Z"
+}

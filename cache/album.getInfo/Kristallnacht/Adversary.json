@@ -1,0 +1,80 @@
+{
+  "album": {
+    "name": "Adversary",
+    "artist": "Kristallnacht",
+    "mbid": "8890cd58-3d81-4394-910a-ae973bcb8071",
+    "url": "https://www.last.fm/music/Kristallnacht/Adversary",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/98c5ac26b7bd42039008e05548403cea.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/98c5ac26b7bd42039008e05548403cea.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/98c5ac26b7bd42039008e05548403cea.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98c5ac26b7bd42039008e05548403cea.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98c5ac26b7bd42039008e05548403cea.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/98c5ac26b7bd42039008e05548403cea.png",
+        "size": ""
+      }
+    ],
+    "listeners": "479",
+    "playcount": "2822",
+    "tracks": {
+      "track": [
+        {
+          "name": "Unblessed Souls",
+          "url": "https://www.last.fm/music/Kristallnacht/_/Unblessed+Souls",
+          "duration": "170",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        },
+        {
+          "name": "Downfall Heralds Retribution",
+          "url": "https://www.last.fm/music/Kristallnacht/_/Downfall+Heralds+Retribution",
+          "duration": "222",
+          "blacklisted": 1,
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Kristallnacht",
+            "mbid": "40254aff-b976-4534-aa70-8db5b58675f7",
+            "url": "https://www.last.fm/music/Kristallnacht"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T16:00:23.067Z"
+}

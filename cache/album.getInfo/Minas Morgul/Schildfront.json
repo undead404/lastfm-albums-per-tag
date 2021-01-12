@@ -1,0 +1,55 @@
+{
+  "album": {
+    "name": "Schildfront",
+    "artist": "Minas Morgul",
+    "url": "https://www.last.fm/music/Minas+Morgul/Schildfront",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86b108bdb8176e3368636ff0374b0cc3.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5173",
+    "playcount": "49085",
+    "tracks": {
+      "track": []
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "Melodic Death Metal",
+          "url": "https://www.last.fm/tag/Melodic+Death+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:40:55.217Z"
+}

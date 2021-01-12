@@ -1,0 +1,148 @@
+{
+  "album": {
+    "name": "Last Poem / First Light",
+    "artist": "So Hideous",
+    "url": "https://www.last.fm/music/So+Hideous/Last+Poem+%2F+First+Light",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/edb6de8bf72848dbc8e9a901015e18e1.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2122",
+    "playcount": "27242",
+    "tracks": {
+      "track": [
+        {
+          "name": "Rising",
+          "url": "https://www.last.fm/music/So+Hideous/_/Rising",
+          "duration": "275",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Stabat Mater",
+          "url": "https://www.last.fm/music/So+Hideous/_/Stabat+Mater",
+          "duration": "292",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "My Light",
+          "url": "https://www.last.fm/music/So+Hideous/_/My+Light",
+          "duration": "316",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Rhapsody",
+          "url": "https://www.last.fm/music/So+Hideous/_/Rhapsody",
+          "duration": "263",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Last Poem",
+          "url": "https://www.last.fm/music/So+Hideous/_/Last+Poem",
+          "duration": "325",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        },
+        {
+          "name": "Glory",
+          "url": "https://www.last.fm/music/So+Hideous/_/Glory",
+          "duration": "439",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "So Hideous",
+            "url": "https://www.last.fm/music/So+Hideous"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "best of 2013",
+          "url": "https://www.last.fm/tag/best+of+2013"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:55:42.101Z"
+}

@@ -1,0 +1,179 @@
+{
+  "album": {
+    "name": "Anticross",
+    "artist": "Besatt",
+    "url": "https://www.last.fm/music/Besatt/Anticross",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68d58c80967ea2b1ff22091b1b41a71c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "826",
+    "playcount": "11155",
+    "tracks": {
+      "track": [
+        {
+          "name": "Engraved Face",
+          "url": "https://www.last.fm/music/Besatt/_/Engraved+Face",
+          "duration": "285",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "My Sacrum",
+          "url": "https://www.last.fm/music/Besatt/_/My+Sacrum",
+          "duration": "338",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Rotten World",
+          "url": "https://www.last.fm/music/Besatt/_/Rotten+World",
+          "duration": "278",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Battle",
+          "url": "https://www.last.fm/music/Besatt/_/Battle",
+          "duration": "414",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Brings The Light",
+          "url": "https://www.last.fm/music/Besatt/_/Brings+The+Light",
+          "duration": "271",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Hellish Circles",
+          "url": "https://www.last.fm/music/Besatt/_/Hellish+Circles",
+          "duration": "357",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "In My Veins, In My Heart",
+          "url": "https://www.last.fm/music/Besatt/_/In+My+Veins,+In+My+Heart",
+          "duration": "359",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        },
+        {
+          "name": "Regnum Satanas",
+          "url": "https://www.last.fm/music/Besatt/_/Regnum+Satanas",
+          "duration": "331",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Besatt",
+            "mbid": "aed5cbb5-10dc-4df9-ace0-f65756686e75",
+            "url": "https://www.last.fm/music/Besatt"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:56:58.832Z"
+}

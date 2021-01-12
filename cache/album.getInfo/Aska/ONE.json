@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "ONE",
+    "artist": "Aska",
+    "mbid": "e1f4c16f-ea53-4372-a0ec-e5c835834dd2",
+    "url": "https://www.last.fm/music/Aska/ONE",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6a7dfbdef21c907902cce88812f0dd37.png",
+        "size": ""
+      }
+    ],
+    "listeners": "236",
+    "playcount": "9593",
+    "tracks": {
+      "track": [
+        {
+          "name": "風の引力",
+          "url": "https://www.last.fm/music/Aska/_/%E9%A2%A8%E3%81%AE%E5%BC%95%E5%8A%9B",
+          "duration": "304",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "One",
+          "url": "https://www.last.fm/music/Aska/_/One",
+          "duration": "242",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "草原のソファを置いて",
+          "url": "https://www.last.fm/music/Aska/_/%E8%8D%89%E5%8E%9F%E3%81%AE%E3%82%BD%E3%83%95%E3%82%A1%E3%82%92%E7%BD%AE%E3%81%84%E3%81%A6",
+          "duration": "0",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "バーガーショップで逢いましょう",
+          "url": "https://www.last.fm/music/Aska/_/%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86",
+          "duration": "209",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "僕はすっかり",
+          "url": "https://www.last.fm/music/Aska/_/%E5%83%95%E3%81%AF%E3%81%99%E3%81%A3%E3%81%8B%E3%82%8A",
+          "duration": "281",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "共謀者",
+          "url": "https://www.last.fm/music/Aska/_/%E5%85%B1%E8%AC%80%E8%80%85",
+          "duration": "229",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "帰宅",
+          "url": "https://www.last.fm/music/Aska/_/%E5%B8%B0%E5%AE%85",
+          "duration": "232",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "ブラックマーケット",
+          "url": "https://www.last.fm/music/Aska/_/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88",
+          "duration": "244",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "君が家に帰ったときに",
+          "url": "https://www.last.fm/music/Aska/_/%E5%90%9B%E3%81%8C%E5%AE%B6%E3%81%AB%E5%B8%B0%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AB",
+          "duration": "288",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        },
+        {
+          "name": "ID",
+          "url": "https://www.last.fm/music/Aska/_/ID",
+          "duration": "289",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Aska",
+            "mbid": "c99440c3-b7f9-4c1f-91ee-404480dff7ea",
+            "url": "https://www.last.fm/music/Aska"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        },
+        {
+          "name": "One",
+          "url": "https://www.last.fm/tag/One"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:48:41.934Z"
+}

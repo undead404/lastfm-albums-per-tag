@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Allégorie d'une Souffrance",
+    "artist": "Belenos",
+    "mbid": "c2e415db-dc2b-4adc-896a-ea00310859e6",
+    "url": "https://www.last.fm/music/Belenos/All%C3%A9gorie+d%27une+Souffrance",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/481fdc640e5a4aec8790549bf8fbf39c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "277",
+    "playcount": "2785",
+    "tracks": {
+      "track": [
+        {
+          "name": "Oraison Funèbre",
+          "url": "https://www.last.fm/music/Belenos/_/Oraison+Fun%C3%A8bre",
+          "duration": "362",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Le Déchirement",
+          "url": "https://www.last.fm/music/Belenos/_/Le+D%C3%A9chirement",
+          "duration": "357",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Funeste Et Hivernal",
+          "url": "https://www.last.fm/music/Belenos/_/Funeste+Et+Hivernal",
+          "duration": "400",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        },
+        {
+          "name": "Le Domaine des Songes, acte 1",
+          "url": "https://www.last.fm/music/Belenos/_/Le+Domaine+des+Songes,+acte+1",
+          "duration": "275",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Belenos",
+            "mbid": "ba284db0-1cae-463a-9ee3-535914d6931a",
+            "url": "https://www.last.fm/music/Belenos"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:32:41.149Z"
+}

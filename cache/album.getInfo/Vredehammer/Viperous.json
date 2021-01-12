@@ -1,0 +1,209 @@
+{
+  "album": {
+    "name": "Viperous",
+    "artist": "Vredehammer",
+    "url": "https://www.last.fm/music/Vredehammer/Viperous",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ccd89b4844b012867a3d35b69ae50060.png",
+        "size": ""
+      }
+    ],
+    "listeners": "5781",
+    "playcount": "62344",
+    "tracks": {
+      "track": [
+        {
+          "name": "Winds of Dysphoria",
+          "url": "https://www.last.fm/music/Vredehammer/_/Winds+of+Dysphoria",
+          "duration": "305",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Aggressor",
+          "url": "https://www.last.fm/music/Vredehammer/_/Aggressor",
+          "duration": "289",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Suffocate All Light",
+          "url": "https://www.last.fm/music/Vredehammer/_/Suffocate+All+Light",
+          "duration": "239",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Viperous",
+          "url": "https://www.last.fm/music/Vredehammer/_/Viperous",
+          "duration": "271",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Skinwalker",
+          "url": "https://www.last.fm/music/Vredehammer/_/Skinwalker",
+          "duration": "273",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "In Shadow",
+          "url": "https://www.last.fm/music/Vredehammer/_/In+Shadow",
+          "duration": "325",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Wounds",
+          "url": "https://www.last.fm/music/Vredehammer/_/Wounds",
+          "duration": "277",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "Any Place but Home",
+          "url": "https://www.last.fm/music/Vredehammer/_/Any+Place+but+Home",
+          "duration": "296",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        },
+        {
+          "name": "From a Spark to a Withering Flame",
+          "url": "https://www.last.fm/music/Vredehammer/_/From+a+Spark+to+a+Withering+Flame",
+          "duration": "282",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Vredehammer",
+            "mbid": "eae7a27a-da68-474d-8bd3-6db508e7e140",
+            "url": "https://www.last.fm/music/Vredehammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "Blackened Death Metal",
+          "url": "https://www.last.fm/tag/Blackened+Death+Metal"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "2020 albums",
+          "url": "https://www.last.fm/tag/2020+albums"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:30:56.814Z"
+}

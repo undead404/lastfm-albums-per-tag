@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Nidingsdåd",
+    "artist": "Iskald",
+    "url": "https://www.last.fm/music/Iskald/Nidingsd%C3%A5d",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/332a7f4c5f9542d1c242f7a9fabd3e06.png",
+        "size": ""
+      }
+    ],
+    "listeners": "146",
+    "playcount": "286",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nidingsdåd",
+          "url": "https://www.last.fm/music/Iskald/_/Nidingsd%C3%A5d",
+          "duration": "433",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Iskald",
+            "mbid": "58b1a778-83ec-4e5c-8fc9-3bcb3a91dadf",
+            "url": "https://www.last.fm/music/Iskald"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:37:59.161Z"
+}

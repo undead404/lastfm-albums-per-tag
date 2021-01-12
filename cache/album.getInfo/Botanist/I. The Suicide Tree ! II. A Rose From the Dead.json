@@ -1,0 +1,723 @@
+{
+  "album": {
+    "name": "I. The Suicide Tree / II. A Rose From the Dead",
+    "artist": "Botanist",
+    "url": "https://www.last.fm/music/Botanist/I.+The+Suicide+Tree+%2F+II.+A+Rose+From+the+Dead",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76e1b2ebf78378f3dbc74e026192c327.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1650",
+    "playcount": "30373",
+    "tracks": {
+      "track": [
+        {
+          "name": "Dracocephalum",
+          "url": "https://www.last.fm/music/Botanist/_/Dracocephalum",
+          "duration": "53",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Invoke the Throne of Veltheimia",
+          "url": "https://www.last.fm/music/Botanist/_/Invoke+the+Throne+of+Veltheimia",
+          "duration": "102",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Helleborus Niger",
+          "url": "https://www.last.fm/music/Botanist/_/Helleborus+Niger",
+          "duration": "156",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Whorl",
+          "url": "https://www.last.fm/music/Botanist/_/Whorl",
+          "duration": "24",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Forgotten in Nepenthes",
+          "url": "https://www.last.fm/music/Botanist/_/Forgotten+in+Nepenthes",
+          "duration": "66",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Aldrovanda Ascendant",
+          "url": "https://www.last.fm/music/Botanist/_/Aldrovanda+Ascendant",
+          "duration": "145",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Chaining the Catechin",
+          "url": "https://www.last.fm/music/Botanist/_/Chaining+the+Catechin",
+          "duration": "92",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Dionaca Muscipula",
+          "url": "https://www.last.fm/music/Botanist/_/Dionaca+Muscipula",
+          "duration": "165",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Clematopsis",
+          "url": "https://www.last.fm/music/Botanist/_/Clematopsis",
+          "duration": "74",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Rhododendoom",
+          "url": "https://www.last.fm/music/Botanist/_/Rhododendoom",
+          "duration": "164",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Gorechid",
+          "url": "https://www.last.fm/music/Botanist/_/Gorechid",
+          "duration": "153",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Cerbera Odollam",
+          "url": "https://www.last.fm/music/Botanist/_/Cerbera+Odollam",
+          "duration": "66",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Bromeliad",
+          "url": "https://www.last.fm/music/Botanist/_/Bromeliad",
+          "duration": "89",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Lepidoptera",
+          "url": "https://www.last.fm/music/Botanist/_/Lepidoptera",
+          "duration": "133",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Euonymous in Darkness",
+          "url": "https://www.last.fm/music/Botanist/_/Euonymous+in+Darkness",
+          "duration": "98",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Dactylorhiza Elata",
+          "url": "https://www.last.fm/music/Botanist/_/Dactylorhiza+Elata",
+          "duration": "40",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Glycyrrhiza",
+          "url": "https://www.last.fm/music/Botanist/_/Glycyrrhiza",
+          "duration": "178",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Convolvulus Athaeoides",
+          "url": "https://www.last.fm/music/Botanist/_/Convolvulus+Athaeoides",
+          "duration": "141",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Dioscoria",
+          "url": "https://www.last.fm/music/Botanist/_/Dioscoria",
+          "duration": "93",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Megaskepasma",
+          "url": "https://www.last.fm/music/Botanist/_/Megaskepasma",
+          "duration": "79",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "In the Hall of Chamaerops",
+          "url": "https://www.last.fm/music/Botanist/_/In+the+Hall+of+Chamaerops",
+          "duration": "175",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Quercus Lamellosa",
+          "url": "https://www.last.fm/music/Botanist/_/Quercus+Lamellosa",
+          "duration": "127",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Echinocereus",
+          "url": "https://www.last.fm/music/Botanist/_/Echinocereus",
+          "duration": "58",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Sparaxis of Perdition",
+          "url": "https://www.last.fm/music/Botanist/_/Sparaxis+of+Perdition",
+          "duration": "86",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Feast of Saussurea",
+          "url": "https://www.last.fm/music/Botanist/_/Feast+of+Saussurea",
+          "duration": "84",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Wings of Antichrys",
+          "url": "https://www.last.fm/music/Botanist/_/Wings+of+Antichrys",
+          "duration": "68",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Monstera’s Lair",
+          "url": "https://www.last.fm/music/Botanist/_/Monstera%E2%80%99s+Lair",
+          "duration": "133",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Chiranthodendron",
+          "url": "https://www.last.fm/music/Botanist/_/Chiranthodendron",
+          "duration": "65",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Koeleria",
+          "url": "https://www.last.fm/music/Botanist/_/Koeleria",
+          "duration": "8",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Sanguinaria",
+          "url": "https://www.last.fm/music/Botanist/_/Sanguinaria",
+          "duration": "123",
+          "@attr": {
+            "rank": "13"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Dodecatheon",
+          "url": "https://www.last.fm/music/Botanist/_/Dodecatheon",
+          "duration": "78",
+          "@attr": {
+            "rank": "14"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Summon Xanthostemon",
+          "url": "https://www.last.fm/music/Botanist/_/Summon+Xanthostemon",
+          "duration": "95",
+          "@attr": {
+            "rank": "15"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Asclepias Curassavica",
+          "url": "https://www.last.fm/music/Botanist/_/Asclepias+Curassavica",
+          "duration": "103",
+          "@attr": {
+            "rank": "16"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Strelitzia Reginae",
+          "url": "https://www.last.fm/music/Botanist/_/Strelitzia+Reginae",
+          "duration": "115",
+          "@attr": {
+            "rank": "17"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Trillium Recurvatum",
+          "url": "https://www.last.fm/music/Botanist/_/Trillium+Recurvatum",
+          "duration": "181",
+          "@attr": {
+            "rank": "18"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Cypripedium",
+          "url": "https://www.last.fm/music/Botanist/_/Cypripedium",
+          "duration": "108",
+          "@attr": {
+            "rank": "19"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Nephrolepsis",
+          "url": "https://www.last.fm/music/Botanist/_/Nephrolepsis",
+          "duration": "69",
+          "@attr": {
+            "rank": "20"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Abrus Precatorins",
+          "url": "https://www.last.fm/music/Botanist/_/Abrus+Precatorins",
+          "duration": "188",
+          "@attr": {
+            "rank": "21"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "A Rose From the Dead",
+          "url": "https://www.last.fm/music/Botanist/_/A+Rose+From+the+Dead",
+          "duration": "320",
+          "@attr": {
+            "rank": "22"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        },
+        {
+          "name": "Untitled - Bonus Track",
+          "url": "https://www.last.fm/music/Botanist/_/Untitled+-+Bonus+Track",
+          "duration": "173",
+          "@attr": {
+            "rank": "23"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Botanist",
+            "mbid": "63e31151-71ac-40c0-8595-22412a936ce2",
+            "url": "https://www.last.fm/music/Botanist"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:09:00.696Z"
+}

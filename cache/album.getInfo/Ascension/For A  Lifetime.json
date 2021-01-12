@@ -1,0 +1,94 @@
+{
+  "album": {
+    "name": "For A  Lifetime",
+    "artist": "Ascension",
+    "url": "https://www.last.fm/music/Ascension/For+A++Lifetime",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff41e9df9738b4ef8b22fb389471cd86.png",
+        "size": ""
+      }
+    ],
+    "listeners": "680",
+    "playcount": "1097",
+    "tracks": {
+      "track": [
+        {
+          "name": "For A Lifetime (Radio Edit)",
+          "url": "https://www.last.fm/music/Ascension/_/For+A+Lifetime+(Radio+Edit)",
+          "duration": "249",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "For A Lifetime (Alex Gold vs. Coast 2 Coast)",
+          "url": "https://www.last.fm/music/Ascension/_/For+A+Lifetime+(Alex+Gold+vs.+Coast+2+Coast)",
+          "duration": "603",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        },
+        {
+          "name": "For a Lifetime (Ocean Lab mix)",
+          "url": "https://www.last.fm/music/Ascension/_/For+a+Lifetime+(Ocean+Lab+mix)",
+          "duration": "497",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Ascension",
+            "mbid": "fa34e6ac-8ccf-42a8-a43b-626fc4d19ce6",
+            "url": "https://www.last.fm/music/Ascension"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:33:26.004Z"
+}

@@ -1,0 +1,162 @@
+{
+  "album": {
+    "name": "In Memoriam",
+    "artist": "Mistur",
+    "url": "https://www.last.fm/music/Mistur/In+Memoriam",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff0e83e83a99fe18041a4bfc1863c21c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "10562",
+    "playcount": "83758",
+    "tracks": {
+      "track": [
+        {
+          "name": "Downfall",
+          "url": "https://www.last.fm/music/Mistur/_/Downfall",
+          "duration": "436",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        },
+        {
+          "name": "Distant Peaks",
+          "url": "https://www.last.fm/music/Mistur/_/Distant+Peaks",
+          "duration": "437",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        },
+        {
+          "name": "Firstborn Son",
+          "url": "https://www.last.fm/music/Mistur/_/Firstborn+Son",
+          "duration": "600",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        },
+        {
+          "name": "Matriarch's Lament",
+          "url": "https://www.last.fm/music/Mistur/_/Matriarch%27s+Lament",
+          "duration": "503",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        },
+        {
+          "name": "The Sight",
+          "url": "https://www.last.fm/music/Mistur/_/The+Sight",
+          "duration": "659",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        },
+        {
+          "name": "Tears of Remembrance",
+          "url": "https://www.last.fm/music/Mistur/_/Tears+of+Remembrance",
+          "duration": "678",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Mistur",
+            "mbid": "8f023248-07f2-49eb-b395-6062c8ee4be4",
+            "url": "https://www.last.fm/music/Mistur"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "melodic black metal",
+          "url": "https://www.last.fm/tag/melodic+black+metal"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "best of 2016",
+          "url": "https://www.last.fm/tag/best+of+2016"
+        },
+        {
+          "name": "best albums 2016",
+          "url": "https://www.last.fm/tag/best+albums+2016"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T14:52:10.426Z"
+}

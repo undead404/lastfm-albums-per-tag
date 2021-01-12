@@ -1,0 +1,59 @@
+{
+  "album": {
+    "name": "Пливе кача по Тисині...",
+    "artist": "Lutomysl",
+    "url": "https://www.last.fm/music/Lutomysl/%D0%9F%D0%BB%D0%B8%D0%B2%D0%B5+%D0%BA%D0%B0%D1%87%D0%B0+%D0%BF%D0%BE+%D0%A2%D0%B8%D1%81%D0%B8%D0%BD%D1%96...",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3de473230a6f4f1ecf3ec441056443b9.png",
+        "size": ""
+      }
+    ],
+    "listeners": "19",
+    "playcount": "37",
+    "tracks": {
+      "track": [
+        {
+          "name": "Пливе кача по Тисині...",
+          "url": "https://www.last.fm/music/Lutomysl/_/%D0%9F%D0%BB%D0%B8%D0%B2%D0%B5+%D0%BA%D0%B0%D1%87%D0%B0+%D0%BF%D0%BE+%D0%A2%D0%B8%D1%81%D0%B8%D0%BD%D1%96...",
+          "duration": "254",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Lutomysl",
+            "url": "https://www.last.fm/music/Lutomysl"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:06:33.370Z"
+}

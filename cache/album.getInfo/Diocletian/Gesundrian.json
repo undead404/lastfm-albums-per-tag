@@ -1,0 +1,201 @@
+{
+  "album": {
+    "name": "Gesundrian",
+    "artist": "Diocletian",
+    "mbid": "fa567aa3-3a03-4983-9ac2-0d1c78f66b2d",
+    "url": "https://www.last.fm/music/Diocletian/Gesundrian",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fff7369d5e04323c393765c1cec4d83.png",
+        "size": ""
+      }
+    ],
+    "listeners": "6982",
+    "playcount": "127776",
+    "tracks": {
+      "track": [
+        {
+          "name": "Cleaved Asunder",
+          "url": "https://www.last.fm/music/Diocletian/_/Cleaved+Asunder",
+          "duration": "342",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Wretched Sons",
+          "url": "https://www.last.fm/music/Diocletian/_/Wretched+Sons",
+          "duration": "206",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Summoning Fear",
+          "url": "https://www.last.fm/music/Diocletian/_/Summoning+Fear",
+          "duration": "157",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Traitor's Gallow",
+          "url": "https://www.last.fm/music/Diocletian/_/Traitor%27s+Gallow",
+          "duration": "196",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Steel Jaws",
+          "url": "https://www.last.fm/music/Diocletian/_/Steel+Jaws",
+          "duration": "334",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Wolf Against Serpent",
+          "url": "https://www.last.fm/music/Diocletian/_/Wolf+Against+Serpent",
+          "duration": "279",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Beast Atop the Trapezoid",
+          "url": "https://www.last.fm/music/Diocletian/_/Beast+Atop+the+Trapezoid",
+          "duration": "398",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        },
+        {
+          "name": "Zealot's Poison",
+          "url": "https://www.last.fm/music/Diocletian/_/Zealot%27s+Poison",
+          "duration": "178",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Diocletian",
+            "mbid": "e6318126-0844-4214-a5f7-c676064fc653",
+            "url": "https://www.last.fm/music/Diocletian"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "best of 2014",
+          "url": "https://www.last.fm/tag/best+of+2014"
+        },
+        {
+          "name": "war metal",
+          "url": "https://www.last.fm/tag/war+metal"
+        },
+        {
+          "name": "heavy as fuck",
+          "url": "https://www.last.fm/tag/heavy+as+fuck"
+        },
+        {
+          "name": "fucking vicious",
+          "url": "https://www.last.fm/tag/fucking+vicious"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:44:21.683Z"
+}

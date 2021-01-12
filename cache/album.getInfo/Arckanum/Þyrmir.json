@@ -1,0 +1,83 @@
+{
+  "album": {
+    "name": "Þyrmir",
+    "artist": "Arckanum",
+    "mbid": "5a1797f9-f0b9-408f-990e-d6722bc3bb99",
+    "url": "https://www.last.fm/music/Arckanum/%C3%9Eyrmir",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0751d4a5955f475ca498442faa2bddf4.png",
+        "size": ""
+      }
+    ],
+    "listeners": "591",
+    "playcount": "4319",
+    "tracks": {
+      "track": [
+        {
+          "name": "Þyrmir",
+          "url": "https://www.last.fm/music/Arckanum/_/%C3%9Eyrmir",
+          "duration": "207",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        },
+        {
+          "name": "Be Forewarned",
+          "url": "https://www.last.fm/music/Arckanum/_/Be+Forewarned",
+          "duration": "229",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Arckanum",
+            "mbid": "51a0f259-bde2-4d6b-9250-7aa1410b0040",
+            "url": "https://www.last.fm/music/Arckanum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "27 Nov 2009, 10:17",
+      "summary": "EP, Debemur Morti\nOctober 30th, 2009\n\n1.\tÞyrmir\t03:27\t\n2.\tBe Forewarned (Pentagram cover)\t03:49\nTotal playing time\t07:16 <a href=\"http://www.last.fm/music/Arckanum/%C3%9Eyrmir\">Read more on Last.fm</a>.",
+      "content": "EP, Debemur Morti\nOctober 30th, 2009\n\n1.\tÞyrmir\t03:27\t\n2.\tBe Forewarned (Pentagram cover)\t03:49\nTotal playing time\t07:16 <a href=\"http://www.last.fm/music/Arckanum/%C3%9Eyrmir\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:28:10.382Z"
+}

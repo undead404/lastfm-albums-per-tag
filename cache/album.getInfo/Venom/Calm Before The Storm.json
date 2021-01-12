@@ -1,0 +1,257 @@
+{
+  "album": {
+    "name": "Calm Before The Storm",
+    "artist": "Venom",
+    "mbid": "e18bec95-607d-49fc-b79b-33bae1d523c1",
+    "url": "https://www.last.fm/music/Venom/Calm+Before+The+Storm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee424ce2993846c38f99879ccdfd1d03.png",
+        "size": ""
+      }
+    ],
+    "listeners": "11309",
+    "playcount": "172611",
+    "tracks": {
+      "track": [
+        {
+          "name": "Black Xmas",
+          "url": "https://www.last.fm/music/Venom/_/Black+Xmas",
+          "duration": "176",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "The Chanting of the Priests",
+          "url": "https://www.last.fm/music/Venom/_/The+Chanting+of+the+Priests",
+          "duration": "290",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Metal Punk",
+          "url": "https://www.last.fm/music/Venom/_/Metal+Punk",
+          "duration": "203",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Under A Spell",
+          "url": "https://www.last.fm/music/Venom/_/Under+A+Spell",
+          "duration": "250",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Calm Before The Storm",
+          "url": "https://www.last.fm/music/Venom/_/Calm+Before+The+Storm",
+          "duration": "254",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Fire",
+          "url": "https://www.last.fm/music/Venom/_/Fire",
+          "duration": "162",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Krackin Up",
+          "url": "https://www.last.fm/music/Venom/_/Krackin+Up",
+          "duration": "136",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Beauty And The Beast",
+          "url": "https://www.last.fm/music/Venom/_/Beauty+And+The+Beast",
+          "duration": "231",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Deadline",
+          "url": "https://www.last.fm/music/Venom/_/Deadline",
+          "duration": "197",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Gypsy",
+          "url": "https://www.last.fm/music/Venom/_/Gypsy",
+          "duration": "144",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        },
+        {
+          "name": "Muscle",
+          "url": "https://www.last.fm/music/Venom/_/Muscle",
+          "duration": "163",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Venom",
+            "mbid": "eb950aea-9326-4c16-ab27-287e6137c2e0",
+            "url": "https://www.last.fm/music/Venom"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "heavy metal",
+          "url": "https://www.last.fm/tag/heavy+metal"
+        },
+        {
+          "name": "speed metal",
+          "url": "https://www.last.fm/tag/speed+metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Nov 2016, 08:42",
+      "summary": " Venom is a lot of things to a lot of people. Some consider only their first four albums to be cannon and the rest shit where as others view their latter works as gold and their humble beginnings as garbage. Both have merit for what its worth as both eras have good and bad. Their mid-period however is perhaps the most overlooked and underrated in the bands history. Depending on who's side your on in the various breakups that the band is famous for you'll either agree or stop reading this now. <a href=\"http://www.last.fm/music/Venom/Calm+Before+The+Storm\">Read more on Last.fm</a>.",
+      "content": " Venom is a lot of things to a lot of people. Some consider only their first four albums to be cannon and the rest shit where as others view their latter works as gold and their humble beginnings as garbage. Both have merit for what its worth as both eras have good and bad. Their mid-period however is perhaps the most overlooked and underrated in the bands history. Depending on who's side your on in the various breakups that the band is famous for you'll either agree or stop reading this now.\n On Calm Before the Storm we see considerably better production and musicianship than in the past. Its easy to distinguish the individual instruments and music over all, as opposed to the bands early work. The guitars are very melodic and thrashy. There is a lot of dueling between the two guitarists, both of which are the best the band has ever had. The shredding is near ceaseless but melodic and fitting, not random fits of masturbatory flashiness. They add a tough and evil sense to the music, essentially adding where the less satanic lyrics leave off.\n The music easily slots in the melodic Thrash category with perhaps a few Power Metal nods here and there. The music is tight but loose. Its tough but enchanting, dark but catchy and fun. This is just what a good Thrash album should be a mixture of darkness, evil and fun. If there are any complaints it would be that this is painfully short and that some of the songs don't really go anywhere, but over all this is an electrifying album that should appeal to fans of the aforementioned. <a href=\"http://www.last.fm/music/Venom/Calm+Before+The+Storm\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T11:58:56.830Z"
+}

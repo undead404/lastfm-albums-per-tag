@@ -1,0 +1,240 @@
+{
+  "album": {
+    "name": "Sphynx",
+    "artist": "Melechesh",
+    "mbid": "d033b464-6988-438f-965b-8b3f0c808ea5",
+    "url": "https://www.last.fm/music/Melechesh/Sphynx",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e8f366c5712746f6a4f15c46702093f0.png",
+        "size": ""
+      }
+    ],
+    "listeners": "22441",
+    "playcount": "299139",
+    "tracks": {
+      "track": [
+        {
+          "name": "Of Mercury and Mercury",
+          "url": "https://www.last.fm/music/Melechesh/_/Of+Mercury+and+Mercury",
+          "duration": "394",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Secrets of Sumerian Sphynxology",
+          "url": "https://www.last.fm/music/Melechesh/_/Secrets+of+Sumerian+Sphynxology",
+          "duration": "333",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Annunaki's Golden Thrones",
+          "url": "https://www.last.fm/music/Melechesh/_/Annunaki%27s+Golden+Thrones",
+          "duration": "318",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Apkallu Counsel",
+          "url": "https://www.last.fm/music/Melechesh/_/Apkallu+Counsel",
+          "duration": "402",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Tablets of Fate",
+          "url": "https://www.last.fm/music/Melechesh/_/Tablets+of+Fate",
+          "duration": "330",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Triangular Tattvic Fire",
+          "url": "https://www.last.fm/music/Melechesh/_/Triangular+Tattvic+Fire",
+          "duration": "269",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "The Arrival Ritual",
+          "url": "https://www.last.fm/music/Melechesh/_/The+Arrival+Ritual",
+          "duration": "348",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Incendium Between Mirage and Time",
+          "url": "https://www.last.fm/music/Melechesh/_/Incendium+Between+Mirage+and+Time",
+          "duration": "348",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Purifier of the Stars",
+          "url": "https://www.last.fm/music/Melechesh/_/Purifier+of+the+Stars",
+          "duration": "282",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        },
+        {
+          "name": "Caravans to Ur",
+          "url": "https://www.last.fm/music/Melechesh/_/Caravans+to+Ur",
+          "duration": "760",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Melechesh",
+            "mbid": "bfd84c48-8659-4837-88b0-760eda171e5d",
+            "url": "https://www.last.fm/music/Melechesh"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "death metal",
+          "url": "https://www.last.fm/tag/death+metal"
+        },
+        {
+          "name": "mesopotamian black metal",
+          "url": "https://www.last.fm/tag/mesopotamian+black+metal"
+        },
+        {
+          "name": "folk metal",
+          "url": "https://www.last.fm/tag/folk+metal"
+        },
+        {
+          "name": "fully streamable albums",
+          "url": "https://www.last.fm/tag/fully+streamable+albums"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Jan 2010, 21:41",
+      "summary": "Sphynx is Melechesh's third full length album. The album presents the band's Mesopotamian/Sumerian metal in a more aggressive and intricate manner. The CD version includes an enhanced multimedia section featuring a trip to the world of Melechesh  (lyrical overviews, wallpaper, photos, glossary of terms, and a videoclip for the track \"Genies, Sorcerers and Mesopotamian Nights\"). There is a guest appearance from Andy LaRocque on the track \"Purifier of the Stars\". <a href=\"http://www.last.fm/music/Melechesh/Sphynx\">Read more on Last.fm</a>.",
+      "content": "Sphynx is Melechesh's third full length album. The album presents the band's Mesopotamian/Sumerian metal in a more aggressive and intricate manner. The CD version includes an enhanced multimedia section featuring a trip to the world of Melechesh  (lyrical overviews, wallpaper, photos, glossary of terms, and a videoclip for the track \"Genies, Sorcerers and Mesopotamian Nights\"). There is a guest appearance from Andy LaRocque on the track \"Purifier of the Stars\".\n\nThe Limited LP version contains a cover of Celtic Frost's \"Babylon Fell\".\n\nTrack listing:\n   1. \"Of Mercury and Mercury\" – 6:34\n   2. \"Secrets of Sumerian Sphynxology\" – 5:33\n   3. \"Annunaki’s Golden Thrones\" – 6:42\n   4. \"Apkallu Counsel\" – 5:12 (Al'Hazred, Ashmedi, Moloch, Proscriptor)\n   5. \"Tablets of Fate\" – 5:30\n   6. \"Triangular Tattvic Fire\" – 4:29 (Ashmedi, Proscriptor)\n   7. \"The Arrival Ritual\" – 5:48\n   8. \"Incendium Between Mirage and Time\" – 5:48 (Al'Hazred, Ashmedi, Proscriptor)\n   9. \"Purifier of the Stars\" – 4:42\n  10. \"Caravans to Ur\" – 12:38\n\nProduction\n    * Produced, Engineered & Mixed By Andy LaRocque\n    * Mastered By Atti Bauw\n\nPersonnel: \n    * Ashmedi: Lead Vocal, Lead, Rhythm & Acoustic Guitars, Keyboards, Percussion\n    * Moloch: Lead & Rhythm Guitars\n    * Al'Hazred: Bass, Backing Vocals\n    * Proscriptor: Drums, Percussion\n <a href=\"http://www.last.fm/music/Melechesh/Sphynx\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T12:21:46.809Z"
+}

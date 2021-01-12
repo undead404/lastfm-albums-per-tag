@@ -1,0 +1,100 @@
+{
+  "album": {
+    "name": "Skygger av sorg",
+    "artist": "Keep of Kalessin",
+    "mbid": "c30b2ac4-4a80-4456-aea9-599f5e3fc184",
+    "url": "https://www.last.fm/music/Keep+of+Kalessin/Skygger+av+sorg",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26217f7c29e4428d9c27f4a94438f24a.png",
+        "size": ""
+      }
+    ],
+    "listeners": "515",
+    "playcount": "3168",
+    "tracks": {
+      "track": [
+        {
+          "name": "Skygger Av Sorg I",
+          "url": "https://www.last.fm/music/Keep+of+Kalessin/_/Skygger+Av+Sorg+I",
+          "duration": "395",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Keep of Kalessin",
+            "mbid": "75fd76eb-09d8-4567-b24a-5fe43334ed15",
+            "url": "https://www.last.fm/music/Keep+of+Kalessin"
+          }
+        },
+        {
+          "name": "Ruiner av en krig",
+          "url": "https://www.last.fm/music/Keep+of+Kalessin/_/Ruiner+av+en+krig",
+          "duration": "232",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Keep of Kalessin",
+            "mbid": "75fd76eb-09d8-4567-b24a-5fe43334ed15",
+            "url": "https://www.last.fm/music/Keep+of+Kalessin"
+          }
+        },
+        {
+          "name": "Skygger av sorg II",
+          "url": "https://www.last.fm/music/Keep+of+Kalessin/_/Skygger+av+sorg+II",
+          "duration": "245",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Keep of Kalessin",
+            "mbid": "75fd76eb-09d8-4567-b24a-5fe43334ed15",
+            "url": "https://www.last.fm/music/Keep+of+Kalessin"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T12:27:10.713Z"
+}

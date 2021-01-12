@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Don't Look Now",
+    "artist": "Secrets of the Moon",
+    "url": "https://www.last.fm/music/Secrets+of+the+Moon/Don%27t+Look+Now",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/73c0f1ec106847016f73be34ee17a5e5.png",
+        "size": ""
+      }
+    ],
+    "listeners": "502",
+    "playcount": "819",
+    "tracks": {
+      "track": [
+        {
+          "name": "Don't Look Now",
+          "url": "https://www.last.fm/music/Secrets+of+the+Moon/_/Don%27t+Look+Now",
+          "duration": "331",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Secrets of the Moon",
+            "mbid": "7dac70fc-4608-4181-b67b-c26ca2dc9d2d",
+            "url": "https://www.last.fm/music/Secrets+of+the+Moon"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T13:07:34.671Z"
+}

@@ -1,0 +1,68 @@
+{
+  "album": {
+    "name": "Obscene Charade",
+    "artist": "Devil Master",
+    "url": "https://www.last.fm/music/Devil+Master/Obscene+Charade",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f11cadf20c323d51d033439bf62ff090.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f11cadf20c323d51d033439bf62ff090.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f11cadf20c323d51d033439bf62ff090.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11cadf20c323d51d033439bf62ff090.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11cadf20c323d51d033439bf62ff090.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f11cadf20c323d51d033439bf62ff090.png",
+        "size": ""
+      }
+    ],
+    "listeners": "683",
+    "playcount": "1287",
+    "tracks": {
+      "track": [
+        {
+          "name": "Obscene Charade",
+          "url": "https://www.last.fm/music/Devil+Master/_/Obscene+Charade",
+          "duration": "107",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Devil Master",
+            "url": "https://www.last.fm/music/Devil+Master"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "blackened hardcore",
+          "url": "https://www.last.fm/tag/blackened+hardcore"
+        },
+        {
+          "name": "metallic hardcore",
+          "url": "https://www.last.fm/tag/metallic+hardcore"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:22:51.321Z"
+}

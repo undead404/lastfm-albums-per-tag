@@ -1,0 +1,77 @@
+{
+  "album": {
+    "name": "Mythic Dawn",
+    "artist": "Burzum",
+    "url": "https://www.last.fm/music/Burzum/Mythic+Dawn",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d47efc2806b042afc2d2e23051c46166.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d47efc2806b042afc2d2e23051c46166.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d47efc2806b042afc2d2e23051c46166.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d47efc2806b042afc2d2e23051c46166.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d47efc2806b042afc2d2e23051c46166.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d47efc2806b042afc2d2e23051c46166.png",
+        "size": ""
+      }
+    ],
+    "listeners": "2930",
+    "playcount": "9156",
+    "tracks": {
+      "track": [
+        {
+          "name": "Mythic Dawn",
+          "url": "https://www.last.fm/music/Burzum/_/Mythic+Dawn",
+          "duration": "312",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Burzum",
+            "mbid": "49cd96a6-42c3-44f6-ba2a-cd9301046b96",
+            "url": "https://www.last.fm/music/Burzum"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "dark ambient",
+          "url": "https://www.last.fm/tag/dark+ambient"
+        },
+        {
+          "name": "ambient",
+          "url": "https://www.last.fm/tag/ambient"
+        },
+        {
+          "name": "ambient black metal",
+          "url": "https://www.last.fm/tag/ambient+black+metal"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T11:50:47.219Z"
+}

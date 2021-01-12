@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "Jaish AlNamrood",
+    "artist": "Al-Namrood",
+    "url": "https://www.last.fm/music/Al-Namrood/Jaish+AlNamrood",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aba534167c75a7fa92c508ac855d6ccd.png",
+        "size": ""
+      }
+    ],
+    "listeners": "15",
+    "playcount": "78",
+    "tracks": {
+      "track": [
+        {
+          "name": "Atba'a Alnamrood",
+          "url": "https://www.last.fm/music/Al-Namrood/_/Atba%27a+Alnamrood",
+          "duration": "325",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Al-Namrood",
+            "mbid": "e030b393-ca81-4230-9fd8-fb7d9850afe9",
+            "url": "https://www.last.fm/music/Al-Namrood"
+          }
+        },
+        {
+          "name": "A'hd AlJahliyah",
+          "url": "https://www.last.fm/music/Al-Namrood/_/A%27hd+AlJahliyah",
+          "duration": "325",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Al-Namrood",
+            "mbid": "e030b393-ca81-4230-9fd8-fb7d9850afe9",
+            "url": "https://www.last.fm/music/Al-Namrood"
+          }
+        },
+        {
+          "name": "Ajsad Dhar'een",
+          "url": "https://www.last.fm/music/Al-Namrood/_/Ajsad+Dhar%27een",
+          "duration": "278",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Al-Namrood",
+            "mbid": "e030b393-ca81-4230-9fd8-fb7d9850afe9",
+            "url": "https://www.last.fm/music/Al-Namrood"
+          }
+        },
+        {
+          "name": "Entisarat Al-Ashawes",
+          "url": "https://www.last.fm/music/Al-Namrood/_/Entisarat+Al-Ashawes",
+          "duration": "307",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Al-Namrood",
+            "mbid": "e030b393-ca81-4230-9fd8-fb7d9850afe9",
+            "url": "https://www.last.fm/music/Al-Namrood"
+          }
+        },
+        {
+          "name": "Naqoos Al Khatar",
+          "url": "https://www.last.fm/music/Al-Namrood/_/Naqoos+Al+Khatar",
+          "duration": "278",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Al-Namrood",
+            "mbid": "e030b393-ca81-4230-9fd8-fb7d9850afe9",
+            "url": "https://www.last.fm/music/Al-Namrood"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:28:57.202Z"
+}

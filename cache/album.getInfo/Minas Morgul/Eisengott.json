@@ -1,0 +1,223 @@
+{
+  "album": {
+    "name": "Eisengott",
+    "artist": "Minas Morgul",
+    "mbid": "a356e9ab-4ba2-4d60-a08f-cc8b092b691a",
+    "url": "https://www.last.fm/music/Minas+Morgul/Eisengott",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/36bcaa0de6a105a1904a5839fa1b6735.png",
+        "size": ""
+      }
+    ],
+    "listeners": "4582",
+    "playcount": "81083",
+    "tracks": {
+      "track": [
+        {
+          "name": "Einleitung",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Einleitung",
+          "duration": "113",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Der letzte Tag",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Der+letzte+Tag",
+          "duration": "383",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Sohnes Faden",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Sohnes+Faden",
+          "duration": "320",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Minas Morgul",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Minas+Morgul",
+          "duration": "307",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Eisengott 2.0",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Eisengott+2.0",
+          "duration": "327",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Rot",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Rot",
+          "duration": "292",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Totes Leben",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Totes+Leben",
+          "duration": "335",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Sinn und Ziel",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Sinn+und+Ziel",
+          "duration": "305",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Hüter der Zeit",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/H%C3%BCter+der+Zeit",
+          "duration": "264",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        },
+        {
+          "name": "Wende",
+          "url": "https://www.last.fm/music/Minas+Morgul/_/Wende",
+          "duration": "247",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Minas Morgul",
+            "mbid": "f84c7765-f13c-4d54-b99a-8e24eed0a0b4",
+            "url": "https://www.last.fm/music/Minas+Morgul"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "German Black Metal",
+          "url": "https://www.last.fm/tag/German+Black+Metal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T13:40:56.024Z"
+}

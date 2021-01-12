@@ -1,0 +1,115 @@
+{
+  "album": {
+    "name": "Within the Weaves of Infinity",
+    "artist": "Sinmara",
+    "url": "https://www.last.fm/music/Sinmara/Within+the+Weaves+of+Infinity",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0bd1f133d0b82d28fa9b9b6fed00b80.png",
+        "size": ""
+      }
+    ],
+    "listeners": "1028",
+    "playcount": "12753",
+    "tracks": {
+      "track": [
+        {
+          "name": "Within the Weaves of Infinity",
+          "url": "https://www.last.fm/music/Sinmara/_/Within+the+Weaves+of+Infinity",
+          "duration": "433",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sinmara",
+            "mbid": "cc76d29a-2ea7-469c-aa98-55c4192cf140",
+            "url": "https://www.last.fm/music/Sinmara"
+          }
+        },
+        {
+          "name": "Ormstunga",
+          "url": "https://www.last.fm/music/Sinmara/_/Ormstunga",
+          "duration": "429",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sinmara",
+            "mbid": "cc76d29a-2ea7-469c-aa98-55c4192cf140",
+            "url": "https://www.last.fm/music/Sinmara"
+          }
+        },
+        {
+          "name": "Nine Halls",
+          "url": "https://www.last.fm/music/Sinmara/_/Nine+Halls",
+          "duration": "314",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sinmara",
+            "mbid": "cc76d29a-2ea7-469c-aa98-55c4192cf140",
+            "url": "https://www.last.fm/music/Sinmara"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "icelandic black metal",
+          "url": "https://www.last.fm/tag/icelandic+black+metal"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "ethereal",
+          "url": "https://www.last.fm/tag/ethereal"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:28:25.138Z"
+}

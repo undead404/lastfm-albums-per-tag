@@ -1,0 +1,274 @@
+{
+  "album": {
+    "name": "Vracejte konve na místo",
+    "artist": "Master's Hammer",
+    "mbid": "8f9d83d0-e24f-4273-a0e6-502ed79f4ce9",
+    "url": "https://www.last.fm/music/Master%27s+Hammer/Vracejte+konve+na+m%C3%ADsto",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fcfdb434e3cf4447a1988e47f0a93b45.png",
+        "size": ""
+      }
+    ],
+    "listeners": "832",
+    "playcount": "34843",
+    "tracks": {
+      "track": [
+        {
+          "name": "Nordfrostkrampfland",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Nordfrostkrampfland",
+          "duration": "258",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Šumava",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/%C5%A0umava",
+          "duration": "299",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Ve vichru nicoty",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Ve+vichru+nicoty",
+          "duration": "234",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Námořnická",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/N%C3%A1mo%C5%99nick%C3%A1",
+          "duration": "202",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Podejte mi samopal",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Podejte+mi+samopal",
+          "duration": "161",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Dreaming Bulldog (Intermezzo)",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Dreaming+Bulldog+(Intermezzo)",
+          "duration": "87",
+          "@attr": {
+            "rank": "6"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Vracejte konve na místo",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Vracejte+konve+na+m%C3%ADsto",
+          "duration": "217",
+          "@attr": {
+            "rank": "7"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Lovecraft",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Lovecraft",
+          "duration": "256",
+          "@attr": {
+            "rank": "8"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Flammarion",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Flammarion",
+          "duration": "288",
+          "@attr": {
+            "rank": "9"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Lingam a mikve",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Lingam+a+mikve",
+          "duration": "170",
+          "@attr": {
+            "rank": "10"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Pantheismus dobra",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Pantheismus+dobra",
+          "duration": "239",
+          "@attr": {
+            "rank": "11"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        },
+        {
+          "name": "Flammarion Fatal Mix",
+          "url": "https://www.last.fm/music/Master%27s+Hammer/_/Flammarion+Fatal+Mix",
+          "duration": "259",
+          "@attr": {
+            "rank": "12"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Master's Hammer",
+            "mbid": "e609a77b-3a50-4631-a1ff-30622231066a",
+            "url": "https://www.last.fm/music/Master%27s+Hammer"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "thrash metal",
+          "url": "https://www.last.fm/tag/thrash+metal"
+        },
+        {
+          "name": "Czech",
+          "url": "https://www.last.fm/tag/Czech"
+        },
+        {
+          "name": "best of 2012",
+          "url": "https://www.last.fm/tag/best+of+2012"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Feb 2012, 23:04",
+      "summary": "1. \tNordfrostkrampfland \t04:18 \t  \n2. \tŠumava \t04:59 \t  \n3. \tVe Víchru Nicoty \t03:54 \t \n4. \tNámořnická \t03:22 \t  \n5. \tPodejte Mi Samopal \t02:41 \t \n6. \tDreaming Bulldog (Intermezzo) \t01:27 \t \n7. \tVracejte Konve na Místo \t03:37 \t\n8. \tLovecraft \t04:16 \t \n9. \tFlammarion \t04:48 \t  \n10. \tLingam A Mikve \t02:50 \t  \n11. \tPantheismus Dobra \t03:59 \t\n12. \tFlammarion Fatal Mix \t04:19 <a href=\"http://www.last.fm/music/Master%27s+Hammer/Vracejte+konve+na+m%C3%ADsto\">Read more on Last.fm</a>.",
+      "content": "1. \tNordfrostkrampfland \t04:18 \t  \n2. \tŠumava \t04:59 \t  \n3. \tVe Víchru Nicoty \t03:54 \t \n4. \tNámořnická \t03:22 \t  \n5. \tPodejte Mi Samopal \t02:41 \t \n6. \tDreaming Bulldog (Intermezzo) \t01:27 \t \n7. \tVracejte Konve na Místo \t03:37 \t\n8. \tLovecraft \t04:16 \t \n9. \tFlammarion \t04:48 \t  \n10. \tLingam A Mikve \t02:50 \t  \n11. \tPantheismus Dobra \t03:59 \t\n12. \tFlammarion Fatal Mix \t04:19 <a href=\"http://www.last.fm/music/Master%27s+Hammer/Vracejte+konve+na+m%C3%ADsto\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  },
+  "createdAt": "2021-01-11T13:23:41.454Z"
+}

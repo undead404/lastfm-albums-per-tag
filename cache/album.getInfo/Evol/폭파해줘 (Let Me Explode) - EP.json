@@ -1,0 +1,128 @@
+{
+  "album": {
+    "name": "폭파해줘 (Let Me Explode) - EP",
+    "artist": "Evol",
+    "url": "https://www.last.fm/music/Evol/%ED%8F%AD%ED%8C%8C%ED%95%B4%EC%A4%98+(Let+Me+Explode)+-+EP",
+    "image": [
+      {
+        "#text": "",
+        "size": "small"
+      },
+      {
+        "#text": "",
+        "size": "medium"
+      },
+      {
+        "#text": "",
+        "size": "large"
+      },
+      {
+        "#text": "",
+        "size": "extralarge"
+      },
+      {
+        "#text": "",
+        "size": "mega"
+      },
+      {
+        "#text": "",
+        "size": ""
+      }
+    ],
+    "listeners": "60",
+    "playcount": "562",
+    "tracks": {
+      "track": [
+        {
+          "name": "폭파해줘 (Let Me Explode)",
+          "url": "https://www.last.fm/music/Evol/_/%ED%8F%AD%ED%8C%8C%ED%95%B4%EC%A4%98+(Let+Me+Explode)",
+          "duration": "206",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "I'm sorry",
+          "url": "https://www.last.fm/music/Evol/_/I%27m+sorry",
+          "duration": "231",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "Magnet",
+          "url": "https://www.last.fm/music/Evol/_/Magnet",
+          "duration": "212",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "우린 좀 달라 (We Are A Bit Different)",
+          "url": "https://www.last.fm/music/Evol/_/%EC%9A%B0%EB%A6%B0+%EC%A2%80+%EB%8B%AC%EB%9D%BC+(We+Are+A+Bit+Different)",
+          "duration": "217",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        },
+        {
+          "name": "1.2.3.4.5",
+          "url": "https://www.last.fm/music/Evol/_/1.2.3.4.5",
+          "duration": "235",
+          "@attr": {
+            "rank": "5"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Evol",
+            "mbid": "f22ff21f-9d16-4f81-a94f-41260452e4a0",
+            "url": "https://www.last.fm/music/Evol"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T15:02:19.618Z"
+}

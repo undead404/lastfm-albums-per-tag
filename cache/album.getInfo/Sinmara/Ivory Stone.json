@@ -1,0 +1,81 @@
+{
+  "album": {
+    "name": "Ivory Stone",
+    "artist": "Sinmara",
+    "url": "https://www.last.fm/music/Sinmara/Ivory+Stone",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/69cba588663a33aa7c53e5643118950c.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/69cba588663a33aa7c53e5643118950c.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/69cba588663a33aa7c53e5643118950c.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/69cba588663a33aa7c53e5643118950c.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/69cba588663a33aa7c53e5643118950c.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/69cba588663a33aa7c53e5643118950c.png",
+        "size": ""
+      }
+    ],
+    "listeners": "145",
+    "playcount": "431",
+    "tracks": {
+      "track": [
+        {
+          "name": "Ivory Stone",
+          "url": "https://www.last.fm/music/Sinmara/_/Ivory+Stone",
+          "duration": "364",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Sinmara",
+            "mbid": "cc76d29a-2ea7-469c-aa98-55c4192cf140",
+            "url": "https://www.last.fm/music/Sinmara"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": [
+        {
+          "name": "black metal",
+          "url": "https://www.last.fm/tag/black+metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "icelandic",
+          "url": "https://www.last.fm/tag/icelandic"
+        },
+        {
+          "name": "iceland",
+          "url": "https://www.last.fm/tag/iceland"
+        },
+        {
+          "name": "dissonant",
+          "url": "https://www.last.fm/tag/dissonant"
+        }
+      ]
+    }
+  },
+  "createdAt": "2021-01-11T15:28:26.995Z"
+}

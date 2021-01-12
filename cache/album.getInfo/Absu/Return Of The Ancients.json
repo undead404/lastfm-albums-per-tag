@@ -1,0 +1,112 @@
+{
+  "album": {
+    "name": "Return Of The Ancients",
+    "artist": "Absu",
+    "mbid": "96d9bcbf-ab07-42c5-9f12-234a3aab25bd",
+    "url": "https://www.last.fm/music/Absu/Return+Of+The+Ancients",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80e43d650ab14cc48737031012bb879f.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80e43d650ab14cc48737031012bb879f.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80e43d650ab14cc48737031012bb879f.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e43d650ab14cc48737031012bb879f.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e43d650ab14cc48737031012bb879f.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80e43d650ab14cc48737031012bb879f.png",
+        "size": ""
+      }
+    ],
+    "listeners": "197",
+    "playcount": "1036",
+    "tracks": {
+      "track": [
+        {
+          "name": "Immortal Sorcery",
+          "url": "https://www.last.fm/music/Absu/_/Immortal+Sorcery",
+          "duration": "191",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absu",
+            "mbid": "e4d0504d-a0cc-486e-9f8f-32da470698a5",
+            "url": "https://www.last.fm/music/Absu"
+          }
+        },
+        {
+          "name": "Eternal Rest",
+          "url": "https://www.last.fm/music/Absu/_/Eternal+Rest",
+          "duration": "150",
+          "@attr": {
+            "rank": "2"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absu",
+            "mbid": "e4d0504d-a0cc-486e-9f8f-32da470698a5",
+            "url": "https://www.last.fm/music/Absu"
+          }
+        },
+        {
+          "name": "Sea of Glasya (Keyboards)",
+          "url": "https://www.last.fm/music/Absu/_/Sea+of+Glasya+(Keyboards)",
+          "duration": "175",
+          "@attr": {
+            "rank": "3"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absu",
+            "mbid": "e4d0504d-a0cc-486e-9f8f-32da470698a5",
+            "url": "https://www.last.fm/music/Absu"
+          }
+        },
+        {
+          "name": "Dawn of Invocation",
+          "url": "https://www.last.fm/music/Absu/_/Dawn+of+Invocation",
+          "duration": "220",
+          "@attr": {
+            "rank": "4"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "Absu",
+            "mbid": "e4d0504d-a0cc-486e-9f8f-32da470698a5",
+            "url": "https://www.last.fm/music/Absu"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T12:26:28.167Z"
+}

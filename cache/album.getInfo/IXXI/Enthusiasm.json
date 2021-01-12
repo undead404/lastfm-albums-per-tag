@@ -1,0 +1,60 @@
+{
+  "album": {
+    "name": "Enthusiasm",
+    "artist": "IXXI",
+    "url": "https://www.last.fm/music/IXXI/Enthusiasm",
+    "image": [
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/34s/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": "small"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/64s/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": "medium"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/174s/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": "large"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": "extralarge"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": "mega"
+      },
+      {
+        "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/648a2e862d6727495f6ef293ab0b2659.png",
+        "size": ""
+      }
+    ],
+    "listeners": "124",
+    "playcount": "225",
+    "tracks": {
+      "track": [
+        {
+          "name": "Enthusiasm",
+          "url": "https://www.last.fm/music/IXXI/_/Enthusiasm",
+          "duration": "296",
+          "@attr": {
+            "rank": "1"
+          },
+          "streamable": {
+            "#text": "0",
+            "fulltrack": "0"
+          },
+          "artist": {
+            "name": "IXXI",
+            "mbid": "566a70f1-7e13-491e-93e6-b576b4115cf6",
+            "url": "https://www.last.fm/music/IXXI"
+          }
+        }
+      ]
+    },
+    "tags": {
+      "tag": []
+    }
+  },
+  "createdAt": "2021-01-11T14:58:22.950Z"
+}
