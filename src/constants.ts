@@ -1,4 +1,5 @@
 import isNil from 'lodash/isNil';
+
 import environment from './environment';
 import logger from './logger';
 import { DefaultParameters } from './types';
@@ -15,4 +16,7 @@ export const DEFAULT_PARAMS: DefaultParameters = {
   format: 'json',
 };
 
+export const MAX_CACHE_AGE_IN_DAYS = 7;
 export const MAX_RETRIES = 5;
+export const MONGO_DB_URL = 'mongodb://localhost:27017';
+export const MONGO_DB_NAME = 'lastfm';

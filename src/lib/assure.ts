@@ -3,6 +3,7 @@ import isNil from 'lodash/isNil';
 
 export default function assure(
   where: string,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   values: { [key: string]: any },
 ): void {
   forEach(values, (value, key) => {

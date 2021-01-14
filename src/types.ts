@@ -90,3 +90,7 @@ export type TagGetTopArtistsPayload = Payload & {
     readonly artist: readonly Artist[];
   };
 };
+
+export type Weighted<T> = T & {
+  readonly weight: number;
+};

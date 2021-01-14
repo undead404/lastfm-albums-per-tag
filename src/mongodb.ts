@@ -1,14 +1,14 @@
 import { differenceInDays } from 'date-fns';
 import head from 'lodash/head';
 import { Collection, MongoClient, UpdateWriteOpResult } from 'mongodb';
-import Cached from './types/cached';
+import { Cached } from './types';
+import {
+  MAX_CACHE_AGE_IN_DAYS,
+  MONGO_DB_NAME,
+  MONGO_DB_URL,
+} from './constants';
 
-const url = 'mongodb://localhost:27017';
-const MAX_CACHE_AGE_IN_DAYS = 7;
-// Database Name
-const databaseName = 'lastfm';
-
-const client = new MongoClient(url);
+const client = new MongoClient(MONGO_DB_URL);
 
 const connection = (() => {
   let collection: Collection | undefined;
@@ -23,8 +23,8 @@ const connection = (() => {
       }
       await client.connect();
       // Establish and verify connection
-      await client.db(databaseName).command({ ping: 1 });
-      collection = client.db(databaseName).collection('cache');
+      await client.db(MONGO_DB_NAME).command({ ping: 1 });
+      collection = client.db(MONGO_DB_NAME).collection('cache');
       return collection;
     },
   };
