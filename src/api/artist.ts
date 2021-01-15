@@ -13,6 +13,7 @@ const artist = {
   async getTopAlbums(
     artistName: string,
   ): Promise<readonly Album[] | undefined> {
+    logger.debug(`album.getTopAlbums(${artistName})`);
     assure('album.getInfo', { artistName });
     const cachePath = join(['artist.getTopAlbums', artistName], '/');
     const data = await acquire<ArtistGetTopAlbumsPayload>(
@@ -40,6 +41,7 @@ export async function getArtistWeightedAlbums(
   artistInfo: Artist,
   tagName: string,
 ): Promise<readonly Weighted<Album>[]> {
+  logger.debug(`getArtistWeightedAlbums: ${artistInfo.name}, ${tagName}`);
   logger.info(artistInfo.name);
   const albums = await artist.getTopAlbums(artistInfo.name);
   if (!albums) {

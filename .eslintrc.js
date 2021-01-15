@@ -13,6 +13,7 @@ module.exports = {
     'plugin:lodash/recommended',
     'plugin:eslint-comments/recommended',
     'plugin:prettier/recommended',
+    'plugin:jest/recommended',
     'prettier/@typescript-eslint',
   ],
   overrides: [
@@ -30,7 +31,7 @@ module.exports = {
     },
     {
       env: {
-        // 'jest/globals': true,
+        'jest/globals': true,
       },
       files: ['**/*.test.js'],
     },
@@ -48,6 +49,7 @@ module.exports = {
     'lodash',
     'node',
     'eslint-comments',
+    'jest',
     '@typescript-eslint',
   ],
   root: true,
@@ -84,6 +86,13 @@ module.exports = {
       },
     ],
     'no-void': ['error', { allowAsStatement: true }],
+    'no-magic-numbers': [
+      'error',
+      {
+        ignore: [0, 1],
+        ignoreDefaultValues: true,
+      },
+    ],
   },
   settings: {
     'import/parsers': {

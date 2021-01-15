@@ -2,7 +2,7 @@ import axios from 'axios';
 import isEmpty from 'lodash/isEmpty';
 import { stringify } from 'query-string';
 
-import { DEFAULT_PARAMS, MAX_RETRIES } from '../constants';
+import { DEFAULT_PARAMS, LASTFM_API_ERRORS, MAX_RETRIES } from '../constants';
 import logger from '../logger';
 import { getCache, setCache } from '../mongodb';
 import { Cached, Parameters, Payload } from '../types';
@@ -19,11 +19,11 @@ async function acquireFromApi<T extends Payload>(
     ...DEFAULT_PARAMS,
     ...parameters,
   })}`;
-  logger.debug(url);
+  logger.warn(url);
   try {
     const response = await axios.get<T>(url);
     if (response.data.error || isEmpty(response.data)) {
-      if (response.data.error === 6) {
+      if (response.data.error === LASTFM_API_ERRORS.INVALID_PARAMETERS) {
         return null;
       }
       throw new Error(response.data.message || 'Empty response');
@@ -41,6 +41,7 @@ async function acquireFromApi<T extends Payload>(
       throw error;
     }
     logger.warn(`retry #${retry + 1}`);
+    // eslint-disable-next-line no-magic-numbers
     await sleep(2 ** retry * 1000);
     return acquireFromApi<T>(
       parameters,
@@ -56,7 +57,7 @@ export default async function acquire<T extends Payload>(
   cachePath: string,
   correctCachePath: (payload: T) => string,
 ): Promise<T | null> {
-  logger.debug(cachePath);
+  logger.info(cachePath);
   return (
     (await getCache(cachePath)) ||
     acquireFromApi(parameters, cachePath, correctCachePath)

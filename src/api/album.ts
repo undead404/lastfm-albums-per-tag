@@ -7,6 +7,7 @@ import uniqBy from 'lodash/uniqBy';
 
 import acquire from '../lib/acquire';
 import assure from '../lib/assure';
+import logger from '../logger';
 import {
   AlbumGetInfoPayload,
   AlbumGetTopTagsPayload,
@@ -19,6 +20,7 @@ const album = {
     albumName: string,
     artistName: string,
   ): Promise<AlbumInfo | undefined> {
+    logger.debug(`album.getInfo(${albumName}, ${artistName})`);
     assure('album.getInfo', { albumName, artistName });
     const cachePath = join(['album.getInfo', artistName, albumName], '/');
     const data = await acquire<AlbumGetInfoPayload>(
@@ -44,6 +46,7 @@ const album = {
     albumName: string,
     artistName: string,
   ): Promise<readonly Tag[]> {
+    logger.debug(`album.getTopTags(${albumName}, ${artistName})`);
     assure('album.getInfo', { albumName, artistName });
     const cachePath = join(['album.getTopTags', artistName, albumName], '/');
     const data = await acquire<AlbumGetTopTagsPayload>(
@@ -77,6 +80,7 @@ export async function getAlbumTagCount(
   artistName: string,
   tagName: string,
 ): Promise<number> {
+  logger.debug(`getAlbumTagCount(${albumName}, ${artistName}, ${tagName})`);
   const albumTags = await album.getTopTags(albumName, artistName);
   const tagObject = find(
     albumTags,
@@ -92,6 +96,7 @@ export async function getAlbumWeight(
   albumName: string,
   artistName: string,
 ): Promise<number> {
+  logger.debug(`getAlbumWeight(${albumName}, ${artistName})`);
   const albumInfo = await album.getInfo(albumName, artistName);
   if (!albumInfo) {
     return 0;

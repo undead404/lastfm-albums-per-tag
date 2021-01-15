@@ -16,7 +16,25 @@ export const DEFAULT_PARAMS: DefaultParameters = {
   format: 'json',
 };
 
+export const LASTFM_API_ERRORS = {
+  AUTH_FAILED: 4,
+  INVALID_API_KEY: 10,
+  INVALID_FORMAT: 5,
+  INVALID_METHOD: 3,
+  INVALID_METHOD_SIGNATURE: 13,
+  INVALID_PARAMETERS: 6,
+  INVALID_RESOURCE: 7,
+  INVALID_SERVICE: 2,
+  OPERATION_FAILED: 8,
+  RATE_LIMIT_EXCEEDED: 29,
+  SERVICE_OFFLINE: 11,
+  SUSPENDED_API_KEY: 26,
+  TEMPORARY: 16,
+};
+
 export const MAX_CACHE_AGE_IN_DAYS = 7;
+export const MAX_PAGE = 1; // LastFM API provides 200 max
 export const MAX_RETRIES = 5;
 export const MONGO_DB_URL = 'mongodb://localhost:27017';
 export const MONGO_DB_NAME = 'lastfm';
+export const NUMBER_OF_ALBUMS_TO_SHOW = 100;

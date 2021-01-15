@@ -1,11 +1,20 @@
 import { ReadonlyDate, ReadonlyRecord } from 'readonly-types';
 
-export type Album = {
-  readonly artist: {
-    readonly name: string;
-  };
+type NameWrapper = {
   readonly name: string;
+};
+
+export type Artist = NameWrapper;
+
+export type Album = NameWrapper & {
+  readonly artist: Artist;
   readonly playcount: number;
+  readonly tags: {
+    readonly tag: NameWrapper[];
+  };
+  readonly wiki: {
+    readonly published: string;
+  };
 };
 
 export type Payload = {
@@ -15,10 +24,9 @@ export type Payload = {
 
 export type Track = ReadonlyRecord<string, never>;
 
-export type AlbumInfo = {
+export type AlbumInfo = NameWrapper & {
   readonly artist: string;
   readonly listeners: string;
-  readonly name: string;
   readonly playcount: string;
   readonly tracks: readonly Track[];
 };
@@ -27,9 +35,8 @@ export type AlbumGetInfoPayload = Payload & {
   readonly album?: AlbumInfo;
 };
 
-export type Tag = {
+export type Tag = NameWrapper & {
   readonly count: number;
-  readonly name: string;
 };
 
 export type AlbumGetTopTagsPayload = Payload & {
@@ -40,10 +47,6 @@ export type AlbumGetTopTagsPayload = Payload & {
     };
     readonly tag: readonly Tag[];
   };
-};
-
-export type Artist = {
-  readonly name: string;
 };
 
 export type ArtistGetTopAlbumsPayload = Payload & {

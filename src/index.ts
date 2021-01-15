@@ -1,19 +1,18 @@
-import forEach from 'lodash/forEach';
-import take from 'lodash/take';
+import writeAlbumsToCsv from './albums-to-csv';
 
 import { getTagWeightedAlbums } from './api/tag';
-import logger from './logger';
 import { close } from './mongodb';
 
 async function main(): Promise<void> {
   try {
-    const tagName = 'hardcore';
+    const tagName = 'black metal';
     const albums = await getTagWeightedAlbums(tagName);
-    forEach(take(albums, 100), (albumItem) => {
-      logger.info(
-        `${albumItem.artist.name} - ${albumItem.name}: ${albumItem.weight}`,
-      );
-    });
+    await writeAlbumsToCsv(tagName, albums);
+    // forEach(take(albums, NUMBER_OF_ALBUMS_TO_SHOW), (albumItem) => {
+    //   logger.info(
+    //     `${albumItem.artist.name} - ${albumItem.name}: ${albumItem.weight}`,
+    //   );
+    // });
   } finally {
     await close();
   }
