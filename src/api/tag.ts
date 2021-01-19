@@ -7,14 +7,13 @@ import toNumber from 'lodash/toNumber';
 import toString from 'lodash/toString';
 import uniqBy from 'lodash/uniqBy';
 
-import { MAX_PAGE } from '../constants';
 import acquire from '../lib/acquire';
 import assure from '../lib/assure';
 import sequentialAsyncMap from '../lib/sequential-async-map';
 import logger from '../logger';
-import { Album, Artist, TagGetTopArtistsPayload, Weighted } from '../types';
-
-import { getArtistWeightedAlbums } from './artist';
+import parameters from '../parameters';
+import { AlbumInfo, Artist, TagGetTopArtistsPayload, Weighted } from '../types';
+import getArtistWeightedAlbums from './get-artist-weighted-albums';
 
 const tag = {
   async getTopArtists(tagName: string): Promise<readonly Artist[]> {
@@ -22,7 +21,7 @@ const tag = {
     assure('album.getInfo', { tagName });
     let currentPage = 1;
     let topArtists = [] as readonly Artist[];
-    while (currentPage <= MAX_PAGE) {
+    while (currentPage <= parameters.maxPage) {
       const cachePath = join(
         ['tag.getTopArtists', tagName, toString(currentPage)],
         '/',
@@ -41,7 +40,7 @@ const tag = {
           }
           return join(
             [
-              'album.getTopTags',
+              'tag.getTopArtists',
               payload.topartists['@attr'].tag,
               payload.topartists['@attr'].page,
             ],
@@ -69,17 +68,20 @@ export default tag;
 
 export async function getTagWeightedAlbums(
   tagName: string,
-): Promise<readonly Weighted<Album>[]> {
+): Promise<readonly Weighted<AlbumInfo>[]> {
   logger.debug(`getTagWeightedAlbums(${tagName})`);
   const artists = await tag.getTopArtists(tagName);
   return orderBy(
-    reject(
-      flatten(
-        await sequentialAsyncMap(artists, (artistItem) =>
-          getArtistWeightedAlbums(artistItem, tagName),
+    uniqBy(
+      reject(
+        flatten(
+          await sequentialAsyncMap(artists, (artistItem) =>
+            getArtistWeightedAlbums(artistItem, tagName),
+          ),
         ),
+        ['weight', 0],
       ),
-      ['weight', 0],
+      (album) => `${album.artist} - ${album.name}`,
     ),
     ['weight'],
     ['desc'],

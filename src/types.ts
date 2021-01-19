@@ -53,13 +53,27 @@ export type ArtistGetTopAlbumsPayload = Payload & {
   readonly topalbums?: {
     '@attr': {
       artist: string;
+      totalPages: string;
     };
     readonly album: readonly Album[];
   };
 };
 
+export type ArtistGetTopTagsPayload = Payload & {
+  readonly toptags?: {
+    '@attr': {
+      artist: string;
+    };
+    readonly tag: readonly Tag[];
+  };
+};
+
 export type Cached<T> = T & {
   readonly updatedAt: ReadonlyDate;
+};
+
+export type CacheItem<T> = {
+  data: Cached<T>;
 };
 
 export type DefaultParameters = {
@@ -73,6 +87,7 @@ export type LastfmApiMethod =
   | 'album.getInfo'
   | 'album.getTopTags'
   | 'artist.getTopAlbums'
+  | 'artist.getTopTags'
   | 'tag.getTopArtists';
 
 export type Parameters = {

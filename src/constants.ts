@@ -32,8 +32,10 @@ export const LASTFM_API_ERRORS = {
   TEMPORARY: 16,
 };
 
-export const MAX_CACHE_AGE_IN_DAYS = 7;
-export const MAX_PAGE = 1; // LastFM API provides 200 max
+export const MAX_CACHE_AGE_IN_DAYS_BY_DEFAULT = 7;
+export const MAX_CACHE_AGE_IN_DAYS_FOR_ALBUM = 180;
+export const MAX_CACHE_AGE_IN_DAYS_FOR_ARTIST = 31;
+export const MAX_CACHE_AGE_IN_DAYS_FOR_TAG = 7;
 export const MAX_RETRIES = 5;
 export const MONGO_DB_URL = 'mongodb://localhost:27017';
 export const MONGO_DB_NAME = 'lastfm';

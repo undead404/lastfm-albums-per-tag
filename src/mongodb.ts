@@ -1,15 +1,38 @@
-import { differenceInDays, parseISO } from 'date-fns';
 import head from 'lodash/head';
+import isDate from 'lodash/isDate';
+import isString from 'lodash/isString';
+import split from 'lodash/split';
 import { Collection, MongoClient, UpdateWriteOpResult } from 'mongodb';
-import { Cached } from './types';
+
+import { differenceInDays, parseISO } from 'date-fns';
+import { Cached, CacheItem } from './types';
 import {
-  MAX_CACHE_AGE_IN_DAYS,
+  MAX_CACHE_AGE_IN_DAYS_BY_DEFAULT,
+  MAX_CACHE_AGE_IN_DAYS_FOR_TAG,
+  MAX_CACHE_AGE_IN_DAYS_FOR_ALBUM,
+  MAX_CACHE_AGE_IN_DAYS_FOR_ARTIST,
   MONGO_DB_NAME,
   MONGO_DB_URL,
 } from './constants';
-import { isEmpty } from 'lodash';
 
-const client = new MongoClient(MONGO_DB_URL);
+const client = new MongoClient(MONGO_DB_URL, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+function getMaxCacheAgeInDays(cachePath: string): number {
+  const entityName = head(split(cachePath, '.'));
+  switch (entityName) {
+    case 'tag':
+      return MAX_CACHE_AGE_IN_DAYS_FOR_TAG;
+    case 'album':
+      return MAX_CACHE_AGE_IN_DAYS_FOR_ALBUM;
+    case 'artist':
+      return MAX_CACHE_AGE_IN_DAYS_FOR_ARTIST;
+    default:
+      return MAX_CACHE_AGE_IN_DAYS_BY_DEFAULT;
+  }
+}
 
 const connection = (() => {
   let collection: Collection | undefined;
@@ -31,25 +54,29 @@ const connection = (() => {
   };
 })();
 
-export function close(): Promise<void> {
-  return connection.close();
-}
+export default connection;
 
-function validateCache(cacheItem: any) {
-  if(!cacheItem) {
+function validateCache<T1, T2 extends CacheItem<T1>>(
+  cachePath: string,
+  cacheItem: T2,
+) {
+  if (!cacheItem) {
     return false;
   }
-  if(!cacheItem.data?.updatedAt) {
+  if (!cacheItem.data?.updatedAt) {
+    return false;
+  }
+  let updatedAt: Date;
+  if (isDate(cacheItem.data.updatedAt)) {
+    updatedAt = cacheItem.data.updatedAt;
+  } else if (isString(cacheItem.data.updatedAt)) {
+    updatedAt = parseISO(cacheItem.data.updatedAt);
+  } else {
     return false;
   }
   if (
-    cacheItem.data.updatedAt &&
-    differenceInDays(parseISO(cacheItem.data.updatedAt), new Date()) >
-      MAX_CACHE_AGE_IN_DAYS
+    differenceInDays(updatedAt, new Date()) > getMaxCacheAgeInDays(cachePath)
   ) {
-    return false;
-  }
-  if( cacheItem.album && (isEmpty(cacheItem.album.tags?.tag) || !(cacheItem.album.wiki.published))) {
     return false;
   }
   return true;
@@ -61,7 +88,7 @@ export async function getCache<T>(
   const collection = await connection.getCollection();
   // eslint-disable-next-line unicorn/no-fn-reference-in-iterator
   const cacheItem = head(await collection.find({ cachePath }).toArray());
-  if(!validateCache(cacheItem)) {
+  if (!validateCache(cachePath, cacheItem)) {
     return null;
   }
   // logger.debug(cacheItem);

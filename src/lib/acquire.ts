@@ -21,7 +21,7 @@ async function acquireFromApi<T extends Payload>(
   })}`;
   logger.warn(url);
   try {
-    const response = await axios.get<T>(url);
+    const response = await axios.get<T>(url, { timeout: 2000 });
     if (response.data.error || isEmpty(response.data)) {
       if (response.data.error === LASTFM_API_ERRORS.INVALID_PARAMETERS) {
         return null;
