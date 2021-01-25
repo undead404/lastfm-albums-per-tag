@@ -1,5 +1,6 @@
 import find from 'lodash/find';
 import toLower from 'lodash/toLower';
+import assure from '../lib/assure';
 
 import logger from '../logger';
 import { Tag } from '../types';
@@ -11,6 +12,7 @@ export default async function getAlbumTagCount(
   tagName: string,
 ): Promise<number> {
   logger.debug(`getAlbumTagCount(${albumName}, ${artistName}, ${tagName})`);
+  assure('getAlbumTagCount', { albumName, artistName, tagName });
   const albumTags = await getAlbumTopTags(albumName, artistName);
   const tagObject = find(
     albumTags,

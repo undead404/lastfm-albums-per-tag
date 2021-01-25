@@ -18,7 +18,7 @@ export default async function getArtistWeightedAlbums(
   }
   return sequentialAsyncMap(albums, async (albumInfo) => {
     const weight =
-      (await getAlbumWeight(albumInfo)) *
+      getAlbumWeight(albumInfo) *
       (await getAlbumTagCount(albumInfo.name, albumInfo.artist, tagName));
     return {
       ...albumInfo,

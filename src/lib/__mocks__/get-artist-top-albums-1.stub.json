@@ -1,0 +1,71 @@
+{
+  "topalbums": {
+    "album": [
+      {
+        "name": "Bonded by Blood",
+        "playcount": 2254917,
+        "mbid": "dd9b4989-bd9d-4ce6-8b3d-026c3475c376",
+        "url": "https://www.last.fm/music/Exodus/Bonded+by+Blood",
+        "artist": {
+          "name": "Exodus",
+          "mbid": "eddbc107-c3cd-446f-b6ad-b7ed277bf401",
+          "url": "https://www.last.fm/music/Exodus"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de0d81772a8e02be0017eb91ed756c7b.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de0d81772a8e02be0017eb91ed756c7b.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de0d81772a8e02be0017eb91ed756c7b.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de0d81772a8e02be0017eb91ed756c7b.png",
+            "size": "extralarge"
+          }
+        ]
+      },
+      {
+        "name": "Tempo of the Damned",
+        "playcount": 1644980,
+        "mbid": "0bb022ba-8e23-4b12-81f7-281112de622f",
+        "url": "https://www.last.fm/music/Exodus/Tempo+of+the+Damned",
+        "artist": {
+          "name": "Exodus",
+          "mbid": "eddbc107-c3cd-446f-b6ad-b7ed277bf401",
+          "url": "https://www.last.fm/music/Exodus"
+        },
+        "image": [
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be6ecfee9521444f97a58a9e585efc44.png",
+            "size": "small"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be6ecfee9521444f97a58a9e585efc44.png",
+            "size": "medium"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be6ecfee9521444f97a58a9e585efc44.png",
+            "size": "large"
+          },
+          {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be6ecfee9521444f97a58a9e585efc44.png",
+            "size": "extralarge"
+          }
+        ]
+      }
+    ],
+    "@attr": {
+      "artist": "Exodus",
+      "page": "1",
+      "perPage": "2",
+      "totalPages": "2",
+      "total": "3"
+    }
+  }
+}

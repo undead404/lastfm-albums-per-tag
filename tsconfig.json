@@ -1,7 +1,9 @@
 {
     "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
         "esModuleInterop": true,
         "noUncheckedIndexedAccess": true,
+        "resolveJsonModule": true,
         "strict": true
     },
     "exclude": [],

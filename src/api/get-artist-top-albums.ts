@@ -1,6 +1,7 @@
 import compact from 'lodash/compact';
+import isEmpty from 'lodash/isEmpty';
 import join from 'lodash/join';
-// import toNumber from 'lodash/toNumber';
+import reject from 'lodash/reject';
 import uniqBy from 'lodash/uniqBy';
 
 import acquire from '../lib/acquire';
@@ -13,15 +14,14 @@ import getAlbumInfo from './get-album-info';
 // const DEFAULT_PAGE_LIMIT = 200;
 const DEFAULT_PAGE_LIMIT = 4;
 
-export default async function getTopAlbums(
+export default async function getArtistTopAlbums(
   artistName: string,
 ): Promise<readonly AlbumInfo[]> {
   logger.debug(`artist.getTopAlbums(${artistName})`);
   assure('artist.getTopAlbums', { artistName });
   let currentPage = 1;
   let albums: AlbumInfo[] = [];
-  let pageLimit;
-  while (currentPage < (pageLimit || DEFAULT_PAGE_LIMIT)) {
+  while (currentPage <= DEFAULT_PAGE_LIMIT) {
     const cachePath = join(
       ['artist.getTopAlbums', artistName, currentPage],
       '/',
@@ -50,19 +50,13 @@ export default async function getTopAlbums(
         );
       })(cachePath, currentPage),
     );
-    if (!data?.topalbums?.album) {
+    const currentAlbums = reject(data?.topalbums?.album, ['name', '(null)']);
+    if (isEmpty(currentAlbums)) {
       break;
     }
-    // if (!pageLimit) {
-    //   pageLimit = toNumber(data.topalbums['@attr'].totalPages);
-    //   if (pageLimit > DEFAULT_PAGE_LIMIT) {
-    //     pageLimit = DEFAULT_PAGE_LIMIT;
-    //   }
-    // }
     // eslint-disable-next-line no-await-in-loop
-    const albumInfos = await sequentialAsyncMap(
-      data?.topalbums?.album,
-      (albumItem) => getAlbumInfo(albumItem.name, albumItem.artist.name),
+    const albumInfos = await sequentialAsyncMap(currentAlbums, (albumItem) =>
+      getAlbumInfo(albumItem.name, albumItem.artist.name),
     );
     albums = [...albums, ...compact(uniqBy(albumInfos, 'name'))];
     currentPage += 1;

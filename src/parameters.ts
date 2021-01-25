@@ -19,4 +19,10 @@ export default yargs(process.argv.slice(2))
     demandOption: true,
     describe: 'tag to scrape',
     type: 'string',
+  })
+  .option('logLevel', {
+    alias: 'll',
+    default: 'info',
+    describe: 'log level',
+    type: 'string',
   }).argv;

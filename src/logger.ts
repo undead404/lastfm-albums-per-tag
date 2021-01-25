@@ -1,4 +1,5 @@
 import { configure } from 'log4js';
+import parameters from './parameters';
 
 const environment =
   process.env.NODE_ENV === undefined ? 'development' : process.env.NODE_ENV;
@@ -20,7 +21,9 @@ const log4js = configure({
     default: {
       appenders:
         environment === 'production' ? ['toConsole'] : ['toConsole', 'toFile'],
-      level: environment === 'production' ? 'info' : 'debug',
+      level:
+        parameters.logLevel ||
+        (environment === 'production' ? 'info' : 'debug'),
     },
   },
 });

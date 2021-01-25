@@ -13,12 +13,12 @@ module.exports = {
     'plugin:lodash/recommended',
     'plugin:eslint-comments/recommended',
     'plugin:prettier/recommended',
-    'plugin:jest/recommended',
+    'plugin:jest/all',
     'prettier/@typescript-eslint',
   ],
   overrides: [
     {
-      files: ['scripts/*'],
+      files: ['./*'],
       rules: {
         'import/no-extraneous-dependencies': [
           'error',
@@ -26,6 +26,7 @@ module.exports = {
             devDependencies: true,
           },
         ],
+        'node/no-extraneous-import': 'off',
         'node/no-unpublished-import': 'off',
       },
     },
@@ -33,7 +34,18 @@ module.exports = {
       env: {
         'jest/globals': true,
       },
-      files: ['**/*.test.js'],
+      files: ['**/*.test.ts'],
+      rules: {
+        'lodash/prefer-constant': 'off',
+        'no-magic-numbers': 'off',
+      },
+    },
+    {
+      files: ['**/__mocks__/**'],
+      rules: {
+        'import/prefer-default-export': 'off',
+        'no-magic-numbers': 'off',
+      },
     },
   ],
   parser: '@typescript-eslint/parser',
@@ -93,6 +105,11 @@ module.exports = {
         ignoreDefaultValues: true,
       },
     ],
+    'no-console': 'error',
+    'jest/prefer-expect-assertions': 'off',
+    'jest/no-conditional-expect': 'off',
+    'jest/expect-expect': 'off',
+    'jest/prefer-strict-equal': 'off',
   },
   settings: {
     'import/parsers': {

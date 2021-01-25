@@ -9,6 +9,8 @@ import { Cached, Parameters, Payload } from '../types';
 
 import sleep from './sleep';
 
+logger.debug('getCache', getCache);
+
 async function acquireFromApi<T extends Payload>(
   parameters: Parameters,
   cachePath: string,
@@ -22,8 +24,11 @@ async function acquireFromApi<T extends Payload>(
   logger.warn(url);
   try {
     const response = await axios.get<T>(url, { timeout: 2000 });
-    if (response.data.error || isEmpty(response.data)) {
+    if (isEmpty(response?.data)) {
+      throw new Error(response?.data?.message || 'Empty response');
+    } else if (response.data.error || isEmpty(response.data)) {
       if (response.data.error === LASTFM_API_ERRORS.INVALID_PARAMETERS) {
+        logger.warn(response.data.message);
         return null;
       }
       throw new Error(response.data.message || 'Empty response');
@@ -42,7 +47,7 @@ async function acquireFromApi<T extends Payload>(
     }
     logger.warn(`retry #${retry + 1}`);
     // eslint-disable-next-line no-magic-numbers
-    await sleep(2 ** retry * 1000);
+    if (process.env.NODE_ENV !== 'test') await sleep(2 ** retry * 1000);
     return acquireFromApi<T>(
       parameters,
       cachePath,

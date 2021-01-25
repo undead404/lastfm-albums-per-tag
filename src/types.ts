@@ -1,4 +1,4 @@
-import { ReadonlyDate, ReadonlyRecord } from 'readonly-types';
+import { ReadonlyDate } from 'readonly-types';
 
 type NameWrapper = {
   readonly name: string;
@@ -22,13 +22,17 @@ export type Payload = {
   readonly message?: string;
 };
 
-export type Track = ReadonlyRecord<string, never>;
+export type Track = {
+  duration: string;
+};
 
 export type AlbumInfo = NameWrapper & {
   readonly artist: string;
   readonly listeners: string;
   readonly playcount: string;
-  readonly tracks: readonly Track[];
+  readonly tracks: {
+    track: readonly Track[];
+  };
 };
 
 export type AlbumGetInfoPayload = Payload & {
